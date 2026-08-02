@@ -1,4 +1,307 @@
 {
   "version": 1,
-  "stories": []
+  "stories": [
+    {
+      "event_id": "eu-ai-act-article-50-transparency-enforcement",
+      "reported_date": "2026-08-02",
+      "event_date": "2026-08-02",
+      "category": "AI",
+      "entities": [
+        "European Commission",
+        "EU AI Office",
+        "national market surveillance authorities"
+      ],
+      "event_type": "regulation_effective",
+      "canonical_summary": "The EU AI Act's Article 50 transparency obligations became applicable and the Commission's AI Office plus national market surveillance authorities began enforcing the Act, requiring chatbot disclosure, deepfake labelling and machine-readable provenance marking, with fines up to EUR 15 million or 3 percent of worldwide turnover; systems already on the market before this date have until 2 December 2026 for the machine-readable marking requirement.",
+      "source_url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
+      "material_update_of": null
+    },
+    {
+      "event_id": "california-ai-transparency-act-operative",
+      "reported_date": "2026-08-02",
+      "event_date": "2026-08-02",
+      "category": "AI",
+      "entities": [
+        "State of California",
+        "large generative AI providers"
+      ],
+      "event_type": "regulation_effective",
+      "canonical_summary": "California's AI Transparency Act (SB 942, as amended by AB 853, which moved the operative date from 1 January 2026 to 2 August 2026) became operative, requiring generative AI providers with more than one million monthly California users to publish a free public AI-detection tool and embed provenance disclosures in generated images, video and audio, with penalties of USD 5,000 per violation per day.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB853",
+      "material_update_of": null
+    },
+    {
+      "event_id": "xai-grok-imagine-video-1-5-references",
+      "reported_date": "2026-08-02",
+      "event_date": "2026-08-01",
+      "category": "AI",
+      "entities": [
+        "xAI"
+      ],
+      "event_type": "model_update",
+      "canonical_summary": "xAI expanded Grok Imagine Video 1.5 with support for up to seven image references, voice references, prompt-only text-to-video and native 1080p output, available on grok.com, iOS, Android and the xAI API; xAI's claim that the model leads an image-to-video comparison leaderboard ahead of Google Veo is vendor-sourced.",
+      "source_url": "https://www.testingcatalog.com/xai-adds-character-references-and-1080p-to-imagine-video-1-5/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-eo-14409-frontier-framework-deadline-lapsed",
+      "reported_date": "2026-08-02",
+      "event_date": "2026-08-01",
+      "category": "AI",
+      "entities": [
+        "White House OSTP",
+        "NIST",
+        "CISA",
+        "NSA",
+        "US Treasury"
+      ],
+      "event_type": "regulation_nondelivery",
+      "canonical_summary": "The 60-day deadline under Executive Order 14409 (signed 2 June 2026) passed on 1 August 2026 without publication of the voluntary frontier-AI disclosure framework, the classified benchmarking process or the federal cyber workforce component; reporting after the deadline found no Federal Register notices, no NIST or CISA publications and no OSTP statement. Single-outlet sourcing of a reported absence rather than an affirmative announcement.",
+      "source_url": "https://finance.yahoo.com/technology/ai/articles/white-house-ai-framework-deadline-002011007.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "xai-minnesota-nudify-tro-denied",
+      "reported_date": "2026-08-02",
+      "event_date": "2026-08-01",
+      "category": "AI",
+      "entities": [
+        "xAI",
+        "State of Minnesota",
+        "US District Court for the District of Minnesota"
+      ],
+      "event_type": "litigation_ruling",
+      "canonical_summary": "A US federal judge denied xAI's motion for a temporary restraining order against Minnesota's ban on nudify applications, allowing the first US law of its kind to take effect; the court cited xAI's filing on 29 July, nearly three months after the law was signed, as evidence harm was not imminent. This is a denial of emergency relief only, not a merits decision, and xAI's constitutional challenge continues.",
+      "source_url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "apple-bug-bounty-submission-cap-ai-reports",
+      "reported_date": "2026-08-02",
+      "event_date": "2026-08-02",
+      "category": "AI",
+      "entities": [
+        "Apple",
+        "Bynario"
+      ],
+      "event_type": "process_change",
+      "canonical_summary": "The Financial Times reported that Apple imposed a submission cap and 30-day cool-off period on security bug reports because its bug bounty inbox was flooded with AI-generated low-quality reports, and that an Italian startup consequently could not submit a genuine macOS full-control flaw it valued at USD 100,000-200,000 (the researcher's own estimate); Apple's countermeasures reportedly include raising the top bounty above USD 5 million and adding proof requirements. FT original paywalled and not directly verified.",
+      "source_url": "https://the-decoder.com/a-real-macos-flaw-worth-200k-went-unreported-because-apples-bug-bounty-inbox-was-full-of-ai-slop/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "trump-cancels-iran-strike-hormuz-claim",
+      "reported_date": "2026-08-02",
+      "event_date": "2026-08-01",
+      "category": "US Stock Market - General News",
+      "entities": [
+        "White House",
+        "Donald Trump",
+        "Iran",
+        "Oman"
+      ],
+      "event_type": "geopolitical_market_driver",
+      "canonical_summary": "President Trump announced late on 1 August that he had called off a planned US strike on Iran, saying regional states had agreed to the perimeters of a deal including an immediate and complete opening of the closed Strait of Hormuz; on 2 August Iranian officials publicly disputed that any Hormuz agreement exists. The US announcement is confirmed, the underlying deal is not. Context: Friday 31 July settlements were Brent USD 90.12 (+1.22 percent) and WTI USD 84.67 (+1.29 percent), with the 10-year Treasury at 4.745 percent.",
+      "source_url": "https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending",
+      "material_update_of": null
+    },
+    {
+      "event_id": "opec-plus-september-quota-increase-q4-pause",
+      "reported_date": "2026-08-02",
+      "event_date": "2026-08-02",
+      "category": "US Stock Market - General News",
+      "entities": [
+        "OPEC+",
+        "Saudi Arabia",
+        "Russia",
+        "Iraq",
+        "Kuwait",
+        "Kazakhstan",
+        "Algeria",
+        "Oman"
+      ],
+      "event_type": "commodity_policy",
+      "canonical_summary": "On a Sunday video call OPEC+ core producers agreed to raise September crude output targets by a combined 188,000 barrels per day, completing the unwind of the 2023 voluntary cuts, and then to pause further monthly increases from the fourth quarter, leaving roughly 2 million barrels per day of older cuts in place; next meeting 6 September 2026. Per-country September increases: Saudi Arabia and Russia +62,000 bpd each, Iraq +26,000, Kuwait +16,000, Kazakhstan +10,000, Algeria +6,000, Oman +5,000.",
+      "source_url": "https://www.thenationalnews.com/business/energy/2026/08/02/opec-agrees-output-rise-in-september-but-pauses-increase-from-fourth-quarter/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-superdavka-transition-existing-claimants",
+      "reported_date": "2026-08-02",
+      "event_date": "2026-08-01",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "MPSV",
+        "Urad prace CR"
+      ],
+      "event_type": "law_effective",
+      "canonical_summary": "Czechia's consolidated social assistance benefit (superdavka) took effect for existing claimants on 1 August 2026, moving 238,481 households off the abolished housing benefit, living allowance and child allowance; ministry figures show about 36 percent gain at least CZK 500 per month while about 49 percent lose at least CZK 500 per month, and 304,727 applications had been approved as of 28 July. Further parameter changes (single-adult threshold from CZK 4,860 to 5,500, district-based housing cost calculation, wider vulnerable-household definition) are scheduled for October and November 2026 but not yet in force.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/na-superdavku-prechazi-od-srpna-238500-prijemcu-rusenych-davek/2857382",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-pension-savings-penalty-free-termination",
+      "reported_date": "2026-08-02",
+      "event_date": "2026-08-01",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Ministerstvo financi CR",
+        "Czech pension companies"
+      ],
+      "event_type": "law_effective",
+      "canonical_summary": "An amendment to the Czech Supplementary Pension Savings Act took effect on 1 August 2026, letting pensioners with contracts signed before 29 December 2023 close them without penalty regardless of the five-year minimum, and allowing about 16,000 people who already closed early and repaid state contributions to reclaim that money; applications must be made in writing to the pension company between 1 August 2026 and 1 February 2027, affecting a pool of roughly 200,000 pensioners at an estimated one-off budget cost of CZK 60 million.",
+      "source_url": "https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2026/seniori-mohou-ukoncit-penzijni-sporeni-bez-sankce-64732",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-lex-pzp-uninsured-vehicles",
+      "reported_date": "2026-08-02",
+      "event_date": "2026-08-01",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Ministerstvo vnutra SR",
+        "Slovenska kancelaria poistovatelov"
+      ],
+      "event_type": "law_effective",
+      "canonical_summary": "Slovakia's LEX PZP law took effect on 1 August 2026, starting a phased crackdown on vehicles without compulsory third-party liability insurance: notifications are mailed August-September to owners uninsured over 24 months with a grace period to 30 September, automated checking and fines of EUR 120-900 begin 1 October for vehicles uninsured more than 30 days, insurance is verified at technical and emissions inspections, and vehicles uninsured two years or more can be struck from the register.",
+      "source_url": "https://www.minv.sk/?tlacove-spravy=&sprava=lex-pzp-dlhodobo-nepoistene-vozidla-budu-vyradene-z-evidencie-zavedie-sa-objektivna-zodpovednost-za-povinne-zmluvne-poistenie",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-osetrovne-eligibility-widened",
+      "reported_date": "2026-08-02",
+      "event_date": "2026-08-01",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Socialna poistovna",
+        "MPSVR SR",
+        "eZdravie NCZI"
+      ],
+      "event_type": "law_effective",
+      "canonical_summary": "An amendment to Slovakia's Social Insurance Act took effect on 1 August 2026 (moved by Parliament from 1 July), widening eligibility for the osetrovne care allowance to those caring for a sick adoptive parent, the sick spouse of an adoptive parent or the sick spouse of a biological parent, and launching three eZdravie electronic services so a paediatrician no longer certifies a child care request; short-term allowance runs to 14 days and long-term to 90 days, with a transition period to 31 January 2027 before the electronic services become mandatory.",
+      "source_url": "https://www.socpoist.sk/news/zmena-2026-od-1-augusta-2026-bude-mat-narok-na-davku-osetrovne-sirsi-okruh-osob-zjednodusi-sa",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-electricity-distribution-rate-overpayment-study",
+      "reported_date": "2026-08-02",
+      "event_date": "2026-08-02",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "bezDodavatele",
+        "ERU",
+        "CEZ Distribuce",
+        "PREdistribuce",
+        "EG.D"
+      ],
+      "event_type": "study_publication",
+      "canonical_summary": "A study published on 2 August 2026 found more than half of Czech households are on an unsuitable electricity distribution rate and collectively overpay more than CZK 1.3 billion a year, with an average available saving of CZK 728 a year (CZK 833 in the CEZ Distribuce area) from a free rate change; 68 percent of Prague-area households, 51.5 percent in the EG.D area and 46.3 percent in the CEZ area would benefit. Produced by a commercial energy-comparison company from a sample of 1,132 consumption points, extrapolated to about 1.9 million points.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/studie-cesi-kvuli-spatne-distribucni-sazbe-preplaci-pres-miliardu-za-elektrinu/2857619",
+      "material_update_of": null
+    },
+    {
+      "event_id": "safe-h2-2026-work-conference-forex-policy",
+      "reported_date": "2026-08-02",
+      "event_date": "2026-08-02",
+      "category": "China",
+      "entities": [
+        "State Administration of Foreign Exchange",
+        "PBOC"
+      ],
+      "event_type": "policy_direction",
+      "canonical_summary": "China's State Administration of Foreign Exchange held its second-half 2026 work conference and pledged to roll out cross-border trade payment facilitation policies nationwide, extend the centralised cross-border fund pooling scheme for multinationals nationwide, issue new regulations on domestic foreign-exchange loans, and simultaneously strengthen monitoring of cross-border capital flows and macro-prudential management. No individual remittance quota change was announced; these are stated intentions rather than published rules, with no figures or effective dates.",
+      "source_url": "https://english.news.cn/20260802/7311bc21f81d41639111857964163735/c.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "mofcom-response-uflpa-43-entities",
+      "reported_date": "2026-08-02",
+      "event_date": "2026-08-01",
+      "category": "China",
+      "entities": [
+        "MOFCOM",
+        "US Department of Homeland Security",
+        "He Lifeng"
+      ],
+      "event_type": "trade_action",
+      "canonical_summary": "A MOFCOM spokesperson said on 1 August 2026 that the US addition of 43 Chinese entities to the UFLPA Entity List is economic coercion and completely groundless, and vowed necessary measures to protect Chinese firms; the US listing was announced 31 July and takes effect 3 August, expanding the list from 144 to 187 entities across aluminium, apparel, copper, cotton, tomatoes, pharmaceuticals, metals, food and lithium. No specific Chinese countermeasure was named.",
+      "source_url": "https://www.globaltimes.cn/page/202608/1367301.shtml",
+      "material_update_of": null
+    },
+    {
+      "event_id": "pboc-h2-2026-work-conference-monetary-policy",
+      "reported_date": "2026-08-02",
+      "event_date": "2026-08-02",
+      "category": "China",
+      "entities": [
+        "People's Bank of China",
+        "Pan Gongsheng"
+      ],
+      "event_type": "policy_direction",
+      "canonical_summary": "The People's Bank of China held its second-half 2026 work conference and committed to a moderately loose monetary policy with intensified counter-cyclical adjustment, ample liquidity and expanded bond-market risk-sharing tools for technology and private firms, following Q2 GDP growth of 4.3 percent, the slowest in more than three years and below the 4.5-5.0 percent full-year target range. No numerical targets, rate moves or dates were announced.",
+      "source_url": "https://english.news.cn/20260802/86ded05a83e94c24afeddbeee4d579de/c.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-huangyan-dao-nature-reserve-measures",
+      "reported_date": "2026-08-02",
+      "event_date": "2026-08-01",
+      "category": "China",
+      "entities": [
+        "Ministry of Natural Resources",
+        "National Forestry and Grassland Administration",
+        "China Coast Guard",
+        "Philippines"
+      ],
+      "event_type": "regulation_published",
+      "canonical_summary": "China jointly issued management measures on 1 August 2026 for the Huangyan Dao (Scarborough Shoal) National Nature Reserve, prohibiting fishing, mining and the harvesting of corals, coral reefs and giant clams without approval and establishing a routine patrol and enforcement system, converting a contested sovereignty claim into an enforceable permitting regime backed by coast guard patrols amid consecutive military and coast guard exercises. The English text stated no separate effective date or penalty schedule.",
+      "source_url": "https://english.news.cn/20260801/b0ea8ece30a245719aa0217843bd5025/c.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-level-four-flood-response-beijing-hebei",
+      "reported_date": "2026-08-02",
+      "event_date": "2026-08-02",
+      "category": "China",
+      "entities": [
+        "National Flood Control and Drought Relief Headquarters",
+        "Ministry of Emergency Management",
+        "Beijing",
+        "Hebei",
+        "Chongqing"
+      ],
+      "event_type": "natural_disaster_response",
+      "canonical_summary": "China activated a Level IV flood control emergency response for Beijing and Hebei on 2 August 2026, with heavy to torrential rain forecast for western and northern Beijing and northern Hebei through Tuesday and for seven Chongqing districts with totals up to 200 mm and hourly rates up to 90 mm; Level IV is the lowest of four tiers. Forecasters warned a developing El Nino could become one of the strongest in 150 years, and the national disaster prevention commission decided the same day to oversee the investigation into the 26 July Weiyuan County, Gansu flash flood that killed 25 and injured 23.",
+      "source_url": "https://www.globaltimes.cn/page/202608/1367357.shtml",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-cdc-covid-positivity-july-week-report",
+      "reported_date": "2026-08-02",
+      "event_date": "2026-08-01",
+      "category": "China",
+      "entities": [
+        "China CDC"
+      ],
+      "event_type": "public_health_data",
+      "canonical_summary": "China CDC reported on 1 August 2026 that the COVID-19 positivity rate among influenza-like-illness cases at national sentinel hospitals reached 20.3 percent for the week beginning 20 July, up four percentage points week-on-week and first among all monitored respiratory diseases, with southern provinces harder hit and the 15-59 age group most affected; the agency said no variant posing a significant public-health risk has been detected, described the rise as a normal periodic fluctuation, and announced no new control measures or travel restrictions.",
+      "source_url": "https://www.chinadaily.com.cn/a/202608/01/WS6a6d8b62a310986e2b468837.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "lhaaso-cygnus-x3-pev-cosmic-ray-accelerator",
+      "reported_date": "2026-08-02",
+      "event_date": "2026-08-02",
+      "category": "China",
+      "entities": [
+        "LHAASO",
+        "Institute of High Energy Physics",
+        "Chinese Academy of Sciences"
+      ],
+      "event_type": "science_result",
+      "canonical_summary": "Chinese researchers using the LHAASO observatory reported on 2 August 2026 that the binary system Cygnus X-3 accelerates cosmic-ray particles to at least 30 PeV, about 30 times the previously assumed ceiling for Milky Way accelerators, and detected a 4.8-hour periodicity in its ultra-high-energy gamma-ray signal constraining the acceleration region to roughly three solar radii; published in National Science Review. The 2 August date is the announcement date and the exact journal publication date was not stated.",
+      "source_url": "https://english.news.cn/20260802/c55201be9424413495510f84fe1dc6a9/c.html",
+      "material_update_of": null
+    }
+  ]
 }
