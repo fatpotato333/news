@@ -32,8 +32,11 @@ jobs:
       TZ: Europe/Prague
 
     steps:
-      - name: Check out repository
+      - name: Check out podcast branch
         uses: actions/checkout@v4
+        with:
+          ref: claude/podcast-state
+          fetch-depth: 0
 
       - name: Configure Python
         uses: actions/setup-python@v5
@@ -47,11 +50,22 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y ffmpeg
 
-      - name: Generate MP3 and RSS feed
-        run: |
-          python scripts/generate_podcast.py
+      - name: Generate MP3 and seven-episode RSS feed
+        run: python scripts/generate_podcast.py
 
-      - name: Replace previous podcast release
+      - name: Create rolling podcast release if missing
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          if ! gh release view daily-podcast >/dev/null 2>&1; then
+            gh release create daily-podcast \
+              --target claude/podcast-state \
+              --title "Martin's Daily News" \
+              --notes "Rolling release containing the latest seven podcast episodes."
+          fi
+
+      - name: Upload today's MP3
         shell: bash
         run: |
           set -euo pipefail
@@ -61,7 +75,8 @@ jobs:
               -maxdepth 1 \
               -type f \
               -name 'daily-news-*.mp3' \
-              | head -n 1
+              | sort \
+              | tail -n 1
           )"
 
           if [[ -z "$EPISODE_FILE" ]]; then
@@ -69,17 +84,45 @@ jobs:
             exit 1
           fi
 
-          gh release delete daily-podcast \
-            --cleanup-tag \
-            --yes || true
+          gh release upload daily-podcast "$EPISODE_FILE" --clobber
 
-          sleep 2
+      - name: Keep only the latest seven MP3 assets
+        shell: bash
+        run: |
+          set -euo pipefail
 
-          gh release create daily-podcast \
-            "$EPISODE_FILE" \
-            --target "$GITHUB_SHA" \
-            --title "Martin's Daily News" \
-            --notes "Latest automatically generated daily news briefing."
+          mapfile -t ASSETS < <(
+            gh release view daily-podcast \
+              --json assets \
+              --jq '.assets[].name' \
+              | grep -E '^daily-news-[0-9]{4}-[0-9]{2}-[0-9]{2}\.mp3$' \
+              | sort -r
+          )
+
+          if (( ${#ASSETS[@]} > 7 )); then
+            for ASSET in "${ASSETS[@]:7}"; do
+              echo "Deleting old podcast asset: $ASSET"
+              gh release delete-asset daily-podcast "$ASSET" --yes
+            done
+          fi
+
+      - name: Persist RSS episode history
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          git config user.name "github-actions[bot]"
+          git config user.email \
+            "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add docs/feed.xml docs/podcast-history.json
+
+          if git diff --cached --quiet; then
+            echo "No podcast metadata changes to commit."
+          else
+            git commit -m "Update seven-day podcast feed"
+            git push origin HEAD:claude/podcast-state
+          fi
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
