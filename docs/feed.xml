@@ -5,25 +5,19 @@
   <channel>
     <title>Martin's Daily News</title>
     <link>https://fatpotato333.github.io/news/</link>
-    <description>Martin's daily intelligence briefing, narrated using an AI-generated voice.</description>
+    <description>Martin's concise daily intelligence briefing.</description>
     <language>en-us</language>
-    <atom:link
-      href="https://fatpotato333.github.io/news/feed.xml"
-      rel="self"
-      type="application/rss+xml" />
+    <atom:link href="https://fatpotato333.github.io/news/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Martin</itunes:author>
     <itunes:explicit>false</itunes:explicit>
 
     <item>
       <title>Daily News — 2026-08-02</title>
-      <description>Martin's daily intelligence briefing, narrated using an AI-generated voice.</description>
-      <pubDate>Sun, 02 Aug 2026 21:04:14 +0200</pubDate>
-      <guid isPermaLink="false">daily-news-20260802T210414+0200</guid>
-      <enclosure
-        url="https://github.com/fatpotato333/news/releases/download/daily-podcast/daily-news-2026-08-02.mp3"
-        length="268173"
-        type="audio/mpeg" />
-      <itunes:duration>00:00:22</itunes:duration>
+      <description>Concise daily news briefing for 2026-08-02.</description>
+      <pubDate>Sun, 02 Aug 2026 22:41:17 +0200</pubDate>
+      <guid isPermaLink="false">daily-news-2026-08-02</guid>
+      <enclosure url="https://github.com/fatpotato333/news/releases/download/daily-podcast/daily-news-2026-08-02.mp3" length="538029" type="audio/mpeg" />
+      <itunes:duration>00:00:45</itunes:duration>
     </item>
   </channel>
 </rss>
