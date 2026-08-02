@@ -1,0 +1,5 @@
+Good morning. This is a test of Martin's automated daily news podcast.
+
+The final version will contain current developments in artificial intelligence, quantum computing, the United States stock market, Czechia, Slovakia, PPF Group, CETIN, and China.
+
+This test confirms that GitHub Actions can convert narration into natural speech and publish it through an RSS feed.
