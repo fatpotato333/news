@@ -1,5 +1,7 @@
 from __future__ import annotations
 
+import html
+import json
 import os
 import re
 import subprocess
@@ -17,6 +19,7 @@ ROOT = Path(__file__).resolve().parents[1]
 INPUT_FILE = ROOT / "input" / "narration.txt"
 OUTPUT_DIR = ROOT / "output"
 DOCS_DIR = ROOT / "docs"
+HISTORY_FILE = DOCS_DIR / "podcast-history.json"
 
 REPOSITORY = "fatpotato333/news"
 SITE_URL = "https://fatpotato333.github.io/news"
@@ -25,9 +28,12 @@ RELEASE_TAG = "daily-podcast"
 MODEL = "gpt-4o-mini-tts"
 VOICE = os.getenv("OPENAI_TTS_VOICE", "cedar")
 
-# gpt-4o-mini-tts supports at most 2,000 input tokens per request.
-# Keeping chunks below 5,500 characters provides a practical safety margin.
-MAX_CHARS_PER_CHUNK = 5500
+MAX_CHARS_PER_CHUNK = 5_500
+MAX_NARRATION_WORDS = 1_200
+MAX_DURATION_SECONDS = 600
+TARGET_DURATION_SECONDS = 590
+MAX_SPEEDUP = 1.10
+EPISODES_TO_KEEP = 7
 
 
 def split_text(text: str) -> list[str]:
@@ -63,10 +69,138 @@ def split_text(text: str) -> list[str]:
     return chunks
 
 
+def probe_duration(path: Path) -> float:
+    return float(
+        subprocess.check_output(
+            [
+                "ffprobe",
+                "-v",
+                "error",
+                "-show_entries",
+                "format=duration",
+                "-of",
+                "default=noprint_wrappers=1:nokey=1",
+                str(path),
+            ],
+            text=True,
+        ).strip()
+    )
+
+
 def format_duration(total_seconds: int) -> str:
     hours, remainder = divmod(total_seconds, 3600)
     minutes, seconds = divmod(remainder, 60)
     return f"{hours:02d}:{minutes:02d}:{seconds:02d}"
+
+
+def enforce_duration_limit(episode_path: Path) -> int:
+    duration = probe_duration(episode_path)
+
+    if duration <= MAX_DURATION_SECONDS:
+        return int(round(duration))
+
+    speedup = duration / TARGET_DURATION_SECONDS
+
+    if speedup > MAX_SPEEDUP:
+        raise ValueError(
+            f"Generated episode is {duration:.1f} seconds long. "
+            "Shorten input/narration.txt; the allowed maximum is 600 seconds."
+        )
+
+    shortened_path = episode_path.with_name(f"{episode_path.stem}-shortened.mp3")
+
+    subprocess.run(
+        [
+            "ffmpeg",
+            "-hide_banner",
+            "-loglevel",
+            "error",
+            "-y",
+            "-i",
+            str(episode_path),
+            "-filter:a",
+            f"atempo={speedup:.6f}",
+            "-ac",
+            "1",
+            "-ar",
+            "24000",
+            "-codec:a",
+            "libmp3lame",
+            "-b:a",
+            "96k",
+            str(shortened_path),
+        ],
+        check=True,
+    )
+
+    shortened_path.replace(episode_path)
+    final_duration = probe_duration(episode_path)
+
+    if final_duration > MAX_DURATION_SECONDS:
+        raise ValueError(
+            f"Episode remains {final_duration:.1f} seconds after adjustment."
+        )
+
+    return int(round(final_duration))
+
+
+def load_history() -> list[dict]:
+    if not HISTORY_FILE.exists():
+        return []
+
+    try:
+        payload = json.loads(HISTORY_FILE.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return []
+
+    episodes = payload.get("episodes", [])
+    return episodes if isinstance(episodes, list) else []
+
+
+def build_feed(episodes: list[dict]) -> str:
+    description = "Martin's concise daily intelligence briefing."
+
+    items: list[str] = []
+
+    for episode in episodes:
+        title = html.escape(str(episode["title"]))
+        item_description = html.escape(str(episode["description"]))
+        pub_date = html.escape(str(episode["pub_date"]))
+        guid = html.escape(str(episode["guid"]))
+        asset_url = html.escape(str(episode["url"]), quote=True)
+        length = int(episode["length"])
+        duration = html.escape(str(episode["duration"]))
+
+        items.append(
+            f"""    <item>
+      <title>{title}</title>
+      <description>{item_description}</description>
+      <pubDate>{pub_date}</pubDate>
+      <guid isPermaLink="false">{guid}</guid>
+      <enclosure url="{asset_url}" length="{length}" type="audio/mpeg" />
+      <itunes:duration>{duration}</itunes:duration>
+    </item>"""
+        )
+
+    joined_items = "\n\n".join(items)
+
+    return f"""<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Martin's Daily News</title>
+    <link>{SITE_URL}/</link>
+    <description>{description}</description>
+    <language>en-us</language>
+    <atom:link href="{SITE_URL}/feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:author>Martin</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+
+{joined_items}
+  </channel>
+</rss>
+"""
 
 
 def main() -> None:
@@ -75,8 +209,16 @@ def main() -> None:
 
     narration = INPUT_FILE.read_text(encoding="utf-8").strip()
 
-    if len(narration) < 50:
+    if len(narration) < 100:
         raise ValueError("Narration is unexpectedly short.")
+
+    word_count = len(re.findall(r"\b[\w'-]+\b", narration))
+
+    if word_count > MAX_NARRATION_WORDS:
+        raise ValueError(
+            f"Narration has {word_count} words; maximum is "
+            f"{MAX_NARRATION_WORDS}."
+        )
 
     api_key = os.getenv("OPENAI_API_KEY")
 
@@ -88,8 +230,6 @@ def main() -> None:
 
     now = datetime.now(ZoneInfo("Europe/Prague"))
     date_slug = now.strftime("%Y-%m-%d")
-    timestamp = now.strftime("%Y%m%dT%H%M%S%z")
-
     episode_filename = f"daily-news-{date_slug}.mp3"
     episode_path = OUTPUT_DIR / episode_filename
 
@@ -108,11 +248,12 @@ def main() -> None:
                 voice=VOICE,
                 input=chunk,
                 instructions=(
-                    "Read as one calm, natural American-English news presenter. "
-                    "Use realistic pacing, clear pronunciation and subtle emphasis. "
-                    "Pause naturally between stories. Do not sound robotic, theatrical, "
-                    "promotional or excessively enthusiastic. "
-                    "Read only the supplied text."
+                    "Read only the supplied text. Use one calm, natural "
+                    "American-English newsreader voice at a brisk but comfortable "
+                    "pace of roughly 155 to 165 words per minute. Use clear "
+                    "pronunciation, minimal dramatic emphasis, and only brief "
+                    "pauses between stories. Do not add greetings, commentary, "
+                    "transitions, conclusions, or any words not present in the text."
                 ),
                 response_format="wav",
             ) as response:
@@ -122,10 +263,7 @@ def main() -> None:
 
         concat_file = temp_path / "segments.txt"
         concat_file.write_text(
-            "\n".join(
-                f"file '{segment.as_posix()}'"
-                for segment in segment_paths
-            ),
+            "\n".join(f"file '{segment.as_posix()}'" for segment in segment_paths),
             encoding="utf-8",
         )
 
@@ -155,76 +293,60 @@ def main() -> None:
             check=True,
         )
 
-    duration_seconds = int(
-        round(
-            float(
-                subprocess.check_output(
-                    [
-                        "ffprobe",
-                        "-v",
-                        "error",
-                        "-show_entries",
-                        "format=duration",
-                        "-of",
-                        "default=noprint_wrappers=1:nokey=1",
-                        str(episode_path),
-                    ],
-                    text=True,
-                ).strip()
-            )
-        )
-    )
+    duration_seconds = enforce_duration_limit(episode_path)
+    file_size = episode_path.stat().st_size
 
     title = f"Daily News — {date_slug}"
-
-    description = (
-        "Martin's daily intelligence briefing, narrated using "
-        "an AI-generated voice."
-    )
-
+    description = f"Concise daily news briefing for {date_slug}."
     asset_url = (
         f"https://github.com/{REPOSITORY}/releases/download/"
         f"{RELEASE_TAG}/{episode_filename}"
     )
 
-    file_size = episode_path.stat().st_size
+    current_episode = {
+        "date": date_slug,
+        "title": title,
+        "description": description,
+        "pub_date": format_datetime(now),
+        "guid": f"daily-news-{date_slug}",
+        "url": asset_url,
+        "length": file_size,
+        "duration": format_duration(duration_seconds),
+        "filename": episode_filename,
+    }
 
-    feed = f"""<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:atom="http://www.w3.org/2005/Atom"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-  <channel>
-    <title>Martin's Daily News</title>
-    <link>{SITE_URL}/</link>
-    <description>{description}</description>
-    <language>en-us</language>
-    <atom:link
-      href="{SITE_URL}/feed.xml"
-      rel="self"
-      type="application/rss+xml" />
-    <itunes:author>Martin</itunes:author>
-    <itunes:explicit>false</itunes:explicit>
+    history = [
+        episode
+        for episode in load_history()
+        if isinstance(episode, dict) and episode.get("date") != date_slug
+    ]
+    history.append(current_episode)
+    history.sort(key=lambda episode: str(episode.get("date", "")), reverse=True)
+    history = history[:EPISODES_TO_KEEP]
 
-    <item>
-      <title>{title}</title>
-      <description>{description}</description>
-      <pubDate>{format_datetime(now)}</pubDate>
-      <guid isPermaLink="false">daily-news-{timestamp}</guid>
-      <enclosure
-        url="{asset_url}"
-        length="{file_size}"
-        type="audio/mpeg" />
-      <itunes:duration>{format_duration(duration_seconds)}</itunes:duration>
-    </item>
-  </channel>
-</rss>
-"""
+    HISTORY_FILE.write_text(
+        json.dumps(
+            {
+                "version": 1,
+                "episodes": history,
+            },
+            ensure_ascii=False,
+            indent=2,
+        )
+        + "\n",
+        encoding="utf-8",
+    )
 
-    feed_path = DOCS_DIR / "feed.xml"
-    feed_path.write_text(feed, encoding="utf-8")
+    (DOCS_DIR / "feed.xml").write_text(
+        build_feed(history),
+        encoding="utf-8",
+    )
 
+    print(f"Narration words: {word_count}")
+    print(f"Episode duration: {duration_seconds} seconds")
     print(f"Generated: {episode_path.relative_to(ROOT)}")
-    print(f"Generated: {feed_path.relative_to(ROOT)}")
+    print(f"Updated: {HISTORY_FILE.relative_to(ROOT)}")
+    print(f"Updated: {(DOCS_DIR / 'feed.xml').relative_to(ROOT)}")
 
 
 if __name__ == "__main__":
