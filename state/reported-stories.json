@@ -302,6 +302,34 @@
       "canonical_summary": "Chinese researchers using the LHAASO observatory reported on 2 August 2026 that the binary system Cygnus X-3 accelerates cosmic-ray particles to at least 30 PeV, about 30 times the previously assumed ceiling for Milky Way accelerators, and detected a 4.8-hour periodicity in its ultra-high-energy gamma-ray signal constraining the acceleration region to roughly three solar radii; published in National Science Review. The 2 August date is the announcement date and the exact journal publication date was not stated.",
       "source_url": "https://english.news.cn/20260802/c55201be9424413495510f84fe1dc6a9/c.html",
       "material_update_of": null
+    },
+    {
+      "event_id": "openai-astra-model-math-proofs",
+      "reported_date": "2026-08-02",
+      "event_date": "2026-08-01",
+      "category": "AI",
+      "entities": [
+        "OpenAI"
+      ],
+      "event_type": "model_announcement",
+      "canonical_summary": "OpenAI announced a new model family called Astra, saying an internal, unreleased version produced machine-checked Lean 4 proofs for ten mathematics and theoretical computer science problems that had been open for a decade or more, at an estimated internal API cost of about USD 2,000, and separately launched free ChatGPT access for 100,000 academic researchers.",
+      "source_url": "https://the-decoder.com/openai-announces-its-next-major-model-astra-by-dropping-ten-previously-unsolved-math-solutions/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-pla-scarborough-shoal-joint-drills",
+      "reported_date": "2026-08-02",
+      "event_date": "2026-08-01",
+      "category": "China",
+      "entities": [
+        "PLA Southern Theater Command",
+        "China Coast Guard",
+        "Philippines"
+      ],
+      "event_type": "military_exercise",
+      "canonical_summary": "China's PLA Southern Theater Command conducted joint naval and air combat drills on 1 August 2026 near Scarborough Shoal (Huangyan Dao), testing reconnaissance, deterrent patrols, sea-air control and joint-strike capabilities including supersonic anti-ship missiles, with the China Coast Guard running separate law-enforcement drills in the same waters, after Beijing objected to a Philippine move to extend seabed claims off Palawan toward the reef.",
+      "source_url": "https://www.scmp.com/news/china/military/article/3362628/pla-stages-south-china-sea-drills-days-after-illegal-philippine-territorial-bid",
+      "material_update_of": null
     }
   ]
 }
