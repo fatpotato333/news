@@ -3,7 +3,7 @@ name: Publish daily podcast
 on:
   push:
     branches:
-      - main
+      - claude/podcast-state
     paths:
       - input/narration.txt
 
@@ -11,6 +11,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: publish-daily-podcast
@@ -19,6 +21,10 @@ concurrency:
 jobs:
   publish:
     runs-on: ubuntu-latest
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     env:
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -75,21 +81,14 @@ jobs:
             --title "Martin's Daily News" \
             --notes "Latest automatically generated daily news briefing."
 
-      - name: Commit updated RSS feed
-        shell: bash
-        run: |
-          set -euo pipefail
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
 
-          git config user.name "github-actions[bot]"
-          git config user.email \
-            "41898282+github-actions[bot]@users.noreply.github.com"
+      - name: Upload GitHub Pages content
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: docs
 
-          git add docs/feed.xml
-
-          if git diff --cached --quiet; then
-            echo "No RSS changes to commit."
-            exit 0
-          fi
-
-          git commit -m "Publish daily podcast RSS feed"
-          git push
+      - name: Deploy GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
