@@ -330,6 +330,63 @@
       "canonical_summary": "China's PLA Southern Theater Command conducted joint naval and air combat drills on 1 August 2026 near Scarborough Shoal (Huangyan Dao), testing reconnaissance, deterrent patrols, sea-air control and joint-strike capabilities including supersonic anti-ship missiles, with the China Coast Guard running separate law-enforcement drills in the same waters, after Beijing objected to a Philippine move to extend seabed claims off Palawan toward the reef.",
       "source_url": "https://www.scmp.com/news/china/military/article/3362628/pla-stages-south-china-sea-drills-days-after-illegal-philippine-territorial-bid",
       "material_update_of": null
+    },
+    {
+      "event_id": "alibaba-qwen3-8-max-release",
+      "reported_date": "2026-08-03",
+      "event_date": "2026-08-03",
+      "category": "AI",
+      "entities": [
+        "Alibaba",
+        "Qwen"
+      ],
+      "event_type": "model_release",
+      "canonical_summary": "Alibaba made its new Qwen3.8-Max model, a 2.4-trillion-parameter system with up to a 1-million-token context window and multimodal capability, generally accessible via Alibaba Cloud's Model Studio APIs and the newly public-beta QwenWork platform, ahead of a planned open-weights release next week. Alibaba claims benchmark scores comparable to or better than Anthropic's flagship model; this is a vendor claim, not independently verified. Alibaba shares reportedly rose about 5.4 percent on the news.",
+      "source_url": "https://www.scmp.com/tech/article/3362738/alibabas-ai-model-qwen38-max-made-widely-accessible-ahead-open-weights-release",
+      "material_update_of": null
+    },
+    {
+      "event_id": "oil-price-drop-iran-hormuz-dispute-opec-supply",
+      "reported_date": "2026-08-03",
+      "event_date": "2026-08-03",
+      "category": "US Stock Market - General News",
+      "entities": [
+        "Iran",
+        "OPEC+",
+        "Donald Trump"
+      ],
+      "event_type": "geopolitical_market_driver",
+      "canonical_summary": "WTI crude fell about 8 percent to roughly USD 78.77 and Brent dropped as much as 7.3 percent to about USD 81.55 on 3 August as Iran publicly disputed President Trump's claim that a deal to reopen the Strait of Hormuz was imminent, even as OPEC+ proceeded with the 188,000 bpd September output increase agreed 2 August; energy stocks including Exxon and Chevron fell roughly 3 to 3.5 percent in sympathy. This updates the 2 August Hormuz-deal and OPEC+ items: the underlying Iran deal remains unconfirmed and is now disputed, and the actual market reaction is new.",
+      "source_url": "https://www.fxleaders.com/news/2026/08/02/oil-prices-dive-brent-and-wti-crude-reach-80-on-iran-talks-and-opec-adding-supply/",
+      "material_update_of": "trump-cancels-iran-strike-hormuz-claim"
+    },
+    {
+      "event_id": "slovakia-parental-pension-first-payout-new-formula",
+      "reported_date": "2026-08-03",
+      "event_date": "2026-08-03",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Socialna poistovna",
+        "Slovak retirees"
+      ],
+      "event_type": "benefit_payment",
+      "canonical_summary": "Slovakia's Socialna poistovna began the first-ever payout of the redesigned rodicovsky dochodok (parental pension) this week, now calculated from a 2 percent income-tax assignation by each working child rather than the old contribution-based formula. About 230,000 retirees in this first wave will receive an average of about EUR 79 per person, down sharply from an average of about EUR 257 under the prior system, paid automatically with the regular monthly pension or as a separate payment by end of August; a second wave for employees follows in September.",
+      "source_url": "https://www.podnikajte.sk/dan-z-prijmov/vyplata-rodicovskeho-dochodku-od-augusta-2026-otazky-odpovede",
+      "material_update_of": null
+    },
+    {
+      "event_id": "hkex-offshore-rmb-bond-futures-launch",
+      "reported_date": "2026-08-03",
+      "event_date": "2026-08-03",
+      "category": "China",
+      "entities": [
+        "Hong Kong Exchanges and Clearing",
+        "People's Bank of China"
+      ],
+      "event_type": "financial_market_launch",
+      "canonical_summary": "Hong Kong Exchanges and Clearing began trading 5-year offshore renminbi (CNH) China Government Bond futures on 3 August 2026, giving international investors a new offshore tool to hedge Chinese sovereign-debt interest-rate risk without touching onshore markets, completing an ecosystem alongside Bond Connect and Swap Connect as a step in renminbi internationalization.",
+      "source_url": "https://english.news.cn/20260802/75f131d3422d40c68d7e6b826a00bd56/c.html",
+      "material_update_of": null
     }
   ]
 }

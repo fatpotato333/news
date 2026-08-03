@@ -1,9 +1,17 @@
-Daily News for Sunday, August 2, 2026.
+Daily News for Monday, August 3, 2026.
 
 Artificial intelligence.
 
-OpenAI unveiled a new model family called Astra, saying an internal version produced machine-checked proofs for ten previously unsolved problems in mathematics and theoretical computer science, some open for over a decade, at an estimated compute cost near two thousand dollars, and opened free access to the tool for one hundred thousand academic researchers.
+Alibaba made its new Qwen 3.8 Max model, a 2.4 trillion parameter system with a 1 million token context window, generally available through Alibaba Cloud's API platform, ahead of a planned open weights release next week. Alibaba says the model matches or beats Anthropic's flagship model on several benchmarks, a claim that is not independently verified; Alibaba shares reportedly rose about 5.4 percent on the news.
+
+United States stock market.
+
+Oil prices tumbled Monday, with West Texas Intermediate crude falling about 8 percent to roughly 78 dollars and 77 cents a barrel and Brent dropping as much as 7.3 percent to about 81 dollars and 55 cents. The slide came as Iran publicly disputed President Trump's claim that a deal to reopen the Strait of Hormuz was close, even as OPEC Plus pressed ahead with its agreed September output increase. Energy stocks including Exxon and Chevron fell roughly 3 to 3.5 percent in sympathy.
+
+Czech Republic and Slovakia.
+
+Slovakia's Social Insurance Agency began paying out the redesigned parental pension this week under a new formula based on 2 percent of each working child's income tax. About 230,000 retirees in the first wave will receive an average of 79 euros, sharply down from about 257 euros under the old system, with payments arriving automatically alongside the regular monthly pension.
 
 China.
 
-China's Southern Theater Command carried out joint naval and air combat drills near Scarborough Shoal on August first, testing reconnaissance, deterrent patrols and joint strike capabilities with supersonic anti-ship missiles, after Beijing objected to a Philippine move to expand seabed claims off Palawan toward the reef.
+Hong Kong Exchanges and Clearing began trading 5 year offshore renminbi China Government Bond futures on August 3rd, giving international investors a new offshore tool to hedge Chinese sovereign debt interest rate risk and marking another step toward renminbi internationalization.
