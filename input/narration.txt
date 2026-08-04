@@ -1,17 +1,29 @@
-Daily News for Monday, August 3, 2026.
+Daily News for Tuesday, August 4, 2026.
 
 Artificial intelligence.
 
-Alibaba made its new Qwen 3.8 Max model, a 2.4 trillion parameter system with a 1 million token context window, generally available through Alibaba Cloud's API platform, ahead of a planned open weights release next week. Alibaba says the model matches or beats Anthropic's flagship model on several benchmarks, a claim that is not independently verified; Alibaba shares reportedly rose about 5.4 percent on the news.
+Microsoft's AI division appears to be testing an unreleased voice model called MAI Realtime, a full duplex system supporting real time conversation in about seventeen languages, spotted in an internal preview; Microsoft has not confirmed or launched it.
+
+Quantum computing.
+
+Caltech and the startup Oratomic published a new quantum error correction code called a mitten code that reached roughly twenty percent encoding efficiency in simulation, outperforming a much larger surface code design by nearly two orders of magnitude; the work is an unreviewed preprint, not yet tested on hardware.
 
 United States stock market.
 
-Oil prices tumbled Monday, with West Texas Intermediate crude falling about 8 percent to roughly 78 dollars and 77 cents a barrel and Brent dropping as much as 7.3 percent to about 81 dollars and 55 cents. The slide came as Iran publicly disputed President Trump's claim that a deal to reopen the Strait of Hormuz was close, even as OPEC Plus pressed ahead with its agreed September output increase. Energy stocks including Exxon and Chevron fell roughly 3 to 3.5 percent in sympathy.
+Amazon's market value topped three trillion dollars for the first time on Monday, making it the fifth company ever to reach that level, extending a rally from its strong cloud earnings.
+
+Palantir Technologies reported second quarter revenue of about one point nine billion dollars, up ninety three percent from a year earlier, and raised its full year guidance to roughly eight point one five billion dollars; shares jumped nearly fifteen percent in after hours trading.
+
+The Institute for Supply Management's manufacturing index for July rose to fifty five point six, the highest reading since May 2022, marking a seventh straight month of expansion.
 
 Czech Republic and Slovakia.
 
-Slovakia's Social Insurance Agency began paying out the redesigned parental pension this week under a new formula based on 2 percent of each working child's income tax. About 230,000 retirees in the first wave will receive an average of 79 euros, sharply down from about 257 euros under the old system, with payments arriving automatically alongside the regular monthly pension.
+In Slovakia, labor inspectors can now audit any employer for equal pay between men and women starting this week; unexplained wage gaps over five percent must be corrected, with fines of up to one hundred thousand euros for violations.
+
+PPF Group.
+
+The e and PPF Telecom joint venture, which includes CETIN's international infrastructure business across Slovakia, Hungary, Bulgaria and Serbia, reported first half revenue up fourteen percent to one point two nine two billion euros and net profit up fifteen percent to two hundred twenty three million euros.
 
 China.
 
-Hong Kong Exchanges and Clearing began trading 5 year offshore renminbi China Government Bond futures on August 3rd, giving international investors a new offshore tool to hedge Chinese sovereign debt interest rate risk and marking another step toward renminbi internationalization.
+China's largest memory chip maker, CXMT, is in early talks to build a second wafer plant in Beijing, seeking government backed funding as the country races to expand domestic chip capacity amid an A I driven memory shortage.

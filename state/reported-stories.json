@@ -387,6 +387,113 @@
       "canonical_summary": "Hong Kong Exchanges and Clearing began trading 5-year offshore renminbi (CNH) China Government Bond futures on 3 August 2026, giving international investors a new offshore tool to hedge Chinese sovereign-debt interest-rate risk without touching onshore markets, completing an ecosystem alongside Bond Connect and Swap Connect as a step in renminbi internationalization.",
       "source_url": "https://english.news.cn/20260802/75f131d3422d40c68d7e6b826a00bd56/c.html",
       "material_update_of": null
+    },
+    {
+      "event_id": "microsoft-mai-realtime-voice-model-leak",
+      "reported_date": "2026-08-04",
+      "event_date": "2026-08-03",
+      "category": "AI",
+      "entities": [
+        "Microsoft"
+      ],
+      "event_type": "unreleased_capability_leak",
+      "canonical_summary": "A hidden entry for 'MAI-Realtime,' a full-duplex bidirectional voice model supporting about 17 languages and tool use, was spotted in Microsoft's internal MAI Playground preview interface; Microsoft has not officially confirmed or launched the model.",
+      "source_url": "https://cryptobriefing.com/microsoft-mai-realtime-bidirectional-voice-model/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "caltech-oratomic-mitten-qldpc-codes",
+      "reported_date": "2026-08-04",
+      "event_date": "2026-08-03",
+      "category": "Quantum Computing",
+      "entities": [
+        "Caltech",
+        "Oratomic Inc."
+      ],
+      "event_type": "research_preprint",
+      "canonical_summary": "Caltech and startup Oratomic published an arXiv preprint introducing 'mitten codes,' a new family of quantum LDPC error-correction codes with a constant encoding rate of roughly 20 percent; in simulation a 975-qubit mitten code outperformed a much larger surface-code equivalent by nearly two orders of magnitude in logical error rate. The work is an unreviewed preprint with startup co-authorship, not yet demonstrated on hardware.",
+      "source_url": "https://quantumcomputingreport.com/caltech-and-oratomic-introduce-mitten-qldpc-codes-for-high-throughput-quantum-computing/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "amazon-market-cap-3-trillion-milestone",
+      "reported_date": "2026-08-04",
+      "event_date": "2026-08-03",
+      "category": "US Stock Market - General News",
+      "entities": [
+        "Amazon"
+      ],
+      "event_type": "market_milestone",
+      "canonical_summary": "Amazon shares hit a record high on August 3, pushing its market capitalization above 3 trillion dollars for the first time, the fifth company ever to reach that level, extending a rally following its strong AWS-driven second-quarter earnings.",
+      "source_url": "https://247wallst.com/investing/2026/08/03/wall-street-raises-amazon-targets-after-its-aws-surge-heres-the-number/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "palantir-q2-2026-earnings-beat-guidance-raise",
+      "reported_date": "2026-08-04",
+      "event_date": "2026-08-03",
+      "category": "US Stock Market - General News",
+      "entities": [
+        "Palantir Technologies"
+      ],
+      "event_type": "earnings_beat",
+      "canonical_summary": "Palantir reported Q2 2026 revenue of about $1.9 billion, up 93 percent year over year, and raised full-year revenue guidance to roughly $8.15-8.16 billion; shares jumped nearly 15 percent in after-hours trading.",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1321655/000132165526000039/a2026q2ex991pressrelease.htm",
+      "material_update_of": null
+    },
+    {
+      "event_id": "ism-manufacturing-pmi-july-2026-expansion",
+      "reported_date": "2026-08-04",
+      "event_date": "2026-08-03",
+      "category": "US Stock Market - General News",
+      "entities": [
+        "Institute for Supply Management"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "The ISM Manufacturing PMI for July rose to 55.6, up from 53.3 in June and the highest reading since May 2022, with new orders and the employment index both improving, marking a seventh straight month of manufacturing expansion.",
+      "source_url": "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-55-6-july-2026-ism-manufacturing-pmi-report-302840669.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-equal-pay-audits-begin",
+      "reported_date": "2026-08-04",
+      "event_date": "2026-08-03",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Slovak Ministry of Labour",
+        "National Labour Inspectorate"
+      ],
+      "event_type": "regulation_effective",
+      "canonical_summary": "As of August 3, Slovak labour inspectors gained authority to audit any employer, regardless of size, for equal pay between men and women; unexplained wage gaps over 5 percent must be justified or corrected, with fines up to EUR 100,000 for violations.",
+      "source_url": "https://e.dennikn.sk/minuta/5486491",
+      "material_update_of": null
+    },
+    {
+      "event_id": "eand-ppf-telecom-h1-2026-results",
+      "reported_date": "2026-08-04",
+      "event_date": "2026-08-03",
+      "category": "PPF Group",
+      "entities": [
+        "e& PPF Telecom Group",
+        "CETIN International"
+      ],
+      "event_type": "financial_results",
+      "canonical_summary": "e& PPF Telecom Group, the joint venture covering O2 Slovakia, Yettel's Bulgarian, Hungarian and Serbian operations and CETIN International's regional infrastructure, published H1 2026 results: revenue up 14.2 percent year over year to EUR 1,292 million and net profit up 15 percent to EUR 223 million.",
+      "source_url": "https://www.datocms-assets.com/56100/1785705521-20260803_eand_ppf_telecom_group_conso_2q2026_public.pdf",
+      "material_update_of": null
+    },
+    {
+      "event_id": "cxmt-second-beijing-memory-plant-talks",
+      "reported_date": "2026-08-04",
+      "event_date": "2026-08-03",
+      "category": "China",
+      "entities": [
+        "ChangXin Memory Technologies (CXMT)"
+      ],
+      "event_type": "capacity_expansion",
+      "canonical_summary": "CXMT, China's largest DRAM chipmaker, is in early-stage talks to build a second 12-inch wafer memory-chip plant in Beijing's Yizhuang district, seeking at least 60 million yuan in local government-backed funding, as China moves to expand domestic memory-chip capacity amid an AI-driven chip shortage.",
+      "source_url": "https://www.933thedrive.com/2026/08/03/exclusive-cxmt-plans-second-chip-plant-in-beijing-and-is-in-talks-on-its-funding-sources-say/",
+      "material_update_of": null
     }
   ]
 }
