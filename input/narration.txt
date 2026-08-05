@@ -1,29 +1,39 @@
-Daily News for Tuesday, August 4, 2026.
+Daily News for Wednesday, August 5, 2026.
 
 Artificial intelligence.
 
-Microsoft's AI division appears to be testing an unreleased voice model called MAI Realtime, a full duplex system supporting real time conversation in about seventeen languages, spotted in an internal preview; Microsoft has not confirmed or launched it.
+On SpaceX's first earnings call as a public company, Elon Musk named Nvidia the exclusive chip supplier for SpaceX's new space based A I data centers, and the two companies are jointly designing a satellite compute payload called Starmind A I one using Nvidia's Vera Rubin processors. SpaceX's A I segment revenue rose two hundred forty seven percent to two point five six billion dollars, while capital spending surged more than sixfold, unsettling some investors.
+
+Anthropic named Tino Cuellar, a former California Supreme Court justice and past president of the Carnegie Endowment for International Peace, as its first chief global affairs officer, reporting to president Daniela Amodei and leading global policy and government relations.
+
+Mistral A I released Shieldstral, an open weights safety classifier that reads plain language moderation policies at run time and runs on a single sixteen gigabyte G P U, tied to the new Nvidia led Open Secure A I Alliance.
+
+That alliance has grown to more than one hundred twenty member companies one week after forming and launched a working group for sharing A I cybersecurity incident reports; Anthropic, OpenAI and Google have not yet formally joined.
 
 Quantum computing.
 
-Caltech and the startup Oratomic published a new quantum error correction code called a mitten code that reached roughly twenty percent encoding efficiency in simulation, outperforming a much larger surface code design by nearly two orders of magnitude; the work is an unreviewed preprint, not yet tested on hardware.
+Dutch company QuiX Quantum launched Alquor two point oh, a rack mountable, room temperature photonic quantum processor for quantum optics research, offered in eight, twenty, and thirty two mode configurations.
+
+Quantum Corridor, Ciena, and Toshiba demonstrated one point six terabit per second quantum safe optical encryption, combining post quantum cryptography with quantum key distribution, on a live commercial fiber network between Chicago and Hammond, Indiana.
+
+Fujitsu, Monash University, and Australia's C S I R O signed a quantum research partnership giving Australian researchers access to Fujitsu's quantum systems hosted in Japan, supporting a new Australia Japan quantum cooperation agreement.
 
 United States stock market.
 
-Amazon's market value topped three trillion dollars for the first time on Monday, making it the fifth company ever to reach that level, extending a rally from its strong cloud earnings.
+The S and P five hundred, the Dow, and the Nasdaq all closed at or near record highs, with the Dow closing above fifty four thousand for the first time, driven by strong earnings and hopes that the Strait of Hormuz could reopen to shipping this week.
 
-Palantir Technologies reported second quarter revenue of about one point nine billion dollars, up ninety three percent from a year earlier, and raised its full year guidance to roughly eight point one five billion dollars; shares jumped nearly fifteen percent in after hours trading.
+A M D beat second quarter estimates with revenue of eleven point five four billion dollars, but shares fell about eight percent after hours as capital spending on A I infrastructure nearly tripled, squeezing free cash flow and margins.
 
-The Institute for Supply Management's manufacturing index for July rose to fifty five point six, the highest reading since May 2022, marking a seventh straight month of expansion.
+Caterpillar shares jumped about nine percent after second quarter profit beat estimates, with a record seventy two billion dollar order backlog driven largely by data center construction demand, prompting the company to raise its full year guidance.
 
 Czech Republic and Slovakia.
 
-In Slovakia, labor inspectors can now audit any employer for equal pay between men and women starting this week; unexplained wage gaps over five percent must be corrected, with fines of up to one hundred thousand euros for violations.
+New European Union rules took effect today requiring new and renewing applicants for Ukrainian temporary protection in the Czech Republic and Slovakia to prove compliance with Ukrainian military service obligations, aimed at reducing new arrivals; people who already hold protection status are unaffected.
 
-PPF Group.
-
-The e and PPF Telecom joint venture, which includes CETIN's international infrastructure business across Slovakia, Hungary, Bulgaria and Serbia, reported first half revenue up fourteen percent to one point two nine two billion euros and net profit up fifteen percent to two hundred twenty three million euros.
+The Czech National Bank published twenty twenty six stress test results showing the banking sector's capital ratio at twenty point seven percent, which would fall only to eighteen point four percent even under a severe adverse scenario, confirming strong resilience for depositors and borrowers.
 
 China.
 
-China's largest memory chip maker, CXMT, is in early talks to build a second wafer plant in Beijing, seeking government backed funding as the country races to expand domestic chip capacity amid an A I driven memory shortage.
+Chinese humanoid robot maker Unitree Robotics began formal I P O price inquiry on Shanghai's STAR Market, targeting a raise of about four point two billion yuan and a valuation above forty billion yuan, on track to become the first humanoid robotics stock on China's A share market.
+
+China conducted two satellite launches within twenty four hours, a Long March eight A carrying the twenty third batch of its Guowang low orbit internet constellation, and a sea launched Jielong three rocket whose debris was expected to fall in Philippine waters, prompting a Philippine Space Agency advisory.

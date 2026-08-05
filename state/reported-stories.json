@@ -494,6 +494,207 @@
       "canonical_summary": "CXMT, China's largest DRAM chipmaker, is in early-stage talks to build a second 12-inch wafer memory-chip plant in Beijing's Yizhuang district, seeking at least 60 million yuan in local government-backed funding, as China moves to expand domestic memory-chip capacity amid an AI-driven chip shortage.",
       "source_url": "https://www.933thedrive.com/2026/08/03/exclusive-cxmt-plans-second-chip-plant-in-beijing-and-is-in-talks-on-its-funding-sources-say/",
       "material_update_of": null
+    },
+    {
+      "event_id": "spacex-nvidia-exclusive-space-ai-chip-supplier",
+      "reported_date": "2026-08-05",
+      "event_date": "2026-08-04",
+      "category": "AI",
+      "entities": [
+        "SpaceX",
+        "Nvidia",
+        "Elon Musk"
+      ],
+      "event_type": "supply_agreement",
+      "canonical_summary": "On SpaceX's first earnings call as a newly public company, Elon Musk named Nvidia the exclusive chip supplier for SpaceX's space-based AI data centers, with the companies jointly designing a satellite compute payload called Starmind AI1 using Nvidia's Vera Rubin GPUs and Vera CPUs; SpaceX disclosed AI-segment revenue up 247 percent to $2.56 billion while capex surged more than sixfold, unsettling investors despite the earnings beat.",
+      "source_url": "https://www.cnbc.com/2026/08/04/spacex-ai-spending-unnerves-wall-street-despite-promising-quick-payoff.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "anthropic-cuellar-chief-global-affairs-officer",
+      "reported_date": "2026-08-05",
+      "event_date": "2026-08-04",
+      "category": "AI",
+      "entities": [
+        "Anthropic",
+        "Mariano-Florentino Cuellar",
+        "Daniela Amodei"
+      ],
+      "event_type": "executive_appointment",
+      "canonical_summary": "Anthropic named Mariano-Florentino \"Tino\" Cuellar, a former California Supreme Court justice and past president of the Carnegie Endowment for International Peace, as its first Chief Global Affairs Officer, reporting to President Daniela Amodei, to lead global policy and government engagement.",
+      "source_url": "https://www.anthropic.com/news/tino-cuellar",
+      "material_update_of": null
+    },
+    {
+      "event_id": "mistral-shieldstral-safety-classifier-release",
+      "reported_date": "2026-08-05",
+      "event_date": "2026-08-04",
+      "category": "AI",
+      "entities": [
+        "Mistral AI"
+      ],
+      "event_type": "model_release",
+      "canonical_summary": "Mistral AI released Shieldstral, an open-weights 3-billion-parameter multimodal safety classifier that accepts plain-language moderation policies at inference time and runs on a single 16GB GPU, released under Apache 2.0 and tied to the new Nvidia-led Open Secure AI Alliance.",
+      "source_url": "https://mistral.ai/news/shieldstral/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "nvidia-open-secure-ai-alliance-safe-working-group",
+      "reported_date": "2026-08-05",
+      "event_date": "2026-08-04",
+      "category": "AI",
+      "entities": [
+        "Nvidia",
+        "Okta",
+        "Red Hat",
+        "Amazon"
+      ],
+      "event_type": "industry_initiative",
+      "canonical_summary": "One week after forming, Nvidia's Open Secure AI Alliance grew to more than 120 member companies and launched a Shared AI Findings Exchange (SAFE) working group for AI cybersecurity incident reporting, unveiled at Black Hat Las Vegas; Anthropic, OpenAI and Google have not yet formally joined despite signing the original open letter.",
+      "source_url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "quix-quantum-alquor-2-photonic-processor-launch",
+      "reported_date": "2026-08-05",
+      "event_date": "2026-08-04",
+      "category": "Quantum Computing",
+      "entities": [
+        "QuiX Quantum"
+      ],
+      "event_type": "product_launch",
+      "canonical_summary": "Dutch company QuiX Quantum launched Alquor 2.0, a rack-mountable, room-temperature photonic quantum processor platform using silicon-nitride integrated photonics, offered in 8-, 20- and 32-mode configurations for quantum optics and boson-sampling research.",
+      "source_url": "https://thequantuminsider.com/2026/08/04/quix-quantum-launches-alquor-2-0-photonic-quantum-research/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "quantum-corridor-ciena-toshiba-quantum-safe-network-trial",
+      "reported_date": "2026-08-05",
+      "event_date": "2026-08-04",
+      "category": "Quantum Computing",
+      "entities": [
+        "Quantum Corridor",
+        "Ciena",
+        "Toshiba"
+      ],
+      "event_type": "field_trial",
+      "canonical_summary": "Quantum Corridor, Ciena and Toshiba demonstrated 1.6 terabit-per-second quantum-safe optical encryption, combining NIST post-quantum cryptography with Toshiba quantum key distribution, on a live commercial fiber network between Chicago and Hammond, Indiana, alongside existing 800G encrypted traffic.",
+      "source_url": "https://thequantuminsider.com/2026/08/04/quantum-corridor-ciena-toshiba-1-6-tbps-quantum-safe-optical-encryption-live-network/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "fujitsu-monash-csiro-quantum-partnership",
+      "reported_date": "2026-08-05",
+      "event_date": "2026-08-04",
+      "category": "Quantum Computing",
+      "entities": [
+        "Fujitsu",
+        "Monash University",
+        "CSIRO"
+      ],
+      "event_type": "research_partnership",
+      "canonical_summary": "Fujitsu, Monash University and Australia's CSIRO signed a quantum research partnership giving Australian researchers and students access to Fujitsu's quantum systems and simulators hosted in Japan, supporting a new Australia-Japan intergovernmental quantum cooperation agreement.",
+      "source_url": "https://thequantuminsider.com/2026/08/04/fujitsu-monash-csiro-australia-japan-quantum-partnership/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "sp500-dow-nasdaq-record-highs-hormuz-earnings",
+      "reported_date": "2026-08-05",
+      "event_date": "2026-08-04",
+      "category": "US Stock Market - General News",
+      "entities": [
+        "S&P 500",
+        "Dow Jones Industrial Average",
+        "Nasdaq Composite"
+      ],
+      "event_type": "market_move",
+      "canonical_summary": "The S&P 500, Dow and Nasdaq all closed at or near record highs (Dow above 54,000 for the first time, S&P +1.79% to 7,736.52, Nasdaq +2.59%), driven by a wave of strong corporate earnings and hopes for reopening the Strait of Hormuz after Treasury Secretary Bessent said a US-Iran shipping-access deal could come this week, pushing oil prices down.",
+      "source_url": "https://www.aljazeera.com/economy/2026/8/5/us-stock-market-hits-record-high-amid-hopes-for-strait-of-hormuz-reopening",
+      "material_update_of": null
+    },
+    {
+      "event_id": "amd-q2-2026-earnings-beat-stock-falls-capex",
+      "reported_date": "2026-08-05",
+      "event_date": "2026-08-04",
+      "category": "US Stock Market - General News",
+      "entities": [
+        "AMD"
+      ],
+      "event_type": "earnings",
+      "canonical_summary": "AMD reported Q2 2026 revenue of $11.54 billion and adjusted EPS of $1.66, beating estimates, but shares fell about 8 percent after hours as capex nearly tripled to $808 million on AI infrastructure ramp costs, cutting free cash flow and missing gross margin consensus.",
+      "source_url": "https://www.benzinga.com/markets/tech/26/08/60936941/amd-earnings-stock-after-hours-wall-street-forecast",
+      "material_update_of": null
+    },
+    {
+      "event_id": "caterpillar-q2-2026-earnings-data-center-demand",
+      "reported_date": "2026-08-05",
+      "event_date": "2026-08-04",
+      "category": "US Stock Market - General News",
+      "entities": [
+        "Caterpillar"
+      ],
+      "event_type": "earnings",
+      "canonical_summary": "Caterpillar shares jumped about 9 percent after Q2 2026 adjusted EPS of $8.17 beat estimates of $6.19, with a record $72 billion order backlog driven largely by data-center construction demand; the company raised full-year guidance to mid-to-high-teens revenue growth.",
+      "source_url": "https://www.investing.com/news/transcripts/earnings-call-transcript-caterpillar-q2-2026-beats-forecasts-shares-jump-9-93CH-4834724",
+      "material_update_of": null
+    },
+    {
+      "event_id": "eu-ukraine-temporary-protection-military-service-proof",
+      "reported_date": "2026-08-05",
+      "event_date": "2026-08-05",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "European Union",
+        "Czech Republic",
+        "Slovakia",
+        "Ukraine"
+      ],
+      "event_type": "regulation_effective",
+      "canonical_summary": "New EU rules took effect in the Czech Republic and Slovakia requiring new and renewing applicants for Ukrainian temporary protection to prove compliance with Ukrainian military-service obligations (exit stamp or exemption document); people already holding protection are unaffected. Aimed at reducing new arrivals of conscription-age men.",
+      "source_url": "https://mv.gov.cz/clanek/evropska-unie-zprisnuje-podminky-pro-udeleni-docasne-ochrany-obcanum-ukrajiny.aspx",
+      "material_update_of": null
+    },
+    {
+      "event_id": "cnb-2026-bank-stress-test-results",
+      "reported_date": "2026-08-05",
+      "event_date": "2026-08-04",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech National Bank"
+      ],
+      "event_type": "financial_report",
+      "canonical_summary": "The Czech National Bank published 2026 stress test results for 13 domestic banks (about 92 percent of sector assets) showing a 20.7 percent capital ratio at end-2025 that would fall only to 18.4 percent under a severe adverse scenario including an energy-price shock, confirming strong sector resilience.",
+      "source_url": "https://www.cnb.cz/cs/cnb-news/tiskove-zpravy/Zatezove-testy-CNB-potvrdily-vysokou-odolnost-bank/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "unitree-robotics-star-market-ipo-price-inquiry",
+      "reported_date": "2026-08-05",
+      "event_date": "2026-08-05",
+      "category": "China",
+      "entities": [
+        "Unitree Robotics",
+        "Shanghai Stock Exchange"
+      ],
+      "event_type": "ipo_process",
+      "canonical_summary": "Chinese humanoid robot maker Unitree Robotics began formal IPO price inquiry on Shanghai's STAR Market ahead of subscription on Aug 10, targeting a raise of about 4.2 billion yuan ($619 million) and a post-IPO valuation above 40 billion yuan, on track to be the first humanoid-robotics stock on China's A-share market.",
+      "source_url": "https://www.globaltimes.cn/page/202608/1367550.shtml",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-guowang-jielong3-satellite-launches-debris",
+      "reported_date": "2026-08-05",
+      "event_date": "2026-08-05",
+      "category": "China",
+      "entities": [
+        "China",
+        "CASC/China SatNet",
+        "Philippines"
+      ],
+      "event_type": "space_launch",
+      "canonical_summary": "China conducted two satellite launches within 24 hours: a Long March-8A carrying the 23rd batch of the Guowang low-orbit internet constellation from Wenchang, and a sea-launched Jielong-3 rocket whose debris was expected to fall in the Philippines' Exclusive Economic Zone, prompting a Philippine Space Agency advisory.",
+      "source_url": "https://www.gmanetwork.com/news/topstories/regions/997014/debris-from-china-s-jielong-3-rocket-launch-on-aug-5-expected-to-fall-in-northern-luzon-waters-pcg/story/",
+      "material_update_of": null
     }
   ]
 }
