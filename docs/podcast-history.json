@@ -2,6 +2,17 @@
   "version": 1,
   "episodes": [
     {
+      "date": "2026-08-05",
+      "title": "Daily News — 2026-08-05",
+      "description": "Concise daily news briefing for 2026-08-05.",
+      "pub_date": "Wed, 05 Aug 2026 08:14:29 +0200",
+      "guid": "daily-news-2026-08-05",
+      "url": "https://github.com/fatpotato333/news/releases/download/daily-podcast/daily-news-2026-08-05.mp3",
+      "length": 2731149,
+      "duration": "00:03:48",
+      "filename": "daily-news-2026-08-05.mp3"
+    },
+    {
       "date": "2026-08-04",
       "title": "Daily News — 2026-08-04",
       "description": "Concise daily news briefing for 2026-08-04.",
