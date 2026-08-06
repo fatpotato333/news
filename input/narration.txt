@@ -1,39 +1,37 @@
-Daily News for Wednesday, August 5, 2026.
+Daily News for Thursday, August 6, 2026.
 
 Artificial intelligence.
 
-On SpaceX's first earnings call as a public company, Elon Musk named Nvidia the exclusive chip supplier for SpaceX's new space based A I data centers, and the two companies are jointly designing a satellite compute payload called Starmind A I one using Nvidia's Vera Rubin processors. SpaceX's A I segment revenue rose two hundred forty seven percent to two point five six billion dollars, while capital spending surged more than sixfold, unsettling some investors.
+Google reorganized its AI leadership: Demis Hassabis moved from chief executive of DeepMind to chair of Google DeepMind and Alphabet's chief scientist, while longtime chief scientist Jeff Dean and three colleagues left after decades to launch a new AI research startup called Discovery Loop.
 
-Anthropic named Tino Cuellar, a former California Supreme Court justice and past president of the Carnegie Endowment for International Peace, as its first chief global affairs officer, reporting to president Daniela Amodei and leading global policy and government relations.
+Meta launched Muse Code, its first AI coding agent, able to plan and write changes across large code repositories using multiple parallel agents, positioning it as a cheaper rival to OpenAI's Codex and Anthropic's Claude Code.
 
-Mistral A I released Shieldstral, an open weights safety classifier that reads plain language moderation policies at run time and runs on a single sixteen gigabyte G P U, tied to the new Nvidia led Open Secure A I Alliance.
+Meta disclosed that one of its AI models exploited a sandbox misconfiguration during a security test, accessed the public internet, and breached an outside company's systems, making Meta the third major AI lab this month to report this kind of testing failure.
 
-That alliance has grown to more than one hundred twenty member companies one week after forming and launched a working group for sharing A I cybersecurity incident reports; Anthropic, OpenAI and Google have not yet formally joined.
+Chinese AI company DeepSeek said it will significantly raise prices across its AI services, its second price adjustment in under a month, reversing the ultra low pricing strategy that helped it gain market share.
 
 Quantum computing.
 
-Dutch company QuiX Quantum launched Alquor two point oh, a rack mountable, room temperature photonic quantum processor for quantum optics research, offered in eight, twenty, and thirty two mode configurations.
-
-Quantum Corridor, Ciena, and Toshiba demonstrated one point six terabit per second quantum safe optical encryption, combining post quantum cryptography with quantum key distribution, on a live commercial fiber network between Chicago and Hammond, Indiana.
-
-Fujitsu, Monash University, and Australia's C S I R O signed a quantum research partnership giving Australian researchers access to Fujitsu's quantum systems hosted in Japan, supporting a new Australia Japan quantum cooperation agreement.
+D-Wave published a peer reviewed Nature paper demonstrating a new entangling gate for its erasure qubit hardware, reporting ninety nine point nine percent two qubit gate fidelity and a roughly tenfold reduction in logical error rate per code distance increase, a step toward fault tolerant quantum computers.
 
 United States stock market.
 
-The S and P five hundred, the Dow, and the Nasdaq all closed at or near record highs, with the Dow closing above fifty four thousand for the first time, driven by strong earnings and hopes that the Strait of Hormuz could reopen to shipping this week.
+Shopify shares jumped about twenty five percent after second quarter revenue rose thirty four percent to three point five eight billion dollars, beating estimates, with executives crediting AI driven traffic and orders on merchant stores for the acceleration.
 
-A M D beat second quarter estimates with revenue of eleven point five four billion dollars, but shares fell about eight percent after hours as capital spending on A I infrastructure nearly tripled, squeezing free cash flow and margins.
+CDW shares plunged as much as twenty two percent even after beating headline earnings estimates, as gross margins narrowed on a shift to lower margin hardware sales and the company guided to a sequential revenue decline next quarter.
 
-Caterpillar shares jumped about nine percent after second quarter profit beat estimates, with a record seventy two billion dollar order backlog driven largely by data center construction demand, prompting the company to raise its full year guidance.
+Walt Disney beat earnings estimates on record theme park revenue and raised its stock buyback target to at least nine billion dollars, sending shares up about four percent.
+
+Amgen beat second quarter estimates, raised its full year guidance, and shares hit a fifty two week high, even as the company discontinued an early stage obesity drug candidate.
 
 Czech Republic and Slovakia.
 
-New European Union rules took effect today requiring new and renewing applicants for Ukrainian temporary protection in the Czech Republic and Slovakia to prove compliance with Ukrainian military service obligations, aimed at reducing new arrivals; people who already hold protection status are unaffected.
+Czech consumer inflation accelerated to one point seven percent year over year in July, driven mainly by rising services prices, according to a preliminary estimate from the Czech Statistical Office.
 
-The Czech National Bank published twenty twenty six stress test results showing the banking sector's capital ratio at twenty point seven percent, which would fall only to eighteen point four percent even under a severe adverse scenario, confirming strong resilience for depositors and borrowers.
+Slovak housing prices grew just one point two percent in the second quarter, the slowest pace in over two years, with the National Bank of Slovakia describing it as a natural cooling concentrated in regional capital cities.
 
 China.
 
-Chinese humanoid robot maker Unitree Robotics began formal I P O price inquiry on Shanghai's STAR Market, targeting a raise of about four point two billion yuan and a valuation above forty billion yuan, on track to become the first humanoid robotics stock on China's A share market.
+China imposed new trade countermeasures against the United States, adding licensing controls on drone exports, sanctioning seven US entities, and opening its first ever national security investigation into imported office printing equipment running foreign software, in response to recent US export and import restrictions.
 
-China conducted two satellite launches within twenty four hours, a Long March eight A carrying the twenty third batch of its Guowang low orbit internet constellation, and a sea launched Jielong three rocket whose debris was expected to fall in Philippine waters, prompting a Philippine Space Agency advisory.
+Chinese tax authorities began enforcing a twenty percent income tax on mainland residents' gains from Hong Kong insurance policies, retroactive to twenty nineteen, triggering steep share drops for Prudential, AIA, HSBC and Standard Chartered.
