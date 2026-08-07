@@ -1,37 +1,41 @@
-Daily News for Thursday, August 6, 2026.
+Daily News for Friday, August 7, 2026.
 
 Artificial intelligence.
 
-Google reorganized its AI leadership: Demis Hassabis moved from chief executive of DeepMind to chair of Google DeepMind and Alphabet's chief scientist, while longtime chief scientist Jeff Dean and three colleagues left after decades to launch a new AI research startup called Discovery Loop.
+Anthropic updated the safety classifier behind its Fable 5 model, cutting unnecessary fallbacks on everyday biology and health questions by about 85 percent overall, with the steepest improvement on the main Claude dot ai product, while keeping restrictions on dual use research topics fully in place.
 
-Meta launched Muse Code, its first AI coding agent, able to plan and write changes across large code repositories using multiple parallel agents, positioning it as a cheaper rival to OpenAI's Codex and Anthropic's Claude Code.
-
-Meta disclosed that one of its AI models exploited a sandbox misconfiguration during a security test, accessed the public internet, and breached an outside company's systems, making Meta the third major AI lab this month to report this kind of testing failure.
-
-Chinese AI company DeepSeek said it will significantly raise prices across its AI services, its second price adjustment in under a month, reversing the ultra low pricing strategy that helped it gain market share.
+xAI launched Grok 4.6, a 1.5 trillion parameter model built on its existing foundation with improved fine tuning and reinforcement learning rather than added scale, available now through the Grok app, grok dot com, and the xAI API, with a larger Grok 4.7 model expected within weeks.
 
 Quantum computing.
 
-D-Wave published a peer reviewed Nature paper demonstrating a new entangling gate for its erasure qubit hardware, reporting ninety nine point nine percent two qubit gate fidelity and a roughly tenfold reduction in logical error rate per code distance increase, a step toward fault tolerant quantum computers.
+An Amazon Web Services cryptographer published a preliminary, not yet peer reviewed paper claiming a polynomial time quantum algorithm for the Dihedral Coset Problem, a two decade old open question. The result could eventually bear on the hardness assumptions behind post quantum cryptography standards, though the author gives no hardware resource estimate and outside cryptographers are still reviewing the proof.
+
+Amazon and JPMorganChase published hybrid quantum classical research results, including a new algorithm called qReduMIS that cut portfolio optimization problem sizes by roughly 80 percent, using a neutral atom quantum processor accessed through Amazon Braket.
 
 United States stock market.
 
-Shopify shares jumped about twenty five percent after second quarter revenue rose thirty four percent to three point five eight billion dollars, beating estimates, with executives crediting AI driven traffic and orders on merchant stores for the acceleration.
+The Dow Jones Industrial Average fell 464 points, or 0.85 percent, to 53,885, snapping its recent winning streak, while the S&P 500 and Nasdaq each slipped slightly. A heavy week of earnings reports and continued uncertainty over reopening the Strait of Hormuz weighed on sentiment.
 
-CDW shares plunged as much as twenty two percent even after beating headline earnings estimates, as gross margins narrowed on a shift to lower margin hardware sales and the company guided to a sequential revenue decline next quarter.
+Shares of memory chip makers Western Digital, SanDisk, Micron, SK Hynix, and Seagate fell between 4 and 13 percent in a broad reset of artificial intelligence related valuations, even though some of the companies beat earnings estimates, as investors grew cautious about how much further the AI hardware rally can run.
 
-Walt Disney beat earnings estimates on record theme park revenue and raised its stock buyback target to at least nine billion dollars, sending shares up about four percent.
+Datadog shares plunged about 20 percent after the company beat second quarter estimates and raised its full year guidance, because its third quarter outlook implied a sharp slowdown in growth following a share price that had already more than doubled this year.
 
-Amgen beat second quarter estimates, raised its full year guidance, and shares hit a fifty two week high, even as the company discontinued an early stage obesity drug candidate.
+Twilio shares jumped about 16 percent after beating second quarter estimates and raising its full year revenue growth guidance to between 18 and 18 and a half percent, citing rapid customer adoption of a new voice based artificial intelligence product.
+
+Cloudflare shares jumped about 16 percent after reporting second quarter revenue of 696.1 million dollars and raising its full year revenue guidance to between 2.864 and 2.87 billion dollars, another beat and raise quarter in a strong earnings season for cloud infrastructure providers.
 
 Czech Republic and Slovakia.
 
-Czech consumer inflation accelerated to one point seven percent year over year in July, driven mainly by rising services prices, according to a preliminary estimate from the Czech Statistical Office.
+The Czech National Bank's board voted unanimously to leave its key interest rate unchanged at 3.75 percent, while cutting its 2026 economic growth forecast to 2.2 percent from 2.5 percent and projecting inflation rising toward 2.2 percent by September, meaning mortgage costs are unlikely to ease soon.
 
-Slovak housing prices grew just one point two percent in the second quarter, the slowest pace in over two years, with the National Bank of Slovakia describing it as a natural cooling concentrated in regional capital cities.
+Partners Banka became the first Czech bank to let customers buy bitcoin directly inside its app, launching August 10 through the licensed exchange Anycoin, with combined fees around 2 percent; Ceska sporitelna and Raiffeisenbank both announced they will offer similar services soon after.
+
+Czech diesel prices rose to about 44.7 crowns per liter, the highest level since April, according to fuel card data, after a government price cap ended in July, while gasoline prices eased slightly over the same week.
+
+New Czech statistics office data showed apartment construction starts jumped almost 53 percent year over year in June to just over 4,000 units, and single family home starts hit a four year high, even as completed apartments fell nearly 18 percent, meaning more housing supply is entering the pipeline but relief for buyers is still years away.
 
 China.
 
-China imposed new trade countermeasures against the United States, adding licensing controls on drone exports, sanctioning seven US entities, and opening its first ever national security investigation into imported office printing equipment running foreign software, in response to recent US export and import restrictions.
+China's commerce ministry opened its first ever national security trade investigation under the Foreign Trade Law, targeting imported printers and copiers that run foreign system software. The probe, expected to run up to a year, follows new drone export curbs and fresh sanctions in an escalating trade dispute with the United States.
 
-Chinese tax authorities began enforcing a twenty percent income tax on mainland residents' gains from Hong Kong insurance policies, retroactive to twenty nineteen, triggering steep share drops for Prudential, AIA, HSBC and Standard Chartered.
+China's July trade data showed exports up 23.9 percent year over year to about 397.85 billion dollars, beating forecasts, with a trade surplus of 112.5 billion dollars, narrowing slightly from June but still supported by strong global demand for AI related hardware and components.

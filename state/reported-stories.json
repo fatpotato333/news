@@ -874,6 +874,211 @@
       "canonical_summary": "Mainland Chinese tax authorities began actively enforcing a 20 percent personal income tax on dividend distributions and prepaid-premium interest from Hong Kong insurance products held by mainland residents, reportedly applied retroactively to 2019, triggering same-day share drops of roughly 4-7 percent for Prudential, AIA, HSBC and Standard Chartered; no formal public policy document had yet been released.",
       "source_url": "https://www.caixinglobal.com/2026-08-05/exclusive-china-widens-tax-net-to-offshore-insurance-102471550.html",
       "material_update_of": null
+    },
+    {
+      "event_id": "anthropic-fable5-biology-safeguards-update",
+      "reported_date": "2026-08-07",
+      "event_date": "2026-08-07",
+      "category": "AI",
+      "entities": [
+        "Anthropic"
+      ],
+      "event_type": "safety_update",
+      "canonical_summary": "Anthropic updated the safety classifier behind Claude Fable 5 to cut false-positive biology-query fallbacks by about 85 percent overall, easing restrictions on everyday health and education questions while keeping dual-use research restrictions in place.",
+      "source_url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+      "material_update_of": null
+    },
+    {
+      "event_id": "xai-grok-4-6-launch",
+      "reported_date": "2026-08-07",
+      "event_date": "2026-08-07",
+      "category": "AI",
+      "entities": [
+        "xAI"
+      ],
+      "event_type": "model_release",
+      "canonical_summary": "xAI launched Grok 4.6, a 1.5-trillion-parameter model on its existing V9 foundation with improved supervised fine-tuning and reinforcement learning, available via the Grok app, grok.com and the xAI API, with a larger Grok 4.7 expected within weeks.",
+      "source_url": "https://kie.ai/blog/what-is-grok-4-6",
+      "material_update_of": null
+    },
+    {
+      "event_id": "aws-dihedral-coset-problem-quantum-algorithm",
+      "reported_date": "2026-08-07",
+      "event_date": "2026-08-06",
+      "category": "Quantum Computing",
+      "entities": [
+        "Amazon Web Services",
+        "Daniel R. Simon"
+      ],
+      "event_type": "research_preprint",
+      "canonical_summary": "AWS cryptographer Daniel R. Simon posted a preliminary, unreviewed preprint claiming a polynomial-time quantum algorithm for the two-decade-old Dihedral Coset Problem, with potential but unverified implications for lattice-based post-quantum cryptography; no attack, hardware estimate or peer review yet exists.",
+      "source_url": "https://thequantuminsider.com/2026/08/06/amazon-researcher-claims-quantum-algorithm-could-challenge-pqc-foundations/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "aws-jpmorgan-qredumis-quantum-optimization",
+      "reported_date": "2026-08-07",
+      "event_date": "2026-08-05",
+      "category": "Quantum Computing",
+      "entities": [
+        "Amazon Web Services",
+        "JPMorganChase"
+      ],
+      "event_type": "research_result",
+      "canonical_summary": "AWS and JPMorganChase published hybrid quantum-classical research including a new algorithm, qReduMIS, that cut portfolio-optimization problem sizes by about 80 percent using a neutral-atom quantum processor accessed through Amazon Braket.",
+      "source_url": "https://aws.amazon.com/blogs/quantum-computing/aws-and-jpmorganchase-collaborate-to-advance-quantum-computing-rd/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-stocks-dow-drop-earnings-season-volatility",
+      "reported_date": "2026-08-07",
+      "event_date": "2026-08-06",
+      "category": "US Stock Market",
+      "entities": [
+        "Dow Jones Industrial Average",
+        "S&P 500",
+        "Nasdaq Composite"
+      ],
+      "event_type": "market_move",
+      "canonical_summary": "The Dow fell 464 points (-0.85%) to 53,885, snapping its recent winning streak, while the S&P 500 and Nasdaq slipped slightly, amid heavy earnings-season volatility and continued uncertainty over reopening the Strait of Hormuz.",
+      "source_url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-6-2026",
+      "material_update_of": null
+    },
+    {
+      "event_id": "ai-memory-chip-stock-selloff-august-2026",
+      "reported_date": "2026-08-07",
+      "event_date": "2026-08-06",
+      "category": "US Stock Market",
+      "entities": [
+        "Western Digital",
+        "SanDisk",
+        "Micron",
+        "SK Hynix",
+        "Seagate"
+      ],
+      "event_type": "market_move",
+      "canonical_summary": "Shares of memory chip makers Western Digital, SanDisk, Micron, SK Hynix and Seagate fell 4-13 percent in a broad reset of AI-related valuations, despite some companies beating earnings estimates.",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-heading-lower-earnings-falls-121200457.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "datadog-q2-2026-earnings-stock-plunge-guidance",
+      "reported_date": "2026-08-07",
+      "event_date": "2026-08-06",
+      "category": "US Stock Market",
+      "entities": [
+        "Datadog"
+      ],
+      "event_type": "earnings",
+      "canonical_summary": "Datadog shares plunged about 17-21 percent despite beating Q2 2026 estimates and raising full-year guidance, as Q3 guidance implied a sharp sequential growth slowdown after the stock had already rallied over 100 percent year-to-date.",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/datadog-sinks-21-despite-raised-115213473.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "twilio-q2-2026-earnings-voice-ai-surge",
+      "reported_date": "2026-08-07",
+      "event_date": "2026-08-06",
+      "category": "US Stock Market",
+      "entities": [
+        "Twilio"
+      ],
+      "event_type": "earnings",
+      "canonical_summary": "Twilio shares jumped about 15-17 percent after beating Q2 2026 estimates and raising FY26 revenue growth guidance to 18-18.5 percent, driven by rapid adoption of a new voice-based AI product.",
+      "source_url": "https://siliconangle.com/2026/08/06/twilios-stock-jumps-solid-earnings-revenue-beat-strong-momentum-voice-ai/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "cloudflare-q2-2026-earnings-beat-raise",
+      "reported_date": "2026-08-07",
+      "event_date": "2026-08-06",
+      "category": "US Stock Market",
+      "entities": [
+        "Cloudflare"
+      ],
+      "event_type": "earnings",
+      "canonical_summary": "Cloudflare reported Q2 2026 revenue of $696.1 million, beat estimates, and raised full-year revenue guidance to $2.864-2.87 billion; shares jumped about 16 percent.",
+      "source_url": "https://www.investing.com/news/stock-market-news/afterhours-movers-team-net-twlo-docs-frog-dv-ttd-abnb-dkng-sg-rkt-432SI-4844293",
+      "material_update_of": null
+    },
+    {
+      "event_id": "cnb-rate-hold-august-2026-gdp-downgrade",
+      "reported_date": "2026-08-07",
+      "event_date": "2026-08-06",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech National Bank"
+      ],
+      "event_type": "central_bank_decision",
+      "canonical_summary": "The Czech National Bank's board voted unanimously to hold its key rate at 3.75 percent, cut its 2026 GDP growth forecast to 2.2 percent from 2.5 percent, and projected inflation rising toward 2.2 percent by September, signaling no near-term mortgage-rate relief.",
+      "source_url": "https://www.e15.cz/byznys/finance-a-bankovnictvi/sazby-cnb-beze-zmeny-michl-predstavi-novou-prognozu-i-duvody-pro-pauzu-1434813",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-banks-retail-bitcoin-launch",
+      "reported_date": "2026-08-07",
+      "event_date": "2026-08-06",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Partners Banka",
+        "Ceska sporitelna",
+        "Raiffeisenbank"
+      ],
+      "event_type": "product_launch",
+      "canonical_summary": "Partners Banka became the first Czech bank to offer in-app direct bitcoin purchases (launching Aug 10) via licensed exchange Anycoin, with combined fees around 2 percent; Ceska sporitelna and Raiffeisenbank announced they will follow with similar services.",
+      "source_url": "https://www.e15.cz/byznys/finance-a-bankovnictvi/velky-obrat-ceskych-bank-po-partners-se-k-bitcoinu-chysta-i-ceska-sporitelna-i-raiffeisenbank-1434775",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-diesel-price-highest-since-april",
+      "reported_date": "2026-08-07",
+      "event_date": "2026-08-06",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech fuel market"
+      ],
+      "event_type": "price_data",
+      "canonical_summary": "Czech diesel prices rose to about 44.7 CZK per liter, the highest since April, per CCS fuel-card data, after a government price cap ended in July; gasoline eased slightly over the same week.",
+      "source_url": "https://www.novinky.cz/clanek/ekonomika-nafta-vyrazne-zdrazila-stoji-nejvice-od-dubna-naopak-na-benzinu-ridici-usetri-40591513",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-housing-starts-jump-completions-fall",
+      "reported_date": "2026-08-07",
+      "event_date": "2026-08-06",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Statistical Office"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "Czech apartment construction starts jumped almost 53 percent year over year in June to just over 4,000 units, a four-year high for single-family starts, while completed apartments fell nearly 18 percent to 2,699 units.",
+      "source_url": "https://www.e15.cz/byznys/reality-a-stavebnictvi/ceske-stavebnictvi-zpomalilo-prekvapil-ale-prudky-narust-vystavby-novych-bytu-1434804",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-national-security-probe-office-equipment",
+      "reported_date": "2026-08-07",
+      "event_date": "2026-08-06",
+      "category": "China",
+      "entities": [
+        "China Ministry of Commerce"
+      ],
+      "event_type": "regulatory_action",
+      "canonical_summary": "China's Ministry of Commerce opened its first-ever national security trade investigation under Article 41 of the Foreign Trade Law, targeting imported printers and copiers running foreign system software, amid escalating trade tension with the US over drone export curbs and new sanctions.",
+      "source_url": "https://english.news.cn/20260805/d2b61faa46c94115a982c64a41eb88c1/c.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-july-2026-trade-data-surplus",
+      "reported_date": "2026-08-07",
+      "event_date": "2026-08-07",
+      "category": "China",
+      "entities": [
+        "China General Administration of Customs"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "China's July 2026 trade data showed exports up 23.9 percent year over year to about $397.85 billion, beating forecasts, with a trade surplus of $112.5 billion narrowing slightly from June, supported by strong demand for AI-related hardware.",
+      "source_url": "https://www.cnbc.com/2026/08/07/china-july-trade-exports-imports-surplus-imbalance-tariffs-.html",
+      "material_update_of": null
     }
   ]
 }
