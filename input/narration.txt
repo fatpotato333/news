@@ -1,41 +1,35 @@
-Daily News for Friday, August 7, 2026.
+Daily News for Saturday, August 8, 2026.
 
 Artificial intelligence.
 
-Anthropic updated the safety classifier behind its Fable 5 model, cutting unnecessary fallbacks on everyday biology and health questions by about 85 percent overall, with the steepest improvement on the main Claude dot ai product, while keeping restrictions on dual use research topics fully in place.
+OpenAI said its upcoming Astra model showed cyber capabilities strong enough that internal testing could not rule out reaching the company's top Critical risk tier, including possible autonomous discovery of software vulnerabilities, and it has paused parts of Astra's development to add safeguards.
 
-xAI launched Grok 4.6, a 1.5 trillion parameter model built on its existing foundation with improved fine tuning and reinforcement learning rather than added scale, available now through the Grok app, grok dot com, and the xAI API, with a larger Grok 4.7 model expected within weeks.
+The Financial Times reported that ByteDance is training a ten trillion parameter language model, three times the size of its current Kimi K3, aiming to rival Anthropic's largest models; the model is still in early pretraining with no results yet.
 
-Quantum computing.
-
-An Amazon Web Services cryptographer published a preliminary, not yet peer reviewed paper claiming a polynomial time quantum algorithm for the Dihedral Coset Problem, a two decade old open question. The result could eventually bear on the hardness assumptions behind post quantum cryptography standards, though the author gives no hardware resource estimate and outside cryptographers are still reviewing the proof.
-
-Amazon and JPMorganChase published hybrid quantum classical research results, including a new algorithm called qReduMIS that cut portfolio optimization problem sizes by roughly 80 percent, using a neutral atom quantum processor accessed through Amazon Braket.
+Nvidia backed AI infrastructure firm Firmus raised two billion dollars, nearly doubling its valuation to ten and a half billion dollars, with Blackstone and Jane Street joining as new investors to fund AI data center expansion across Asia Pacific.
 
 United States stock market.
 
-The Dow Jones Industrial Average fell 464 points, or 0.85 percent, to 53,885, snapping its recent winning streak, while the S&P 500 and Nasdaq each slipped slightly. A heavy week of earnings reports and continued uncertainty over reopening the Strait of Hormuz weighed on sentiment.
+US employers cut twenty three thousand jobs in July, the first monthly decline in months and far below forecasts, while unemployment eased to four point one percent. Investors read the weak report as reducing the chance of a Federal Reserve rate hike, sending the S and P 500 to a record close.
 
-Shares of memory chip makers Western Digital, SanDisk, Micron, SK Hynix, and Seagate fell between 4 and 13 percent in a broad reset of artificial intelligence related valuations, even though some of the companies beat earnings estimates, as investors grew cautious about how much further the AI hardware rally can run.
+Take-Two Interactive beat quarterly bookings estimates, but its next quarter guidance came in well below Wall Street expectations, sending shares down about two percent; Grand Theft Auto Six remains on track for its November nineteenth release.
 
-Datadog shares plunged about 20 percent after the company beat second quarter estimates and raised its full year guidance, because its third quarter outlook implied a sharp slowdown in growth following a share price that had already more than doubled this year.
+DraftKings posted lower revenue and a surprise loss after unfavorable sports outcomes cost it eighty million dollars, but shares rose about six percent as earnings before interest, taxes, depreciation and amortization beat estimates and unique payer growth accelerated.
 
-Twilio shares jumped about 16 percent after beating second quarter estimates and raising its full year revenue growth guidance to between 18 and 18 and a half percent, citing rapid customer adoption of a new voice based artificial intelligence product.
-
-Cloudflare shares jumped about 16 percent after reporting second quarter revenue of 696.1 million dollars and raising its full year revenue guidance to between 2.864 and 2.87 billion dollars, another beat and raise quarter in a strong earnings season for cloud infrastructure providers.
+Buy now pay later company Sezzle beat quarterly earnings estimates, but shares tumbled roughly thirty percent after it guided for slower growth and lower fees in the second half of the year.
 
 Czech Republic and Slovakia.
 
-The Czech National Bank's board voted unanimously to leave its key interest rate unchanged at 3.75 percent, while cutting its 2026 economic growth forecast to 2.2 percent from 2.5 percent and projecting inflation rising toward 2.2 percent by September, meaning mortgage costs are unlikely to ease soon.
+Czech regional governors said the state road fund will give regions zero crowns this year for repairing secondary and tertiary roads, the first time since twenty fifteen, despite requests for billions in funding; the transport ministry says road upkeep is primarily the regions' own responsibility.
 
-Partners Banka became the first Czech bank to let customers buy bitcoin directly inside its app, launching August 10 through the licensed exchange Anycoin, with combined fees around 2 percent; Ceska sporitelna and Raiffeisenbank both announced they will offer similar services soon after.
+PPF Group.
 
-Czech diesel prices rose to about 44.7 crowns per liter, the highest level since April, according to fuel card data, after a government price cap ended in July, while gasoline prices eased slightly over the same week.
-
-New Czech statistics office data showed apartment construction starts jumped almost 53 percent year over year in June to just over 4,000 units, and single family home starts hit a four year high, even as completed apartments fell nearly 18 percent, meaning more housing supply is entering the pipeline but relief for buyers is still years away.
+PPF Group and Live Nation Entertainment formed a joint venture to run Prague's O2 Arena, O2 Universum and Forum Karlin, with Live Nation taking a fifty one percent stake in day to day operations while PPF keeps ownership of the venues.
 
 China.
 
-China's commerce ministry opened its first ever national security trade investigation under the Foreign Trade Law, targeting imported printers and copiers that run foreign system software. The probe, expected to run up to a year, follows new drone export curbs and fresh sanctions in an escalating trade dispute with the United States.
+US officials are reviewing whether Chinese AI companies are using legal offshore workarounds, such as renting overseas computing capacity, to access advanced Nvidia chips despite export restrictions, following recent Chinese AI capability breakthroughs.
 
-China's July trade data showed exports up 23.9 percent year over year to about 397.85 billion dollars, beating forecasts, with a trade surplus of 112.5 billion dollars, narrowing slightly from June but still supported by strong global demand for AI related hardware and components.
+China issued an orange alert as Typhoon Dolphin approached the Zhejiang and Fujian coast with core winds near one hundred miles per hour; authorities suspended all ferry routes and dozens of offshore projects in Zhejiang and began evacuating coastal islands ahead of landfall.
+
+Beijing eased home buying rules further, cutting the required social security payment history for non local residents to purchase property citywide from two years to just one year, the latest step to support its slumping housing market.
