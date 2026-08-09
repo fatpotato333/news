@@ -1251,6 +1251,33 @@
       "canonical_summary": "Beijing cut the required social-security and tax-payment history for non-Beijing-registered families to buy homes citywide from two years to one year, the latest in a series of housing-stimulus easings amid a prolonged property slump.",
       "source_url": "https://www.chinadailyasia.com/hk/article/626053",
       "material_update_of": null
+    },
+    {
+      "event_id": "china-taiwan-strait-typhoon-shipping-directive-dispute",
+      "reported_date": "2026-08-09",
+      "event_date": "2026-08-08",
+      "category": "China",
+      "entities": [
+        "China",
+        "Taiwan"
+      ],
+      "event_type": "geopolitical_dispute",
+      "canonical_summary": "China's maritime authorities ordered ships transiting the southern Taiwan Strait to comply with storm-related traffic-control instructions amid Typhoon Dolphin's landfall on the Zhejiang-Fujian coast; Taiwan's Mainland Affairs Council called the directive \"utterly ridiculous,\" said Beijing has no legal authority over international waters, and urged vessels to disregard the instructions.",
+      "source_url": "https://www.taiwannews.com.tw/news/6417756",
+      "material_update_of": "typhoon-dolphin-zhejiang-fujian-landfall"
+    },
+    {
+      "event_id": "china-july-2026-cpi-ppi-data",
+      "reported_date": "2026-08-09",
+      "event_date": "2026-08-09",
+      "category": "China",
+      "entities": [
+        "China National Bureau of Statistics"
+      ],
+      "event_type": "economic_data_release",
+      "canonical_summary": "China's National Bureau of Statistics reported July 2026 CPI rose 0.5 percent year-on-year (core CPI +0.9 percent) but fell 0.1 percent month-on-month due to import-related factors, while the producer price index (PPI) rose 3.5 percent year-on-year.",
+      "source_url": "https://english.news.cn/20260809/8be0d452f506494a9f38e66505a186da/c.html",
+      "material_update_of": null
     }
   ]
 }

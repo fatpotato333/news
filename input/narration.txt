@@ -1,35 +1,7 @@
-Daily News for Saturday, August 8, 2026.
-
-Artificial intelligence.
-
-OpenAI said its upcoming Astra model showed cyber capabilities strong enough that internal testing could not rule out reaching the company's top Critical risk tier, including possible autonomous discovery of software vulnerabilities, and it has paused parts of Astra's development to add safeguards.
-
-The Financial Times reported that ByteDance is training a ten trillion parameter language model, three times the size of its current Kimi K3, aiming to rival Anthropic's largest models; the model is still in early pretraining with no results yet.
-
-Nvidia backed AI infrastructure firm Firmus raised two billion dollars, nearly doubling its valuation to ten and a half billion dollars, with Blackstone and Jane Street joining as new investors to fund AI data center expansion across Asia Pacific.
-
-United States stock market.
-
-US employers cut twenty three thousand jobs in July, the first monthly decline in months and far below forecasts, while unemployment eased to four point one percent. Investors read the weak report as reducing the chance of a Federal Reserve rate hike, sending the S and P 500 to a record close.
-
-Take-Two Interactive beat quarterly bookings estimates, but its next quarter guidance came in well below Wall Street expectations, sending shares down about two percent; Grand Theft Auto Six remains on track for its November nineteenth release.
-
-DraftKings posted lower revenue and a surprise loss after unfavorable sports outcomes cost it eighty million dollars, but shares rose about six percent as earnings before interest, taxes, depreciation and amortization beat estimates and unique payer growth accelerated.
-
-Buy now pay later company Sezzle beat quarterly earnings estimates, but shares tumbled roughly thirty percent after it guided for slower growth and lower fees in the second half of the year.
-
-Czech Republic and Slovakia.
-
-Czech regional governors said the state road fund will give regions zero crowns this year for repairing secondary and tertiary roads, the first time since twenty fifteen, despite requests for billions in funding; the transport ministry says road upkeep is primarily the regions' own responsibility.
-
-PPF Group.
-
-PPF Group and Live Nation Entertainment formed a joint venture to run Prague's O2 Arena, O2 Universum and Forum Karlin, with Live Nation taking a fifty one percent stake in day to day operations while PPF keeps ownership of the venues.
+Daily News for Sunday, August 9, 2026.
 
 China.
 
-US officials are reviewing whether Chinese AI companies are using legal offshore workarounds, such as renting overseas computing capacity, to access advanced Nvidia chips despite export restrictions, following recent Chinese AI capability breakthroughs.
+China ordered ships in the southern Taiwan Strait to follow storm related traffic control instructions as Typhoon Dolphin made landfall on the Zhejiang and Fujian coast. Taiwan's government called the directive utterly ridiculous, saying Beijing has no authority over international waters, and told vessels to disregard it.
 
-China issued an orange alert as Typhoon Dolphin approached the Zhejiang and Fujian coast with core winds near one hundred miles per hour; authorities suspended all ferry routes and dozens of offshore projects in Zhejiang and began evacuating coastal islands ahead of landfall.
-
-Beijing eased home buying rules further, cutting the required social security payment history for non local residents to purchase property citywide from two years to just one year, the latest step to support its slumping housing market.
+China's July consumer prices rose zero point five percent from a year earlier but slipped zero point one percent from June, while core inflation rose zero point nine percent. Factory gate prices rose three point five percent year over year.
