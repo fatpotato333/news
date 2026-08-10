@@ -1278,6 +1278,62 @@
       "canonical_summary": "China's National Bureau of Statistics reported July 2026 CPI rose 0.5 percent year-on-year (core CPI +0.9 percent) but fell 0.1 percent month-on-month due to import-related factors, while the producer price index (PPI) rose 3.5 percent year-on-year.",
       "source_url": "https://english.news.cn/20260809/8be0d452f506494a9f38e66505a186da/c.html",
       "material_update_of": null
+    },
+    {
+      "event_id": "typhoon-dolphin-zhejiang-shanghai-flooding-aftermath",
+      "reported_date": "2026-08-10",
+      "event_date": "2026-08-10",
+      "category": "China",
+      "entities": [
+        "China",
+        "Zhejiang province",
+        "Shanghai",
+        "Fujian province"
+      ],
+      "event_type": "natural_disaster_update",
+      "canonical_summary": "Typhoon Dolphin's aftermath forced more than one million evacuations in Zhejiang (over 900,000 in Wenzhou alone), flooded more than 100 road sections in Shanghai, forced cancellation of about 1,500 flights, and knocked out a power plant in Zhejiang, with major flood warnings issued for several rivers as heavy rain continued into August 10.",
+      "source_url": "https://news.cgtn.com/news/2026-08-10/Typhoon-Dolphin-hits-Zhejiang-power-plant-floods-Shanghai-streets-1PuoBLimeRy/p.html",
+      "material_update_of": "china-taiwan-strait-typhoon-shipping-directive-dispute"
+    },
+    {
+      "event_id": "moore-threads-hong-kong-listing",
+      "reported_date": "2026-08-10",
+      "event_date": "2026-08-09",
+      "category": "China",
+      "entities": [
+        "Moore Threads"
+      ],
+      "event_type": "ipo_announcement",
+      "canonical_summary": "Chinese AI chipmaker Moore Threads' board approved a Hong Kong H-share listing to tap international capital, following a Shanghai STAR Market debut in December 2025 that saw shares surge roughly 420 percent; first-half revenue rose 147 percent year over year to 1.74 billion yuan while the company still posts a net loss, as Chinese GPU makers race to public markets amid US export controls.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-09/china-ai-chip-designer-moore-threads-plans-hong-kong-listing",
+      "material_update_of": null
+    },
+    {
+      "event_id": "unitree-robotics-ipo-subscription-opens",
+      "reported_date": "2026-08-10",
+      "event_date": "2026-08-10",
+      "category": "China",
+      "entities": [
+        "Unitree Robotics",
+        "Shanghai Stock Exchange"
+      ],
+      "event_type": "ipo_process",
+      "canonical_summary": "Unitree Robotics opened public subscription for its Shanghai STAR Market IPO, pricing shares at 150.80 yuan to raise about 6.1 billion yuan at a roughly 61 billion yuan valuation, up from the 4.2 billion yuan target and over 40 billion yuan valuation set during price inquiry on August 5, making it the first profitable, scaled humanoid-robot maker to go public in China.",
+      "source_url": "https://www.caixinglobal.com/2026-08-07/the-week-ahead-aug-10-16-unitree-opens-star-market-ipo-subscription-102472435.html",
+      "material_update_of": "unitree-robotics-star-market-ipo-price-inquiry"
+    },
+    {
+      "event_id": "czech-mortgage-rates-two-year-high",
+      "reported_date": "2026-08-10",
+      "event_date": "2026-08-10",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech mortgage market"
+      ],
+      "event_type": "interest_rate_data",
+      "canonical_summary": "The average Czech mortgage interest rate rose to 5.42 percent in early August, per Swiss Life Hypoindex data, its fifth consecutive monthly rise and the highest level in two years, pushing monthly payments on a typical 3.5 million koruna 25-year loan to about 21,327 koruna, roughly 1,100 koruna more than in March, with analysts expecting rates to plateau rather than fall soon.",
+      "source_url": "https://www.e15.cz/byznys/reality-a-stavebnictvi/cechum-dal-zdrazuji-hypoteky-sazby-vystoupaly-na-dvoulete-maximum-1434851",
+      "material_update_of": null
     }
   ]
 }
