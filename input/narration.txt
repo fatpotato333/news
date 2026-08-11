@@ -1,13 +1,39 @@
-Daily News for Monday, August 10, 2026.
+Daily News for Tuesday, August 11, 2026.
+
+Artificial intelligence.
+
+Anthropic signed a twenty year deal worth up to sixteen point one billion dollars with Bitcoin miner turned data center operator Riot Platforms for nearly two hundred megawatts of power at its Texas campus, with the first phase due by December 2027, the latest in a string of compute deals as Anthropic races to secure capacity.
+
+Nvidia announced financing partnerships with six major Wall Street firms, including Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR, aiming to mobilize more than five hundred billion dollars in outside capital for AI chips, power, and data centers, treating infrastructure as a new investable asset class; chief executive Jensen Huang said none of the six firms he approached turned him down.
+
+Meta released Muse Glimmer, a thirty billion parameter open source model built to run on a single consumer graphics card for on device AI agents, its first fully open weight release since Llama, alongside a lengthy manifesto from Mark Zuckerberg arguing that superintelligence should be distributed widely rather than concentrated in a few labs.
+
+Alibaba launched an open platform letting outside developers, reportedly including SF Express and Midea, build custom AI agents on its Qwen models across phones, computers, and AI glasses, part of a push to turn Qwen into a full agentic ecosystem.
+
+OpenAI completed a roughly seven billion dollar tender offer letting current and former employees sell shares back to the company, a liquidity step that leaves its valuation unchanged at eight hundred fifty two billion dollars ahead of a possible future stock listing.
+
+Quantum computing.
+
+Researchers at Hefei Sizhen Chip Technology and the University of Science and Technology of China reported, in a new preprint, the largest entangled quantum state yet produced on a silicon photonic chip, generating a verified ten qubit entangled state and running a search algorithm on it with better than ninety eight percent accuracy.
+
+United States stock market.
+
+Intel announced a fifteen billion dollar common stock offering, its first public share sale since going public in 1971, citing strong AI driven demand, with underwriters holding an option for two point two five billion more; shares fell about four percent and dragged down the broader chip sector.
+
+The Trade Desk extended its slide to become the S and P 500's biggest decliner, as fresh analyst downgrades piled onto last week's earnings miss, with revenue of seven hundred fifteen million dollars well short of estimates, over advertisers shifting away from open web programmatic ad auctions.
+
+Airbnb shares climbed to a fresh fifty two week high after BMO Capital raised its price target, building on last week's earnings beat and raised full year guidance projecting revenue growth of at least the mid teens.
 
 Czech Republic and Slovakia.
 
-The average Czech mortgage rate climbed to five point four two percent in early August, the fifth straight monthly increase and the highest level in two years, according to Hypoindex data. Monthly payments on a typical mortgage are now roughly eleven hundred korunas higher than in March, and analysts expect rates to plateau rather than fall soon.
+Czech unemployment rose to five percent in July, the highest for that month in a decade, even as job vacancies also increased, according to the Czech Labour Office; the Ústí nad Labem region had the highest rate at seven point three percent, Prague the lowest at three point nine.
+
+Czech utility ČEZ reported first half net profit up ten percent to eighteen point one billion korunas, driven mainly by the end of windfall tax collections even as operating revenue and earnings fell, and raised its full year profit guidance to thirty one to thirty five billion korunas.
 
 China.
 
-Flooding from Typhoon Dolphin forced more than one million evacuations in Zhejiang province, swamped over one hundred roads in Shanghai, and canceled about fifteen hundred flights, with a power plant in Zhejiang also knocked out as heavy rain continued into Monday.
+A Long March seven A rocket exploded about eighty five seconds after liftoff from Hainan, destroying its ChinaSat satellite payload and triggering an investigation into an engine that also powers the booster planned for China's Chang'e seven moon mission.
 
-Chinese AI chipmaker Moore Threads won board approval for a Hong Kong stock listing, following a nearly four hundred twenty percent share surge since its Shanghai debut in December. First half revenue rose one hundred forty seven percent year over year, though the company remains unprofitable.
+Chinese authorities are intensifying enforcement of social insurance contributions based on real wages rather than under reported pay, a nationwide crackdown expected to raise labor costs for employers, including foreign firms, and squeeze workers' take home pay; regulators estimate roughly two thirds of companies have been underpaying, with total 2025 social insurance collections reaching nine point one trillion yuan.
 
-Humanoid robot maker Unitree opened subscription for its Shanghai stock market listing, pricing shares to raise about six point one billion yuan at a valuation near sixty one billion yuan, well above the target it set five days earlier, making it the first profitable humanoid robotics company to go public in China.
+The remnants of Typhoon Dolphin pushed inland, prompting a new red flood alert for Henan province and a level two flood emergency in Beijing, with construction suspended, tourist sites closed, flexible work arrangements encouraged, and up to two hundred millimeters of rain forecast for the capital within twenty four hours; blue and orange alerts now also cover Hubei, Shandong, Shanxi, and Hebei.
