@@ -1,39 +1,39 @@
-Daily News for Tuesday, August 11, 2026.
+Daily News for Wednesday, August 12, 2026.
 
 Artificial intelligence.
 
-Anthropic signed a twenty year deal worth up to sixteen point one billion dollars with Bitcoin miner turned data center operator Riot Platforms for nearly two hundred megawatts of power at its Texas campus, with the first phase due by December 2027, the latest in a string of compute deals as Anthropic races to secure capacity.
+Google's Gemini app passed one billion monthly active users, calling it the company's fastest growing product ever, with heavy voice use, screen sharing in Gemini Live, and more than one hundred fifty million images generated every day.
 
-Nvidia announced financing partnerships with six major Wall Street firms, including Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR, aiming to mobilize more than five hundred billion dollars in outside capital for AI chips, power, and data centers, treating infrastructure as a new investable asset class; chief executive Jensen Huang said none of the six firms he approached turned him down.
-
-Meta released Muse Glimmer, a thirty billion parameter open source model built to run on a single consumer graphics card for on device AI agents, its first fully open weight release since Llama, alongside a lengthy manifesto from Mark Zuckerberg arguing that superintelligence should be distributed widely rather than concentrated in a few labs.
-
-Alibaba launched an open platform letting outside developers, reportedly including SF Express and Midea, build custom AI agents on its Qwen models across phones, computers, and AI glasses, part of a push to turn Qwen into a full agentic ecosystem.
-
-OpenAI completed a roughly seven billion dollar tender offer letting current and former employees sell shares back to the company, a liquidity step that leaves its valuation unchanged at eight hundred fifty two billion dollars ahead of a possible future stock listing.
+Nvidia released Nemotron three point five Lightning, a thirty billion parameter open weight model built for high volume agentic tasks that runs on a single consumer graphics card, alongside an open source tool called NeMo Switchyard for routing between AI agents.
 
 Quantum computing.
 
-Researchers at Hefei Sizhen Chip Technology and the University of Science and Technology of China reported, in a new preprint, the largest entangled quantum state yet produced on a silicon photonic chip, generating a verified ten qubit entangled state and running a search algorithm on it with better than ninety eight percent accuracy.
+Quantinuum, trading publicly for the first time, reported quarterly revenue up two hundred seventy nine percent to eight million dollars and said its Helios trapped ion system reached near five nines logical fidelity using a new error correction code; it also announced partnerships with Oracle and HPE to bring quantum computing into cloud and high performance computing systems.
 
 United States stock market.
 
-Intel announced a fifteen billion dollar common stock offering, its first public share sale since going public in 1971, citing strong AI driven demand, with underwriters holding an option for two point two five billion more; shares fell about four percent and dragged down the broader chip sector.
+July inflation data showed consumer prices rose just zero point one percent for the month and three point four percent from a year earlier, both cooler than expected, lifting futures on hopes the Federal Reserve has room to cut rates in September.
 
-The Trade Desk extended its slide to become the S and P 500's biggest decliner, as fresh analyst downgrades piled onto last week's earnings miss, with revenue of seven hundred fifteen million dollars well short of estimates, over advertisers shifting away from open web programmatic ad auctions.
+Cloud computing firm CoreWeave beat second quarter estimates with revenue up one hundred twelve percent to two point six billion dollars and raised its full year guidance, sending shares up about twenty percent on continued strong demand for AI computing capacity.
 
-Airbnb shares climbed to a fresh fifty two week high after BMO Capital raised its price target, building on last week's earnings beat and raised full year guidance projecting revenue growth of at least the mid teens.
+Super Micro Computer reported quarterly profit far above expectations, with earnings per share of one dollar seventy cents against a forecast of ninety two cents, and disclosed a record order backlog above sixty billion dollars driven by AI server demand.
+
+Shares of running shoe maker On Holding plunged about twenty two percent, their worst day on record, after the company missed second quarter sales estimates and cut its full year growth guidance, citing a slowdown in the promotional US running market.
 
 Czech Republic and Slovakia.
 
-Czech unemployment rose to five percent in July, the highest for that month in a decade, even as job vacancies also increased, according to the Czech Labour Office; the Ústí nad Labem region had the highest rate at seven point three percent, Prague the lowest at three point nine.
+Slovakia's government unveiled an eight point drought relief package for farmers as extreme drought now covers about fifty nine percent of the country, moving forward roughly two hundred million euros in EU and national payment advances to mid September and easing grazing and organic farming rules for affected producers.
 
-Czech utility ČEZ reported first half net profit up ten percent to eighteen point one billion korunas, driven mainly by the end of windfall tax collections even as operating revenue and earnings fell, and raised its full year profit guidance to thirty one to thirty five billion korunas.
+Czech digital government officials are asking forty thousand volunteers to log into the eDoklady digital ID app simultaneously on Thursday to stress test it ahead of autumn municipal elections, after last year's parliamentary vote crashed the system; officials say updating the app and confirming your PIN in advance should prevent problems.
+
+PPF Group.
+
+CETIN Networks in Slovakia signed a multi year contract with RADCOM to deploy an AI driven network assurance platform across its mobile, core, and voice systems, supporting its rollout of 5G standalone service and a shift to a cloud native network core.
+
+PPF Group is building a new investment company to offer investment products to clients of Air Bank and PPF banka, hiring Michal Semotan from J&T and Patrik Hudec from Generali to lead the new unit pending regulatory approval.
 
 China.
 
-A Long March seven A rocket exploded about eighty five seconds after liftoff from Hainan, destroying its ChinaSat satellite payload and triggering an investigation into an engine that also powers the booster planned for China's Chang'e seven moon mission.
+Former Chinese premier Zhu Rongji, the architect of nineteen nineties state enterprise reform and China's two thousand one entry into the World Trade Organization, died in Beijing at age ninety eight.
 
-Chinese authorities are intensifying enforcement of social insurance contributions based on real wages rather than under reported pay, a nationwide crackdown expected to raise labor costs for employers, including foreign firms, and squeeze workers' take home pay; regulators estimate roughly two thirds of companies have been underpaying, with total 2025 social insurance collections reaching nine point one trillion yuan.
-
-The remnants of Typhoon Dolphin pushed inland, prompting a new red flood alert for Henan province and a level two flood emergency in Beijing, with construction suspended, tourist sites closed, flexible work arrangements encouraged, and up to two hundred millimeters of rain forecast for the capital within twenty four hours; blue and orange alerts now also cover Hubei, Shandong, Shanxi, and Hebei.
+Ant Group led a new financing round worth several hundred million yuan in Shenzhen based tactile sensing robotics firm Daimon Robotics, joined by China Mobile, China Telecom, and Lenovo Capital, as Chinese investors continue pouring money into embodied AI hardware.
