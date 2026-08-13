@@ -1715,6 +1715,142 @@
       "canonical_summary": "Ant Group led a new strategic financing round worth several hundred million yuan in Shenzhen-based tactile-sensing/embodied-AI robotics startup Daimon Robotics, joined by CM Venture, Lenovo Capital, China Mobile and China Telecom; Daimon says it already supplies vision-tactile sensors to Figure, OpenAI, BMW and Google DeepMind.",
       "source_url": "https://eu.36kr.com/en/p/3934449071406212",
       "material_update_of": null
+    },
+    {
+      "event_id": "south-korea-quantum-computing-roadmap-2029",
+      "reported_date": "2026-08-13",
+      "event_date": "2026-08-12",
+      "category": "Quantum Computing",
+      "entities": [
+        "South Korea government"
+      ],
+      "event_type": "government_strategy",
+      "canonical_summary": "South Korea's government unveiled its 'Seven Seed' national strategy naming quantum computing a priority technology, targeting a domestically built, error-corrected 100-qubit-class processor by 2029.",
+      "source_url": "https://bworldonline.com/technology/2026/08/12/769734/south-korea-unveils-future-technology-drivers-targets-moon-landing-by-2030/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "yonsei-ibm-nighthawk-installation",
+      "reported_date": "2026-08-13",
+      "event_date": "2026-08-12",
+      "category": "Quantum Computing",
+      "entities": [
+        "Yonsei University",
+        "IBM"
+      ],
+      "event_type": "hardware_deployment",
+      "canonical_summary": "Yonsei University in South Korea will install IBM's Nighthawk quantum processor on-premises in November, becoming only the second institution worldwide to deploy the chip.",
+      "source_url": "https://thequantuminsider.com/2026/08/12/yonsei-quantum-initiative-ibm-nighthawk-processor-installation/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "cisco-q4-fy2026-earnings-beat-selloff",
+      "reported_date": "2026-08-13",
+      "event_date": "2026-08-12",
+      "category": "US Stock Market",
+      "entities": [
+        "Cisco Systems"
+      ],
+      "event_type": "earnings",
+      "canonical_summary": "Cisco reported fiscal Q4 2026 revenue of $17.3 billion and adjusted EPS of $1.22, both above estimates, with AI infrastructure orders topping $9 billion for the year, but shares fell about 4 percent after hours on cautious guidance.",
+      "source_url": "https://investor.cisco.com/news/news-details/2026/CISCO-REPORTS-FOURTH-QUARTER-AND-FISCAL-YEAR-2026-EARNINGS/default.aspx",
+      "material_update_of": null
+    },
+    {
+      "event_id": "micron-trillion-market-cap-memory-supply-surge",
+      "reported_date": "2026-08-13",
+      "event_date": "2026-08-12",
+      "category": "US Stock Market",
+      "entities": [
+        "Micron Technology"
+      ],
+      "event_type": "stock_move",
+      "canonical_summary": "Micron shares surged about 6.5 percent, pushing its market value back above $1 trillion, after industry commentary indicated AI-driven memory chip demand will outstrip supply through 2027.",
+      "source_url": "https://www.benzinga.com/markets/tech/26/08/61153003/micron-stock-reclaims-1-trillion-market-cap-memory",
+      "material_update_of": null
+    },
+    {
+      "event_id": "lumentum-q4-fy26-earnings-ai-optics-demand",
+      "reported_date": "2026-08-13",
+      "event_date": "2026-08-12",
+      "category": "US Stock Market",
+      "entities": [
+        "Lumentum Holdings"
+      ],
+      "event_type": "earnings",
+      "canonical_summary": "Lumentum reported fiscal Q4 revenue up 109 percent year over year to about $1 billion and issued guidance well above estimates on surging demand for AI data-center optical components, sending shares up sharply.",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/why-lumentum-holdings-stock-soaring-171154351.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-drought-farm-aid-cabinet-meeting",
+      "reported_date": "2026-08-13",
+      "event_date": "2026-08-12",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech government",
+        "Ministry of Agriculture"
+      ],
+      "event_type": "policy_announcement",
+      "canonical_summary": "Czech Prime Minister Andrej Babiš said the government will discuss drought-driven farm losses, including possible operating-loan support for livestock farmers, at a cabinet meeting on August 17.",
+      "source_url": "https://www.echo24.cz/a/HqsmA/zpravy-domov-sucho-drti-zemedelce",
+      "material_update_of": null
+    },
+    {
+      "event_id": "eu-ppwr-packaging-rules-china-exporters",
+      "reported_date": "2026-08-13",
+      "event_date": "2026-08-12",
+      "category": "China",
+      "entities": [
+        "European Commission",
+        "Chinese e-commerce exporters"
+      ],
+      "event_type": "regulation",
+      "canonical_summary": "The EU's new Packaging and Packaging Waste Regulation took effect across the bloc, closing a loophole Chinese e-commerce exporters had used and imposing stricter recyclability and producer-responsibility rules.",
+      "source_url": "https://commission.europa.eu/news-and-media/news/new-packaging-rules-less-waste-and-easier-recycling-2026-08-12_en",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-iran-rare-earth-research-cooperation",
+      "reported_date": "2026-08-13",
+      "event_date": "2026-08-12",
+      "category": "China",
+      "entities": [
+        "China National Natural Science Foundation",
+        "Iran National Science Foundation"
+      ],
+      "event_type": "geopolitical_cooperation",
+      "canonical_summary": "China's national science foundation expanded a research partnership with Iran to include rare-earth exploration and processing, technology Beijing otherwise restricts from export.",
+      "source_url": "https://www.scmp.com/news/china/science/article/3363814/china-sending-scientists-iran-rare-earth-exploration-and-processing",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-ev-sales-decline-seventh-month",
+      "reported_date": "2026-08-13",
+      "event_date": "2026-08-12",
+      "category": "China",
+      "entities": [
+        "BYD",
+        "Geely",
+        "Chinese EV sector"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "China's electric vehicle sales fell for a seventh straight month in July as purchase-tax incentives faded, even as exports kept climbing toward roughly 10 million vehicles for the year.",
+      "source_url": "https://www.scmp.com/business/china-business/article/3363737/chinas-ev-sales-slide-again-amid-fading-incentives-weak-demand-and-persistent-price-war",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-china-export-control-survey-no-strategic-gain",
+      "reported_date": "2026-08-13",
+      "event_date": "2026-08-12",
+      "category": "China",
+      "entities": [
+        "US-China Business Council"
+      ],
+      "event_type": "survey_report",
+      "canonical_summary": "A US-China Business Council survey of member firms found US export controls are costing American companies billions in lost sales to Chinese competitors without achieving clear strategic gains.",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3363698/us-export-controls-achieving-no-strategic-gain-hurting-american-firms-survey-finds",
+      "material_update_of": null
     }
   ]
 }

@@ -1,39 +1,29 @@
-Daily News for Wednesday, August 12, 2026.
-
-Artificial intelligence.
-
-Google's Gemini app passed one billion monthly active users, calling it the company's fastest growing product ever, with heavy voice use, screen sharing in Gemini Live, and more than one hundred fifty million images generated every day.
-
-Nvidia released Nemotron three point five Lightning, a thirty billion parameter open weight model built for high volume agentic tasks that runs on a single consumer graphics card, alongside an open source tool called NeMo Switchyard for routing between AI agents.
+Daily News for Thursday, August 13, 2026.
 
 Quantum computing.
 
-Quantinuum, trading publicly for the first time, reported quarterly revenue up two hundred seventy nine percent to eight million dollars and said its Helios trapped ion system reached near five nines logical fidelity using a new error correction code; it also announced partnerships with Oracle and HPE to bring quantum computing into cloud and high performance computing systems.
+South Korea's government unveiled a new national strategy called Seven Seed, naming quantum computing a priority technology and targeting a domestically built, error corrected one hundred qubit processor by twenty twenty nine.
+
+Yonsei University in South Korea will install IBM's Nighthawk quantum processor on site in November, becoming only the second institution in the world to run the chip, pairing it with a new platform for drug discovery and genetic disease research.
 
 United States stock market.
 
-July inflation data showed consumer prices rose just zero point one percent for the month and three point four percent from a year earlier, both cooler than expected, lifting futures on hopes the Federal Reserve has room to cut rates in September.
+Cisco reported fourth quarter revenue of seventeen point three billion dollars and adjusted earnings of one dollar twenty two cents a share, both above estimates, with AI infrastructure orders topping nine billion dollars for the year, but shares fell about four percent after hours on cautious guidance.
 
-Cloud computing firm CoreWeave beat second quarter estimates with revenue up one hundred twelve percent to two point six billion dollars and raised its full year guidance, sending shares up about twenty percent on continued strong demand for AI computing capacity.
+Micron shares surged about six and a half percent, pushing its market value back above one trillion dollars, after industry commentary said AI driven memory chip demand will outstrip supply through twenty twenty seven.
 
-Super Micro Computer reported quarterly profit far above expectations, with earnings per share of one dollar seventy cents against a forecast of ninety two cents, and disclosed a record order backlog above sixty billion dollars driven by AI server demand.
-
-Shares of running shoe maker On Holding plunged about twenty two percent, their worst day on record, after the company missed second quarter sales estimates and cut its full year growth guidance, citing a slowdown in the promotional US running market.
+Lumentum reported fiscal fourth quarter revenue up one hundred nine percent to about one billion dollars and issued guidance well above estimates, citing surging demand for AI data center optical components, and shares jumped sharply.
 
 Czech Republic and Slovakia.
 
-Slovakia's government unveiled an eight point drought relief package for farmers as extreme drought now covers about fifty nine percent of the country, moving forward roughly two hundred million euros in EU and national payment advances to mid September and easing grazing and organic farming rules for affected producers.
-
-Czech digital government officials are asking forty thousand volunteers to log into the eDoklady digital ID app simultaneously on Thursday to stress test it ahead of autumn municipal elections, after last year's parliamentary vote crashed the system; officials say updating the app and confirming your PIN in advance should prevent problems.
-
-PPF Group.
-
-CETIN Networks in Slovakia signed a multi year contract with RADCOM to deploy an AI driven network assurance platform across its mobile, core, and voice systems, supporting its rollout of 5G standalone service and a shift to a cloud native network core.
-
-PPF Group is building a new investment company to offer investment products to clients of Air Bank and PPF banka, hiring Michal Semotan from J&T and Patrik Hudec from Generali to lead the new unit pending regulatory approval.
+Czech Prime Minister Andrej Babiš said the government will discuss drought driven farm losses, including possible operating loan support for livestock farmers facing feed shortages, at a cabinet meeting on August seventeenth.
 
 China.
 
-Former Chinese premier Zhu Rongji, the architect of nineteen nineties state enterprise reform and China's two thousand one entry into the World Trade Organization, died in Beijing at age ninety eight.
+The European Union's new packaging waste regulation took effect across the bloc, closing a loophole that Chinese e commerce exporters had used to enter through more lenient member states and imposing stricter recycling and producer responsibility rules.
 
-Ant Group led a new financing round worth several hundred million yuan in Shenzhen based tactile sensing robotics firm Daimon Robotics, joined by China Mobile, China Telecom, and Lenovo Capital, as Chinese investors continue pouring money into embodied AI hardware.
+China's national science foundation expanded a research partnership with Iran to include rare earth exploration and processing, technology that Beijing otherwise restricts from export.
+
+China's electric vehicle sales fell for a seventh straight month in July as purchase tax incentives faded, even as exports kept climbing toward roughly ten million vehicles for the year, led by BYD and Geely.
+
+A survey by the US China Business Council found that American export controls are costing US companies billions of dollars in lost sales to Chinese competitors without achieving clear strategic gains, since most restricted items are already available from Chinese or other suppliers.
