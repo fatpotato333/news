@@ -1,29 +1,31 @@
-Daily News for Thursday, August 13, 2026.
+Daily News for Friday, August 14, 2026.
+
+Artificial intelligence.
+
+DeepSeek made its V4 Pro model generally available across its app, web, and API, adding agentic tool use, a one million token context window, and compatibility with OpenAI's Codex interface, alongside a new peak and off peak pricing structure that raises rates for both V4 Pro and V4 Flash.
+OpenAI introduced Ultrafast, a new API tier that runs its GPT 5.6 Sol model up to fourteen times faster, at up to seven hundred fifty output tokens per second, using Cerebras hardware, with no claimed loss in intelligence, rolling out first to select API customers.
+Larsen and Toubro will build one of India's largest single cluster AI computing installations, deploying about ten thousand Nvidia B300 chips at its Chennai data center campus for the American company Together AI, in a deal worth roughly one to two billion dollars.
+Microsoft cut its purchases of carbon removal credits by about eighty percent over the past year, to around eight and a half million metric tons, as it redirects capital toward AI data center buildout.
 
 Quantum computing.
 
-South Korea's government unveiled a new national strategy called Seven Seed, naming quantum computing a priority technology and targeting a domestically built, error corrected one hundred qubit processor by twenty twenty nine.
-
-Yonsei University in South Korea will install IBM's Nighthawk quantum processor on site in November, becoming only the second institution in the world to run the chip, pairing it with a new platform for drug discovery and genetic disease research.
+The Defense Advanced Research Projects Agency awarded quantum networking company Qunnect a contract to build a new real time signal stabilization module for its entanglement distribution hardware, which underpins operational metro quantum networks already running in New York, Bozeman, Berlin, and Albuquerque.
 
 United States stock market.
 
-Cisco reported fourth quarter revenue of seventeen point three billion dollars and adjusted earnings of one dollar twenty two cents a share, both above estimates, with AI infrastructure orders topping nine billion dollars for the year, but shares fell about four percent after hours on cautious guidance.
-
-Micron shares surged about six and a half percent, pushing its market value back above one trillion dollars, after industry commentary said AI driven memory chip demand will outstrip supply through twenty twenty seven.
-
-Lumentum reported fiscal fourth quarter revenue up one hundred nine percent to about one billion dollars and issued guidance well above estimates, citing surging demand for AI data center optical components, and shares jumped sharply.
+The S&P 500 and Nasdaq closed at record highs Thursday, with the S&P up around zero point seven percent and the Nasdaq up around zero point eight percent, helped by a flat July producer price report, falling oil prices after the International Energy Agency and OPEC cut demand forecasts, and strength in AI chip maker Micron, even as weekly jobless claims ticked up to two hundred nine thousand.
+Applied Materials beat fiscal third quarter estimates, with revenue up nearly twenty five percent to about nine point one billion dollars, and raised its guidance, but its stock fell around five percent after revenue from China dropped to twenty eight percent of sales from thirty five percent a year earlier.
+Netflix shares rose after Bill Ackman's Pershing Square disclosed a new stake of about three million shares, close to five percent of its portfolio, marking Ackman's return to the stock after an earlier loss of roughly four hundred million dollars.
+July retail sales rose about zero point three percent from June and roughly five percent from a year earlier, suggesting consumer spending held up heading into the back to school season.
 
 Czech Republic and Slovakia.
 
-Czech Prime Minister Andrej Babiš said the government will discuss drought driven farm losses, including possible operating loan support for livestock farmers facing feed shortages, at a cabinet meeting on August seventeenth.
+Czech fuel prices have stopped falling now that last month's temporary price cap has ended, with gasoline averaging about forty one crowns and diesel about forty four crowns per liter, both still well above year ago levels, and analysts expecting prices to hold steady for now barring new Middle East tensions.
+Slovak inflation slowed to three point three percent in July, its lowest in nineteen months, as food prices fell, but housing and energy costs jumped seven point four percent, the steepest rise in three years, with heating bills up roughly twenty eight percent since January.
 
 China.
 
-The European Union's new packaging waste regulation took effect across the bloc, closing a loophole that Chinese e commerce exporters had used to enter through more lenient member states and imposing stricter recycling and producer responsibility rules.
-
-China's national science foundation expanded a research partnership with Iran to include rare earth exploration and processing, technology that Beijing otherwise restricts from export.
-
-China's electric vehicle sales fell for a seventh straight month in July as purchase tax incentives faded, even as exports kept climbing toward roughly ten million vehicles for the year, led by BYD and Geely.
-
-A survey by the US China Business Council found that American export controls are costing US companies billions of dollars in lost sales to Chinese competitors without achieving clear strategic gains, since most restricted items are already available from Chinese or other suppliers.
+A White House report accused Chinese exporters of routing about seventy five billion dollars a year in goods through more than forty countries, including several Latin American nations, to disguise their origin and dodge US tariffs, an evasion the report estimates costs nineteen to twenty six billion dollars a year in lost US tariff revenue.
+China's top two chipmakers, SMIC and Hua Hong, posted sharply higher second quarter profits, with SMIC's net profit up over two hundred sixty percent and revenue above three billion dollars for the first time, as domestic AI chip demand and tight capacity pushed prices up despite US export controls.
+A levee on the Beiru River in Henan province broke after torrential rain of more than four hundred millimeters in two days, forcing the evacuation of more than six thousand five hundred people across two cities, though no casualties were reported.
+China conducted a joint naval exercise with an Indonesian warship in waters east of Taiwan, which the US State Department called destabilizing and urged Beijing to halt, and which Taiwan's foreign ministry called a malicious provocation, while Indonesia described it as a routine passing exercise.

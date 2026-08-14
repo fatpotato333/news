@@ -1851,6 +1851,216 @@
       "canonical_summary": "A US-China Business Council survey of member firms found US export controls are costing American companies billions in lost sales to Chinese competitors without achieving clear strategic gains.",
       "source_url": "https://www.scmp.com/news/china/diplomacy/article/3363698/us-export-controls-achieving-no-strategic-gain-hurting-american-firms-survey-finds",
       "material_update_of": null
+    },
+    {
+      "event_id": "deepseek-v4-pro-general-availability",
+      "reported_date": "2026-08-14",
+      "event_date": "2026-08-13",
+      "category": "AI",
+      "entities": [
+        "DeepSeek"
+      ],
+      "event_type": "model_release",
+      "canonical_summary": "DeepSeek moved DeepSeek-V4-Pro-0813 out of preview to general availability across its app, web and API, emphasizing agentic tool use, a 1 million token context window and native OpenAI Responses API/Codex compatibility, alongside a new peak/off-peak pricing structure with a rate increase for V4 Pro and V4 Flash.",
+      "source_url": "https://www.investing.com/news/economy-news/deepseek-releases-official-v4-pro-model-as-it-steps-up-expansion-4857986",
+      "material_update_of": null
+    },
+    {
+      "event_id": "openai-ultrafast-gpt-5-6-sol-cerebras",
+      "reported_date": "2026-08-14",
+      "event_date": "2026-08-13",
+      "category": "AI",
+      "entities": [
+        "OpenAI",
+        "Cerebras"
+      ],
+      "event_type": "api_capability",
+      "canonical_summary": "OpenAI previewed 'Ultrafast', a new API service tier running GPT-5.6 Sol up to 14 times faster (up to 750 output tokens per second) via Cerebras hardware with no claimed intelligence trade-off, rolling out first to a select group of API customers.",
+      "source_url": "https://openai.com/index/previewing-ultrafast/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "lt-nvidia-b300-india-datacenter-together-ai",
+      "reported_date": "2026-08-14",
+      "event_date": "2026-08-13",
+      "category": "AI",
+      "entities": [
+        "Larsen & Toubro",
+        "NVIDIA",
+        "Together AI"
+      ],
+      "event_type": "datacenter_deployment",
+      "canonical_summary": "Larsen & Toubro secured an order worth roughly Rs 10,000-15,000 crore (about USD 1.2-1.8 billion) to deploy about 10,000 Nvidia B300 GPUs at its Chennai data center campus for US-based Together AI, described as India's largest single-cluster AI installation to date.",
+      "source_url": "https://www.business-standard.com/companies/news/l-and-t-to-set-up-nvidia-b300-ai-factory-for-together-ai-126081301000_1.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "microsoft-carbon-removal-purchases-cut-80-percent",
+      "reported_date": "2026-08-14",
+      "event_date": "2026-08-13",
+      "category": "AI",
+      "entities": [
+        "Microsoft"
+      ],
+      "event_type": "sustainability_strategy",
+      "canonical_summary": "Microsoft purchased about 8.55 million metric tons of carbon-removal credits in the year through mid-July, roughly 80 percent less than the same period in 2025, as it redirects capital toward AI data-center buildout.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-13/microsoft-cuts-purchases-of-carbon-removals-by-80-amid-ai-push",
+      "material_update_of": null
+    },
+    {
+      "event_id": "darpa-qunnect-quantum-network-contract",
+      "reported_date": "2026-08-14",
+      "event_date": "2026-08-13",
+      "category": "Quantum Computing",
+      "entities": [
+        "DARPA",
+        "Qunnect"
+      ],
+      "event_type": "government_contract",
+      "canonical_summary": "DARPA awarded Qunnect a contract under its quantum-networking programs to develop a next-generation real-time polarization compensation module for its Carina quantum entanglement-distribution racks, which anchor operational metro quantum networks in New York, Bozeman, Berlin and Albuquerque.",
+      "source_url": "https://www.prnewswire.com/news-releases/darpa-taps-qunnect-to-strengthen-the-reliability-and-resilience-of-quantum-networks-302850896.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "sp500-nasdaq-record-close-cooling-inflation-august-13",
+      "reported_date": "2026-08-14",
+      "event_date": "2026-08-13",
+      "category": "US Stock Market",
+      "entities": [
+        "S&P 500",
+        "Nasdaq Composite",
+        "Dow Jones Industrial Average"
+      ],
+      "event_type": "market_move",
+      "canonical_summary": "The S&P 500 rose 0.65 percent to a record close of 7,798.99 and the Nasdaq Composite gained 0.81 percent to 26,803.03, while the Dow edged up 0.13 percent, as a flat July producer price index, falling oil prices after IEA and OPEC cut demand forecasts, and AI-chip-driven gains in Micron helped offset a slightly higher weekly jobless-claims reading of 209,000.",
+      "source_url": "https://www.washingtonpost.com/business/2026/08/13/wall-street-stocks-dow-nasdaq/c1b80e16-9754-11f1-9ef9-1be722184483_story.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "applied-materials-q3-fy26-earnings-china-decline",
+      "reported_date": "2026-08-14",
+      "event_date": "2026-08-13",
+      "category": "US Stock Market",
+      "entities": [
+        "Applied Materials"
+      ],
+      "event_type": "earnings",
+      "canonical_summary": "Applied Materials reported fiscal third-quarter revenue of 9.12 billion dollars, up 24.8 percent year over year and above estimates, with adjusted earnings per share of 3.50 dollars and above-consensus fourth-quarter guidance of about 10.25 billion dollars, but shares fell around 5 percent as China revenue dropped to 28 percent of sales from 35 percent a year earlier amid export-control pressure.",
+      "source_url": "https://www.tikr.com/blog/applied-materials-beat-q2-estimates-and-raised-its-2026-outlook-the-stock-dipped-heres-what-investors-should-know",
+      "material_update_of": null
+    },
+    {
+      "event_id": "netflix-ackman-pershing-square-stake",
+      "reported_date": "2026-08-14",
+      "event_date": "2026-08-13",
+      "category": "US Stock Market",
+      "entities": [
+        "Netflix",
+        "Pershing Square Capital",
+        "Bill Ackman"
+      ],
+      "event_type": "investor_disclosure",
+      "canonical_summary": "Netflix shares rose roughly 3 to 5 percent after Bill Ackman's Pershing Square disclosed a new stake of about 3.15 million shares, roughly 4.9 percent of its portfolio, marking Ackman's return to Netflix after an earlier loss of about 400 million dollars on the stock.",
+      "source_url": "https://ca.finance.yahoo.com/news/netflix-stock-jumps-3-4-175150344.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-july-2026-retail-sales",
+      "reported_date": "2026-08-14",
+      "event_date": "2026-08-14",
+      "category": "US Stock Market",
+      "entities": [
+        "US Census Bureau"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "July retail sales excluding autos rose about 0.3 percent from June and roughly 5 percent from a year earlier, the first major US economic data point of Friday's session, indicating consumer spending held up heading into the back-to-school season.",
+      "source_url": "https://www.census.gov/retail/marts/www/marts_current.pdf",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-fuel-prices-stagnate-post-cap",
+      "reported_date": "2026-08-14",
+      "event_date": "2026-08-12",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech fuel market"
+      ],
+      "event_type": "price_trend",
+      "canonical_summary": "Czech Natural 95 petrol averaged 41.47 crowns per liter and diesel 44.06 crowns per liter, both still well above year-ago levels, with analysts saying the price decline since the fuel price cap ended on 20 July has run its course and expecting prices to stagnate in the coming days, with Middle East tensions as an upside risk.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/analytici-zlevnovani-paliv-skoncilo-v-pristich-dnech-budou-ceny-stagnovat/2861542",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-july-2026-inflation-19-month-low",
+      "reported_date": "2026-08-14",
+      "event_date": "2026-08-13",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Statistical Office of the Slovak Republic"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "Slovak annual inflation slowed to 3.3 percent in July 2026, its lowest in 19 months, driven by a 2.1 percent year-on-year drop in food prices, while housing and energy costs jumped 7.4 percent year over year, the steepest rise in three years, with heating costs up roughly 28 percent since January.",
+      "source_url": "https://www.ta3.com/clanok/1065803/potraviny-v-juli-zlacneli-inflacia-klesla-na-najnizsiu-uroven-za-19-mesiacov-najviac-rastli-ceny-byvania-a-energie",
+      "material_update_of": null
+    },
+    {
+      "event_id": "white-house-china-transshipment-tariff-evasion-report",
+      "reported_date": "2026-08-14",
+      "event_date": "2026-08-13",
+      "category": "China",
+      "entities": [
+        "White House Office of Trade and Manufacturing Policy",
+        "China"
+      ],
+      "event_type": "trade_report",
+      "canonical_summary": "A White House report accused Chinese exporters of routing about 75 billion dollars a year in goods through more than 40 third countries, including nine Latin American nations plus India, Canada, the EU, Japan and South Korea, to disguise their origin and evade US tariffs, estimating 19 to 26 billion dollars in annual lost US tariff revenue.",
+      "source_url": "https://www.scmp.com/news/us/article/3363925/us-accuses-chinese-exporters-masterminding-great-transshipment-scam",
+      "material_update_of": null
+    },
+    {
+      "event_id": "smic-hua-hong-q2-2026-profit-surge-ai-chip-demand",
+      "reported_date": "2026-08-14",
+      "event_date": "2026-08-13",
+      "category": "China",
+      "entities": [
+        "SMIC",
+        "Hua Hong Semiconductor"
+      ],
+      "event_type": "earnings",
+      "canonical_summary": "China's top two chip foundries reported sharply higher second-quarter profits, with SMIC net profit up 262 percent year over year on revenue over 3 billion dollars for the first time and Hua Hong posting record revenue of 717.5 million dollars, as domestic AI-chip demand and tight mature-node capacity lifted prices despite US export controls.",
+      "source_url": "https://www.scmp.com/tech/tech-trends/article/3363929/ai-demand-drives-triple-digit-quarterly-profit-growth-chinese-foundries-smic-hua-hong",
+      "material_update_of": null
+    },
+    {
+      "event_id": "henan-beiru-river-levee-breach-evacuations",
+      "reported_date": "2026-08-14",
+      "event_date": "2026-08-12",
+      "category": "China",
+      "entities": [
+        "Henan provincial government",
+        "Pingdingshan",
+        "Luohe"
+      ],
+      "event_type": "natural_disaster",
+      "canonical_summary": "Torrential rain of up to 434 millimeters in 48 hours triggered a 40-meter levee breach on the Beiru River in Henan's Jiaxian County, prompting the evacuation of more than 6,500 people across Pingdingshan and Luohe with no casualties reported, following the red flood alert issued for Henan on 11 August as Typhoon Dolphin's remnants moved inland.",
+      "source_url": "https://english.news.cn/20260813/9c36649ae85b469d9bfac50b829829c8/c.html",
+      "material_update_of": "typhoon-dolphin-inland-shift-beijing-henan-alerts"
+    },
+    {
+      "event_id": "china-indonesia-naval-drill-taiwan-condemnation",
+      "reported_date": "2026-08-14",
+      "event_date": "2026-08-12",
+      "category": "China",
+      "entities": [
+        "China PLA Eastern Theater Command",
+        "Indonesian Navy",
+        "US State Department",
+        "Taiwan Ministry of Foreign Affairs"
+      ],
+      "event_type": "military_geopolitical",
+      "canonical_summary": "China conducted a joint naval exercise with an Indonesian frigate east of Taiwan, prompting the US State Department to call it destabilizing and Taiwan's foreign ministry to call it malicious provocation, while Indonesia described it as a routine passing exercise.",
+      "source_url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/14/2003862476",
+      "material_update_of": null
     }
   ]
 }
