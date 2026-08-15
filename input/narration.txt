@@ -1,31 +1,29 @@
-Daily News for Friday, August 14, 2026.
+Daily News for Saturday, August 15, 2026.
 
 Artificial intelligence.
 
-DeepSeek made its V4 Pro model generally available across its app, web, and API, adding agentic tool use, a one million token context window, and compatibility with OpenAI's Codex interface, alongside a new peak and off peak pricing structure that raises rates for both V4 Pro and V4 Flash.
-OpenAI introduced Ultrafast, a new API tier that runs its GPT 5.6 Sol model up to fourteen times faster, at up to seven hundred fifty output tokens per second, using Cerebras hardware, with no claimed loss in intelligence, rolling out first to select API customers.
-Larsen and Toubro will build one of India's largest single cluster AI computing installations, deploying about ten thousand Nvidia B300 chips at its Chennai data center campus for the American company Together AI, in a deal worth roughly one to two billion dollars.
-Microsoft cut its purchases of carbon removal credits by about eighty percent over the past year, to around eight and a half million metric tons, as it redirects capital toward AI data center buildout.
+Apple has built its own proprietary AI model for the Chinese market with technical assistance from Alibaba, reportedly becoming the first foreign company cleared by Beijing to offer a self developed AI model there. Apple had previously planned to rely on Alibaba's own Qwen model, and the new rollout is expected within the coming months.
+Zhipu AI released its GLM 5.3 model, claiming a fifty percent jump in coding capability over the prior version from post training improvements alone, and the top rank among open weight models on two major coding and agent benchmarks. The company also reported the model found over two thousand four hundred security vulnerabilities across more than two hundred software projects during testing, a success rate above eighty percent on a leading cybersecurity benchmark, with open weights following in about two weeks after a security review.
 
 Quantum computing.
 
-The Defense Advanced Research Projects Agency awarded quantum networking company Qunnect a contract to build a new real time signal stabilization module for its entanglement distribution hardware, which underpins operational metro quantum networks already running in New York, Bozeman, Berlin, and Albuquerque.
+Quantinuum and Taiwan's Quanta Computer announced a partnership to jointly engineer modular, manufacturable hardware for large scale, fault tolerant quantum computers, aiming to industrialize quantum systems production, with joint engineering work already underway; no investment figure was disclosed.
 
 United States stock market.
 
-The S&P 500 and Nasdaq closed at record highs Thursday, with the S&P up around zero point seven percent and the Nasdaq up around zero point eight percent, helped by a flat July producer price report, falling oil prices after the International Energy Agency and OPEC cut demand forecasts, and strength in AI chip maker Micron, even as weekly jobless claims ticked up to two hundred nine thousand.
-Applied Materials beat fiscal third quarter estimates, with revenue up nearly twenty five percent to about nine point one billion dollars, and raised its guidance, but its stock fell around five percent after revenue from China dropped to twenty eight percent of sales from thirty five percent a year earlier.
-Netflix shares rose after Bill Ackman's Pershing Square disclosed a new stake of about three million shares, close to five percent of its portfolio, marking Ackman's return to the stock after an earlier loss of roughly four hundred million dollars.
-July retail sales rose about zero point three percent from June and roughly five percent from a year earlier, suggesting consumer spending held up heading into the back to school season.
+Broadcom shares fell about six percent after Bank of America questioned the scale of the company's AI chip financing arrangements, estimating its related debt could reach roughly three hundred seventy billion dollars by 2029, fueling broader concern about how AI infrastructure spending is being funded, even as Broadcom's own guidance still points to AI semiconductor revenue roughly tripling from a year earlier.
+Reddit shares jumped about thirteen percent after S&P Dow Jones Indices said Reddit will join the S&P 500, making it only the second pure play social media company in the index after Meta, with index funds needing to buy shares ahead of the effective date next week.
+Nu Holdings, parent of Nubank, rose about ten percent after posting its first ever quarter above one billion dollars in net profit, up forty nine percent from a year earlier, as revenue beat estimates near six billion dollars and its Latin American customer base reached one hundred thirty nine million across Brazil, Mexico, and Colombia.
+KinderCare Learning Companies shares collapsed about forty four percent after missing quarterly earnings estimates and cutting full year guidance, citing falling enrollment, lower government childcare subsidy assumptions, and the closure of forty nine centers; JPMorgan downgraded the stock following the report.
 
 Czech Republic and Slovakia.
 
-Czech fuel prices have stopped falling now that last month's temporary price cap has ended, with gasoline averaging about forty one crowns and diesel about forty four crowns per liter, both still well above year ago levels, and analysts expecting prices to hold steady for now barring new Middle East tensions.
-Slovak inflation slowed to three point three percent in July, its lowest in nineteen months, as food prices fell, but housing and energy costs jumped seven point four percent, the steepest rise in three years, with heating bills up roughly twenty eight percent since January.
+Czech banks issued forty point four billion crowns in new mortgages in July, up seven percent from a year earlier, even as the average rate rose to four point nine percent, pushing monthly payments on new loans up roughly two thousand nine hundred crowns versus last year.
+The number of Czechs saving in third pillar pension funds fell by eighteen thousand in the first half of the year, the first such decline in years, as a proposed finance ministry rule would cap fees at zero point five percent and phase out older transformed funds by 2036; assets in these funds have topped seven hundred billion crowns.
+Slovakia's economy grew just zero point seven percent year over year in the second quarter, its weakest pace in a year and below forecasts, as investment fell and growth relied only on consumer spending, leaving Slovakia trailing Poland, Czechia, and the broader European Union average, and adding pressure on the government's stalled budget talks.
+The Czech National Bank fined CSOB a record thirty million crowns, the largest anti money laundering penalty it has issued, citing inadequate checks on risky cash transactions and incomplete ownership verification on more than eight thousand four hundred corporate clients.
 
 China.
 
-A White House report accused Chinese exporters of routing about seventy five billion dollars a year in goods through more than forty countries, including several Latin American nations, to disguise their origin and dodge US tariffs, an evasion the report estimates costs nineteen to twenty six billion dollars a year in lost US tariff revenue.
-China's top two chipmakers, SMIC and Hua Hong, posted sharply higher second quarter profits, with SMIC's net profit up over two hundred sixty percent and revenue above three billion dollars for the first time, as domestic AI chip demand and tight capacity pushed prices up despite US export controls.
-A levee on the Beiru River in Henan province broke after torrential rain of more than four hundred millimeters in two days, forcing the evacuation of more than six thousand five hundred people across two cities, though no casualties were reported.
-China conducted a joint naval exercise with an Indonesian warship in waters east of Taiwan, which the US State Department called destabilizing and urged Beijing to halt, and which Taiwan's foreign ministry called a malicious provocation, while Indonesia described it as a routine passing exercise.
+China and Brazil disclosed new details of a joint geostationary satellite program for round the clock disaster early warning across South America, with Brazil building the platform and China supplying the instruments, targeting a 2030 launch that would make Brazil one of the few nations able to build and operate a geostationary satellite.
+A levee on the Jialu River in Zhoukou, Henan province, broke under heavy rain from Typhoon Dolphin's remnants, flooding a hospital and a driving school and forcing the evacuation of four hundred thirty two people, including hospital patients and staff, as Beijing dispatched two hundred rescue personnel to the area.

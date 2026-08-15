@@ -2061,6 +2061,184 @@
       "canonical_summary": "China conducted a joint naval exercise with an Indonesian frigate east of Taiwan, prompting the US State Department to call it destabilizing and Taiwan's foreign ministry to call it malicious provocation, while Indonesia described it as a routine passing exercise.",
       "source_url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/14/2003862476",
       "material_update_of": null
+    },
+    {
+      "event_id": "apple-alibaba-china-ai-model",
+      "reported_date": "2026-08-15",
+      "event_date": "2026-08-14",
+      "category": "AI",
+      "entities": [
+        "Apple",
+        "Alibaba"
+      ],
+      "event_type": "model_development",
+      "canonical_summary": "Apple built its own proprietary AI model for the Chinese market with technical assistance from Alibaba, reportedly becoming the first foreign company cleared by Beijing to offer a self-developed AI model in China, having previously planned to rely on Alibaba's Qwen model directly; rollout expected within coming months.",
+      "source_url": "https://www.macrumors.com/2026/08/14/apple-trained-own-ai-model-for-china/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "zhipu-glm-5-3-release",
+      "reported_date": "2026-08-15",
+      "event_date": "2026-08-14",
+      "category": "AI",
+      "entities": [
+        "Zhipu AI (Z.ai)"
+      ],
+      "event_type": "model_release",
+      "canonical_summary": "Zhipu AI released GLM-5.3, claiming a 50 percent coding-capability improvement over GLM-5.2 from post-training scaling alone, ranking first among open-weight models on Terminal-Bench 3.0 and Agents' Last Exam, and reporting it found 2,436 vulnerabilities across 269 projects with an 84.5 percent success rate on the CyberGym benchmark; open weights to follow in about two weeks after security review.",
+      "source_url": "https://the-decoder.com/zhipu-ai-releases-glm-5-3-claims-its-the-strongest-open-weights-coding-model/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "quanta-quantinuum-manufacturing-partnership",
+      "reported_date": "2026-08-15",
+      "event_date": "2026-08-14",
+      "category": "Quantum Computing",
+      "entities": [
+        "Quantinuum",
+        "Quanta Computer"
+      ],
+      "event_type": "industry_partnership",
+      "canonical_summary": "Quantinuum and Quanta Computer announced a collaborative development agreement to jointly engineer modular, manufacturable hardware infrastructure, with joint engineering work already underway, aiming toward commercially deployable, fault-tolerant quantum computers; no investment figure disclosed.",
+      "source_url": "https://www.prnewswire.com/news-releases/quanta-computer-and-quantinuum-partner-to-build-an-industrial-foundation-for-large-scale-quantum-computing-302851560.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "broadcom-ai-debt-financing-scrutiny",
+      "reported_date": "2026-08-15",
+      "event_date": "2026-08-14",
+      "category": "US Stock Market - General News",
+      "entities": [
+        "Broadcom",
+        "Bank of America"
+      ],
+      "event_type": "analyst_commentary_stock_move",
+      "canonical_summary": "Broadcom shares fell about 5-6 percent after Bank of America questioned the scale of the company's AI-chip financing vehicle, estimating related debt could reach roughly 370 billion dollars by mid-2029, raising broader concern about how AI infrastructure spending is financed industry-wide, even as Broadcom's own guidance still points to AI semiconductor revenue up about 200 percent year over year.",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-14-213018651.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "reddit-sp500-index-inclusion",
+      "reported_date": "2026-08-15",
+      "event_date": "2026-08-14",
+      "category": "US Stock Market - General News",
+      "entities": [
+        "Reddit",
+        "S&P Dow Jones Indices"
+      ],
+      "event_type": "index_inclusion",
+      "canonical_summary": "Reddit shares surged about 12-13 percent after S&P Dow Jones Indices announced Reddit will join the S&P 500, becoming only the second pure-play social media company in the index after Meta, with index funds required to buy shares ahead of the effective date the following week.",
+      "source_url": "https://finance.yahoo.com/markets/article/reddit-stock-surges-after-sp-500-inclusion--heres-the-platforms-next-big-opportunity-093635663.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "nu-holdings-q2-2026-record-profit",
+      "reported_date": "2026-08-15",
+      "event_date": "2026-08-14",
+      "category": "US Stock Market - General News",
+      "entities": [
+        "Nu Holdings (Nubank)"
+      ],
+      "event_type": "earnings",
+      "canonical_summary": "Nu Holdings shares rose about 10 percent after reporting its first-ever quarter above 1 billion dollars in net income, up 49 percent year over year, with revenue near 5.9 billion dollars beating consensus as its customer base reached 139 million across Brazil, Mexico and Colombia.",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-jumps-10-five-162822439.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "kindercare-earnings-miss-guidance-cut",
+      "reported_date": "2026-08-15",
+      "event_date": "2026-08-14",
+      "category": "US Stock Market - General News",
+      "entities": [
+        "KinderCare Learning Companies"
+      ],
+      "event_type": "earnings_miss_guidance_cut",
+      "canonical_summary": "KinderCare Learning Companies shares collapsed about 44 percent after missing quarterly earnings estimates and cutting full-year guidance, citing lower government childcare-subsidy assumptions, falling enrollment and the closure of 49 centers; JPMorgan downgraded the stock following the report.",
+      "source_url": "https://www.investing.com/news/stock-market-news/why-is-kindercare-learning-companies-stock-collapsing-today-93CH-4861341",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-july-2026-mortgage-lending-data",
+      "reported_date": "2026-08-15",
+      "event_date": "2026-08-14",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Banking Association"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "Czech banks issued 40.4 billion crowns in new mortgages in July 2026, up 7 percent year over year, even as the average rate rose to 4.9 percent, pushing monthly payments on new loans up roughly 2,900 crowns versus the 2025 average; January-July cumulative volume reached 334 billion crowns, up 50 percent year over year.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/banky-v-cervenci-poskytly-hypoteky-za-404-miliardy-kc-o-7-vic-nez-loni/2861840",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-third-pillar-pension-savers-decline",
+      "reported_date": "2026-08-15",
+      "event_date": "2026-08-14",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Association of Pension Companies (APS CR)",
+        "Czech Ministry of Finance"
+      ],
+      "event_type": "economic_data_and_pending_regulation",
+      "canonical_summary": "The number of Czechs saving in third-pillar pension products fell by 18,000 in the first half of 2026 to 3.873 million, the first such decline in years, with assets under management topping 700 billion crowns; a pending Finance Ministry amendment would cap fees at a unified 0.5 percent and phase remaining savers out of older transformed funds by end-2036.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/asociace-sporeni-na-penzi-ma-39-mil-lidi-letos-jejich-pocet-klesl-o-18000/2862037",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-q2-2026-gdp-slowdown",
+      "reported_date": "2026-08-15",
+      "event_date": "2026-08-14",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Statistical Office of the Slovak Republic"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "Slovakia's economy grew just 0.7 percent year over year in Q2 2026 (0.2 percent quarter over quarter), its weakest pace in a year and below forecasts of about 1 percent, as investment declined and growth relied solely on consumption, leaving Slovakia trailing Poland, Czechia and the EU average and adding pressure on the government's stalled 2027 budget consolidation talks.",
+      "source_url": "https://www.sme.sk/index/c/ekonomika-slovenska-rastla-v-druhom-stvrtroku-najpomalsie-za-posledne-styri-kvartaly",
+      "material_update_of": null
+    },
+    {
+      "event_id": "cnb-csob-record-aml-fine",
+      "reported_date": "2026-08-15",
+      "event_date": "2026-08-14",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech National Bank (CNB)",
+        "CSOB"
+      ],
+      "event_type": "regulatory_enforcement",
+      "canonical_summary": "The Czech National Bank fined CSOB a record 30 million crowns, its largest anti-money-laundering penalty to date, for failures including inadequate checks on risky cash transactions totaling 136.4 million crowns and incomplete ownership verification on 8,414 corporate clients.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/cnb-dala-csob-sankci-30-mil-kc-za-nedostatky-v-prevenci-prani-spinavych-penez/2861898",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-brazil-cbers5-disaster-satellite",
+      "reported_date": "2026-08-15",
+      "event_date": "2026-08-14",
+      "category": "China",
+      "entities": [
+        "China",
+        "Brazil (INPE)"
+      ],
+      "event_type": "space_cooperation",
+      "canonical_summary": "China and Brazil disclosed new details of the CBERS-5 geostationary satellite program for round-the-clock disaster early warning across South America, with Brazil building the platform and China providing instruments, targeting a 2030 launch that would make Brazil one of a small group of nations able to build and operate a geostationary satellite.",
+      "source_url": "https://www.scmp.com/news/china/science/article/3363878/china-brazil-launch-24/7-disaster-early-warning-satellite-south-america",
+      "material_update_of": null
+    },
+    {
+      "event_id": "henan-zhoukou-jialu-river-levee-breach",
+      "reported_date": "2026-08-15",
+      "event_date": "2026-08-14",
+      "category": "China",
+      "entities": [
+        "Henan provincial government",
+        "Zhoukou city",
+        "China Anneng Group"
+      ],
+      "event_type": "natural_disaster",
+      "canonical_summary": "A separate levee breach on the Jialu River in Zhoukou's Chuanhui District, distinct from the earlier Beiru River breach, flooded a hospital and driving school under pressure from Typhoon Dolphin's remnant rainfall and Shaying River backflow, forcing the evacuation of 432 people including hospital patients and staff; Beijing dispatched 200 rescue personnel and 110 sets of heavy equipment.",
+      "source_url": "https://english.news.cn/20260814/ff6cb534a10d430ea6cd7084a3409ee5/c.html",
+      "material_update_of": null
     }
   ]
 }
