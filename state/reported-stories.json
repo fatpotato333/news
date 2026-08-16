@@ -2239,6 +2239,118 @@
       "canonical_summary": "A separate levee breach on the Jialu River in Zhoukou's Chuanhui District, distinct from the earlier Beiru River breach, flooded a hospital and driving school under pressure from Typhoon Dolphin's remnant rainfall and Shaying River backflow, forcing the evacuation of 432 people including hospital patients and staff; Beijing dispatched 200 rescue personnel and 110 sets of heavy equipment.",
       "source_url": "https://english.news.cn/20260814/ff6cb534a10d430ea6cd7084a3409ee5/c.html",
       "material_update_of": null
+    },
+    {
+      "event_id": "nvidia-13f-spacex-intel-stakes",
+      "reported_date": "2026-08-16",
+      "event_date": "2026-08-14",
+      "category": "AI",
+      "entities": [
+        "NVIDIA",
+        "SpaceX",
+        "Intel",
+        "xAI"
+      ],
+      "event_type": "investment_disclosure",
+      "canonical_summary": "NVIDIA's Q2 2026 13F SEC filing disclosed a roughly $21 billion equity stake in SpaceX (122.8 million Class A shares, acquired via NVIDIA's earlier xAI investment) and a roughly $30 billion stake in Intel, making SpaceX NVIDIA's second-largest holding and deepening ties between NVIDIA chips and both companies' AI/data-center buildouts.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-14/nvidia-has-21-billion-spacex-stake-30-billion-in-intel-shares",
+      "material_update_of": null
+    },
+    {
+      "event_id": "anthropic-q2-2026-revenue-ipo-valuation-leak",
+      "reported_date": "2026-08-16",
+      "event_date": "2026-08-14",
+      "category": "AI",
+      "entities": [
+        "Anthropic"
+      ],
+      "event_type": "financial_disclosure",
+      "canonical_summary": "Press reports citing investor and WSJ sources said Anthropic's Q2 2026 revenue more than doubled to about $10.9 billion with its first operating profit (roughly $559 million, ~5% margin), and that backers are modeling a valuation above $2 trillion (versus $965 billion in May) ahead of an expected October IPO; these are investor/press estimates, not an official Anthropic disclosure.",
+      "source_url": "https://www.rdworldonline.com/anthropic-backers-eye-2-trillion-valuation-its-projected-q2-revenue-was-10-9b/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "alibaba-qwen3-8-27b-open-weights",
+      "reported_date": "2026-08-16",
+      "event_date": "2026-08-14",
+      "category": "AI",
+      "entities": [
+        "Alibaba",
+        "Qwen"
+      ],
+      "event_type": "model_release",
+      "canonical_summary": "Alibaba released open weights (Apache 2.0) for Qwen3.8-27B, a 27.78-billion-parameter dense, natively multimodal (text, image, video) model with a 262K-token native context window runnable on 24GB VRAM, claiming benchmark gains over Qwen3.6-27B including +8.2 on SWE-bench Pro and +20 points on OSWorld.",
+      "source_url": "https://cryptobriefing.com/alibaba-qwen3-27b-open-weights-release/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "anthropic-text-watermarking-mechanism-details",
+      "reported_date": "2026-08-16",
+      "event_date": "2026-08-15",
+      "category": "AI",
+      "entities": [
+        "Anthropic"
+      ],
+      "event_type": "product_feature",
+      "canonical_summary": "Anthropic published technical details on how Claude's new text watermarking works, describing a SynthID-Text-style approach that subtly biases low-stakes word choices to embed an imperceptible, detectable signal without affecting output quality; it plans a public detector API, and the feature applies globally across the consumer app, API, Claude Code and Cowork, not only for EU AI Act compliance.",
+      "source_url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-consumer-sentiment-crater-retail-sales-miss-treasury-yield",
+      "reported_date": "2026-08-16",
+      "event_date": "2026-08-14",
+      "category": "US Stock Market - General News",
+      "entities": [
+        "S&P 500",
+        "Federal Reserve",
+        "US Treasury"
+      ],
+      "event_type": "index_move/economic_data",
+      "canonical_summary": "The S&P 500 pulled back from its record high on Friday, August 14 as the University of Michigan's preliminary August consumer sentiment index cratered to 51.0 from 55.2 (with year-ahead inflation expectations rising to 4.3%) and headline July retail sales fell 0.6%; separately, a 30-year Treasury auction cleared at a 25-year-high yield of 5.22%, adding to bond-market unease heading into the following week.",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-14-dow-sp-500-nasdaq-102635519.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "cnb-summer-2026-monetary-policy-report-inflation-warning",
+      "reported_date": "2026-08-16",
+      "event_date": "2026-08-14",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Ceska narodni banka"
+      ],
+      "event_type": "monetary_policy",
+      "canonical_summary": "The Czech National Bank published its summer 2026 monetary policy report, holding its key rate at 3.75% for now but warning of a temporary inflation spike to around 3% in early 2027 as core inflation stays elevated on wages and housing/services costs, with growth expected to accelerate in 2027; this updates the bank's outlook from its early-August rate-hold decision with a new medium-term inflation warning.",
+      "source_url": "https://zpravy.kurzy.cz/871335-zprava-o-menove-politice--leto-2026/",
+      "material_update_of": "cnb-rate-hold-august-2026-gdp-downgrade"
+    },
+    {
+      "event_id": "china-xi-disaster-prevention-overhaul",
+      "reported_date": "2026-08-16",
+      "event_date": "2026-08-15",
+      "category": "China",
+      "entities": [
+        "Xi Jinping",
+        "Chinese central government"
+      ],
+      "event_type": "national_policy_change",
+      "canonical_summary": "In remarks published August 15 in the Communist Party journal Qiushi, Xi Jinping ordered a shift toward disaster prevention, stronger monitoring and early-warning systems, and use of AI, drones and satellite remote sensing in rescue coordination, following deadly floods, landslides and Typhoon Dolphin that killed dozens and forced over a million evacuations across several provinces.",
+      "source_url": "https://www.internazionale.it/ultime-notizie-reuters/2026/08/15/xi-calls-for-improving-disaster-prevention-as-floods-landslides-batter-china",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-ecological-environmental-code-effective",
+      "reported_date": "2026-08-16",
+      "event_date": "2026-08-15",
+      "category": "China",
+      "entities": [
+        "National People's Congress",
+        "Ministry of Ecology and Environment"
+      ],
+      "event_type": "regulation_effective",
+      "canonical_summary": "China's first unified Ecological and Environmental Code took legal effect on August 15 (National Ecology Day), consolidating more than 30 existing environmental statutes into over 1,240 articles, elevating the national carbon emissions trading system to statutory status, and mandating carbon accounting and product carbon-footprint management for enterprises including foreign companies operating in China.",
+      "source_url": "https://www.hoganlovells.com/en/publications/chinas-new-ecological-and-environmental-code-key-highlights-and-practical-implications",
+      "material_update_of": null
     }
   ]
 }

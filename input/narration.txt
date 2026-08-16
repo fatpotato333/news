@@ -1,29 +1,25 @@
-Daily News for Saturday, August 15, 2026.
+Daily News for Sunday, August 16, 2026.
 
 Artificial intelligence.
 
-Apple has built its own proprietary AI model for the Chinese market with technical assistance from Alibaba, reportedly becoming the first foreign company cleared by Beijing to offer a self developed AI model there. Apple had previously planned to rely on Alibaba's own Qwen model, and the new rollout is expected within the coming months.
-Zhipu AI released its GLM 5.3 model, claiming a fifty percent jump in coding capability over the prior version from post training improvements alone, and the top rank among open weight models on two major coding and agent benchmarks. The company also reported the model found over two thousand four hundred security vulnerabilities across more than two hundred software projects during testing, a success rate above eighty percent on a leading cybersecurity benchmark, with open weights following in about two weeks after a security review.
+Anthropic published technical details on how Claude's new text watermarking works, saying it subtly biases word choices to embed a detectable signal without hurting output quality, and plans to release a public detector tool.
 
-Quantum computing.
+A Nvidia securities filing revealed the company holds a twenty one billion dollar stake in SpaceX and a thirty billion dollar stake in Intel, deepening ties between Nvidia's chips and both companies' data center buildouts.
 
-Quantinuum and Taiwan's Quanta Computer announced a partnership to jointly engineer modular, manufacturable hardware for large scale, fault tolerant quantum computers, aiming to industrialize quantum systems production, with joint engineering work already underway; no investment figure was disclosed.
+Alibaba open sourced Qwen three point eight, a twenty seven billion parameter multimodal model with a two hundred sixty two thousand token context window, claiming large coding and computer use benchmark gains over its predecessor.
+
+Reports citing Anthropic's second quarter finances say revenue more than doubled to about ten point nine billion dollars with the company's first operating profit, as investors reportedly model a valuation above two trillion dollars ahead of an expected October IPO.
 
 United States stock market.
 
-Broadcom shares fell about six percent after Bank of America questioned the scale of the company's AI chip financing arrangements, estimating its related debt could reach roughly three hundred seventy billion dollars by 2029, fueling broader concern about how AI infrastructure spending is being funded, even as Broadcom's own guidance still points to AI semiconductor revenue roughly tripling from a year earlier.
-Reddit shares jumped about thirteen percent after S&P Dow Jones Indices said Reddit will join the S&P 500, making it only the second pure play social media company in the index after Meta, with index funds needing to buy shares ahead of the effective date next week.
-Nu Holdings, parent of Nubank, rose about ten percent after posting its first ever quarter above one billion dollars in net profit, up forty nine percent from a year earlier, as revenue beat estimates near six billion dollars and its Latin American customer base reached one hundred thirty nine million across Brazil, Mexico, and Colombia.
-KinderCare Learning Companies shares collapsed about forty four percent after missing quarterly earnings estimates and cutting full year guidance, citing falling enrollment, lower government childcare subsidy assumptions, and the closure of forty nine centers; JPMorgan downgraded the stock following the report.
+The S and P 500 pulled back from a record high Friday after US consumer sentiment cratered to fifty one from fifty five point two and headline retail sales fell zero point six percent, while the thirty year Treasury yield hit a twenty five year high of five point two two percent, adding to inflation concerns heading into next week.
 
 Czech Republic and Slovakia.
 
-Czech banks issued forty point four billion crowns in new mortgages in July, up seven percent from a year earlier, even as the average rate rose to four point nine percent, pushing monthly payments on new loans up roughly two thousand nine hundred crowns versus last year.
-The number of Czechs saving in third pillar pension funds fell by eighteen thousand in the first half of the year, the first such decline in years, as a proposed finance ministry rule would cap fees at zero point five percent and phase out older transformed funds by 2036; assets in these funds have topped seven hundred billion crowns.
-Slovakia's economy grew just zero point seven percent year over year in the second quarter, its weakest pace in a year and below forecasts, as investment fell and growth relied only on consumer spending, leaving Slovakia trailing Poland, Czechia, and the broader European Union average, and adding pressure on the government's stalled budget talks.
-The Czech National Bank fined CSOB a record thirty million crowns, the largest anti money laundering penalty it has issued, citing inadequate checks on risky cash transactions and incomplete ownership verification on more than eight thousand four hundred corporate clients.
+The Czech National Bank held its key interest rate at three point seven five percent but warned inflation could spike to around three percent in early twenty twenty seven, a signal for savers and borrowers that further rate cuts may be delayed.
 
 China.
 
-China and Brazil disclosed new details of a joint geostationary satellite program for round the clock disaster early warning across South America, with Brazil building the platform and China supplying the instruments, targeting a 2030 launch that would make Brazil one of the few nations able to build and operate a geostationary satellite.
-A levee on the Jialu River in Zhoukou, Henan province, broke under heavy rain from Typhoon Dolphin's remnants, flooding a hospital and a driving school and forcing the evacuation of four hundred thirty two people, including hospital patients and staff, as Beijing dispatched two hundred rescue personnel to the area.
+Xi Jinping ordered an overhaul of China's disaster prevention systems, calling for stronger monitoring, early warning and use of AI and drones, after floods, landslides and a typhoon killed dozens of people and forced more than a million evacuations.
+
+China's new unified Ecological and Environmental Code took effect, consolidating more than thirty environmental laws, giving the national carbon trading system statutory status, and creating new compliance obligations for companies operating in China.
