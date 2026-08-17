@@ -2351,6 +2351,47 @@
       "canonical_summary": "China's first unified Ecological and Environmental Code took legal effect on August 15 (National Ecology Day), consolidating more than 30 existing environmental statutes into over 1,240 articles, elevating the national carbon emissions trading system to statutory status, and mandating carbon accounting and product carbon-footprint management for enterprises including foreign companies operating in China.",
       "source_url": "https://www.hoganlovells.com/en/publications/chinas-new-ecological-and-environmental-code-key-highlights-and-practical-implications",
       "material_update_of": null
+    },
+    {
+      "event_id": "deepseek-peak-off-peak-pricing-effective",
+      "reported_date": "2026-08-17",
+      "event_date": "2026-08-16",
+      "category": "AI",
+      "entities": [
+        "DeepSeek"
+      ],
+      "event_type": "pricing_change",
+      "canonical_summary": "DeepSeek's new peak and off-peak API billing structure took effect August 16 at 16:00 UTC, raising V4-Flash and V4-Pro output-token prices by 50% to more than 1,100% depending on model and time of day (e.g. V4-Pro peak output rising to $3.96 per million tokens from $0.87), as the company said it is reallocating resources amid surging demand.",
+      "source_url": "https://finance.yahoo.com/technology/ai/articles/deepseek-raising-api-prices-1-174027670.html",
+      "material_update_of": "deepseek-significant-price-increase-signal"
+    },
+    {
+      "event_id": "anthropic-amodei-ai-backlash-crisis-of-trust",
+      "reported_date": "2026-08-17",
+      "event_date": "2026-08-15",
+      "category": "AI",
+      "entities": [
+        "Anthropic",
+        "Dario Amodei"
+      ],
+      "event_type": "executive_statement",
+      "canonical_summary": "Anthropic CEO Dario Amodei publicly pushed back on claims that his AI-risk warnings fueled public backlash, arguing instead that the reaction is 'fundamentally a crisis of trust' in companies and governments, and said Anthropic is accelerating its push into biology and medicine to demonstrate concrete AI benefits.",
+      "source_url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-nbs-july-data-delay-jiang-zemin-centenary",
+      "reported_date": "2026-08-17",
+      "event_date": "2026-08-17",
+      "category": "China",
+      "entities": [
+        "National Bureau of Statistics",
+        "Xi Jinping"
+      ],
+      "event_type": "economic_data_scheduling",
+      "canonical_summary": "China's National Bureau of Statistics shifted release of July industrial output, retail sales, investment and property-price data from its usual 10am slot to 3pm Beijing time on August 17, so it would not overlap with Xi Jinping's Great Hall of the People address marking the 100th anniversary of former leader Jiang Zemin's birth; economists expected the delayed data to show continued softness including weak July credit growth.",
+      "source_url": "https://investinglive.com/news/china-delays-july-economic-data-release-to-late-afternoon-slot/",
+      "material_update_of": null
     }
   ]
 }

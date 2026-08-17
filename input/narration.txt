@@ -1,25 +1,11 @@
-Daily News for Sunday, August 16, 2026.
+Daily News for Monday, August 17, 2026.
 
 Artificial intelligence.
 
-Anthropic published technical details on how Claude's new text watermarking works, saying it subtly biases word choices to embed a detectable signal without hurting output quality, and plans to release a public detector tool.
+DeepSeek's new peak and off-peak pricing for its API took effect, with peak-hour output costs for some models rising by as much as eleven hundred percent as the company reallocates capacity to manage surging demand.
 
-A Nvidia securities filing revealed the company holds a twenty one billion dollar stake in SpaceX and a thirty billion dollar stake in Intel, deepening ties between Nvidia's chips and both companies' data center buildouts.
-
-Alibaba open sourced Qwen three point eight, a twenty seven billion parameter multimodal model with a two hundred sixty two thousand token context window, claiming large coding and computer use benchmark gains over its predecessor.
-
-Reports citing Anthropic's second quarter finances say revenue more than doubled to about ten point nine billion dollars with the company's first operating profit, as investors reportedly model a valuation above two trillion dollars ahead of an expected October IPO.
-
-United States stock market.
-
-The S and P 500 pulled back from a record high Friday after US consumer sentiment cratered to fifty one from fifty five point two and headline retail sales fell zero point six percent, while the thirty year Treasury yield hit a twenty five year high of five point two two percent, adding to inflation concerns heading into next week.
-
-Czech Republic and Slovakia.
-
-The Czech National Bank held its key interest rate at three point seven five percent but warned inflation could spike to around three percent in early twenty twenty seven, a signal for savers and borrowers that further rate cuts may be delayed.
+Anthropic chief executive Dario Amodei said the public backlash against artificial intelligence is fundamentally a crisis of trust rather than a messaging problem, and said the company is accelerating efforts in biology and medicine to demonstrate concrete benefits.
 
 China.
 
-Xi Jinping ordered an overhaul of China's disaster prevention systems, calling for stronger monitoring, early warning and use of AI and drones, after floods, landslides and a typhoon killed dozens of people and forced more than a million evacuations.
-
-China's new unified Ecological and Environmental Code took effect, consolidating more than thirty environmental laws, giving the national carbon trading system statutory status, and creating new compliance obligations for companies operating in China.
+China postponed release of its July economic data, covering industrial output, retail sales, investment, and property prices, from ten in the morning to three in the afternoon Beijing time, so it would not overlap with President Xi Jinping's speech marking the hundredth anniversary of former leader Jiang Zemin's birth. Economists expect the delayed figures to show continued weakness in credit growth.
