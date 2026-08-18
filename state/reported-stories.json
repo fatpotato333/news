@@ -2392,6 +2392,221 @@
       "canonical_summary": "China's National Bureau of Statistics shifted release of July industrial output, retail sales, investment and property-price data from its usual 10am slot to 3pm Beijing time on August 17, so it would not overlap with Xi Jinping's Great Hall of the People address marking the 100th anniversary of former leader Jiang Zemin's birth; economists expected the delayed data to show continued softness including weak July credit growth.",
       "source_url": "https://investinglive.com/news/china-delays-july-economic-data-release-to-late-afternoon-slot/",
       "material_update_of": null
+    },
+    {
+      "event_id": "nvidia-openai-ohio-datacenter-105b-guarantee",
+      "reported_date": "2026-08-18",
+      "event_date": "2026-08-17",
+      "category": "AI",
+      "entities": [
+        "Nvidia",
+        "OpenAI",
+        "SB Energy (SoftBank)"
+      ],
+      "event_type": "infrastructure_financing",
+      "canonical_summary": "Nvidia agreed to guarantee up to $105 billion in lease and power payment obligations for a new OpenAI data center at the PORTS-Pike Technology Campus in Pike County, Ohio, built with SoftBank's SB Energy; the site targets 8 IT-gigawatts of capacity with Nvidia as exclusive chip supplier, first phase online 2028, and Nvidia separately investing $1.5 billion directly in SB Energy.",
+      "source_url": "https://www.scmp.com/tech/big-tech/article/3364341/nvidia-provide-us105-billion-guarantee-openais-ohio-data-centre",
+      "material_update_of": null
+    },
+    {
+      "event_id": "microsoft-ai-chip-count-guardian-investigation",
+      "reported_date": "2026-08-18",
+      "event_date": "2026-08-17",
+      "category": "AI",
+      "entities": [
+        "Microsoft"
+      ],
+      "event_type": "investigative_report",
+      "canonical_summary": "A Guardian investigation reported Microsoft has only about 2.2 million AI chips installed as of mid-2026 despite roughly $280 billion spent on AI infrastructure since 2022, short of what its stated data-center capacity targets would imply; Microsoft disputes the analysis and CEO Satya Nadella says power and building capacity, not chip supply, are now the binding constraint.",
+      "source_url": "https://www.theguardian.com/technology/2026/aug/17/are-microsofts-ai-plans-being-held-back-by-a-shortage-of-chips",
+      "material_update_of": null
+    },
+    {
+      "event_id": "openai-foundation-policy-research-grants",
+      "reported_date": "2026-08-18",
+      "event_date": "2026-08-17",
+      "category": "AI",
+      "entities": [
+        "OpenAI Foundation"
+      ],
+      "event_type": "grant_program",
+      "canonical_summary": "OpenAI's Foundation announced 14 policy research grants studying AI's economic and societal impact, worth a combined $1 million in funding plus up to $1 million in model credits, as part of a broader $250 million economic-research commitment.",
+      "source_url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "qpiai-india-foundry-phase2-128-qubit",
+      "reported_date": "2026-08-18",
+      "event_date": "2026-08-17",
+      "category": "Quantum Computing",
+      "entities": [
+        "QpiAI"
+      ],
+      "event_type": "facility_expansion",
+      "canonical_summary": "QpiAI inaugurated the second phase of its 8-inch superconducting quantum chip foundry in Bengaluru, India, backed by $20-25 million of investment, now able to produce flip-chip transmon/fluxonium processors up to 128 qubits; a planned 2027 third phase targets scaling a single processor to 10,000 physical qubits.",
+      "source_url": "https://thequantuminsider.com/2026/08/17/qpiai-opens-quantum-chip-foundry-in-india-targets-10000-qubit-processors/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-iran-ceasefire-expiry-market-selloff-treasury-yield",
+      "reported_date": "2026-08-18",
+      "event_date": "2026-08-17",
+      "category": "US Stock Market",
+      "entities": [
+        "S&P 500",
+        "Nasdaq Composite",
+        "Dow Jones Industrial Average",
+        "US Treasury market",
+        "Iran"
+      ],
+      "event_type": "market_move",
+      "canonical_summary": "All three major US indexes fell Monday (S&P 500 -0.50%, Nasdaq -0.31%, Dow -272.63 points) as the 60-day US-Iran ceasefire expired with no deal over control of the Strait of Hormuz and frozen Iranian funds; the 30-year Treasury yield rose to 5.29%, its highest since June 2007, and oil prices rose on escalation risk.",
+      "source_url": "https://www.cnn.com/2026/08/17/world/live-news/iran-war-trump",
+      "material_update_of": null
+    },
+    {
+      "event_id": "memory-chip-stocks-rally-musk-bottleneck-comment",
+      "reported_date": "2026-08-18",
+      "event_date": "2026-08-17",
+      "category": "US Stock Market",
+      "entities": [
+        "SanDisk",
+        "Western Digital",
+        "Micron Technology",
+        "Elon Musk"
+      ],
+      "event_type": "stock_move",
+      "canonical_summary": "SanDisk (+8%), Western Digital (+6%) and Micron (+5%) rallied Monday after Elon Musk amplified a social-media post arguing memory, not compute, is now the binding bottleneck in AI infrastructure, adding to an existing AI-driven memory-shortage narrative.",
+      "source_url": "https://247wallst.com/investing/2026/08/17/sandisk-rallies-8-western-digital-rises-6-micron-gains-5-as-elon-musk-flags-a-memory-bottleneck/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "meta-child-safety-trial-stock-drop",
+      "reported_date": "2026-08-18",
+      "event_date": "2026-08-17",
+      "category": "US Stock Market",
+      "entities": [
+        "Meta Platforms",
+        "29 state attorneys general"
+      ],
+      "event_type": "litigation_stock_reaction",
+      "canonical_summary": "Meta Platforms shares fell about 3.5% Monday ahead of oral arguments beginning Tuesday, August 18 in a unified lawsuit from 29 state attorneys general alleging Meta knowingly fostered addictive behavior in teens and children, following a similar New Mexico case that already cost Meta roughly $1 billion.",
+      "source_url": "https://www.fool.com/investing/2026/08/17/why-meta-stock-is-falling-today/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "empire-state-manufacturing-index-august-surge",
+      "reported_date": "2026-08-18",
+      "event_date": "2026-08-17",
+      "category": "US Stock Market",
+      "entities": [
+        "Federal Reserve Bank of New York"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "The New York Fed's Empire State Manufacturing Survey for August came in at 20.6, nearly double the consensus forecast of roughly 10.6-11.0 and the highest since 2022, with new orders, shipments and employment sub-indices all strengthening while supply availability worsened.",
+      "source_url": "https://www.investing.com/news/economic-indicators/empire-state-manufacturing-index-surges-surpassing-expectations-93CH-4863068",
+      "material_update_of": null
+    },
+    {
+      "event_id": "uohs-meal-voucher-cartel-fine-280m-czk",
+      "reported_date": "2026-08-18",
+      "event_date": "2026-08-17",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "ÚOHS",
+        "Pluxee",
+        "Edenred",
+        "Up Česká republika"
+      ],
+      "event_type": "regulatory_fine",
+      "canonical_summary": "The Czech competition authority ÚOHS confirmed final fines totaling 280 million crowns against meal-voucher issuers Pluxee (132.27M), Edenred (101.9M) and Up (44.9M) for colluding with retail chains from 2004-2018 on caps for vouchers usable per purchase; the firms must pay immediately despite planned court appeals.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/predseda-uohs-potvrdil-pokuty-280-milionu-kc-za-kartel-stravenkovych-firem/2862707",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-july-2026-producer-prices",
+      "reported_date": "2026-08-18",
+      "event_date": "2026-08-17",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Český statistický úřad (ČSÚ)"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "The Czech Statistical Office reported July 2026 producer prices: industrial producer prices +1.6% y/y (+0.3% m/m), agricultural producer prices -13.0% y/y, construction work prices +4.5% y/y, and market services prices +2.8% y/y.",
+      "source_url": "https://csu.gov.cz/ceny-vyrobcu",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-q2-2026-deloitte-rent-index",
+      "reported_date": "2026-08-18",
+      "event_date": "2026-08-18",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Deloitte"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "Deloitte's Rent Index showed the national average asking rent rose 1.2% q/q to CZK 343/m2 in Q2 2026, but fell in most regional capital cities including Prague (-0.9%), Brno (-1.5%) and Jihlava (-3.0%), while rising in Pardubice (+3.3%) and Ostrava (+2.0%).",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/prumerne-najemne-vzrostlo-ve-vetsine-krajskych-mestech-ale-zlevnilo/2863027",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-july-2026-economic-data-miss",
+      "reported_date": "2026-08-18",
+      "event_date": "2026-08-17",
+      "category": "China",
+      "entities": [
+        "National Bureau of Statistics (China)",
+        "People's Bank of China"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "China's delayed July data showed retail sales up just 0.6% y/y (vs 1.5% forecast), industrial output up 4.5% (vs 4.8% forecast), and Jan-Jul urban fixed-asset investment down 6.7% year to date, a steeper contraction than H1's 5.7% drop, reviving questions about a possible PBOC rate cut.",
+      "source_url": "https://www.cnbc.com/2026/08/17/china-economy-sales-investment-july-.html",
+      "material_update_of": "china-nbs-july-data-delay-jiang-zemin-centenary"
+    },
+    {
+      "event_id": "pboc-digital-yuan-expands-30-operators",
+      "reported_date": "2026-08-18",
+      "event_date": "2026-08-17",
+      "category": "China",
+      "entities": [
+        "People's Bank of China"
+      ],
+      "event_type": "policy_expansion",
+      "canonical_summary": "The People's Bank of China approved eight additional commercial banks as e-CNY (digital yuan) operators, raising the total from 22 to 30, part of the 15th Five-Year Plan's push to expand domestic and cross-border digital renminbi use.",
+      "source_url": "https://crypto.news/china-adds-eight-banks-to-digital-yuan-network-as-operators-reach-30/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "pentagon-university-china-research-ties-audit",
+      "reported_date": "2026-08-18",
+      "event_date": "2026-08-17",
+      "category": "China",
+      "entities": [
+        "US Department of Defense",
+        "Harvard",
+        "Georgetown",
+        "NYU"
+      ],
+      "event_type": "regulatory_order",
+      "canonical_summary": "The Pentagon directed 30 named US universities, including Harvard, Georgetown and NYU, to audit academic, financial and research partnerships with Chinese, Russian and Iranian entities of concern and report findings and mitigation steps by August 31 or risk losing federal funding.",
+      "source_url": "https://www.scmp.com/news/us/article/3364337/pentagon-orders-30-us-universities-scrutinise-ties-chinese-research-partners",
+      "material_update_of": null
+    },
+    {
+      "event_id": "jordan-king-abdullah-china-state-visit",
+      "reported_date": "2026-08-18",
+      "event_date": "2026-08-18",
+      "category": "China",
+      "entities": [
+        "King Abdullah II",
+        "Xi Jinping",
+        "Jordan",
+        "China"
+      ],
+      "event_type": "diplomatic_visit",
+      "canonical_summary": "Jordan's King Abdullah II began a state visit to China, his first since 2015, with stops in Shanghai and Shenzhen, with cooperation agreements expected in green energy, investment, tourism and civil aviation.",
+      "source_url": "https://english.news.cn/20260817/de1c025101844acba1e5565ccc12fe78/c.html",
+      "material_update_of": null
     }
   ]
 }
