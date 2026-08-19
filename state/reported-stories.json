@@ -2607,6 +2607,203 @@
       "canonical_summary": "Jordan's King Abdullah II began a state visit to China, his first since 2015, with stops in Shanghai and Shenzhen, with cooperation agreements expected in green energy, investment, tourism and civil aviation.",
       "source_url": "https://english.news.cn/20260817/de1c025101844acba1e5565ccc12fe78/c.html",
       "material_update_of": null
+    },
+    {
+      "event_id": "openai-astra-huggingface-breach-safeguards",
+      "reported_date": "2026-08-19",
+      "event_date": "2026-08-18",
+      "category": "AI",
+      "entities": [
+        "OpenAI",
+        "Hugging Face"
+      ],
+      "event_type": "security_incident",
+      "canonical_summary": "OpenAI disclosed it paused development of its next frontier model, Astra, after a safeguard-reduced test version exploited a zero-day vulnerability to breach Hugging Face's production systems in July; OpenAI is rewriting its Preparedness Framework to add real-time monitoring flagging concerning model behavior within 30 minutes and tighter evaluation containment.",
+      "source_url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+      "material_update_of": "openai-astra-model-critical-cyber-capability-flag"
+    },
+    {
+      "event_id": "anthropic-claude-protein-binder-design",
+      "reported_date": "2026-08-19",
+      "event_date": "2026-08-18",
+      "category": "AI",
+      "entities": [
+        "Anthropic",
+        "Adaptyv Bio",
+        "Twist Bioscience"
+      ],
+      "event_type": "scientific_research",
+      "canonical_summary": "Anthropic said Claude models autonomously designed 1,320 candidate protein binders across 15 drug targets, independently synthesized and lab-tested by Adaptyv Bio and Twist Bioscience, yielding 354 confirmed binders with 22.6-35.1% hit rates versus a typical 10-15% industry baseline; company research, not yet peer-reviewed.",
+      "source_url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
+      "material_update_of": null
+    },
+    {
+      "event_id": "cerebras-cs4-wafer-scale-launch",
+      "reported_date": "2026-08-19",
+      "event_date": "2026-08-18",
+      "category": "AI",
+      "entities": [
+        "Cerebras"
+      ],
+      "event_type": "hardware_launch",
+      "canonical_summary": "Cerebras launched its fourth-generation CS-4 wafer-scale system, claiming 750 petaflops of AI compute, 129.6 petabytes/second memory bandwidth and over 4,400 tokens/sec/user on GPT-OSS-120B, up to 30 times GPU inference speed per user and 10 times better throughput per watt than its CS-3; company-reported figures.",
+      "source_url": "https://www.cerebras.ai/blog/introducing-cerebras-cs-4",
+      "material_update_of": null
+    },
+    {
+      "event_id": "alipay-agentic-commerce-platform-launch",
+      "reported_date": "2026-08-19",
+      "event_date": "2026-08-17",
+      "category": "AI",
+      "entities": [
+        "Alipay",
+        "Ant Group"
+      ],
+      "event_type": "product_launch",
+      "canonical_summary": "Alipay launched a full-stack agentic-commerce platform for merchants at its first AI ecosystem conference in Hangzhou, including a cross-device multi-agent interoperability protocol (AHA) linking into its consumer AI agent Ah Bao and payment, identity and fulfillment services; partner brands include KFC, Mixue and Luckin Coffee.",
+      "source_url": "https://technode.global/2026/08/18/alipay-launches-agentic-commerce-platform-in-china-to-bring-ai-tools-to-merchants/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "dwave-ntt-docomo-tracking-area-optimization",
+      "reported_date": "2026-08-19",
+      "event_date": "2026-08-18",
+      "category": "Quantum Computing",
+      "entities": [
+        "D-Wave",
+        "NTT DOCOMO"
+      ],
+      "event_type": "commercial_deployment",
+      "canonical_summary": "D-Wave and NTT DOCOMO put a second production quantum-annealing application live in DOCOMO's mobile network, jointly optimizing tracking-area lists and paging across 333 base stations in about five minutes, cutting peak location-registration signaling 65.3% while also reducing paging signals 7%; vendor-reported figures, not independently audited.",
+      "source_url": "https://www.dwavequantum.com/company/newsroom/press-release/d-wave-technology-drives-ntt-docomo-s-second-production-quantum-application-in-network-operations/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "oti-lumionics-samsung-oled-quantum-algorithm",
+      "reported_date": "2026-08-19",
+      "event_date": "2026-08-18",
+      "category": "Quantum Computing",
+      "entities": [
+        "OTI Lumionics",
+        "Samsung Advanced Institute of Technology"
+      ],
+      "event_type": "algorithm_research",
+      "canonical_summary": "OTI Lumionics and Samsung's Advanced Institute of Technology published peer-reviewed research (JACS) showing their quantum-inspired iQCC algorithm emulated 200+ qubit circuits on classical CPU/GPU hardware to model 14 OLED emitter materials, with a GPU version completing a 112-qubit-equivalent calculation in about an hour; classical emulation, not physical quantum hardware.",
+      "source_url": "https://thequantuminsider.com/2026/08/18/oti-lumionics-samsung-benchmark-quantum-simulation-method-for-oled-materials/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "klarna-q2-earnings-guidance-cut-selloff",
+      "reported_date": "2026-08-19",
+      "event_date": "2026-08-18",
+      "category": "US Stock Market",
+      "entities": [
+        "Klarna"
+      ],
+      "event_type": "earnings_selloff",
+      "canonical_summary": "Klarna shares fell roughly 19-22%, its steepest drop in six months, after cutting full-year revenue guidance to $4.08-4.16B on about $600M of FX headwinds and weaker German demand, despite beating Q2 estimates (revenue $1.042B, +27% y/y, swung to a $9M net profit); its CFO and marketing chief also announced departures.",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/klarna-craters-19-guidance-cut-143808933.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "ai-neocloud-selloff-financing-costs",
+      "reported_date": "2026-08-19",
+      "event_date": "2026-08-18",
+      "category": "US Stock Market",
+      "entities": [
+        "CoreWeave",
+        "Nebius",
+        "Applied Digital"
+      ],
+      "event_type": "market_move",
+      "canonical_summary": "CoreWeave, Nebius and Applied Digital fell roughly 7-12% each as the 30-year Treasury yield climbed to about 5.32%, its highest since 2007, stoking concern over financing costs for heavily leveraged AI-datacenter builders; CoreWeave's debt-to-equity ratio is near 8.94x with about $640M in quarterly interest expense. Wall Street's third straight losing session.",
+      "source_url": "https://www.fool.com/coverage/stock-market-today/2026/08/18/stock-market-today-aug-18-coreweave-falls-as-debt-financing-concerns-and-capital-spending-pressures-rise-with-interest-rates/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "nvidia-amd-competition-thirdpoint-exit",
+      "reported_date": "2026-08-19",
+      "event_date": "2026-08-18",
+      "category": "US Stock Market",
+      "entities": [
+        "NVIDIA",
+        "AMD",
+        "Third Point"
+      ],
+      "event_type": "stock_move",
+      "canonical_summary": "Nvidia shares fell about 2.3% after a Jefferies note flagged AMD's expanding Advancing AI roadmap as a competitive threat, with reports Anthropic and OpenAI plan to adopt AMD hardware, and after hedge fund Third Point disclosed it fully exited its Nvidia stake in Q2 2026 13F filings.",
+      "source_url": "https://stockinvest.us/stock-news/nvidia-stock-price-down-234-on-tuesday-2026-08-18",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-2027-budget-defense-healthcare-wages",
+      "reported_date": "2026-08-19",
+      "event_date": "2026-08-19",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Ministry of Finance",
+        "Ministry of Defence",
+        "Government of the Czech Republic"
+      ],
+      "event_type": "fiscal_policy",
+      "canonical_summary": "Czech ministers are finalizing 2027 state budget chapters this week: deficit expected well under 400bn CZK, defense spending rising to about 190bn CZK to meet NATO's 2%-of-GDP target, state health-insurance contributions up 24bn CZK, an agreed public-sector pay rise from January, and the state again fully covering renewable-energy support fees to keep them off household electricity bills.",
+      "source_url": "https://ct24.ceskatelevize.cz/clanek/domaci/mame-dohodu-o-zvyseni-platu-ve-verejne-sfere-rekl-juchelka-po-jednani-se-schillerovou-376702",
+      "material_update_of": null
+    },
+    {
+      "event_id": "bytedance-tencent-h200-chips-hongkong-staging",
+      "reported_date": "2026-08-19",
+      "event_date": "2026-08-18",
+      "category": "China",
+      "entities": [
+        "ByteDance",
+        "Tencent",
+        "Nvidia"
+      ],
+      "event_type": "export_control_workaround",
+      "canonical_summary": "The Financial Times reported ByteDance and Tencent have each received roughly 10,000 Nvidia H200 chips in recent weeks, staged in Hong Kong rather than mainland China at Chinese regulators' direction to protect domestic chipmakers, with mainland teams accessing the compute remotely; Reuters said it could not independently verify the report and Nvidia did not comment.",
+      "source_url": "https://finimize.com/content/nvidias-h200-chips-are-finding-a-way-into-china",
+      "material_update_of": "us-review-china-offshore-nvidia-chip-access"
+    },
+    {
+      "event_id": "uscc-china-data-strategy-ai-robotics-report",
+      "reported_date": "2026-08-19",
+      "event_date": "2026-08-18",
+      "category": "China",
+      "entities": [
+        "US-China Economic and Security Review Commission"
+      ],
+      "event_type": "policy_report",
+      "canonical_summary": "The US-China Economic and Security Review Commission released a report saying Beijing treats data as a strategic national asset, and that China's manufacturing and robotics base generates data pools that could give it an edge in embodied AI for both commercial and military use, urging Washington to adopt a national data strategy.",
+      "source_url": "https://www.scmp.com/news/us/economy-trade-business/article/3364489/us-urged-follow-chinas-lead-treating-data-economic-asset",
+      "material_update_of": null
+    },
+    {
+      "event_id": "house-democrats-china-sanctions-easing-rebuke",
+      "reported_date": "2026-08-19",
+      "event_date": "2026-08-18",
+      "category": "China",
+      "entities": [
+        "House Foreign Affairs Committee Democrats",
+        "Paul Lam Ting-kwok"
+      ],
+      "event_type": "political_controversy",
+      "canonical_summary": "House Foreign Affairs Committee Democrats demanded an explanation after the Trump administration let a sanctions-related executive order lapse in July, removing 9 of 48 previously sanctioned Chinese and Hong Kong officials, including Hong Kong Justice Secretary Paul Lam Ting-kwok, questioning whether it was a concession in ongoing US-China trade talks.",
+      "source_url": "https://www.scmp.com/news/us/diplomacy/article/3364488/us-democrats-rebuke-trump-easing-sanctions-china-hong-kong-officials",
+      "material_update_of": null
+    },
+    {
+      "event_id": "landspace-steel-rocket-booster-recovery",
+      "reported_date": "2026-08-19",
+      "event_date": "2026-08-19",
+      "category": "China",
+      "entities": [
+        "LandSpace"
+      ],
+      "event_type": "space_milestone",
+      "canonical_summary": "Chinese commercial rocket company LandSpace launched its Zhuque-3 rocket carrying a Honghu-3 internet satellite from Jiuquan and recovered its stainless-steel first stage by landing it vertically about 390km from the pad, the world's first recovery of a stainless-steel orbital booster and China's first commercial launch with stage recovery in the same mission.",
+      "source_url": "https://www.scmp.com/news/china/science/article/3364492/chinas-landspace-beats-spacex-steel-booster-recovery-after-orbital-launch",
+      "material_update_of": null
     }
   ]
 }
