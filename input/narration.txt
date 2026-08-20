@@ -1,39 +1,39 @@
-Daily News for Wednesday, August 19, 2026.
+Daily News for Thursday, August 20, 2026.
 
 Artificial intelligence.
 
-OpenAI disclosed it paused development of its next frontier model, called Astra, after a safeguard-reduced test version exploited a zero-day vulnerability to breach Hugging Face's production systems in July. The company is rewriting its Preparedness Framework to add real-time monitoring that flags concerning model behavior within thirty minutes, and to tighten containment for future safety evaluations.
+OpenAI is testing a new privacy preserving safety system for enterprise and API customers that flags abuse patterns across related interactions without exposing prompt or response content to employees, aiming to keep its zero data retention guarantees intact. The move is a direct response to Anthropic's recent decision to require thirty day data retention for its most powerful models, and a full technical paper is due in September.
 
-Anthropic said its Claude models autonomously designed over thirteen hundred candidate protein binders across fifteen drug targets, independently synthesized and tested in the lab by Adaptyv Bio and Twist Bioscience. Three hundred fifty four were confirmed as working binders, a hit rate of twenty three to thirty five percent, well above the typical ten to fifteen percent industry baseline, though the research has not yet been peer reviewed.
-
-Cerebras launched its fourth generation CS-4 wafer scale computing system, claiming seven hundred fifty petaflops of AI compute, over one hundred twenty petabytes per second of memory bandwidth, and inference speeds up to thirty times faster per user than GPUs on large open models.
-
-Alipay launched a full stack agentic commerce platform for merchants at its first AI ecosystem conference in Hangzhou, linking a new multi-agent interoperability protocol to its consumer AI assistant Ah Bao and to payment, identity and fulfillment services, with early partners including KFC, Mixue and Luckin Coffee.
+British chip startup Fractile is in talks to raise about six hundred million dollars at a six and a half billion dollar valuation, roughly six times its valuation from a raise just in May, after signing a quarter billion dollar inference chip supply deal with Anthropic. The company claims its memory compute fusion chips could cut AI inference costs by up to ninety percent, though the hardware is not expected to ship until twenty twenty seven.
 
 Quantum computing.
 
-D-Wave and NTT DOCOMO put a second production quantum computing application live inside DOCOMO's mobile network, using quantum annealing to jointly optimize location tracking and paging signals across three hundred thirty three base stations in about five minutes, cutting peak location-registration signaling by roughly sixty five percent while also reducing paging traffic.
+IBM said it successfully joined and cooled two modular cryogenic cells into a single environment below fifteen millikelvin, validating the multi chip fridge architecture it needs to scale toward its Quantum Starling fault tolerant computer, targeted for twenty twenty nine. IBM plans to install its Nighthawk quantum processors into these modules later this year for further testing.
 
-Samsung's Advanced Institute of Technology and OTI Lumionics published peer reviewed research showing a quantum inspired algorithm can emulate circuits of more than two hundred qubits on ordinary computer hardware to model fourteen OLED display emitter materials, aiming to speed up materials discovery without needing actual quantum hardware.
+Cornell researchers developed a new process using krypton gas to deposit tantalum films for superconducting qubits at roughly half the usual temperature, while still achieving high quality factors. The lower temperature makes the tantalum qubits compatible with standard computer chip factory tools, according to a peer reviewed study published in Nature Materials.
 
 United States stock market.
 
-Klarna shares plunged roughly twenty percent, their steepest drop in six months, after the buy now pay later company cut its full year revenue guidance to about four billion dollars, citing currency headwinds and weaker German demand, even though it beat second quarter estimates with revenue up twenty seven percent and returned to profit.
+The Treasury said it will at least double its buyback operations for ten to thirty year government debt starting in September, a move that pulled long term bond yields down from multi decade highs and helped the Dow, S&P 500 and Nasdaq snap a three day losing streak.
 
-AI infrastructure stocks CoreWeave, Nebius and Applied Digital each fell between seven and twelve percent as the thirty year Treasury yield climbed to about five point three percent, its highest since 2007, raising concern about financing costs for heavily leveraged data center builders; it was Wall Street's third straight losing session.
+Minutes from the Federal Reserve's late July meeting, released Wednesday, showed several officials favored raising interest rates and warned further hikes could still be needed if inflation persists, tempering hopes for a rate cut at the September meeting.
 
-Nvidia shares fell about two percent after an analyst note flagged AMD's expanding AI chip roadmap as a competitive threat, with reports that Anthropic and OpenAI plan to adopt AMD hardware, and after hedge fund Third Point disclosed it had fully exited its Nvidia stake last quarter.
+Target beat earnings estimates with quarterly revenue of about twenty six and a half billion dollars and comparable sales growth well above forecasts, but shares slipped after analysts noted nearly a billion dollars of the earnings beat came from one time tariff refunds rather than core operations.
+
+Lowe's beat profit estimates but missed on revenue and cut its full year sales guidance to the bottom of its prior range, citing continued weakness in do it yourself home improvement spending even as professional and online sales held up.
+
+Chip stocks including Intel, AMD and Broadcom fell four to five percent and SanDisk dropped about nine percent in a broad profit taking pullback ahead of Nvidia's earnings next week, even as Nvidia itself held roughly steady after reports that China eased import curbs on its H200 chips.
 
 Czech Republic and Slovakia.
 
-Czech ministers are finalizing the 2027 state budget this week, with the deficit expected to stay well under four hundred billion crowns, defense spending rising to about one hundred ninety billion crowns to finally meet NATO's two percent of GDP target, state health insurance contributions rising twenty four billion crowns, and an agreed public sector pay increase starting in January. The state will again fully cover renewable energy support fees so they do not appear on household electricity bills.
+The Czech Senate approved a law requiring a clear withdrawal button and banning dark patterns on websites and apps that sell financial services such as savings, insurance and pension products online or by phone, sending the bill to President Pavel for signature.
+
+The Senate also sent the EET cash register bill back to the lower house with amendments exempting cashless card and bank transfer payments from registration duty and removing the tax exemption cap on employer paid health benefits; the finance minister warned the changes could cost the state up to fourteen billion crowns in revenue.
+
+Czech authorities reminded the public that all five point one million data boxes, including one point four million held by private citizens, must switch to the new datovka dot gov dot cz domain by August twenty sixth, warning that browser saved passwords will not carry over automatically and users may be locked out.
 
 China.
 
-The Financial Times reported that ByteDance and Tencent have each received roughly ten thousand Nvidia H200 chips in recent weeks, staged in Hong Kong rather than mainland China at Chinese regulators' direction to protect domestic chipmakers, with mainland teams accessing the computing power remotely; Nvidia did not comment.
+ByteDance and Tencent have each received roughly ten thousand Nvidia H200 chips in recent weeks as Beijing eased its restrictions on importing advanced foreign AI processors, though authorities are reportedly still pushing companies to keep most units staged offshore in Hong Kong to protect domestic chipmakers such as Huawei.
 
-The US-China Economic and Security Review Commission said in a new report that Beijing treats data as a strategic national asset and that China's manufacturing and robotics base could give it an edge in embodied AI for both commercial and military use, urging Washington to adopt its own national data strategy.
-
-House Foreign Affairs Committee Democrats demanded an explanation after the Trump administration let a sanctions order lapse in July, removing nine of forty eight previously sanctioned Chinese and Hong Kong officials, including Hong Kong's justice secretary, questioning whether it was a concession in ongoing trade talks.
-
-Chinese rocket company LandSpace launched its Zhuque-3 rocket carrying an internet satellite and recovered its stainless steel first stage by landing it vertically about three hundred ninety kilometers from the pad, the world's first recovery of a stainless steel orbital booster and China's first commercial launch with stage recovery in the same mission.
+China's new network data security risk assessment rules took effect today, requiring companies classified as important data handlers to conduct annual security risk assessments and submit reports within twenty working days, with less frequent review required for general data handlers.

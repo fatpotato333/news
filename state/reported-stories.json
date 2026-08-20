@@ -2804,6 +2804,200 @@
       "canonical_summary": "Chinese commercial rocket company LandSpace launched its Zhuque-3 rocket carrying a Honghu-3 internet satellite from Jiuquan and recovered its stainless-steel first stage by landing it vertically about 390km from the pad, the world's first recovery of a stainless-steel orbital booster and China's first commercial launch with stage recovery in the same mission.",
       "source_url": "https://www.scmp.com/news/china/science/article/3364492/chinas-landspace-beats-spacex-steel-booster-recovery-after-orbital-launch",
       "material_update_of": null
+    },
+    {
+      "event_id": "openai-private-safety-processing-vs-anthropic-retention",
+      "reported_date": "2026-08-20",
+      "event_date": "2026-08-19",
+      "category": "AI",
+      "entities": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "event_type": "product_announcement",
+      "canonical_summary": "OpenAI previewed a privacy-preserving safety system, Private Safety Processing, for enterprise and API customers that flags abuse patterns across related interactions without exposing prompt or response content to employees, aiming to preserve zero-data-retention guarantees; the move was positioned explicitly against Anthropic's recent requirement of 30-day data retention for its most powerful models. A full technical white paper is due in September 2026.",
+      "source_url": "https://www.axios.com/2026/08/19/openai-previews-zero-retention-safety-system-as-anthropic-requires-data-logs",
+      "material_update_of": null
+    },
+    {
+      "event_id": "fractile-anthropic-inference-chip-raise",
+      "reported_date": "2026-08-20",
+      "event_date": "2026-08-19",
+      "category": "AI",
+      "entities": [
+        "Fractile",
+        "Anthropic"
+      ],
+      "event_type": "funding_round",
+      "canonical_summary": "UK inference-chip startup Fractile entered talks to raise about $600 million at a $6.5 billion valuation, roughly six times its May 2026 raise, after signing an initial $250 million chip supply agreement with Anthropic; Fractile's SRAM-based memory-compute-fusion chips are not expected to ship until 2027.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-19/ai-chip-startup-fractile-in-talks-for-6-5-billion-value-after-anthropic-deal",
+      "material_update_of": null
+    },
+    {
+      "event_id": "ibm-modular-cryogenic-systems-milestone",
+      "reported_date": "2026-08-20",
+      "event_date": "2026-08-19",
+      "category": "Quantum Computing",
+      "entities": [
+        "IBM"
+      ],
+      "event_type": "hardware_milestone",
+      "canonical_summary": "IBM announced it successfully joined and cooled two modular cryogenic cells into a single sub-15-millikelvin environment, validating the rectangular multi-chip fridge architecture needed to scale toward its planned 2029 fault-tolerant Quantum Starling computer; IBM Quantum Nighthawk processors will be installed into the modules later this year for further testing.",
+      "source_url": "https://newsroom.ibm.com/2026-08-19-ibm-connects-its-first-modular-cryogenic-systems-in-milestone-toward-fault-tolerant-quantum-computing",
+      "material_update_of": null
+    },
+    {
+      "event_id": "cornell-tantalum-qubit-krypton-sputtering",
+      "reported_date": "2026-08-20",
+      "event_date": "2026-08-19",
+      "category": "Quantum Computing",
+      "entities": [
+        "Cornell University"
+      ],
+      "event_type": "research_publication",
+      "canonical_summary": "Cornell researchers published a peer-reviewed Nature Materials study describing a krypton-gas sputtering process that deposits high-quality superconducting tantalum films at 200 degrees Celsius instead of the usual 400-plus, achieving transmon quality factors up to 16.9 million while making tantalum qubits compatible with standard CMOS foundry tooling.",
+      "source_url": "https://www.nature.com/articles/s41563-026-02718-z",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-treasury-long-bond-buyback-increase",
+      "reported_date": "2026-08-20",
+      "event_date": "2026-08-19",
+      "category": "US Stock Market",
+      "entities": [
+        "US Treasury"
+      ],
+      "event_type": "policy_action",
+      "canonical_summary": "The US Treasury announced it will at least double its liquidity-support buyback operations for 10-to-30-year debt (from about $2 billion to $4 billion-plus per operation, effective September 9 through November 4), pulling the 10-year yield down about 6 basis points to roughly 4.65% and the 30-year down about 9 basis points to roughly 5.19%; the Dow, S&P 500 and Nasdaq snapped a three-session losing streak.",
+      "source_url": "https://home.treasury.gov/news/press-releases/sb0607",
+      "material_update_of": null
+    },
+    {
+      "event_id": "fomc-july-2026-minutes-hawkish-tilt",
+      "reported_date": "2026-08-20",
+      "event_date": "2026-08-19",
+      "category": "US Stock Market",
+      "entities": [
+        "Federal Reserve"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "Minutes from the Federal Reserve's July 28-29 meeting, released August 19, showed several officials favored raising interest rates and warned further hikes could still be needed if inflation persists, tempering market hopes for a rate cut at the September 15-16 FOMC meeting that had built on cooler July CPI and PPI data.",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomcpresconf20260729.htm",
+      "material_update_of": null
+    },
+    {
+      "event_id": "target-q2-fy26-earnings-tariff-refund-quality-concern",
+      "reported_date": "2026-08-20",
+      "event_date": "2026-08-19",
+      "category": "US Stock Market",
+      "entities": [
+        "Target"
+      ],
+      "event_type": "earnings",
+      "canonical_summary": "Target reported Q2 FY2026 EPS of $4.11 versus $2.33 expected and revenue of $26.54 billion versus $26.13 billion expected, with comparable sales up 3.8% versus 2.4% consensus, but shares fell about 1.6% premarket after analysts flagged that $994 million of the beat came from one-time tariff refunds rather than core operations.",
+      "source_url": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "lowes-q2-fy26-earnings-guidance-cut",
+      "reported_date": "2026-08-20",
+      "event_date": "2026-08-19",
+      "category": "US Stock Market",
+      "entities": [
+        "Lowe's"
+      ],
+      "event_type": "earnings",
+      "canonical_summary": "Lowe's reported Q2 FY2026 adjusted EPS of $4.40 versus $4.22 expected, but revenue of $25.96 billion missed the $26.14 billion consensus with comparable sales up just 0.2%; management cut full-year sales guidance to the bottom of its prior $92-94 billion range and lowered comp-sales guidance to flat, citing continued DIY spending weakness.",
+      "source_url": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-chip-stocks-selloff-profit-taking-pre-nvidia-earnings",
+      "reported_date": "2026-08-20",
+      "event_date": "2026-08-19",
+      "category": "US Stock Market",
+      "entities": [
+        "Intel",
+        "AMD",
+        "Broadcom",
+        "SanDisk",
+        "Nvidia"
+      ],
+      "event_type": "market_move",
+      "canonical_summary": "Semiconductor stocks broadly underperformed on August 19 even as the wider market rallied on falling bond yields: Intel fell about 4% to $93.12, AMD about 4% to $465, Broadcom about 5% to $361.73 and SanDisk about 9%, in what analysts characterized as profit-taking on outsized year-to-date AI-chip gains ahead of Nvidia's August 26 earnings; Nvidia itself held roughly steady, helped by reports that China eased H200 import restrictions for some Chinese customers.",
+      "source_url": "https://247wallst.com/investing/2026/08/19/intel-and-amd-fall-4-nvidia-unchanged-as-chip-selloff-defies-bond-yield-relief/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-online-financial-services-consumer-protection-law",
+      "reported_date": "2026-08-20",
+      "event_date": "2026-08-19",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Senate"
+      ],
+      "event_type": "legislation_passed",
+      "canonical_summary": "The Czech Senate approved (51 of 69 present) an amendment transposing the EU distance-marketing-of-financial-services directive, requiring a prominent withdrawal button and banning dark patterns on websites and apps selling financial services online or by phone, including savings products, short-term insurance, pension top-ups and fintech products; the bill now goes to President Pavel for signature.",
+      "source_url": "https://www.pravniprostor.cz/aktuality/senat-schvalil-lepsi-ochranu-spotrebitelu-pri-uzavirani-financnich-smluv-on-line",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-eet-2-0-senate-amendments-cashless-health-benefits",
+      "reported_date": "2026-08-20",
+      "event_date": "2026-08-19",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Senate",
+        "Czech Ministry of Finance"
+      ],
+      "event_type": "legislation_returned",
+      "canonical_summary": "The Czech Senate (56-72) sent the EET 2.0 cash-register-reinstatement bill back to the Chamber of Deputies with amendments excluding cashless card and bank-transfer payments from registration duty and removing the tax-exemption cap on employer-paid health benefits; Finance Minister Schillerová opposed both changes, warning of an estimated CZK 14.4 billion revenue-loss risk if enacted.",
+      "source_url": "https://www.reflex.cz/clanek/zpravy/137663/senat-vratil-snemovne-zakon-o-eet-chce-vyjimky-pro-bezhotovostni-platby-i-zdravotni-benefity.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-data-box-domain-migration-deadline",
+      "reported_date": "2026-08-20",
+      "event_date": "2026-08-19",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech digital government (datové schránky)"
+      ],
+      "event_type": "administrative_notice",
+      "canonical_summary": "Czech authorities reminded holders of all 5.125 million data boxes (1.356 million belonging to private citizens) that they must migrate from mojedatovaschranka.cz to the unified datovka.gov.cz domain by August 26, 2026, warning that browser-saved passwords will not carry over automatically and recommending a switch to digital-identity login instead.",
+      "source_url": "https://www.e15.cz/finexpert/servis/datove-schranky-meni-domenu-od-26-srpna-budou-dostupne-uz-jen-na-datovka-gov-cz-1435041",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-nvidia-h200-import-curbs-eased",
+      "reported_date": "2026-08-20",
+      "event_date": "2026-08-19",
+      "category": "China",
+      "entities": [
+        "ByteDance",
+        "Tencent",
+        "Nvidia",
+        "China Ministry of Commerce"
+      ],
+      "event_type": "regulatory_change",
+      "canonical_summary": "ByteDance and Tencent have each received roughly 10,000 Nvidia H200 chips in recent weeks under a limited easing of Beijing's restrictions on importing advanced foreign AI processors, per the Financial Times, with other Chinese firms potentially set to receive similar approvals; authorities are reportedly still pushing companies to keep most units staged offshore in Hong Kong to protect domestic chipmakers such as Huawei.",
+      "source_url": "https://www.business-standard.com/world-news/china-allows-limited-nvidia-h200-shipments-why-is-beijing-easing-curbs-126081900438_1.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-network-data-security-risk-assessment-measures-effective",
+      "reported_date": "2026-08-20",
+      "event_date": "2026-08-20",
+      "category": "China",
+      "entities": [
+        "Cyberspace Administration of China",
+        "Ministry of Industry and Information Technology",
+        "Ministry of Public Security"
+      ],
+      "event_type": "regulation_effective",
+      "canonical_summary": "China's Measures for Network Data Security Risk Assessment (Order No. 24) took legal effect on August 20, 2026, establishing a tiered risk-assessment regime requiring companies classified as 'important data handlers' to conduct annual security risk assessments (or ad hoc ones after major changes) and submit reports within 20 working days, with general data handlers only encouraged to assess roughly every three years.",
+      "source_url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/china-issues-new-measures-for-network-data-security-risk-assessment",
+      "material_update_of": null
     }
   ]
 }
