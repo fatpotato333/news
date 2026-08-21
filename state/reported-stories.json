@@ -2998,6 +2998,148 @@
       "canonical_summary": "China's Measures for Network Data Security Risk Assessment (Order No. 24) took legal effect on August 20, 2026, establishing a tiered risk-assessment regime requiring companies classified as 'important data handlers' to conduct annual security risk assessments (or ad hoc ones after major changes) and submit reports within 20 working days, with general data handlers only encouraged to assess roughly every three years.",
       "source_url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/china-issues-new-measures-for-network-data-security-risk-assessment",
       "material_update_of": null
+    },
+    {
+      "event_id": "meta-mac-app-muse-spark-launch",
+      "reported_date": "2026-08-21",
+      "event_date": "2026-08-20",
+      "category": "AI",
+      "entities": [
+        "Meta"
+      ],
+      "event_type": "product_launch",
+      "canonical_summary": "Meta released a native Mac app for its Meta AI assistant adding system-wide dictation and a new screen-aware capability called Muse Spark that can read the user's screen to answer context-based questions, plus business-analytics integrations for merchants.",
+      "source_url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "meta-pocket-vibe-coding-us-rollout",
+      "reported_date": "2026-08-21",
+      "event_date": "2026-08-20",
+      "category": "AI",
+      "entities": [
+        "Meta"
+      ],
+      "event_type": "product_launch",
+      "canonical_summary": "Meta expanded Pocket, an app letting users generate small interactive games via text-prompt 'vibe-coding' with touch/tilt controls and a social remix feed, to all US users following a Brazil pilot.",
+      "source_url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-market-selloff-bond-yields-oil-iran",
+      "reported_date": "2026-08-21",
+      "event_date": "2026-08-20",
+      "category": "US Stock Market",
+      "entities": [
+        "Dow Jones",
+        "S&P 500",
+        "Nasdaq",
+        "US Treasury"
+      ],
+      "event_type": "market_move",
+      "canonical_summary": "US indices fell (Dow -1.3%, S&P 500 -0.8%, Nasdaq -1.0%) as Treasury yields rebounded despite Treasury Secretary Bessent's larger bond-buyback announcement, while oil prices jumped after President Trump threatened action against Iran over Strait of Hormuz tensions.",
+      "source_url": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "walmart-q2-earnings-comp-sales-miss",
+      "reported_date": "2026-08-21",
+      "event_date": "2026-08-20",
+      "category": "US Stock Market",
+      "entities": [
+        "Walmart"
+      ],
+      "event_type": "earnings_reaction",
+      "canonical_summary": "Walmart shares fell about 9% despite beating revenue and adjusted EPS estimates, after US comparable-sales growth of 2.6% came in below expectations (weakest in over six years) and Q3 guidance was cut, with management citing consumer trade-offs amid high fuel costs.",
+      "source_url": "https://finance.yahoo.com/markets/stocks/article/walmart-stock-drops-9-as-sales-growth-slows-customers-make-trade-offs-amid-high-fuel-costs-182327744.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "alibaba-profit-drop-ai-capex-surge",
+      "reported_date": "2026-08-21",
+      "event_date": "2026-08-20",
+      "category": "US Stock Market",
+      "entities": [
+        "Alibaba"
+      ],
+      "event_type": "earnings_reaction",
+      "canonical_summary": "Alibaba's US-listed shares fell roughly 4-5% after net income plunged more than 75% to about $1.6 billion as quarterly AI infrastructure capital spending jumped ~75% to nearly $10 billion, even though revenue rose 9% and AI cloud revenue rose 45%.",
+      "source_url": "https://www.cnbc.com/2026/08/20/alibaba-cloud-revenue.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "crypto-stocks-rally-bitcoin-71k",
+      "reported_date": "2026-08-21",
+      "event_date": "2026-08-20",
+      "category": "US Stock Market",
+      "entities": [
+        "Bitcoin",
+        "Strategy",
+        "Coinbase",
+        "Circle Internet"
+      ],
+      "event_type": "market_move",
+      "canonical_summary": "Bitcoin surged past $71,000, its highest level in about two months, lifting crypto-linked stocks (Strategy, Coinbase, Bitmine, Circle) after President Trump met with crypto executives to push Congress on market-structure legislation, amid a weaker dollar following the Treasury buyback news.",
+      "source_url": "https://247wallst.com/investing/2026/08/20/strategy-rallies-9-bitmine-climbs-7-coinbase-jumps-6-as-3-3b-short-squeeze-powers-bitcoin-past-71k/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-senate-rejects-building-act-amendment",
+      "reported_date": "2026-08-21",
+      "event_date": "2026-08-20",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Senate",
+        "Chamber of Deputies",
+        "Ministry for Regional Development"
+      ],
+      "event_type": "legislation_rejected",
+      "canonical_summary": "The Czech Senate voted 55 of 66 present to reject a coalition-backed Building Act amendment that would have centralized building-permit decisions in state offices, after architects and opposition senators criticized it as favoring developers; the bill returns to the Chamber of Deputies, which can override the veto.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/spornou-stavebni-novelu-senat-zamitl-kritici-ji-oznacovali-za-paskvil/2863051",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-us-tariff-transshipment-dispute-mexico-curbs",
+      "reported_date": "2026-08-21",
+      "event_date": "2026-08-21",
+      "category": "China",
+      "entities": [
+        "China Ministry of Commerce",
+        "US White House",
+        "Mexico"
+      ],
+      "event_type": "trade_dispute",
+      "canonical_summary": "China's Commerce Ministry dismissed a White House report alleging Chinese exporters route goods through Mexico and other countries to evade US tariffs, calling it unilateral and protectionist, as Mexico separately weighs new restrictions on Chinese steel and textile imports.",
+      "source_url": "https://www.scmp.com/news/us/article/3364735/beijing-calls-us-tariff-report-false-narrative-named-hub-mexico-plans-new-china-curbs",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-switzerland-free-trade-upgrade",
+      "reported_date": "2026-08-21",
+      "event_date": "2026-08-20",
+      "category": "China",
+      "entities": [
+        "China",
+        "Switzerland"
+      ],
+      "event_type": "trade_agreement",
+      "canonical_summary": "China and Switzerland concluded negotiations to overhaul their 2014 free trade agreement, eliminating tariffs on 99.8% of Swiss exports to China (up from about half today) and improving market access for Swiss investors, with signing expected before year-end 2026.",
+      "source_url": "https://www.swissinfo.ch/eng/foreign-affairs/almost-all-tariffs-on-swiss-exports-to-china-will-be-abolished/91929769",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-safe-fines-guotai-haitong-qdii",
+      "reported_date": "2026-08-21",
+      "event_date": "2026-08-21",
+      "category": "China",
+      "entities": [
+        "Guotai Haitong Securities Asset Management",
+        "State Administration of Foreign Exchange"
+      ],
+      "event_type": "regulatory_fine",
+      "canonical_summary": "China's State Administration of Foreign Exchange fined Guotai Haitong Securities Asset Management 52.5 million yuan (about $7.8 million including confiscated gains) for violating Qualified Domestic Institutional Investor foreign-exchange rules and cross-border reporting requirements on QDII products offered 2019-2022.",
+      "source_url": "https://www.scmp.com/business/china-business/article/3364770/chinese-regulators-slap-us78m-penalty-guotai-haitong-arm-amid-capital-flow-crackdown",
+      "material_update_of": null
     }
   ]
 }

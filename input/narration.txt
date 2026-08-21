@@ -1,39 +1,29 @@
-Daily News for Thursday, August 20, 2026.
+Daily News for Friday, August 21, 2026.
 
 Artificial intelligence.
 
-OpenAI is testing a new privacy preserving safety system for enterprise and API customers that flags abuse patterns across related interactions without exposing prompt or response content to employees, aiming to keep its zero data retention guarantees intact. The move is a direct response to Anthropic's recent decision to require thirty day data retention for its most powerful models, and a full technical paper is due in September.
+Meta launched a native Mac app for its AI assistant that can read what is on your screen to answer questions, adding a new capability called Muse Spark alongside system wide dictation and business tools for merchants.
 
-British chip startup Fractile is in talks to raise about six hundred million dollars at a six and a half billion dollar valuation, roughly six times its valuation from a raise just in May, after signing a quarter billion dollar inference chip supply deal with Anthropic. The company claims its memory compute fusion chips could cut AI inference costs by up to ninety percent, though the hardware is not expected to ship until twenty twenty seven.
-
-Quantum computing.
-
-IBM said it successfully joined and cooled two modular cryogenic cells into a single environment below fifteen millikelvin, validating the multi chip fridge architecture it needs to scale toward its Quantum Starling fault tolerant computer, targeted for twenty twenty nine. IBM plans to install its Nighthawk quantum processors into these modules later this year for further testing.
-
-Cornell researchers developed a new process using krypton gas to deposit tantalum films for superconducting qubits at roughly half the usual temperature, while still achieving high quality factors. The lower temperature makes the tantalum qubits compatible with standard computer chip factory tools, according to a peer reviewed study published in Nature Materials.
+Meta also expanded Pocket, an app that lets users generate simple interactive games from text prompts, to all users in the United States after testing it in Brazil.
 
 United States stock market.
 
-The Treasury said it will at least double its buyback operations for ten to thirty year government debt starting in September, a move that pulled long term bond yields down from multi decade highs and helped the Dow, S&P 500 and Nasdaq snap a three day losing streak.
+Major United States stock indices fell, with the Dow dropping about seven hundred points, after Treasury yields rebounded despite a larger bond buyback plan, and oil prices jumped on rising tension between the United States and Iran over the Strait of Hormuz.
 
-Minutes from the Federal Reserve's late July meeting, released Wednesday, showed several officials favored raising interest rates and warned further hikes could still be needed if inflation persists, tempering hopes for a rate cut at the September meeting.
+Walmart shares dropped about nine percent even after beating profit estimates, as the company reported its slowest United States same store sales growth in over six years and cut its third quarter earnings guidance, citing high fuel costs squeezing shoppers.
 
-Target beat earnings estimates with quarterly revenue of about twenty six and a half billion dollars and comparable sales growth well above forecasts, but shares slipped after analysts noted nearly a billion dollars of the earnings beat came from one time tariff refunds rather than core operations.
+Alibaba's United States listed shares fell around five percent after quarterly profit plunged more than seventy five percent, driven by a jump in artificial intelligence infrastructure spending to nearly ten billion dollars, even as cloud revenue rose forty five percent.
 
-Lowe's beat profit estimates but missed on revenue and cut its full year sales guidance to the bottom of its prior range, citing continued weakness in do it yourself home improvement spending even as professional and online sales held up.
-
-Chip stocks including Intel, AMD and Broadcom fell four to five percent and SanDisk dropped about nine percent in a broad profit taking pullback ahead of Nvidia's earnings next week, even as Nvidia itself held roughly steady after reports that China eased import curbs on its H200 chips.
+Bitcoin surged past seventy one thousand dollars, its highest level in about two months, lifting crypto linked stocks including Strategy, Coinbase, and Circle, after President Trump met with crypto executives to push for market structure legislation.
 
 Czech Republic and Slovakia.
 
-The Czech Senate approved a law requiring a clear withdrawal button and banning dark patterns on websites and apps that sell financial services such as savings, insurance and pension products online or by phone, sending the bill to President Pavel for signature.
-
-The Senate also sent the EET cash register bill back to the lower house with amendments exempting cashless card and bank transfer payments from registration duty and removing the tax exemption cap on employer paid health benefits; the finance minister warned the changes could cost the state up to fourteen billion crowns in revenue.
-
-Czech authorities reminded the public that all five point one million data boxes, including one point four million held by private citizens, must switch to the new datovka dot gov dot cz domain by August twenty sixth, warning that browser saved passwords will not carry over automatically and users may be locked out.
+The Czech Senate rejected a coalition backed amendment to the Building Act that would have centralized building permit decisions in state offices, after architects and opposition lawmakers criticized it as favoring developers. The bill now returns to the Chamber of Deputies.
 
 China.
 
-ByteDance and Tencent have each received roughly ten thousand Nvidia H200 chips in recent weeks as Beijing eased its restrictions on importing advanced foreign AI processors, though authorities are reportedly still pushing companies to keep most units staged offshore in Hong Kong to protect domestic chipmakers such as Huawei.
+China's Commerce Ministry rejected a White House report alleging Chinese exporters evade United States tariffs by routing goods through Mexico and other countries, calling it unilateral and protectionist, as Mexico separately considers new restrictions on Chinese steel and textile imports.
 
-China's new network data security risk assessment rules took effect today, requiring companies classified as important data handlers to conduct annual security risk assessments and submit reports within twenty working days, with less frequent review required for general data handlers.
+China and Switzerland agreed to overhaul their free trade agreement, eliminating tariffs on nearly all Swiss exports to China, up from about half today, with a signing expected before the end of the year.
+
+China's foreign exchange regulator fined a unit of Guotai Haitong Securities about seven point eight million dollars for violating cross border investment and reporting rules on several overseas investment products.
