@@ -1,29 +1,21 @@
-Daily News for Friday, August 21, 2026.
+Daily News for Saturday, August 22, 2026.
 
 Artificial intelligence.
 
-Meta launched a native Mac app for its AI assistant that can read what is on your screen to answer questions, adding a new capability called Muse Spark alongside system wide dictation and business tools for merchants.
+DeepSeek released an experimental multimodal model called V4 Flash Vision Exp, adding vision and agentic capabilities and claiming it nearly matches Anthropic's Claude Opus four point eight on some benchmarks, though it trails badly on the hardest test. The claims come from DeepSeek's own benchmarks and are not independently verified.
 
-Meta also expanded Pocket, an app that lets users generate simple interactive games from text prompts, to all users in the United States after testing it in Brazil.
+Quantum computing.
+
+Brookhaven National Laboratory and Stony Brook University demonstrated the first free space quantum network link in the United States, sending entangled photons through open air across about thirteen miles on Long Island, linking into an existing fiber based quantum network with a third station planned at Yale.
 
 United States stock market.
 
-Major United States stock indices fell, with the Dow dropping about seven hundred points, after Treasury yields rebounded despite a larger bond buyback plan, and oil prices jumped on rising tension between the United States and Iran over the Strait of Hormuz.
-
-Walmart shares dropped about nine percent even after beating profit estimates, as the company reported its slowest United States same store sales growth in over six years and cut its third quarter earnings guidance, citing high fuel costs squeezing shoppers.
-
-Alibaba's United States listed shares fell around five percent after quarterly profit plunged more than seventy five percent, driven by a jump in artificial intelligence infrastructure spending to nearly ten billion dollars, even as cloud revenue rose forty five percent.
-
-Bitcoin surged past seventy one thousand dollars, its highest level in about two months, lifting crypto linked stocks including Strategy, Coinbase, and Circle, after President Trump met with crypto executives to push for market structure legislation.
-
-Czech Republic and Slovakia.
-
-The Czech Senate rejected a coalition backed amendment to the Building Act that would have centralized building permit decisions in state offices, after architects and opposition lawmakers criticized it as favoring developers. The bill now returns to the Chamber of Deputies.
+Major U.S. stock indexes rebounded Friday, with the Dow gaining about five hundred eighteen points, but still closed the week lower, as long term Treasury yields stayed near their highest level since 2007 despite the Treasury's newly expanded bond buyback program.
 
 China.
 
-China's Commerce Ministry rejected a White House report alleging Chinese exporters evade United States tariffs by routing goods through Mexico and other countries, calling it unilateral and protectionist, as Mexico separately considers new restrictions on Chinese steel and textile imports.
+A court in Shenzhen sentenced Evergrande founder Xu Jiayin to life in prison for fraud and illegal fundraising, and fined Evergrande entities a combined fifteen point eight billion yuan, about two point two billion dollars, with fifty six co-defendants also sentenced.
 
-China and Switzerland agreed to overhaul their free trade agreement, eliminating tariffs on nearly all Swiss exports to China, up from about half today, with a signing expected before the end of the year.
+China's foreign ministry rejected a public request from U.S. Treasury Secretary Scott Bessent for Beijing to join Washington's sanctions campaign against Iran, saying pressure tactics are not the solution, and signaled it will keep facilitating Iranian oil purchases.
 
-China's foreign exchange regulator fined a unit of Guotai Haitong Securities about seven point eight million dollars for violating cross border investment and reporting rules on several overseas investment products.
+Shanghai became the first major Chinese city to ease home buying rules since July's weak economic data, cutting the minimum down payment on second homes to fifteen percent from twenty percent and adding resale subsidies of up to eighty thousand yuan.

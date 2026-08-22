@@ -3140,6 +3140,92 @@
       "canonical_summary": "China's State Administration of Foreign Exchange fined Guotai Haitong Securities Asset Management 52.5 million yuan (about $7.8 million including confiscated gains) for violating Qualified Domestic Institutional Investor foreign-exchange rules and cross-border reporting requirements on QDII products offered 2019-2022.",
       "source_url": "https://www.scmp.com/business/china-business/article/3364770/chinese-regulators-slap-us78m-penalty-guotai-haitong-arm-amid-capital-flow-crackdown",
       "material_update_of": null
+    },
+    {
+      "event_id": "deepseek-v4-flash-vision-exp-multimodal-launch",
+      "reported_date": "2026-08-22",
+      "event_date": "2026-08-21",
+      "category": "AI",
+      "entities": [
+        "DeepSeek",
+        "Anthropic"
+      ],
+      "event_type": "model_release",
+      "canonical_summary": "DeepSeek released an experimental multimodal model, V4-Flash-Vision-Exp, adding vision and agentic capabilities and claiming near-parity with Anthropic's Claude Opus 4.8 on some visual/agentic benchmarks while trailing significantly on the hardest test; benchmark claims are DeepSeek's own and not independently verified.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-21/deepseek-unveils-test-model-to-rival-anthropic-s-opus-4-8",
+      "material_update_of": null
+    },
+    {
+      "event_id": "brookhaven-stonybrook-free-space-quantum-link",
+      "reported_date": "2026-08-22",
+      "event_date": "2026-08-21",
+      "category": "Quantum Computing",
+      "entities": [
+        "Brookhaven National Laboratory",
+        "Stony Brook University"
+      ],
+      "event_type": "infrastructure_milestone",
+      "canonical_summary": "Brookhaven National Laboratory and Stony Brook University demonstrated the first US free-space (open-air) quantum entanglement link, transmitting entangled photons roughly 13 miles between two rooftop stations on Long Island, integrating into an existing 161-mile fiber quantum network with a third node planned at Yale.",
+      "source_url": "https://news.stonybrook.edu/university/stony-brook-brookhaven-lab-researchers-demonstrate-wireless-capability-for-quantum-network",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-stocks-friday-rebound-bond-yields",
+      "reported_date": "2026-08-22",
+      "event_date": "2026-08-21",
+      "category": "US Stock Market",
+      "entities": [
+        "Dow Jones Industrial Average",
+        "S&P 500",
+        "Nasdaq Composite"
+      ],
+      "event_type": "market_move",
+      "canonical_summary": "US stocks rebounded Friday August 21 (Dow up about 518 points, ~1%; S&P 500 and Nasdaq up about 0.4%) but still closed the week lower, as long-term Treasury yields stayed near their highest since 2007 despite the Treasury's expanded bond-buyback program announced earlier in the week.",
+      "source_url": "https://uk.finance.yahoo.com/news/stock-market-today-friday-august-21-dow-sp-500-nasdaq-bitcoin-080533702.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "evergrande-xu-jiayin-life-sentence",
+      "reported_date": "2026-08-22",
+      "event_date": "2026-08-20",
+      "category": "China",
+      "entities": [
+        "Xu Jiayin (Hui Ka Yan)",
+        "China Evergrande Group",
+        "Shenzhen Intermediate People's Court"
+      ],
+      "event_type": "court_verdict",
+      "canonical_summary": "A Shenzhen court sentenced Evergrande founder Xu Jiayin to life in prison for fundraising fraud, illegal deposit-taking and fraudulent securities issuance, fining China Evergrande Group and Evergrande Real Estate a combined roughly 15.8 billion yuan (about $2.2 billion), with 56 co-defendants also sentenced.",
+      "source_url": "https://www.france24.com/en/asia-pacific/20260820-china-reast-estate-giant-xu-jiayin-sentenced-to-life-in-prison",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-rejects-us-pressure-iran-sanctions",
+      "reported_date": "2026-08-22",
+      "event_date": "2026-08-21",
+      "category": "China",
+      "entities": [
+        "China Ministry of Foreign Affairs",
+        "US Treasury Department",
+        "Scott Bessent"
+      ],
+      "event_type": "diplomatic_exchange",
+      "canonical_summary": "US Treasury Secretary Scott Bessent publicly urged China to join Washington's Iran sanctions campaign, noting China buys the large majority of Iran's oil exports; China's Foreign Ministry rejected the request, saying sanctions and pressure tactics are not the solution, and signaled it would keep facilitating Iranian oil trade.",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3364734/us-urges-china-back-its-most-crushing-economic-operation-against-iran",
+      "material_update_of": null
+    },
+    {
+      "event_id": "shanghai-property-easing-down-payment-cut",
+      "reported_date": "2026-08-22",
+      "event_date": "2026-08-20",
+      "category": "China",
+      "entities": [
+        "Shanghai municipal government"
+      ],
+      "event_type": "policy_change",
+      "canonical_summary": "Shanghai became the first Chinese top-tier city to ease home-buying rules after weak July economic data, cutting the minimum down payment for second homes outside the outer ring to 15% from 20%, expanding housing provident-fund withdrawal access, and adding resale subsidies of up to 80,000 yuan.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-20/shanghai-starts-new-round-of-property-easing-after-economy-slows",
+      "material_update_of": null
     }
   ]
 }
