@@ -3226,6 +3226,157 @@
       "canonical_summary": "Shanghai became the first Chinese top-tier city to ease home-buying rules after weak July economic data, cutting the minimum down payment for second homes outside the outer ring to 15% from 20%, expanding housing provident-fund withdrawal access, and adding resale subsidies of up to 80,000 yuan.",
       "source_url": "https://www.bloomberg.com/news/articles/2026-08-20/shanghai-starts-new-round-of-property-easing-after-economy-slows",
       "material_update_of": null
+    },
+    {
+      "event_id": "nvidia-ai-server-price-hike-2027",
+      "reported_date": "2026-08-23",
+      "event_date": "2026-08-22",
+      "category": "AI",
+      "entities": [
+        "NVIDIA",
+        "Microsoft",
+        "Google",
+        "Oracle",
+        "Samsung",
+        "SK Hynix",
+        "Micron"
+      ],
+      "event_type": "hardware_deal",
+      "canonical_summary": "Nvidia notified major customers (via contract manufacturers serving Microsoft, Google and Oracle) that prices for AI server systems containing its chips, including the Vera Rubin and Grace Blackwell platforms, are rising more than 15% for systems shipping in early 2027, driven by soaring DRAM and memory costs from Samsung, SK Hynix and Micron.",
+      "source_url": "https://fortune.com/2026/08/22/nvidia-customers-ai-related-price-hikes-15-percent-vera-rubin-grace-blackwell-chips/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "nvidia-china-lpu-chip-denial",
+      "reported_date": "2026-08-23",
+      "event_date": "2026-08-22",
+      "category": "AI",
+      "entities": [
+        "NVIDIA"
+      ],
+      "event_type": "corporate_statement",
+      "canonical_summary": "Nvidia publicly denied a report claiming it planned to begin small-batch shipments by year-end of a China-tailored, export-control-compliant language processing unit (LPU), with a spokesperson stating the company has no LPU sales in China today and no China-specific LPU product on its roadmap.",
+      "source_url": "https://www.manilatimes.net/2026/08/22/business/foreign-business/nvidia-denies-report-it-is-rolling-out-china-ai-chip-by-year-end/2409917",
+      "material_update_of": null
+    },
+    {
+      "event_id": "nvidia-cloverleaf-infrastructure-stake",
+      "reported_date": "2026-08-23",
+      "event_date": "2026-08-21",
+      "category": "AI",
+      "entities": [
+        "NVIDIA",
+        "Cloverleaf Infrastructure"
+      ],
+      "event_type": "partnership",
+      "canonical_summary": "Nvidia announced a strategic partnership and took a minority equity stake (reportedly several hundred million dollars) in Cloverleaf Infrastructure, a data-center power and site-development facilitator, to speed delivery of power, cooling and facility capacity for AI data center buildouts.",
+      "source_url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "advance-auto-parts-earnings-selloff",
+      "reported_date": "2026-08-23",
+      "event_date": "2026-08-20",
+      "category": "US Stock Market",
+      "entities": [
+        "Advance Auto Parts",
+        "AutoZone",
+        "O'Reilly Automotive"
+      ],
+      "event_type": "earnings",
+      "canonical_summary": "Advance Auto Parts shares fell about 21-22% after Q2 2026 results showed its EPS beat was inflated roughly $0.31 by one-time tariff refunds (core EPS closer to $0.72 vs $0.81 consensus reported), revenue missed estimates and fell YoY on weak DIY demand, and the company trimmed planned store openings; AutoZone and O'Reilly Automotive fell in sympathy.",
+      "source_url": "https://247wallst.com/investing/2026/08/20/advance-auto-parts-plunges-21-as-revenue-miss-overshadows-earnings-beat-autozone-falls-4-oreilly-automotive-slips/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "bitcoin-rally-77k-short-squeeze",
+      "reported_date": "2026-08-23",
+      "event_date": "2026-08-21",
+      "category": "US Stock Market",
+      "entities": [
+        "Bitcoin",
+        "Strategy",
+        "Coinbase",
+        "Bitmine",
+        "Circle Internet"
+      ],
+      "event_type": "market_move",
+      "canonical_summary": "Bitcoin's rally accelerated sharply past the previously reported $71,000 level, closing near $76,944 on August 21 (up ~22% for the week) as a short squeeze liquidated more than $2.7-3.1 billion in bearish positions, fueled by a weaker dollar following the Treasury's bond-buyback announcement and a push in Congress for the Digital Asset Market Clarity Act.",
+      "source_url": "https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html",
+      "material_update_of": "crypto-stocks-rally-bitcoin-71k"
+    },
+    {
+      "event_id": "czech-pension-hike-2027-proposal",
+      "reported_date": "2026-08-23",
+      "event_date": "2026-08-21",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Ministerstvo práce a sociálních věcí ČR",
+        "Aleš Juchelka"
+      ],
+      "event_type": "pension_policy",
+      "canonical_summary": "The Czech government published a draft regulation raising all old-age, disability and survivor pensions by a flat CZK 300 from January 2027, lifting the average old-age pension from CZK 21,803 to about CZK 22,192 and the minimum old-age pension to CZK 10,400, affecting roughly 2.33 million old-age pensioners; coalition leaders may still negotiate a larger increase.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/navrh-narizeni-vlady-vsechny-duchody-by-mely-od-ledna-rust-o-300-kc/2863943",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-republic-bond-second-tranche",
+      "reported_date": "2026-08-23",
+      "event_date": "2026-08-21",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Ministerstvo financí ČR"
+      ],
+      "event_type": "savings_investment",
+      "canonical_summary": "The Czech Finance Ministry opened the second subscription window for the retail 'Dluhopis Republiky' Flexi Bond 002, running 24 August to 4 October 2026 at a 3.75% annual rate, with interest accruing from 15 October 2026, giving retail savers a state-backed alternative amid low bank deposit rates.",
+      "source_url": "https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2026/zacina-druhe-upisovaci-obdobi-dluhopisu-republiky-64944",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-h2-consumption-fiscal-package",
+      "reported_date": "2026-08-23",
+      "event_date": "2026-08-21",
+      "category": "China",
+      "entities": [
+        "Ministry of Finance (China)",
+        "Liao Min"
+      ],
+      "event_type": "economic_policy",
+      "canonical_summary": "China's Vice Finance Minister Liao Min announced a new package of coordinated fiscal and financial policies to expand domestic consumption in H2 2026 after weak July data, including broadened interest subsidies for consumer loans and an expansion of participating lending institutions from about 100 to about 400, alongside continued disbursement of the existing RMB 187.5 billion trade-in subsidy program.",
+      "source_url": "https://english.news.cn/20260821/b90f7fe537544f1ba8f456a77e1a8867/c.html",
+      "material_update_of": "china-july-2026-economic-data-miss"
+    },
+    {
+      "event_id": "evergrande-life-insurance-license-revoked",
+      "reported_date": "2026-08-23",
+      "event_date": "2026-08-22",
+      "category": "China",
+      "entities": [
+        "National Financial Regulatory Administration",
+        "Evergrande Life Insurance",
+        "China Evergrande Group",
+        "Xu Jiayin (Hui Ka Yan)"
+      ],
+      "event_type": "regulatory_enforcement",
+      "canonical_summary": "China's National Financial Regulatory Administration revoked the business license of Evergrande Life Insurance for illegal use of insurance funds and transfer of benefits to related parties, one day after founder Xu Jiayin was sentenced to life in prison for fraud; Evergrande had used the insurer as a financing vehicle since acquiring a 50% stake in 2015.",
+      "source_url": "https://www.caixinglobal.com/2026-08-22/china-revokes-evergrande-lifes-license-over-illegal-fund-use-102476710.html",
+      "material_update_of": "evergrande-xu-jiayin-life-sentence"
+    },
+    {
+      "event_id": "china-eu-trade-surplus-widens-july",
+      "reported_date": "2026-08-23",
+      "event_date": "2026-08-21",
+      "category": "China",
+      "entities": [
+        "European Commission",
+        "China",
+        "Germany",
+        "Sweden"
+      ],
+      "event_type": "trade_data",
+      "canonical_summary": "New July trade data showed China's bilateral trade surplus widened with nearly all EU member states year-on-year, with Germany's deficit up about 86.5% and Sweden's roughly quadrupling, increasing pressure ahead of the EU-China October rebalancing deadline tied to the October 15 EU leaders' summit, with the EU threatening countermeasures if no progress is made.",
+      "source_url": "https://www.scmp.com/economy/china-economy/article/3364791/chinas-trade-grip-tightens-europe-clock-ticks-towards-october-deadline",
+      "material_update_of": "china-july-2026-trade-data-surplus"
     }
   ]
 }

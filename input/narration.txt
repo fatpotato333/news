@@ -1,21 +1,29 @@
-Daily News for Saturday, August 22, 2026.
+Daily News for Sunday, August 23, 2026.
 
 Artificial intelligence.
 
-DeepSeek released an experimental multimodal model called V4 Flash Vision Exp, adding vision and agentic capabilities and claiming it nearly matches Anthropic's Claude Opus four point eight on some benchmarks, though it trails badly on the hardest test. The claims come from DeepSeek's own benchmarks and are not independently verified.
+Nvidia has told major customers, including Microsoft, Google, and Oracle, that prices for its AI server systems, including the upcoming Vera Rubin and Grace Blackwell platforms, will rise more than fifteen percent for systems shipping in early twenty twenty seven. The company blames soaring memory chip costs from suppliers such as Samsung, SK Hynix, and Micron.
 
-Quantum computing.
+Nvidia publicly denied a report claiming it planned to ship a China specific AI chip, called an LPU, by year end. A spokesperson said the company has no such product on its roadmap and no current chip sales in the Chinese market today.
 
-Brookhaven National Laboratory and Stony Brook University demonstrated the first free space quantum network link in the United States, sending entangled photons through open air across about thirteen miles on Long Island, linking into an existing fiber based quantum network with a third station planned at Yale.
+Nvidia also took a minority stake, reportedly worth several hundred million dollars, in data center developer Cloverleaf Infrastructure. The partnership aims to speed up delivery of power, cooling, and site capacity for Nvidia's AI data center buildout.
 
 United States stock market.
 
-Major U.S. stock indexes rebounded Friday, with the Dow gaining about five hundred eighteen points, but still closed the week lower, as long term Treasury yields stayed near their highest level since 2007 despite the Treasury's newly expanded bond buyback program.
+Advance Auto Parts shares plunged about twenty one percent after its earnings beat was revealed to be inflated by one time tariff refunds, with core profit closer to seventy two cents a share rather than the reported one dollar three cents. Revenue missed estimates as do it yourself sales weakened, and the company trimmed planned store openings, dragging down AutoZone and O'Reilly Automotive shares as well.
+
+Bitcoin surged to nearly seventy seven thousand dollars, up twenty two percent for the week, as a short squeeze liquidated more than two point seven billion dollars in bearish bets. The rally was fueled by a weaker dollar following the Treasury's bond buyback announcement and a push in Congress to pass new crypto market legislation.
+
+Czech Republic and Slovakia.
+
+The Czech government proposed raising all old age, disability, and survivor pensions by a flat three hundred crowns starting January twenty twenty seven, lifting the average old age pension to about twenty two thousand one hundred ninety two crowns and the minimum old age pension to ten thousand four hundred crowns. The change would affect roughly two point three million old age pensioners, though coalition leaders may still negotiate a larger increase given a tight twenty twenty seven budget.
+
+The Czech Finance Ministry opened a second subscription window for its retail Flexi Bond, offering savers a three month bond at three point seven five percent annual interest. The window runs from August twenty fourth through October fourth, giving Czech savers a state backed alternative to low bank deposit rates.
 
 China.
 
-A court in Shenzhen sentenced Evergrande founder Xu Jiayin to life in prison for fraud and illegal fundraising, and fined Evergrande entities a combined fifteen point eight billion yuan, about two point two billion dollars, with fifty six co-defendants also sentenced.
+China's finance ministry announced a new package of fiscal and financial measures to boost domestic consumption in the second half of the year, following weaker than expected July economic data. The plan expands interest subsidies for consumer loans on cars, home renovation, and credit card purchases, and widens the number of participating lenders from about one hundred to four hundred.
 
-China's foreign ministry rejected a public request from U.S. Treasury Secretary Scott Bessent for Beijing to join Washington's sanctions campaign against Iran, saying pressure tactics are not the solution, and signaled it will keep facilitating Iranian oil purchases.
+China's financial regulator revoked the business license of Evergrande Life Insurance for illegally using policyholder funds and transferring benefits to related parties. The move came one day after Evergrande founder Xu Jiayin was sentenced to life in prison for fraud, closing out the insurer that Evergrande had used as a financing vehicle since twenty fifteen.
 
-Shanghai became the first major Chinese city to ease home buying rules since July's weak economic data, cutting the minimum down payment on second homes to fifteen percent from twenty percent and adding resale subsidies of up to eighty thousand yuan.
+New trade data show China's surplus with most European Union member states widened sharply in July, with Germany's bilateral deficit up nearly eighty seven percent and Sweden's roughly quadrupling. The figures add pressure ahead of an October deadline for Brussels and Beijing to agree on trade rebalancing, with the European Union threatening countermeasures if no progress is made.
