@@ -1,29 +1,15 @@
-Daily News for Sunday, August 23, 2026.
+Daily News for Monday, August 24, 2026.
 
 Artificial intelligence.
 
-Nvidia has told major customers, including Microsoft, Google, and Oracle, that prices for its AI server systems, including the upcoming Vera Rubin and Grace Blackwell platforms, will rise more than fifteen percent for systems shipping in early twenty twenty seven. The company blames soaring memory chip costs from suppliers such as Samsung, SK Hynix, and Micron.
-
-Nvidia publicly denied a report claiming it planned to ship a China specific AI chip, called an LPU, by year end. A spokesperson said the company has no such product on its roadmap and no current chip sales in the Chinese market today.
-
-Nvidia also took a minority stake, reportedly worth several hundred million dollars, in data center developer Cloverleaf Infrastructure. The partnership aims to speed up delivery of power, cooling, and site capacity for Nvidia's AI data center buildout.
-
-United States stock market.
-
-Advance Auto Parts shares plunged about twenty one percent after its earnings beat was revealed to be inflated by one time tariff refunds, with core profit closer to seventy two cents a share rather than the reported one dollar three cents. Revenue missed estimates as do it yourself sales weakened, and the company trimmed planned store openings, dragging down AutoZone and O'Reilly Automotive shares as well.
-
-Bitcoin surged to nearly seventy seven thousand dollars, up twenty two percent for the week, as a short squeeze liquidated more than two point seven billion dollars in bearish bets. The rally was fueled by a weaker dollar following the Treasury's bond buyback announcement and a push in Congress to pass new crypto market legislation.
+At the World Humanoid Robot Games in Beijing, a robot called Tien Kung Omni from Chinese robotics firm X-Humanoid won its 400 meter race with an unusual forward-leaning stride and arms held near its face. Engineers said reinforcement learning produced this gait because it reduces shoulder strain and preserves leg power better than a human-style arm swing.
 
 Czech Republic and Slovakia.
 
-The Czech government proposed raising all old age, disability, and survivor pensions by a flat three hundred crowns starting January twenty twenty seven, lifting the average old age pension to about twenty two thousand one hundred ninety two crowns and the minimum old age pension to ten thousand four hundred crowns. The change would affect roughly two point three million old age pensioners, though coalition leaders may still negotiate a larger increase given a tight twenty twenty seven budget.
+The Czech government is set to discuss a pension savings overhaul today that would double state contributions to 40 percent of deposits for savers under 29, let savers under 36 withdraw a third of their funds early without penalty, cap annual management fees at half a percent, and wind down older transformed pension funds by the end of 2036, at an estimated cost of 1.1 to 1.6 billion crowns a year.
 
-The Czech Finance Ministry opened a second subscription window for its retail Flexi Bond, offering savers a three month bond at three point seven five percent annual interest. The window runs from August twenty fourth through October fourth, giving Czech savers a state backed alternative to low bank deposit rates.
+Later today, the government, trade unions, and employers hold extraordinary talks on raising the minimum wage from 22,400 crowns to 24,900 crowns in 2027, and to 26,900 crowns in 2028, moving it toward 47 percent of the average wage by 2029. The same session opens separate talks on 2027 public sector pay, projected to rise about 6 percent.
 
 China.
 
-China's finance ministry announced a new package of fiscal and financial measures to boost domestic consumption in the second half of the year, following weaker than expected July economic data. The plan expands interest subsidies for consumer loans on cars, home renovation, and credit card purchases, and widens the number of participating lenders from about one hundred to four hundred.
-
-China's financial regulator revoked the business license of Evergrande Life Insurance for illegally using policyholder funds and transferring benefits to related parties. The move came one day after Evergrande founder Xu Jiayin was sentenced to life in prison for fraud, closing out the insurer that Evergrande had used as a financing vehicle since twenty fifteen.
-
-New trade data show China's surplus with most European Union member states widened sharply in July, with Germany's bilateral deficit up nearly eighty seven percent and Sweden's roughly quadrupling. The figures add pressure ahead of an October deadline for Brussels and Beijing to agree on trade rebalancing, with the European Union threatening countermeasures if no progress is made.
+Beijing has activated a level four emergency response across seven provinces, including Hainan, Guangdong, and Zhejiang, as three typhoons remain active in the region at once, a rare occurrence in a year that has already seen 20 typhoons versus a historical average of about 13. Typhoon Saudel is forecast to strengthen into a super typhoon near Japan, while typhoon Narra is tracking toward landfall near the Guangxi-Vietnam border around August 26.

@@ -3377,6 +3377,64 @@
       "canonical_summary": "New July trade data showed China's bilateral trade surplus widened with nearly all EU member states year-on-year, with Germany's deficit up about 86.5% and Sweden's roughly quadrupling, increasing pressure ahead of the EU-China October rebalancing deadline tied to the October 15 EU leaders' summit, with the EU threatening countermeasures if no progress is made.",
       "source_url": "https://www.scmp.com/economy/china-economy/article/3364791/chinas-trade-grip-tightens-europe-clock-ticks-towards-october-deadline",
       "material_update_of": "china-july-2026-trade-data-surplus"
+    },
+    {
+      "event_id": "x-humanoid-tiengong-omni-rl-gait-race",
+      "reported_date": "2026-08-24",
+      "event_date": "2026-08-23",
+      "category": "AI",
+      "entities": [
+        "X-Humanoid",
+        "Tien Kung Omni"
+      ],
+      "event_type": "robotics_capability",
+      "canonical_summary": "At the 2nd World Humanoid Robot Games in Beijing, X-Humanoid's Tien Kung Omni robot won its 400-meter race final using an unconventional reinforcement-learning-optimized gait (forward-pitched torso, arms held near its face) that engineers said reduces shoulder-joint strain and preserves leg power versus a human-style arm swing.",
+      "source_url": "https://www.globaltimes.cn/page/202608/1368875.shtml",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-lepsi-penzijko-pension-reform-proposal",
+      "reported_date": "2026-08-24",
+      "event_date": "2026-08-24",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech government",
+        "Ministry of Finance",
+        "Czech pension companies"
+      ],
+      "event_type": "legislative_proposal",
+      "canonical_summary": "The Czech cabinet placed on today's agenda a supplementary pension savings reform ('Lepsi penzijko') that would double state contributions to 40% of deposits for savers under 29, allow savers under 36 to withdraw a third of funds early without penalty, cap annual management fees at 0.5%, and require legacy 'transformed' pension funds to wind down by end-2036, at an estimated added state cost of CZK 1.1-1.6 billion per year.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/vlada-projedna-zmenu-penzijniho-sporeni-ma-prilakat-mladsi-klienty/2864995",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-minimum-wage-2027-2028-tripartite-talks",
+      "reported_date": "2026-08-24",
+      "event_date": "2026-08-24",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Ministry of Labour",
+        "trade unions",
+        "employers' associations"
+      ],
+      "event_type": "policy_negotiation",
+      "canonical_summary": "The Czech government held extraordinary tripartite talks with unions and employers on raising the minimum wage from CZK 22,400 to CZK 24,900 in 2027 and to CZK 26,900 in 2028 (moving it toward 47% of the average wage by 2029), with a parallel session opening negotiations on 2027 public-sector pay growth of roughly 6.2%.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/tripartita-projedna-navyseni-minimalni-mzdy-pote-zacne-jednani-o-rustu-platu/2865147",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-triple-typhoon-level4-emergency",
+      "reported_date": "2026-08-24",
+      "event_date": "2026-08-24",
+      "category": "China",
+      "entities": [
+        "China National Flood Control and Drought Relief Headquarters",
+        "Ministry of Emergency Management"
+      ],
+      "event_type": "natural_disaster",
+      "canonical_summary": "China activated a Level IV emergency response across seven provinces (including Hainan, Guangdong, Zhejiang) as three typhoons were simultaneously active in the region; as of Aug 23-24, Typhoon Saudel was forecast to strengthen into a super typhoon near Japan while Typhoon Narra tracked toward landfall near the Guangxi-Vietnam border around Aug 26, in a season that has already produced 20 named typhoons versus a historical Jan-Aug average of 13.4.",
+      "source_url": "https://www.globaltimes.cn/page/202608/1368757.shtml",
+      "material_update_of": null
     }
   ]
 }
