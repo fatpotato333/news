@@ -3435,6 +3435,218 @@
       "canonical_summary": "China activated a Level IV emergency response across seven provinces (including Hainan, Guangdong, Zhejiang) as three typhoons were simultaneously active in the region; as of Aug 23-24, Typhoon Saudel was forecast to strengthen into a super typhoon near Japan while Typhoon Narra tracked toward landfall near the Guangxi-Vietnam border around Aug 26, in a season that has already produced 20 named typhoons versus a historical Jan-Aug average of 13.4.",
       "source_url": "https://www.globaltimes.cn/page/202608/1368757.shtml",
       "material_update_of": null
+    },
+    {
+      "event_id": "nvidia-poolside-model-license-investment",
+      "reported_date": "2026-08-25",
+      "event_date": "2026-08-24",
+      "category": "AI",
+      "entities": [
+        "NVIDIA",
+        "Poolside"
+      ],
+      "event_type": "partnership_investment",
+      "canonical_summary": "NVIDIA agreed to pay $6 billion to license AI coding-model startup Poolside's 'Model Factory' technology plus a $1 billion equity stake at a $12 billion valuation, bringing over 100 Poolside engineers in-house to strengthen its open-weight Nemotron models against DeepSeek, Kimi, OpenAI and Anthropic.",
+      "source_url": "https://www.forbes.com/sites/jonmarkman/2026/08/24/nvidia-pays-poolside-6b-to-license-its-model-factory-and-109-workers/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "alibaba-wan3-video-model-launch",
+      "reported_date": "2026-08-25",
+      "event_date": "2026-08-24",
+      "category": "AI",
+      "entities": [
+        "Alibaba",
+        "Alibaba Cloud"
+      ],
+      "event_type": "model_release",
+      "canonical_summary": "Alibaba launched Wan3.0, a video-generation model producing single-pass clips up to 30 seconds long (double its predecessor) directly from documents, spreadsheets and slide decks, a day after Alibaba closed a $10.2 billion share sale funding its AI buildout.",
+      "source_url": "https://technode.com/2026/08/24/alibaba-launches-wan3-0-video-model-with-30-second-generation-and-document-input/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "nvidia-perplexity-investment-talks",
+      "reported_date": "2026-08-25",
+      "event_date": "2026-08-23",
+      "category": "AI",
+      "entities": [
+        "NVIDIA",
+        "Perplexity"
+      ],
+      "event_type": "funding_talks",
+      "canonical_summary": "NVIDIA is in talks to invest in Perplexity at a valuation above $30 billion, over 50% higher than its last round, with a possible technology licensing arrangement, as Perplexity's annualized revenue tripled to more than $750 million.",
+      "source_url": "https://www.theinformation.com/articles/nvidia-discusses-perplexity-investment-30-billion-plus-valuation-considered-tech-licensing-deal",
+      "material_update_of": null
+    },
+    {
+      "event_id": "japan-shunkai-neutral-atom-quantum-computer",
+      "reported_date": "2026-08-25",
+      "event_date": "2026-08-24",
+      "category": "Quantum Computing",
+      "entities": [
+        "Institute for Molecular Science",
+        "Infleqtion",
+        "Hitachi",
+        "JST Moonshot Program"
+      ],
+      "event_type": "new_quantum_processor",
+      "canonical_summary": "Japan's Institute for Molecular Science, with Infleqtion (QPU hardware) and Hitachi (software stack), announced 'Shunkai', Japan's first full-stack operational neutral-atom quantum computer, running with roughly 50 qubits under the JST Moonshot R&D Program, targeting a scale-up path to 10,000 physical qubits by 2031.",
+      "source_url": "https://thequantuminsider.com/2026/08/24/japans-full-stack-neutral-atom-quantum-computer-is-operational/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "pasqal-arabia-saudi-joint-venture",
+      "reported_date": "2026-08-25",
+      "event_date": "2026-08-24",
+      "category": "Quantum Computing",
+      "entities": [
+        "Pasqal",
+        "Eleven Ventures",
+        "Kingdom of Saudi Arabia"
+      ],
+      "event_type": "commercial_expansion",
+      "canonical_summary": "Pasqal and Saudi-based Eleven Ventures formed 'Pasqal Arabia', a joint venture to deploy and commercialize Pasqal's neutral-atom quantum computers across Saudi Arabia and the wider MENA region, tied to Vision 2030.",
+      "source_url": "https://thequantuminsider.com/2026/08/24/pasqal-eleven-ventures-joint-venture-quantum-computing-saudi-arabia/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-stocks-monday-mixed-pre-nvidia-earnings",
+      "reported_date": "2026-08-25",
+      "event_date": "2026-08-24",
+      "category": "US Stock Market",
+      "entities": [
+        "S&P 500",
+        "Nasdaq",
+        "Dow Jones"
+      ],
+      "event_type": "index_move",
+      "canonical_summary": "The S&P 500 slipped 0.3% to 7,652.86 and the Nasdaq fell 0.8% to 25,980.19 Monday, while the Dow added 0.3%, as investors trimmed risk ahead of Nvidia's earnings (due Wednesday 8/26) and Wednesday's PCE inflation report.",
+      "source_url": "https://www.cnbc.com/2026/08/24/stock-market-today-live-updates.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-iran-sanctions-operation-economic-outcast",
+      "reported_date": "2026-08-25",
+      "event_date": "2026-08-24",
+      "category": "US Stock Market",
+      "entities": [
+        "US Treasury",
+        "Scott Bessent",
+        "Iran"
+      ],
+      "event_type": "regulatory_geopolitical",
+      "canonical_summary": "Treasury Secretary Scott Bessent unveiled a global sanctions campaign against Iran dubbed 'Operation Economic Outcast', sending WTI crude down about 2.5% to $84.89/barrel and pressuring equity futures.",
+      "source_url": "https://www.cnbc.com/2026/08/24/oil-price-today-wti-brent-us-sanctions-iran.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "samsung-payout-plan-micron-selloff",
+      "reported_date": "2026-08-25",
+      "event_date": "2026-08-24",
+      "category": "US Stock Market",
+      "entities": [
+        "Micron",
+        "Samsung Electronics",
+        "SK Hynix"
+      ],
+      "event_type": "single_stock_move",
+      "canonical_summary": "Micron shares dropped 5.8% to $910.43 after Samsung's record-sized ($65-79B) shareholder-return plan disappointed investors by deferring buyback details until 2027, sending Samsung down 9% and dragging memory-chip peers lower.",
+      "source_url": "https://www.fool.com/investing/2026/08/24/samsung-just-authorized-its-largest-shareholder-return-ever-every-major-memory-stock-fell-monday/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-pension-reform-cabinet-approval",
+      "reported_date": "2026-08-25",
+      "event_date": "2026-08-24",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech government",
+        "Finance Minister Alena Schillerova",
+        "Association of Pension Companies"
+      ],
+      "event_type": "legislation_stage",
+      "canonical_summary": "The Czech cabinet formally approved its pension savings reform bill (amendment to Act No. 427/2011), moving it to the Chamber of Deputies for debate starting September 2026; it doubles state contributions to 40% of deposits for savers under 29, caps management fees at 0.5%, and allows penalty-free withdrawal of a third of savings from age 36.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/vlada-schvalila-zmenu-pravidel-penzijniho-sporeni-ktera-ma-prilakat-klienty/2864995",
+      "material_update_of": "czech-lepsi-penzijko-pension-reform-proposal"
+    },
+    {
+      "event_id": "czech-entrepreneurship-package-red-tape",
+      "reported_date": "2026-08-25",
+      "event_date": "2026-08-24",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Ministry of Industry and Trade",
+        "Karel Havlicek",
+        "Czech government"
+      ],
+      "event_type": "policy_package_approval",
+      "canonical_summary": "The Czech government approved an 11-measure 'Entrepreneurship Package' to be phased in by end of September 2027, including a single Entrepreneur Portal for taxes and insurance, a shared cross-agency inspection system, simplified employee onboarding, and raising the energy-plant licensing threshold from 1 MW to 100 MW.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/havlicek-podnikatelsky-balicek-ma-prinest-podnikatelum-administrativni-ulevy/2865385",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-transaction-tax-abolition-2027",
+      "reported_date": "2026-08-25",
+      "event_date": "2026-08-24",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Robert Fico",
+        "Ladislav Kamenicky",
+        "Slovak government"
+      ],
+      "event_type": "policy_announcement",
+      "canonical_summary": "Slovak PM Robert Fico directed the Finance Ministry to prepare legislation abolishing the financial transaction tax on businesses effective January 1, 2027; the tax currently raises roughly EUR 500-526 million/year and no replacement revenue source has been named, with parliamentary approval still required.",
+      "source_url": "https://www.noviny.sk/slovensko/1249733-transakcna-dan-ma-skoncit-fico-ju-chce-zrusit-od-januara-2027",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-china-overcapacity-tariff-7-5-percent",
+      "reported_date": "2026-08-25",
+      "event_date": "2026-08-24",
+      "category": "China",
+      "entities": [
+        "US Commerce Department",
+        "USTR",
+        "China",
+        "Donald Trump",
+        "Xi Jinping"
+      ],
+      "event_type": "trade_tariff",
+      "canonical_summary": "The US is preparing a new 7.5% tariff on Chinese goods over alleged manufacturing overcapacity, timed to land before a planned September 24 Xi-Trump summit in Washington; the move could push effective China tariffs back toward 20%.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-24/us-eyes-china-overcapacity-tariffs-of-7-5-before-xi-trump-talks",
+      "material_update_of": null
+    },
+    {
+      "event_id": "nexperia-china-domestic-wafer-independence",
+      "reported_date": "2026-08-25",
+      "event_date": "2026-08-24",
+      "category": "China",
+      "entities": [
+        "Nexperia China",
+        "Wingtech Technology",
+        "Nexperia Netherlands"
+      ],
+      "event_type": "supply_chain_shift",
+      "canonical_summary": "Nexperia's Chinese subsidiary announced it will move its entire chip product line onto domestically sourced 12-inch wafers, seeking full independence from its Dutch parent after nearly a year of supply cutoffs amid the ongoing corporate dispute.",
+      "source_url": "https://www.scmp.com/tech/tech-war/article/3365049/nexperias-china-unit-pivots-domestic-12-inch-wafers-pursuit-100-independence",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-typhoon-narra-atsani-flooding",
+      "reported_date": "2026-08-25",
+      "event_date": "2026-08-24",
+      "category": "China",
+      "entities": [
+        "China Ministry of Water Resources",
+        "Guangxi",
+        "Guangdong",
+        "Hainan",
+        "China Meteorological Administration"
+      ],
+      "event_type": "natural_disaster",
+      "canonical_summary": "Typhoon Narra's stalled rains displaced over 54,000 people and flooded Ningming and Fangchenggang counties in Guangxi, while a fourth typhoon, Atsani, formed in the Pacific, extending the region's already-active typhoon emergency.",
+      "source_url": "https://www.chinadaily.com.cn/a/202608/25/WS6a8cebf0e4b057c97e209880.html",
+      "material_update_of": "china-triple-typhoon-level4-emergency"
     }
   ]
 }

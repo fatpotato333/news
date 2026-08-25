@@ -1,15 +1,39 @@
-Daily News for Monday, August 24, 2026.
+Daily News for Tuesday, August 25, 2026.
 
 Artificial intelligence.
 
-At the World Humanoid Robot Games in Beijing, a robot called Tien Kung Omni from Chinese robotics firm X-Humanoid won its 400 meter race with an unusual forward-leaning stride and arms held near its face. Engineers said reinforcement learning produced this gait because it reduces shoulder strain and preserves leg power better than a human-style arm swing.
+Nvidia is paying six billion dollars to license AI startup Poolside's model-building technology, plus a one billion dollar equity stake at a twelve billion dollar valuation, and is bringing on more than a hundred Poolside engineers to strengthen its open source Nemotron models against rivals like DeepSeek, Kimi, OpenAI, and Anthropic.
+
+Alibaba released Wan three point zero, a video-generation model that can produce a single-pass clip up to thirty seconds long, double its predecessor, directly from a document, spreadsheet, or slide deck. It launched just a day after Alibaba closed a ten point two billion dollar share sale to fund its AI expansion.
+
+Nvidia is reportedly in talks to invest in AI search company Perplexity at a valuation above thirty billion dollars, more than fifty percent higher than its last funding round, as Perplexity's annualized revenue has tripled to more than seven hundred fifty million dollars. The talks reportedly also include a possible technology licensing arrangement between the two companies.
+
+Quantum computing.
+
+Japan switched on Shunkai, its first full-stack neutral atom quantum computer, developed by the Institute for Molecular Science with US firm Infleqtion and Hitachi under the government's Moonshot program. It starts at around fifty qubits, with a national roadmap toward ten thousand qubits and error correction by 2031.
+
+Quantum computing maker Pasqal and Saudi investment firm Eleven Ventures launched a joint venture called Pasqal Arabia to deploy and commercialize neutral atom quantum systems across Saudi Arabia and the wider Middle East, tied to the kingdom's Vision 2030 plan.
+
+United States stock market.
+
+Wall Street was mixed Monday. The S&P 500 slipped three tenths of a percent to 7,652, and the Nasdaq fell eight tenths of a percent to 25,980, while the Dow added three tenths of a percent, as investors turned cautious ahead of Nvidia's earnings Wednesday and this week's inflation report.
+
+The Trump administration unveiled a sweeping new sanctions campaign against Iran, dubbed Operation Economic Outcast by Treasury Secretary Scott Bessent, sending crude oil down about two and a half percent to under 85 dollars a barrel and pressuring stock futures.
+
+Micron shares fell nearly six percent after Samsung authorized its largest-ever shareholder return plan but disappointed investors by deferring buyback details until 2027, triggering a selloff across memory chip stocks in Asia and the US, including a nine percent drop for Samsung itself.
 
 Czech Republic and Slovakia.
 
-The Czech government is set to discuss a pension savings overhaul today that would double state contributions to 40 percent of deposits for savers under 29, let savers under 36 withdraw a third of their funds early without penalty, cap annual management fees at half a percent, and wind down older transformed pension funds by the end of 2036, at an estimated cost of 1.1 to 1.6 billion crowns a year.
+The Czech cabinet formally approved its pension savings overhaul, moving the bill to parliament for debate in September. It doubles state contributions to forty percent of deposits for savers under twenty nine, caps annual management fees at half a percent, and lets savers withdraw a third of their money penalty free starting at age thirty six, at an estimated extra cost to the state of up to one point six billion crowns a year.
 
-Later today, the government, trade unions, and employers hold extraordinary talks on raising the minimum wage from 22,400 crowns to 24,900 crowns in 2027, and to 26,900 crowns in 2028, moving it toward 47 percent of the average wage by 2029. The same session opens separate talks on 2027 public sector pay, projected to rise about 6 percent.
+The Czech government also adopted an eleven point business red tape package, creating a single portal for paying taxes and insurance, setting up a shared inspection system to cut duplicate business checks, and raising the licensing threshold for new power plants from one to one hundred megawatts.
+
+Slovak Prime Minister Robert Fico confirmed plans to scrap the financial transaction tax on businesses starting January 2027, a levy worth about five hundred million euros a year to the budget, though parliament still must approve it and no replacement revenue has been named.
 
 China.
 
-Beijing has activated a level four emergency response across seven provinces, including Hainan, Guangdong, and Zhejiang, as three typhoons remain active in the region at once, a rare occurrence in a year that has already seen 20 typhoons versus a historical average of about 13. Typhoon Saudel is forecast to strengthen into a super typhoon near Japan, while typhoon Narra is tracking toward landfall near the Guangxi-Vietnam border around August 26.
+Washington is weighing a new seven and a half percent tariff on Chinese goods over an alleged manufacturing overcapacity, aiming to finalize it before presidents Trump and Xi meet in Washington next month, a move that could push effective China tariffs back toward twenty percent.
+
+Nexperia's China division, cut off from European wafer supplies amid a year long dispute with its Dutch parent, said it is shifting its entire chip product line to domestically sourced twelve inch wafers, seeking what it calls full manufacturing independence.
+
+Typhoon Narra's stalled rains have flooded parts of Guangxi province, displacing more than fifty four thousand people and prompting boat rescues, while a fourth storm, Atsani, has formed further out in the Pacific in what is already an unusually active typhoon season, with more storms this year than the historical average.
