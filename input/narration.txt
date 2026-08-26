@@ -1,39 +1,37 @@
-Daily News for Tuesday, August 25, 2026.
+Daily News for Wednesday, August 26, 2026.
 
 Artificial intelligence.
 
-Nvidia is paying six billion dollars to license AI startup Poolside's model-building technology, plus a one billion dollar equity stake at a twelve billion dollar valuation, and is bringing on more than a hundred Poolside engineers to strengthen its open source Nemotron models against rivals like DeepSeek, Kimi, OpenAI, and Anthropic.
+Apple introduced new M6 and M5 Ultra chips, including its first 2 nanometer processor, built into a redesigned Mac mini and Mac Studio lineup. The M6 doubles peak neural engine compute over its predecessor, while the M5 Ultra offers a 32 core neural engine, up to 512 gigabytes of unified memory, and 1.2 terabytes per second of bandwidth, letting large language models run entirely on device without cloud servers.
 
-Alibaba released Wan three point zero, a video-generation model that can produce a single-pass clip up to thirty seconds long, double its predecessor, directly from a document, spreadsheet, or slide deck. It launched just a day after Alibaba closed a ten point two billion dollar share sale to fund its AI expansion.
+Anthropic launched a 5 million dollar grant program funding independent, open source research into how AI systems affect users' psychological wellbeing, part of a broader push to fund outside safety and trust evaluation ahead of the company's expected public listing.
 
-Nvidia is reportedly in talks to invest in AI search company Perplexity at a valuation above thirty billion dollars, more than fifty percent higher than its last funding round, as Perplexity's annualized revenue has tripled to more than seven hundred fifty million dollars. The talks reportedly also include a possible technology licensing arrangement between the two companies.
+Anthropic and Bain and Company announced a global partnership naming Bain a top tier member of the Claude Partner Network. Bain will help enterprise clients redesign workflows and operating models around Claude, joining a growing list of consulting firms competing to embed frontier AI labs' models into corporate transformation work.
+
+ByteDance launched Doubao Work, a new workplace AI agent that autonomously breaks down tasks and operates other software tools, integrated with its Lark collaboration suite. The move consolidates ByteDance's Trae and Coze teams under the Doubao brand to directly challenge Tencent's WorkBuddy for China's enterprise AI agent market.
 
 Quantum computing.
 
-Japan switched on Shunkai, its first full-stack neutral atom quantum computer, developed by the Institute for Molecular Science with US firm Infleqtion and Hitachi under the government's Moonshot program. It starts at around fifty qubits, with a national roadmap toward ten thousand qubits and error correction by 2031.
+Vancouver based Photonic Incorporated published peer reviewed results in Nature Communications showing its SHYPS error correction codes can perform quantum logic using up to twenty times fewer physical qubits than standard surface codes, a significant step toward practical fault tolerant machines by attacking the qubit overhead problem directly.
 
-Quantum computing maker Pasqal and Saudi investment firm Eleven Ventures launched a joint venture called Pasqal Arabia to deploy and commercialize neutral atom quantum systems across Saudi Arabia and the wider Middle East, tied to the kingdom's Vision 2030 plan.
+The US National Science Foundation committed more than 290 million dollars to eight new Quantum Leap Challenge Institutes, including a Princeton led, 27.9 million dollar effort called MARQUIS to overhaul the quarter century old fabrication process behind superconducting qubit manufacturing, alongside separate institutes focused specifically on fault tolerance and error correction research.
 
 United States stock market.
 
-Wall Street was mixed Monday. The S&P 500 slipped three tenths of a percent to 7,652, and the Nasdaq fell eight tenths of a percent to 25,980, while the Dow added three tenths of a percent, as investors turned cautious ahead of Nvidia's earnings Wednesday and this week's inflation report.
+Canada announced retaliatory tariffs of up to 50 percent on 27.6 billion dollars of US goods, including steel, dairy, appliances, and farm equipment, effective September 8th, matching the US dollar for dollar after Washington imposed similar 50 percent duties on Canadian goods last weekend. Canada is pairing the move with 7.5 billion dollars in domestic support for affected industries.
 
-The Trump administration unveiled a sweeping new sanctions campaign against Iran, dubbed Operation Economic Outcast by Treasury Secretary Scott Bessent, sending crude oil down about two and a half percent to under 85 dollars a barrel and pressuring stock futures.
+Dick's Sporting Goods shares crashed nearly 31 percent, their worst single day drop on record, after the retailer sharply cut its full year profit guidance to between 11 and 12 dollars a share, well below the roughly 14 dollar consensus. Management cited weak demand for older athletic styles and heavier discounting, worsened by its recent Foot Locker acquisition.
 
-Micron shares fell nearly six percent after Samsung authorized its largest-ever shareholder return plan but disappointed investors by deferring buyback details until 2027, triggering a selloff across memory chip stocks in Asia and the US, including a nine percent drop for Samsung itself.
+Intuit beat quarterly estimates with adjusted earnings of 4 dollars and 3 cents per share against 3 dollars 58 cents expected, as full year revenue topped 20 billion dollars for the first time. The company's newer Big Bets product lines grew 34 percent and now make up roughly 30 percent of total revenue.
 
 Czech Republic and Slovakia.
 
-The Czech cabinet formally approved its pension savings overhaul, moving the bill to parliament for debate in September. It doubles state contributions to forty percent of deposits for savers under twenty nine, caps annual management fees at half a percent, and lets savers withdraw a third of their money penalty free starting at age thirty six, at an estimated extra cost to the state of up to one point six billion crowns a year.
+The Chamber of Deputies opened debate on overriding President Petr Pavel's veto of a budget rules amendment that would let the government exceed approved spending caps for defense and strategic infrastructure through 2036. A vote is expected this week, and opposition parties have threatened a constitutional court challenge if the override succeeds.
 
-The Czech government also adopted an eleven point business red tape package, creating a single portal for paying taxes and insurance, setting up a shared inspection system to cut duplicate business checks, and raising the licensing threshold for new power plants from one to one hundred megawatts.
-
-Slovak Prime Minister Robert Fico confirmed plans to scrap the financial transaction tax on businesses starting January 2027, a levy worth about five hundred million euros a year to the budget, though parliament still must approve it and no replacement revenue has been named.
+Czech mortgage rates rose for a fifth consecutive time, with Partners Banka lifting its five year fixed rate by 0.4 percentage points to 5.59 percent. Average market rates have climbed to roughly 5.1 to 5.3 percent, their highest level in two years, raising monthly payments for new borrowers and anyone refinancing this year.
 
 China.
 
-Washington is weighing a new seven and a half percent tariff on Chinese goods over an alleged manufacturing overcapacity, aiming to finalize it before presidents Trump and Xi meet in Washington next month, a move that could push effective China tariffs back toward twenty percent.
+China's top legislature began reviewing a new law extending the country's anti-corruption enforcement abroad, giving Beijing expanded legal tools to pursue graft suspects and recover assets held overseas, a change relevant to banks and offshore financial centers handling Chinese nationals' assets.
 
-Nexperia's China division, cut off from European wafer supplies amid a year long dispute with its Dutch parent, said it is shifting its entire chip product line to domestically sourced twelve inch wafers, seeking what it calls full manufacturing independence.
-
-Typhoon Narra's stalled rains have flooded parts of Guangxi province, displacing more than fifty four thousand people and prompting boat rescues, while a fourth storm, Atsani, has formed further out in the Pacific in what is already an unusually active typhoon season, with more storms this year than the historical average.
+Typhoon Gaenari triggered a level three flood emergency in Fujian province, with rivers exceeding alert levels and forecasts of up to 300 millimeters of additional rain. The storm adds to an unusually active typhoon season that has already forced mass evacuations and flooding across several southern Chinese provinces this month, straining local disaster response resources.

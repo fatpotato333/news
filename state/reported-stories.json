@@ -3647,6 +3647,185 @@
       "canonical_summary": "Typhoon Narra's stalled rains displaced over 54,000 people and flooded Ningming and Fangchenggang counties in Guangxi, while a fourth typhoon, Atsani, formed in the Pacific, extending the region's already-active typhoon emergency.",
       "source_url": "https://www.chinadaily.com.cn/a/202608/25/WS6a8cebf0e4b057c97e209880.html",
       "material_update_of": "china-triple-typhoon-level4-emergency"
+    },
+    {
+      "event_id": "apple-m6-m5-ultra-chips",
+      "reported_date": "2026-08-26",
+      "event_date": "2026-08-25",
+      "category": "AI",
+      "entities": [
+        "Apple"
+      ],
+      "event_type": "hardware_launch",
+      "canonical_summary": "Apple introduced M6 (its first 2nm chip, doubling peak Neural Engine compute) and M5 Ultra (32-core Neural Engine, up to 512GB unified memory, 1.2TB/s bandwidth) chips, explicitly pitched for running large LLMs entirely on device.",
+      "source_url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "anthropic-ai-wellbeing-research-grants",
+      "reported_date": "2026-08-26",
+      "event_date": "2026-08-25",
+      "category": "AI",
+      "entities": [
+        "Anthropic"
+      ],
+      "event_type": "research_initiative",
+      "canonical_summary": "Anthropic launched a $5 million grant program funding independent, open-source research into AI's psychological wellbeing impact on users.",
+      "source_url": "https://www.anthropic.com/news/wellbeing-research-grants",
+      "material_update_of": null
+    },
+    {
+      "event_id": "anthropic-bain-enterprise-partnership",
+      "reported_date": "2026-08-26",
+      "event_date": "2026-08-25",
+      "category": "AI",
+      "entities": [
+        "Anthropic",
+        "Bain & Company"
+      ],
+      "event_type": "partnership",
+      "canonical_summary": "Anthropic and Bain & Company announced a global partnership naming Bain a 'Global Premier' member of the Claude Partner Network to drive enterprise AI transformation work for clients.",
+      "source_url": "https://www.bain.com/about/media-center/press-releases/2026/bain-company-announces-partnership-with-anthropic-to-accelerate-clients-enterprise-ai-transformations/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "bytedance-doubao-work-agent-launch",
+      "reported_date": "2026-08-26",
+      "event_date": "2026-08-25",
+      "category": "AI",
+      "entities": [
+        "ByteDance",
+        "Tencent"
+      ],
+      "event_type": "product_launch",
+      "canonical_summary": "ByteDance launched Doubao Work, an autonomous workplace AI agent integrated with its Lark suite, consolidating its Trae and Coze teams under the Doubao brand to challenge Tencent's WorkBuddy in China's enterprise AI agent market.",
+      "source_url": "https://www.freemalaysiatoday.com/category/business/2026/08/25/bytedance-challenges-tencent-with-new-doubao-workplace-ai-agent",
+      "material_update_of": null
+    },
+    {
+      "event_id": "photonic-shyps-qldpc-nature-communications",
+      "reported_date": "2026-08-26",
+      "event_date": "2026-08-25",
+      "category": "Quantum Computing",
+      "entities": [
+        "Photonic Inc."
+      ],
+      "event_type": "peer_reviewed_publication",
+      "canonical_summary": "Photonic Inc. published peer-reviewed results in Nature Communications demonstrating its SHYPS QLDPC codes can perform quantum logic and error correction using up to ~20x fewer physical qubits than standard surface codes.",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/25/3350696/0/en/photonic-s-breakthrough-demonstration-of-efficient-qldpc-logic-published-in-nature-communications.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "nsf-quantum-leap-challenge-institutes-290m",
+      "reported_date": "2026-08-26",
+      "event_date": "2026-08-25",
+      "category": "Quantum Computing",
+      "entities": [
+        "US National Science Foundation",
+        "Princeton University"
+      ],
+      "event_type": "research_funding",
+      "canonical_summary": "NSF committed over $290 million to eight new Quantum Leap Challenge Institutes, including a Princeton-led $27.9M institute (MARQUIS) to overhaul superconducting qubit manufacturing, plus institutes targeting fault tolerance and error correction.",
+      "source_url": "https://www.nsf.gov/news/eight-nsf-research-institutes-propel-us-quantum-science-290m",
+      "material_update_of": null
+    },
+    {
+      "event_id": "canada-retaliatory-tariffs-us-goods",
+      "reported_date": "2026-08-26",
+      "event_date": "2026-08-25",
+      "category": "US Stock Market",
+      "entities": [
+        "Government of Canada",
+        "United States"
+      ],
+      "event_type": "trade_tariff",
+      "canonical_summary": "Canada announced retaliatory tariffs of up to 50% on $27.6 billion of US goods (steel, dairy, appliances, farm equipment), effective September 8, matching US duties dollar-for-dollar and pairing the move with $7.5 billion in domestic industry support.",
+      "source_url": "https://www.mprnews.org/story/2026/08/25/canada-strikes-back-at-us-with-retaliatory-tariffs-as-trade-war-escalates",
+      "material_update_of": null
+    },
+    {
+      "event_id": "dicks-sporting-goods-earnings-crash",
+      "reported_date": "2026-08-26",
+      "event_date": "2026-08-25",
+      "category": "US Stock Market",
+      "entities": [
+        "Dick's Sporting Goods",
+        "Foot Locker"
+      ],
+      "event_type": "earnings_guidance_cut",
+      "canonical_summary": "Dick's Sporting Goods shares fell nearly 31%, its worst single-day drop on record, after cutting FY2026 EPS guidance to $11-12 from $13.50-14.50, citing weak demand for legacy athletic styles and discounting worsened by its Foot Locker acquisition.",
+      "source_url": "https://www.fool.com/investing/2026/08/25/why-dicks-sporting-goods-stock-crashed-today/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "intuit-q4-fy26-earnings-beat",
+      "reported_date": "2026-08-26",
+      "event_date": "2026-08-25",
+      "category": "US Stock Market",
+      "entities": [
+        "Intuit"
+      ],
+      "event_type": "earnings_beat",
+      "canonical_summary": "Intuit beat Q4 FY2026 estimates with adjusted EPS of $4.03 versus $3.58 expected, as full-year revenue topped $20 billion for the first time, driven by 34% growth in its 'Big Bets' product lines now roughly 30% of revenue.",
+      "source_url": "https://247wallst.com/investing/2026/08/25/live-will-intuits-q4-earnings-tonight-extend-the-stocks-25-rebound/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-budget-rules-veto-override-debate",
+      "reported_date": "2026-08-26",
+      "event_date": "2026-08-25",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Chamber of Deputies",
+        "President Petr Pavel",
+        "Czech government"
+      ],
+      "event_type": "legislative_veto_override",
+      "canonical_summary": "The Chamber of Deputies opened debate on overriding President Pavel's veto of a budget rules amendment that would let the government exceed approved spending caps for defense and strategic infrastructure through 2036; a vote is expected this week, with opposition threatening a Constitutional Court challenge.",
+      "source_url": "https://ct24.ceskatelevize.cz/clanek/domaci/poslanci-znovu-posoudi-novelu-k-verejnym-rozpoctum-kterou-vetoval-pavel-376920",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-mortgage-rates-fifth-rise",
+      "reported_date": "2026-08-26",
+      "event_date": "2026-08-25",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Partners Banka",
+        "Swiss Life Hypoindex"
+      ],
+      "event_type": "interest_rate_movement",
+      "canonical_summary": "Czech mortgage rates rose for a fifth consecutive time; Partners Banka lifted its 5-year fixed rate 0.4pp to 5.59%, pushing average market rates to roughly 5.1-5.3%, a two-year high, raising payments for new borrowers and refinancers.",
+      "source_url": "https://www.finak.cz/prehled-aktualnich-sazeb-hypotek-hypotecni-armagedon-pokracuje-nektere-banky-pridaly-az-04-procentniho-bodu/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-npc-anti-corruption-law-abroad",
+      "reported_date": "2026-08-26",
+      "event_date": "2026-08-25",
+      "category": "China",
+      "entities": [
+        "NPC Standing Committee",
+        "China"
+      ],
+      "event_type": "legislation_stage",
+      "canonical_summary": "China's National People's Congress Standing Committee began a first reading of a new law extending China's anti-corruption enforcement abroad, giving Beijing expanded legal tools to pursue graft suspects and recover assets held overseas.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-25/china-reviews-new-law-to-extend-its-anti-corruption-reach-abroad",
+      "material_update_of": null
+    },
+    {
+      "event_id": "typhoon-gaenari-fujian-flooding",
+      "reported_date": "2026-08-26",
+      "event_date": "2026-08-25",
+      "category": "China",
+      "entities": [
+        "Fujian province",
+        "China Ministry of Water Resources"
+      ],
+      "event_type": "natural_disaster",
+      "canonical_summary": "Typhoon Gaenari triggered a Level III flood emergency in Fujian province, with rivers exceeding alert levels and up to 300mm of additional rain forecast, extending China's unusually active typhoon season.",
+      "source_url": "http://en.people.cn/n3/2026/0825/c90000-20492346.html",
+      "material_update_of": null
     }
   ]
 }
