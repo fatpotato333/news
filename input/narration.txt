@@ -1,37 +1,31 @@
-Daily News for Wednesday, August 26, 2026.
+Daily News for Thursday, August 27, 2026.
 
 Artificial intelligence.
 
-Apple introduced new M6 and M5 Ultra chips, including its first 2 nanometer processor, built into a redesigned Mac mini and Mac Studio lineup. The M6 doubles peak neural engine compute over its predecessor, while the M5 Ultra offers a 32 core neural engine, up to 512 gigabytes of unified memory, and 1.2 terabytes per second of bandwidth, letting large language models run entirely on device without cloud servers.
+Amazon Web Services and Nvidia agreed to deploy two million additional Nvidia GPUs, including Blackwell Ultra and Rubin chips, across AWS infrastructure through 2027 and 2028, on top of an earlier one million GPU commitment, and will build a dedicated 100,000 GPU AI factory for United States government workloads.
 
-Anthropic launched a 5 million dollar grant program funding independent, open source research into how AI systems affect users' psychological wellbeing, part of a broader push to fund outside safety and trust evaluation ahead of the company's expected public listing.
+OpenAI unveiled Jalapeño, its first custom inference chip, built with Broadcom and Celestica, claiming close to double the throughput per watt of Nvidia's Blackwell chips in its own benchmarks; limited deployment begins this year with volume production in 2027.
 
-Anthropic and Bain and Company announced a global partnership naming Bain a top tier member of the Claude Partner Network. Bain will help enterprise clients redesign workflows and operating models around Claude, joining a growing list of consulting firms competing to embed frontier AI labs' models into corporate transformation work.
+Alibaba released Qwen 3.8 Flash Next, a 125 billion parameter model previewing its next generation Qwen 4 architecture, which the company says matches its larger Qwen 3.7 Plus model at about one ninth the training cost.
 
-ByteDance launched Doubao Work, a new workplace AI agent that autonomously breaks down tasks and operates other software tools, integrated with its Lark collaboration suite. The move consolidates ByteDance's Trae and Coze teams under the Doubao brand to directly challenge Tencent's WorkBuddy for China's enterprise AI agent market.
-
-Quantum computing.
-
-Vancouver based Photonic Incorporated published peer reviewed results in Nature Communications showing its SHYPS error correction codes can perform quantum logic using up to twenty times fewer physical qubits than standard surface codes, a significant step toward practical fault tolerant machines by attacking the qubit overhead problem directly.
-
-The US National Science Foundation committed more than 290 million dollars to eight new Quantum Leap Challenge Institutes, including a Princeton led, 27.9 million dollar effort called MARQUIS to overhaul the quarter century old fabrication process behind superconducting qubit manufacturing, alongside separate institutes focused specifically on fault tolerance and error correction research.
+Moonshot AI is in early talks with Microsoft, Amazon, and Google to host its Kimi K3 model on their cloud platforms in exchange for about 30 percent of related service revenue, which would be the first such deal between a Chinese AI firm and a major American cloud provider.
 
 United States stock market.
 
-Canada announced retaliatory tariffs of up to 50 percent on 27.6 billion dollars of US goods, including steel, dairy, appliances, and farm equipment, effective September 8th, matching the US dollar for dollar after Washington imposed similar 50 percent duties on Canadian goods last weekend. Canada is pairing the move with 7.5 billion dollars in domestic support for affected industries.
+Nvidia reported fiscal second quarter revenue of 96.2 billion dollars, up 106 percent from a year earlier, with earnings per share of 2.22 dollars, and guided next quarter's revenue to 108 billion dollars, above analyst estimates. The company also announced a 25 billion dollar share buyback, and shares rose about 4.7 percent in after hours trading.
 
-Dick's Sporting Goods shares crashed nearly 31 percent, their worst single day drop on record, after the retailer sharply cut its full year profit guidance to between 11 and 12 dollars a share, well below the roughly 14 dollar consensus. Management cited weak demand for older athletic styles and heavier discounting, worsened by its recent Foot Locker acquisition.
+Meta agreed to pay up to 17 billion dollars over 10 years to settle child safety lawsuits brought by 47 states, one of the largest state consumer protection settlements on record, requiring default two hour daily time limits and a midnight to 6 a.m. usage block for users under 18.
 
-Intuit beat quarterly estimates with adjusted earnings of 4 dollars and 3 cents per share against 3 dollars 58 cents expected, as full year revenue topped 20 billion dollars for the first time. The company's newer Big Bets product lines grew 34 percent and now make up roughly 30 percent of total revenue.
+The S&P 500 rose 0.3 percent and the Nasdaq gained 0.7 percent, a third straight day of gains, after July's personal consumption expenditures inflation index held at 3.7 percent year over year, reinforcing expectations the Federal Reserve holds interest rates steady in September.
+
+Abercrombie and Fitch shares jumped about 36 percent after earnings beat estimates, boosted by roughly 100 million dollars in tariff refunds, and the company raised its full year sales and profit margin guidance.
 
 Czech Republic and Slovakia.
 
-The Chamber of Deputies opened debate on overriding President Petr Pavel's veto of a budget rules amendment that would let the government exceed approved spending caps for defense and strategic infrastructure through 2036. A vote is expected this week, and opposition parties have threatened a constitutional court challenge if the override succeeds.
+Slovakia's 2027 minimum wage will rise automatically to 972 euros, up 6.2 percent from 915 euros, after employers and unions failed to reach agreement by the legal deadline, affecting about 182,000 workers.
 
-Czech mortgage rates rose for a fifth consecutive time, with Partners Banka lifting its five year fixed rate by 0.4 percentage points to 5.59 percent. Average market rates have climbed to roughly 5.1 to 5.3 percent, their highest level in two years, raising monthly payments for new borrowers and anyone refinancing this year.
+Slovakia's government approved a bill banning children under 16 from creating or using social media accounts, part of a broader anti-radicalization law set to take effect in 2027.
 
 China.
 
-China's top legislature began reviewing a new law extending the country's anti-corruption enforcement abroad, giving Beijing expanded legal tools to pursue graft suspects and recover assets held overseas, a change relevant to banks and offshore financial centers handling Chinese nationals' assets.
-
-Typhoon Gaenari triggered a level three flood emergency in Fujian province, with rivers exceeding alert levels and forecasts of up to 300 millimeters of additional rain. The storm adds to an unusually active typhoon season that has already forced mass evacuations and flooding across several southern Chinese provinces this month, straining local disaster response resources.
+Typhoon Saudel, the season's eighteenth named storm, is approaching landfall on China's southeastern coast between Zhejiang and Fujian, prompting evacuation of more than 4,100 tourists, suspension of dozens of ferry routes, and forecasts of up to 500 millimeters of rain.

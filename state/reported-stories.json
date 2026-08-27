@@ -3826,6 +3826,164 @@
       "canonical_summary": "Typhoon Gaenari triggered a Level III flood emergency in Fujian province, with rivers exceeding alert levels and up to 300mm of additional rain forecast, extending China's unusually active typhoon season.",
       "source_url": "http://en.people.cn/n3/2026/0825/c90000-20492346.html",
       "material_update_of": null
+    },
+    {
+      "event_id": "aws-nvidia-2-million-gpu-deal",
+      "reported_date": "2026-08-27",
+      "event_date": "2026-08-26",
+      "category": "AI",
+      "entities": [
+        "Amazon Web Services",
+        "NVIDIA"
+      ],
+      "event_type": "infrastructure_deal",
+      "canonical_summary": "AWS and NVIDIA announced AWS will deploy 2 million additional NVIDIA GPUs (Blackwell Ultra, Rubin, Rubin Ultra) across its infrastructure in 2027-2028, on top of an earlier 1M+ GPU commitment from GTC 2026, including a planned 100,000-GPU secure AI factory for US government IL6+ workloads and expanded work on NVIDIA Vera CPUs and networking.",
+      "source_url": "https://nvidianews.nvidia.com/news/aws-and-nvidia-to-deliver-2-million-additional-gpus-and-next-generation-infrastructure-for-agentic-and-physical-ai",
+      "material_update_of": null
+    },
+    {
+      "event_id": "openai-jalapeno-inference-chip",
+      "reported_date": "2026-08-27",
+      "event_date": "2026-08-26",
+      "category": "AI",
+      "entities": [
+        "OpenAI",
+        "Broadcom",
+        "Celestica"
+      ],
+      "event_type": "chip_announcement",
+      "canonical_summary": "OpenAI unveiled Jalapeno, its first custom inference-only accelerator chip built with Broadcom (silicon/networking) and Celestica (systems), claiming 1.5-1.9x greater inference throughput-per-watt and 1.7-4.1x lower latency than NVIDIA Blackwell in company-reported benchmarks; limited 2026 deployment with volume production planned for 2027. Figures are company-reported, not independently verified.",
+      "source_url": "https://247wallst.com/investing/2026/08/26/openai-says-its-new-chip-outperforms-nvidias-blackwell-as-nvidia-prepares-earnings-release/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "alibaba-qwen3-8-flash-next-release",
+      "reported_date": "2026-08-27",
+      "event_date": "2026-08-26",
+      "category": "AI",
+      "entities": [
+        "Alibaba"
+      ],
+      "event_type": "model_release",
+      "canonical_summary": "Alibaba open-weighted Qwen3.8-Flash-Next, a 125-billion-parameter Mixture-of-Experts model (about 6B active parameters per token plus a 51B-parameter N-gram embedding layer) framed as a preview of Qwen4 architecture, claiming performance matching Qwen3.7-Plus at roughly one-ninth the training cost with strongest gains in coding and office tasks. Benchmark claims are company-reported.",
+      "source_url": "https://the-decoder.com/alibaba-releases-qwen3-8-flash-next-targeting-ultimate-cost-efficiency/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "moonshot-ai-cloud-revenue-share-talks",
+      "reported_date": "2026-08-27",
+      "event_date": "2026-08-26",
+      "category": "AI",
+      "entities": [
+        "Moonshot AI",
+        "Microsoft",
+        "Amazon",
+        "Google"
+      ],
+      "event_type": "partnership_negotiation",
+      "canonical_summary": "Moonshot AI is in early-stage talks with Microsoft Azure, AWS, and Google Cloud to host its Kimi K3 model (2.8T-parameter, open-weight) in exchange for roughly 30 percent of related service revenue; unresolved issues include revenue split, data access, and usage auditing. If concluded, would be the first major revenue-sharing deal between a Chinese AI firm and a leading US cloud provider. Reported via Reuters sources, not yet confirmed by the companies.",
+      "source_url": "https://finance.yahoo.com/technology/ai/articles/exclusive-chinas-moonshot-talks-microsoft-075340033.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "nvidia-q2-fy2027-earnings-beat",
+      "reported_date": "2026-08-27",
+      "event_date": "2026-08-26",
+      "category": "US Stock Market",
+      "entities": [
+        "NVIDIA"
+      ],
+      "event_type": "earnings",
+      "canonical_summary": "NVIDIA reported fiscal Q2 FY2027 revenue of $96.2 billion (+106% YoY, above ~$92.2B estimate) and EPS of $2.22, with data-center revenue at $89B. The company guided Q3 revenue to $108 billion (plus or minus 2%), above the ~$104.2B consensus, and announced a $25 billion share buyback; shares rose about 4.7% in after-hours trading despite guided gross-margin compression to 74% then 71-72% in Q4.",
+      "source_url": "https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "meta-state-ag-child-safety-settlement",
+      "reported_date": "2026-08-27",
+      "event_date": "2026-08-26",
+      "category": "US Stock Market",
+      "entities": [
+        "Meta Platforms",
+        "State Attorneys General (47 states)"
+      ],
+      "event_type": "legal_settlement",
+      "canonical_summary": "Meta agreed to pay up to $17 billion in penalties over 10 years to settle 51 consolidated state lawsuits alleging Facebook and Instagram were designed to be addictive to minors while concealing risks. The settlement mandates default 2-hour daily time limits and a midnight-6am usage block for under-18 users, removal of 'likes' visibility and cosmetic-surgery filters for minors, and independent audits; described as the largest state consumer-protection settlement outside the 1990s tobacco cases.",
+      "source_url": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-secures-transformative-17-billion-settlement-meta",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-stocks-july-pce-inflation-gain",
+      "reported_date": "2026-08-27",
+      "event_date": "2026-08-26",
+      "category": "US Stock Market",
+      "entities": [
+        "S&P 500",
+        "Nasdaq Composite",
+        "Dow Jones Industrial Average",
+        "Bureau of Economic Analysis"
+      ],
+      "event_type": "market_move_economic_data",
+      "canonical_summary": "The S&P 500 closed up about 0.3% to 7,677.24, the Nasdaq gained about 0.7% to 26,151.30, and the Dow rose about 0.3% to 53,577.40, a third straight day of gains, after July's PCE inflation index (the Fed's preferred gauge) held at 3.7% YoY (vs 3.6% expected) with core PCE at 3.3% YoY, reinforcing expectations the Fed holds rates steady in September.",
+      "source_url": "https://www.cbsnews.com/news/july-pce-inflation-index-federal-reserve/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "abercrombie-fitch-tariff-refund-earnings-surge",
+      "reported_date": "2026-08-27",
+      "event_date": "2026-08-26",
+      "category": "US Stock Market",
+      "entities": [
+        "Abercrombie & Fitch"
+      ],
+      "event_type": "earnings_surprise",
+      "canonical_summary": "Abercrombie & Fitch stock jumped roughly 36% after adjusted EPS of $4.17 beat the $1.98 consensus, boosted by an estimated $1.75/share from about $100 million in IEEPA tariff refunds; net sales rose 5% to about $1.3B. The company raised full-year sales growth guidance to 5% (from 3-5%) and operating margin guidance to 14.5-15% (from 12-12.5%), and committed to at least $500M in fiscal 2026 buybacks.",
+      "source_url": "https://www.fool.com/investing/2026/08/26/why-abercrombie-fitch-stock-surged-35-today/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-2027-minimum-wage-972-euros",
+      "reported_date": "2026-08-27",
+      "event_date": "2026-08-24",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Slovak Ministry of Labour",
+        "Slovak employer associations",
+        "Slovak trade unions"
+      ],
+      "event_type": "wage_policy",
+      "canonical_summary": "Slovak employers and unions missed the deadline to negotiate the 2027 minimum wage, triggering the statutory automatic formula (60% of average wage two years prior): the minimum wage rises from EUR 915 (2026) to EUR 972 (2027), a 6.2% increase affecting roughly 182,000 workers on the base minimum wage and higher complexity tiers.",
+      "source_url": "https://www.ta3.com/clanok/1067633/minimalna-mzda-stupne-aj-bez-dohody-automat-ju-vytlaci-na-972-eur-zrusit-by-sa-mohli-stupne-narocnosti",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-social-media-under-16-ban",
+      "reported_date": "2026-08-27",
+      "event_date": "2026-08-26",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Slovak government",
+        "Slovak Ministry of Education"
+      ],
+      "event_type": "regulation_approved",
+      "canonical_summary": "The Slovak government approved a bill banning children under 16 from creating or using social media accounts, with age-only verification, as part of a broader anti-radicalization law establishing national and regional coordinators; the ban is planned to take effect in 2027.",
+      "source_url": "https://www.sme.sk/domov/c/vlada-schvalila-regulaciu-socialnych-sieti-pre-deti-mladsie-ako-16-rokov",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-typhoon-saudel-landfall",
+      "reported_date": "2026-08-27",
+      "event_date": "2026-08-26",
+      "category": "China",
+      "entities": [
+        "China Meteorological Administration",
+        "Zhejiang provincial government",
+        "Fujian provincial government"
+      ],
+      "event_type": "natural_disaster",
+      "canonical_summary": "Typhoon Saudel, the season's 18th named storm, approached China's southeastern coast for landfall between Xiangshan (Zhejiang) and Fuqing (Fujian) overnight; Zhejiang raised its emergency response to Level 3, evacuated over 4,100 tourists and closed coastal scenic areas, while Fujian sheltered about 11,000 vessels and suspended 22 ferry routes and 41 offshore construction projects, with forecast rainfall of 200-400mm (locally 500mm+).",
+      "source_url": "https://english.news.cn/20260826/0dba517c3ea047b9bfb053090e604194/c.html",
+      "material_update_of": null
     }
   ]
 }
