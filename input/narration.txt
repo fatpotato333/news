@@ -1,31 +1,29 @@
-Daily News for Thursday, August 27, 2026.
+Daily News for Friday, August 28, 2026.
 
 Artificial intelligence.
 
-Amazon Web Services and Nvidia agreed to deploy two million additional Nvidia GPUs, including Blackwell Ultra and Rubin chips, across AWS infrastructure through 2027 and 2028, on top of an earlier one million GPU commitment, and will build a dedicated 100,000 GPU AI factory for United States government workloads.
+Anthropic released a research preview of a Model Hardware Standard that lets Claude AI agents directly operate physical lab equipment, including microscopes and liquid handlers, for tasks like drug discovery and quantum hardware calibration, sharing it first with select science and manufacturing partners.
 
-OpenAI unveiled Jalapeño, its first custom inference chip, built with Broadcom and Celestica, claiming close to double the throughput per watt of Nvidia's Blackwell chips in its own benchmarks; limited deployment begins this year with volume production in 2027.
-
-Alibaba released Qwen 3.8 Flash Next, a 125 billion parameter model previewing its next generation Qwen 4 architecture, which the company says matches its larger Qwen 3.7 Plus model at about one ninth the training cost.
-
-Moonshot AI is in early talks with Microsoft, Amazon, and Google to host its Kimi K3 model on their cloud platforms in exchange for about 30 percent of related service revenue, which would be the first such deal between a Chinese AI firm and a major American cloud provider.
+OpenAI led an open letter signed by more than 100 companies, including Anthropic, Google, and Microsoft, along with major cybersecurity and financial firms, calling for a global surge in AI powered cyber defense to protect hospitals, water systems, and internet infrastructure before AI enabled attacks become more sophisticated.
 
 United States stock market.
 
-Nvidia reported fiscal second quarter revenue of 96.2 billion dollars, up 106 percent from a year earlier, with earnings per share of 2.22 dollars, and guided next quarter's revenue to 108 billion dollars, above analyst estimates. The company also announced a 25 billion dollar share buyback, and shares rose about 4.7 percent in after hours trading.
+Salesforce shares jumped about 22 percent, their second best trading day ever, after quarterly revenue and profit far beat estimates and the company sharply raised its full year guidance, while also unveiling an expanded Anthropic partnership called Claudeforce to build AI agents into its business software.
 
-Meta agreed to pay up to 17 billion dollars over 10 years to settle child safety lawsuits brought by 47 states, one of the largest state consumer protection settlements on record, requiring default two hour daily time limits and a midnight to 6 a.m. usage block for users under 18.
+Cybersecurity stocks CrowdStrike and Okta surged 20 and roughly 28 percent respectively after both companies beat earnings estimates and raised guidance, with executives citing rising enterprise security spending driven by the growing use of AI agents.
 
-The S&P 500 rose 0.3 percent and the Nasdaq gained 0.7 percent, a third straight day of gains, after July's personal consumption expenditures inflation index held at 3.7 percent year over year, reinforcing expectations the Federal Reserve holds interest rates steady in September.
-
-Abercrombie and Fitch shares jumped about 36 percent after earnings beat estimates, boosted by roughly 100 million dollars in tariff refunds, and the company raised its full year sales and profit margin guidance.
+The Trump administration is considering a second round of semiconductor tariffs that would extend beyond raw chips to finished products like laptops and servers, a report that knocked down chip stocks including Micron as investors weighed the risk to AI data center buildouts.
 
 Czech Republic and Slovakia.
 
-Slovakia's 2027 minimum wage will rise automatically to 972 euros, up 6.2 percent from 915 euros, after employers and unions failed to reach agreement by the legal deadline, affecting about 182,000 workers.
+Slovakia's government approved a package of laws redirecting child benefit payments to municipalities for families whose children skip school repeatedly, raising school supply assistance from 33 to 55 euros, and restricting child benefits for foreign nationals whose children do not actually live in Slovakia.
 
-Slovakia's government approved a bill banning children under 16 from creating or using social media accounts, part of a broader anti-radicalization law set to take effect in 2027.
+The Czech government completed the migration of the mandatory data box digital mail system to its new datovka dot gov dot cz domain, permanently shutting down the old address used by millions of citizens and businesses for official correspondence.
 
 China.
 
-Typhoon Saudel, the season's eighteenth named storm, is approaching landfall on China's southeastern coast between Zhejiang and Fujian, prompting evacuation of more than 4,100 tourists, suspension of dozens of ferry routes, and forecasts of up to 500 millimeters of rain.
+President Trump suggested the United States may already be sanctioning Chinese banks over their dealings with Iran, declining to give details, days after the Treasury sanctioned dozens of entities and ahead of Xi Jinping's expected visit to Washington next month.
+
+China and the United States are discussing whether Chinese business executives will join Xi Jinping on his September trip to Washington, and officials say a one year extension of the countries' trade truce is now considered almost certain.
+
+Chinese Premier Li Qiang visited Tibet's Gyirong region, China's main trade gateway to Nepal, after a glacial flash flood destroyed bridges and roads and left hundreds missing, with hundreds of troops deployed to the disaster zone.

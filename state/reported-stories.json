@@ -3984,6 +3984,159 @@
       "canonical_summary": "Typhoon Saudel, the season's 18th named storm, approached China's southeastern coast for landfall between Xiangshan (Zhejiang) and Fuqing (Fujian) overnight; Zhejiang raised its emergency response to Level 3, evacuated over 4,100 tourists and closed coastal scenic areas, while Fujian sheltered about 11,000 vessels and suspended 22 ferry routes and 41 offshore construction projects, with forecast rainfall of 200-400mm (locally 500mm+).",
       "source_url": "https://english.news.cn/20260826/0dba517c3ea047b9bfb053090e604194/c.html",
       "material_update_of": null
+    },
+    {
+      "event_id": "anthropic-model-hardware-standard-preview",
+      "reported_date": "2026-08-28",
+      "event_date": "2026-08-27",
+      "category": "AI",
+      "entities": [
+        "Anthropic",
+        "Claude"
+      ],
+      "event_type": "agentic_capability",
+      "canonical_summary": "Anthropic released a research preview of a Model Hardware Standard (MHS), a shared specification letting Claude-based agents directly operate physical lab and robotics equipment (microscopes, liquid handlers, robotic arms) for tasks like drug-discovery workflows or quantum-hardware calibration, including recovering from some hardware errors without human intervention. Shared first with select science, robotics and manufacturing partners ahead of a planned open-source release.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-27/anthropic-tests-new-way-for-claude-to-work-with-robots-and-scientific-lab-tools",
+      "material_update_of": null
+    },
+    {
+      "event_id": "openai-ai-cyber-defense-coalition-letter",
+      "reported_date": "2026-08-28",
+      "event_date": "2026-08-27",
+      "category": "AI",
+      "entities": [
+        "OpenAI",
+        "Anthropic",
+        "Google",
+        "Microsoft",
+        "AWS",
+        "CrowdStrike",
+        "Cisco",
+        "Cloudflare",
+        "Palo Alto Networks",
+        "Mastercard",
+        "Visa",
+        "Capital One"
+      ],
+      "event_type": "industry_initiative",
+      "canonical_summary": "OpenAI led an open letter signed by more than 100 companies, including Anthropic, Google, Microsoft, AWS and major cybersecurity and financial firms, calling for a 'global surge' in AI-powered cyber defense to protect critical infrastructure (hospitals, water systems, internet backbone) before AI-enabled cyberattacks mature. OpenAI also said it is updating its 'Daybreak' program with a new model variant for defensive cyber work.",
+      "source_url": "https://cyberscoop.com/ai-cyber-defense-global-surge/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "salesforce-claudeforce-earnings-surge",
+      "reported_date": "2026-08-28",
+      "event_date": "2026-08-27",
+      "category": "US Stock Market",
+      "entities": [
+        "Salesforce",
+        "Anthropic"
+      ],
+      "event_type": "earnings_surprise",
+      "canonical_summary": "Salesforce shares jumped as much as 22% (its second-best trading day ever) after fiscal Q2 revenue of $11.35B (+11% YoY) and adjusted EPS of $5.90 far beat estimates of $3.27; the company sharply raised full-year guidance to $46.1-46.4B revenue and $16.67-16.71 adjusted EPS. It also announced an expanded Anthropic partnership called 'Claudeforce' to embed AI agents into its business software, with a beta planned for next month.",
+      "source_url": "https://www.cnbc.com/2026/08/27/salesforce-stock-soars-on-track-for-second-best-day-ever.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "crowdstrike-okta-ai-security-earnings-rally",
+      "reported_date": "2026-08-28",
+      "event_date": "2026-08-27",
+      "category": "US Stock Market",
+      "entities": [
+        "CrowdStrike",
+        "Okta"
+      ],
+      "event_type": "earnings_surprise",
+      "canonical_summary": "CrowdStrike shares rose about 20% to an all-time high (its best day ever) after beating fiscal Q2 estimates ($0.31 EPS vs $0.29 est, $1.47B revenue) and raising FY2027 guidance; Okta jumped roughly 28-29% after revenue of $805M (+11% YoY) and $1.05 adjusted EPS topped estimates, also raising guidance. Executives at both companies cited rising enterprise security spending driven by AI-agent-related threats as a key growth driver.",
+      "source_url": "https://www.cnbc.com/2026/08/27/okta-skyrockets-20percent-and-crowdstrike-surges-15percent-leading-cyber-rally.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-chip-tariff-expansion-threat-micron",
+      "reported_date": "2026-08-28",
+      "event_date": "2026-08-27",
+      "category": "US Stock Market",
+      "entities": [
+        "Trump administration",
+        "Commerce Secretary Howard Lutnick",
+        "Micron"
+      ],
+      "event_type": "regulatory_action",
+      "canonical_summary": "The Trump administration is considering a second round of semiconductor tariffs extending beyond raw chips to finished products (laptops, gaming consoles, data-center servers), with exemptions from January's 25% chip tariff potentially not surviving; Commerce Secretary Lutnick reportedly favors tying relief to US manufacturing commitments. Micron shares erased most of an earlier Nvidia-driven intraday gain on the report.",
+      "source_url": "https://www.cnbc.com/2026/08/27/trump-semiconductor-tech-tariffs.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-truancy-child-benefit-law",
+      "reported_date": "2026-08-28",
+      "event_date": "2026-08-27",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Slovak government",
+        "Slovak Ministry of Labour and Social Affairs"
+      ],
+      "event_type": "regulation_approved",
+      "canonical_summary": "The Slovak government approved a package of laws targeting school truancy and child-benefit fraud: families whose children repeatedly skip school will have their child allowance redirected to municipal, in-kind management for at least 3 months; school-supplies assistance for disadvantaged families rises from EUR 33 to EUR 55; and child/parental benefits are restricted for foreign nationals whose children do not actually reside in Slovakia. Planned to take effect January 1, 2027.",
+      "source_url": "https://www.reporter24.sk/2026/08/27/vlada-schvalila-balik-zakonov-proti-zaskolactvu/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-data-box-migration-completed",
+      "reported_date": "2026-08-28",
+      "event_date": "2026-08-27",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Digital and Information Agency"
+      ],
+      "event_type": "project_completed",
+      "canonical_summary": "The Czech mandatory data box (datova schranka) digital-mail system completed its final migration from the old mojedatovaschranka.cz address to the unified datovka.gov.cz domain on the evening of August 27, permanently shutting down the old address used by millions of citizens and businesses. This follows the deadline reminder reported on August 20; today's development is the actual completed cutover.",
+      "source_url": "https://www.letemsvetemapplem.eu/2026/08/25/datove-schranky-od-ctvrtka-meni-adresu-pokud-ji-pouzivate-tohle-musite-vedet/",
+      "material_update_of": "czech-data-box-domain-migration-deadline"
+    },
+    {
+      "event_id": "trump-hints-china-bank-sanctions-iran",
+      "reported_date": "2026-08-28",
+      "event_date": "2026-08-27",
+      "category": "China",
+      "entities": [
+        "Donald Trump",
+        "Scott Bessent",
+        "Xi Jinping"
+      ],
+      "event_type": "sanctions",
+      "canonical_summary": "Asked why the US hadn't sanctioned Chinese banks over dealings with Iran, President Trump replied 'Who said I'm not?', days after Treasury Secretary Bessent sanctioned 60 entities/individuals worldwide (including some in mainland China/Hong Kong) and warned that entities facilitating Iran-linked money laundering would be removed from the US dollar system. The remarks come weeks before Xi Jinping's expected September 24 Washington summit.",
+      "source_url": "https://www.scmp.com/news/us/article/3365512/trump-hints-sanctions-chinese-banks-over-iran-ties-xis-expected-us-visit",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-xi-us-delegation-trade-truce-extension",
+      "reported_date": "2026-08-28",
+      "event_date": "2026-08-27",
+      "category": "China",
+      "entities": [
+        "Xi Jinping",
+        "Wang Yi",
+        "David Perdue"
+      ],
+      "event_type": "trade_diplomacy",
+      "canonical_summary": "Beijing and Washington are discussing whether Chinese business executives will accompany Xi Jinping on his planned September 24 Washington visit, reciprocating Trump bringing US CEOs to Beijing in May; sources say a one-year extension of the Busan trade truce is now considered almost certain. Foreign Minister Wang Yi met US Ambassador David Perdue this week to work toward the visit.",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3365440/chinese-executives-may-join-xis-us-trip-trade-truce-extension-almost-certain",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-tibet-gyirong-flood-li-qiang-visit",
+      "reported_date": "2026-08-28",
+      "event_date": "2026-08-27",
+      "category": "China",
+      "entities": [
+        "Gyirong Township (Xizang/Tibet)",
+        "Premier Li Qiang",
+        "PLA Western Theatre Command"
+      ],
+      "event_type": "natural_disaster",
+      "canonical_summary": "A glacial-collapse debris flow struck the China-Nepal border on August 26, devastating Gyirong Township, China's main land trade gateway to Nepal; state media reported deaths and hundreds missing, with at least 19 bridges and roughly 40km of roads destroyed. Premier Li Qiang arrived in Gyirong on August 27 to direct rescue efforts, with 500+ military and paramilitary personnel deployed.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-27/tibet-mudslide-engulfs-complex-at-china-s-gateway-to-nepal",
+      "material_update_of": null
     }
   ]
 }
