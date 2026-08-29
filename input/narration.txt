@@ -1,29 +1,37 @@
-Daily News for Friday, August 28, 2026.
+Daily News for Saturday, August 29, 2026.
 
 Artificial intelligence.
 
-Anthropic released a research preview of a Model Hardware Standard that lets Claude AI agents directly operate physical lab equipment, including microscopes and liquid handlers, for tasks like drug discovery and quantum hardware calibration, sharing it first with select science and manufacturing partners.
+A federal judge in California blocked the Trump administration's designation of Anthropic as a national security supply chain risk, ruling it was illegal retaliation after Anthropic refused to let Claude be used for autonomous weapons.
 
-OpenAI led an open letter signed by more than 100 companies, including Anthropic, Google, and Microsoft, along with major cybersecurity and financial firms, calling for a global surge in AI powered cyber defense to protect hospitals, water systems, and internet infrastructure before AI enabled attacks become more sophisticated.
+Nvidia paused its AI Compute Partnership program, which offered cloud providers financing for chip purchases in exchange for a share of resulting revenue, after internal antitrust concerns and pushback from partners.
+
+Tencent released and open sourced Hunyuan Hy4 preview, a new flagship seven hundred seventy billion parameter model it says matches or beats rival Chinese models on coding and tool use benchmarks.
+
+Alibaba Cloud opened its first South American region, with two data centers in Sao Paulo, part of a fifty three billion dollar global AI infrastructure buildout.
+
+Andreessen Horowitz raised one point one billion dollars for a new fund dedicated to the physical buildout of AI infrastructure, including chips, data centers, and robotics.
+
+Quantum computing.
+
+Canada's federal government committed one hundred ninety five million Canadian dollars to Xanadu to build a photonic quantum chip manufacturing plant in Toronto, the country's largest quantum manufacturing investment to date.
+
+Pasqal completed its merger with a special purpose acquisition company and began trading on the Nasdaq with about three hundred sixty million dollars in cash to commercialize its neutral atom quantum computers.
 
 United States stock market.
 
-Salesforce shares jumped about 22 percent, their second best trading day ever, after quarterly revenue and profit far beat estimates and the company sharply raised its full year guidance, while also unveiling an expanded Anthropic partnership called Claudeforce to build AI agents into its business software.
+Federal Reserve Chair Kevin Warsh struck a hawkish tone in his first Jackson Hole speech, saying inflation trends have not meaningfully improved. Traders raised the odds of a September rate hike, Treasury yields rose, and stocks pulled back Friday.
 
-Cybersecurity stocks CrowdStrike and Okta surged 20 and roughly 28 percent respectively after both companies beat earnings estimates and raised guidance, with executives citing rising enterprise security spending driven by the growing use of AI agents.
-
-The Trump administration is considering a second round of semiconductor tariffs that would extend beyond raw chips to finished products like laptops and servers, a report that knocked down chip stocks including Micron as investors weighed the risk to AI data center buildouts.
+Marvell Technology shares fell sharply even after beating earnings estimates and raising revenue guidance, as investors focused on weaker margin guidance and a lack of detail on its Google AI chip partnership.
 
 Czech Republic and Slovakia.
 
-Slovakia's government approved a package of laws redirecting child benefit payments to municipalities for families whose children skip school repeatedly, raising school supply assistance from 33 to 55 euros, and restricting child benefits for foreign nationals whose children do not actually live in Slovakia.
+The Czech Labor Ministry proposed cutting unemployment benefits starting January twenty twenty seven to save four and a half billion crowns, lowering the initial payout rate from eighty percent to sixty five percent of prior wages and reducing the maximum monthly cap.
 
-The Czech government completed the migration of the mandatory data box digital mail system to its new datovka dot gov dot cz domain, permanently shutting down the old address used by millions of citizens and businesses for official correspondence.
+Slovalco restarted primary aluminum production in Ziar nad Hronom after a three year shutdown, backed by more than one hundred million euros in investment and a government energy cost support package expected to create thousands of jobs at full capacity.
 
 China.
 
-President Trump suggested the United States may already be sanctioning Chinese banks over their dealings with Iran, declining to give details, days after the Treasury sanctioned dozens of entities and ahead of Xi Jinping's expected visit to Washington next month.
+China's National People's Congress Standing Committee formally removed top military leaders Zhang Youxia and Liu Zhenli from their Central Military Commission posts, concluding a corruption investigation and reshaping the People's Liberation Army's senior leadership.
 
-China and the United States are discussing whether Chinese business executives will join Xi Jinping on his September trip to Washington, and officials say a one year extension of the countries' trade truce is now considered almost certain.
-
-Chinese Premier Li Qiang visited Tibet's Gyirong region, China's main trade gateway to Nepal, after a glacial flash flood destroyed bridges and roads and left hundreds missing, with hundreds of troops deployed to the disaster zone.
+China's central bank and financial regulators unveiled a housing market overhaul, moving away from presale financing so mortgages are issued only after project completion, alongside new support for developer bond and equity fundraising.

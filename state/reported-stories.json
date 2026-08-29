@@ -4137,6 +4137,184 @@
       "canonical_summary": "A glacial-collapse debris flow struck the China-Nepal border on August 26, devastating Gyirong Township, China's main land trade gateway to Nepal; state media reported deaths and hundreds missing, with at least 19 bridges and roughly 40km of roads destroyed. Premier Li Qiang arrived in Gyirong on August 27 to direct rescue efforts, with 500+ military and paramilitary personnel deployed.",
       "source_url": "https://www.bloomberg.com/news/articles/2026-08-27/tibet-mudslide-engulfs-complex-at-china-s-gateway-to-nepal",
       "material_update_of": null
+    },
+    {
+      "event_id": "anthropic-pentagon-blacklist-ruling",
+      "reported_date": "2026-08-29",
+      "event_date": "2026-08-27",
+      "category": "AI",
+      "entities": [
+        "Anthropic",
+        "US Department of Defense"
+      ],
+      "event_type": "legal_ruling",
+      "canonical_summary": "A federal judge ruled the Trump administration's designation of Anthropic as a national-security supply-chain risk was illegal retaliation after Anthropic barred Claude from autonomous-weapons use.",
+      "source_url": "https://www.aljazeera.com/news/2026/8/28/us-judge-blocks-pentagon-blacklisting-of-ai-firm-anthropic",
+      "material_update_of": null
+    },
+    {
+      "event_id": "nvidia-cloud-revenue-share-pause",
+      "reported_date": "2026-08-29",
+      "event_date": "2026-08-27",
+      "category": "AI",
+      "entities": [
+        "NVIDIA"
+      ],
+      "event_type": "business_strategy",
+      "canonical_summary": "NVIDIA paused its AI Compute Partnership revenue-sharing and financing program for cloud providers amid internal antitrust concerns and partner pushback.",
+      "source_url": "https://finance.yahoo.com/news/nvidia-pauses-revenue-sharing-deals-223140237.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "tencent-hunyuan-hy4-model-release",
+      "reported_date": "2026-08-29",
+      "event_date": "2026-08-28",
+      "category": "AI",
+      "entities": [
+        "Tencent"
+      ],
+      "event_type": "model_release",
+      "canonical_summary": "Tencent released and open-sourced its new flagship Hunyuan Hy4 preview model (770B parameters), claiming benchmark parity with or wins over rival Chinese models.",
+      "source_url": "https://finance.biggo.com/news/439ad16c-57ce-4efc-bfd0-83f079cfdc9c",
+      "material_update_of": null
+    },
+    {
+      "event_id": "alibaba-cloud-brazil-region-launch",
+      "reported_date": "2026-08-29",
+      "event_date": "2026-08-28",
+      "category": "AI",
+      "entities": [
+        "Alibaba"
+      ],
+      "event_type": "infrastructure",
+      "canonical_summary": "Alibaba Cloud opened its first South American region, two data centers in Sao Paulo, as part of its global AI infrastructure expansion.",
+      "source_url": "https://www.bnamericas.com/en/news/chinas-alibaba-launches-brazil-cloud-region-with-two-data-centers",
+      "material_update_of": null
+    },
+    {
+      "event_id": "a16z-machine-age-infrastructure-fund",
+      "reported_date": "2026-08-29",
+      "event_date": "2026-08-28",
+      "category": "AI",
+      "entities": [
+        "Andreessen Horowitz"
+      ],
+      "event_type": "investment",
+      "canonical_summary": "Andreessen Horowitz raised a 1.1 billion dollar fund dedicated to AI physical infrastructure including chips, data centers and robotics.",
+      "source_url": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "xanadu-canada-quantum-manufacturing-funding",
+      "reported_date": "2026-08-29",
+      "event_date": "2026-08-28",
+      "category": "Quantum Computing",
+      "entities": [
+        "Xanadu",
+        "Government of Canada"
+      ],
+      "event_type": "investment",
+      "canonical_summary": "Canada's federal government committed CAD 195 million to Xanadu to build a photonic quantum chip manufacturing facility in Toronto, its largest quantum manufacturing investment to date.",
+      "source_url": "https://thequantuminsider.com/2026/08/28/canada-195-million-xanadu-quantum-manufacturing/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "pasqal-spac-nasdaq-listing",
+      "reported_date": "2026-08-29",
+      "event_date": "2026-08-28",
+      "category": "Quantum Computing",
+      "entities": [
+        "Pasqal"
+      ],
+      "event_type": "public_listing",
+      "canonical_summary": "Pasqal completed its SPAC merger and began trading on Nasdaq with about 360 million dollars in cash to commercialize its neutral-atom quantum computers.",
+      "source_url": "https://thequantuminsider.com/2026/08/28/pasqal-completes-spac-merger-with-360-million-in-cash/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "fed-warsh-jackson-hole-hawkish-speech",
+      "reported_date": "2026-08-29",
+      "event_date": "2026-08-28",
+      "category": "US Stock Market",
+      "entities": [
+        "Federal Reserve",
+        "Kevin Warsh"
+      ],
+      "event_type": "fed_policy",
+      "canonical_summary": "Fed Chair Kevin Warsh's first Jackson Hole speech struck a hawkish tone on inflation, pushing September rate-hike odds and Treasury yields higher and pulling stocks lower Friday.",
+      "source_url": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-fed-inflation-rate-hike.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "marvell-earnings-beat-guidance-selloff",
+      "reported_date": "2026-08-29",
+      "event_date": "2026-08-28",
+      "category": "US Stock Market",
+      "entities": [
+        "Marvell Technology"
+      ],
+      "event_type": "earnings",
+      "canonical_summary": "Marvell shares fell sharply despite beating earnings estimates and raising revenue guidance, on investor concern over margin guidance and limited detail on its Google AI chip partnership.",
+      "source_url": "https://www.cnbc.com/2026/08/28/marvell-shares-are-down-after-earnings-morgan-stanley-says-buy-them.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-unemployment-benefit-cuts-proposal",
+      "reported_date": "2026-08-29",
+      "event_date": "2026-08-28",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Ministry of Labour and Social Affairs"
+      ],
+      "event_type": "policy_proposal",
+      "canonical_summary": "The Czech Labour Ministry proposed cutting unemployment benefit rates starting January 2027 to save 4.5 billion crowns, lowering the initial payout rate and the maximum monthly cap.",
+      "source_url": "https://www.irozhlas.cz/zpravy-domov/vrati-se-stare-nastaveni-podpor-v-nezamestnanosti-ministerstvo-prace-zvazuje_2608281436_kma",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovalco-aluminum-plant-restart",
+      "reported_date": "2026-08-29",
+      "event_date": "2026-08-28",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Slovalco",
+        "Norsk Hydro",
+        "Penta Investments"
+      ],
+      "event_type": "industrial_restart",
+      "canonical_summary": "Slovalco restarted primary aluminum production in Ziar nad Hronom after a three-year shutdown, backed by over 100 million euros in investment and a government energy-cost support package.",
+      "source_url": "https://www.ta3.com/clanok/1068529/slovalco-po-troch-rokoch-obnovuje-vyrobu-hlinika-do-restartu-fabriky-investuje-najmenej-100-milionov-eur",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-pla-zhang-youxia-liu-zhenli-removal",
+      "reported_date": "2026-08-29",
+      "event_date": "2026-08-28",
+      "category": "China",
+      "entities": [
+        "Zhang Youxia",
+        "Liu Zhenli",
+        "Central Military Commission"
+      ],
+      "event_type": "political_purge",
+      "canonical_summary": "China's NPC Standing Committee formally stripped Zhang Youxia and Liu Zhenli of their top Central Military Commission posts, concluding a corruption probe and reshaping the PLA's senior leadership.",
+      "source_url": "https://www.caixinglobal.com/2026-08-29/china-removes-zhang-youxia-and-liu-zhenli-from-top-military-posts-102479503.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-property-presale-mortgage-overhaul",
+      "reported_date": "2026-08-29",
+      "event_date": "2026-08-28",
+      "category": "China",
+      "entities": [
+        "People's Bank of China",
+        "National Financial Regulatory Administration",
+        "China Securities Regulatory Commission"
+      ],
+      "event_type": "regulatory_reform",
+      "canonical_summary": "China's central bank and financial regulators unveiled a housing-market overhaul moving away from presale financing, requiring mortgages only after project completion, alongside new developer bond and equity financing support.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-28/china-pushes-forward-home-sale-overhaul-as-crisis-drags-on",
+      "material_update_of": null
     }
   ]
 }
