@@ -1,37 +1,33 @@
-Daily News for Saturday, August 29, 2026.
+Daily News for Sunday, August 30, 2026.
 
 Artificial intelligence.
 
-A federal judge in California blocked the Trump administration's designation of Anthropic as a national security supply chain risk, ruling it was illegal retaliation after Anthropic refused to let Claude be used for autonomous weapons.
-
-Nvidia paused its AI Compute Partnership program, which offered cloud providers financing for chip purchases in exchange for a share of resulting revenue, after internal antitrust concerns and pushback from partners.
-
-Tencent released and open sourced Hunyuan Hy4 preview, a new flagship seven hundred seventy billion parameter model it says matches or beats rival Chinese models on coding and tool use benchmarks.
-
-Alibaba Cloud opened its first South American region, with two data centers in Sao Paulo, part of a fifty three billion dollar global AI infrastructure buildout.
-
-Andreessen Horowitz raised one point one billion dollars for a new fund dedicated to the physical buildout of AI infrastructure, including chips, data centers, and robotics.
+Sony Music Publishing and Warner Chappell filed a new copyright lawsuit against Anthropic, accusing the company of scraping pirated song lyrics to train its Claude models, with potential damages reaching into the billions of dollars.
 
 Quantum computing.
 
-Canada's federal government committed one hundred ninety five million Canadian dollars to Xanadu to build a photonic quantum chip manufacturing plant in Toronto, the country's largest quantum manufacturing investment to date.
-
-Pasqal completed its merger with a special purpose acquisition company and began trading on the Nasdaq with about three hundred sixty million dollars in cash to commercialize its neutral atom quantum computers.
+IBM released Qiskit Fermions, an open source tool that keeps quantum chemistry problems in their natural form during compilation, holding circuit depth flat as problem size grows instead of expanding sharply under older mapping methods.
 
 United States stock market.
 
-Federal Reserve Chair Kevin Warsh struck a hawkish tone in his first Jackson Hole speech, saying inflation trends have not meaningfully improved. Traders raised the odds of a September rate hike, Treasury yields rose, and stocks pulled back Friday.
+Gap shares jumped about thirteen percent after the retailer beat second quarter earnings expectations and named a new chief executive for its Old Navy brand.
 
-Marvell Technology shares fell sharply even after beating earnings estimates and raising revenue guidance, as investors focused on weaker margin guidance and a lack of detail on its Google AI chip partnership.
+Affirm posted its most profitable quarter ever, with revenue of one point one seven billion dollars beating estimates, and its shares extended gains into Friday's trading session.
 
 Czech Republic and Slovakia.
 
-The Czech Labor Ministry proposed cutting unemployment benefits starting January twenty twenty seven to save four and a half billion crowns, lowering the initial payout rate from eighty percent to sixty five percent of prior wages and reducing the maximum monthly cap.
+Slovakia's government is moving to scrap its financial transaction tax starting in twenty twenty seven and is considering an across the board one percent cut to public spending to cover the resulting budget gap.
 
-Slovalco restarted primary aluminum production in Ziar nad Hronom after a three year shutdown, backed by more than one hundred million euros in investment and a government energy cost support package expected to create thousands of jobs at full capacity.
+Slovak industrial confidence fell to its weakest level since twenty twenty three this month, as the country's broader economic sentiment indicator dropped to its lowest point this year.
+
+The Czech Ministry of Industry and Trade is scrapping its decade long State Energy Concept in favor of shorter annual reports, shifting policy focus toward nuclear power, gas, and energy storage.
 
 China.
 
-China's National People's Congress Standing Committee formally removed top military leaders Zhang Youxia and Liu Zhenli from their Central Military Commission posts, concluding a corruption investigation and reshaping the People's Liberation Army's senior leadership.
+A barrier lake formed by a landslide in Tibet's Gyirong region continued to threaten overflow, as China reported the death toll from last week's cross border flood with Nepal rising and sent tunnel rescue specialists to help free trapped hydropower workers.
 
-China's central bank and financial regulators unveiled a housing market overhaul, moving away from presale financing so mortgages are issued only after project completion, alongside new support for developer bond and equity fundraising.
+Chinese developer China Vanke reported its first half loss widened to sixteen billion yuan, roughly two point four billion dollars, as sales and settlement revenue continued to slump despite state support.
+
+The United States Treasury sanctioned a Hong Kong trading firm, accusing it of helping an Iranian exchange house launder money through the global banking system.
+
+The Kremlin confirmed Xi Jinping and Vladimir Putin will meet in Bishkek on August thirty first, with the long stalled Power of Siberia two gas pipeline expected on the agenda.

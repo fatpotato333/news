@@ -4315,6 +4315,160 @@
       "canonical_summary": "China's central bank and financial regulators unveiled a housing-market overhaul moving away from presale financing, requiring mortgages only after project completion, alongside new developer bond and equity financing support.",
       "source_url": "https://www.bloomberg.com/news/articles/2026-08-28/china-pushes-forward-home-sale-overhaul-as-crisis-drags-on",
       "material_update_of": null
+    },
+    {
+      "event_id": "sony-warner-anthropic-lyrics-lawsuit",
+      "reported_date": "2026-08-30",
+      "event_date": "2026-08-28",
+      "category": "AI",
+      "entities": [
+        "Anthropic",
+        "Sony Music Publishing",
+        "Warner Chappell Music"
+      ],
+      "event_type": "litigation",
+      "canonical_summary": "Sony Music Publishing and Warner Chappell filed a new copyright lawsuit against Anthropic, alleging it scraped pirated song lyrics from sources like MusixMatch and LyricFind to train Claude, seeking damages potentially in the billions.",
+      "source_url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "ibm-qiskit-fermions-release",
+      "reported_date": "2026-08-30",
+      "event_date": "2026-08-29",
+      "category": "Quantum Computing",
+      "entities": [
+        "IBM"
+      ],
+      "event_type": "software_release",
+      "canonical_summary": "IBM released Qiskit Fermions 0.1.0, an open-source library keeping quantum chemistry problems in native fermionic form through most of compilation, holding two-qubit gate depth flat at 12 for 1D Fermi-Hubbard simulations up to 100 sites versus depth 407 with conventional mapping.",
+      "source_url": "https://quantumcomputingreport.com/ibm-releases-open-source-qiskit-fermions-0-1-0-to-preserve-system-structure-during-transpilation/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "gap-inc-earnings-old-navy-ceo",
+      "reported_date": "2026-08-30",
+      "event_date": "2026-08-28",
+      "category": "US Stock Market",
+      "entities": [
+        "Gap Inc."
+      ],
+      "event_type": "earnings",
+      "canonical_summary": "Gap shares rose about 13% after the company beat Q2 earnings expectations (EPS $0.52 vs $0.49 expected) and named a new CEO for its Old Navy brand.",
+      "source_url": "https://www.fool.com/investing/2026/08/28/why-the-gap-stock-popped-today/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "affirm-record-profit-q4-beat",
+      "reported_date": "2026-08-30",
+      "event_date": "2026-08-27",
+      "category": "US Stock Market",
+      "entities": [
+        "Affirm Holdings"
+      ],
+      "event_type": "earnings",
+      "canonical_summary": "Affirm posted its most profitable quarter ever with fiscal Q4 revenue of $1.17 billion versus a $1.11 billion estimate, and shares extended gains into Friday's session.",
+      "source_url": "https://invezz.com/news/2026/08/28/affirm-stock-jumps-after-record-profit-why-bofa-sees-a-nearly-35-upside/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-transaction-tax-repeal-spending-cuts",
+      "reported_date": "2026-08-30",
+      "event_date": "2026-08-29",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Robert Fico",
+        "Ladislav Kamenický",
+        "Slovak government"
+      ],
+      "event_type": "policy_proposal",
+      "canonical_summary": "Slovak PM Robert Fico said an across-the-board 1% cut to public-administration spending is one option to cover the roughly 400-500 million euro annual revenue hole from scrapping the financial transaction tax from January 2027.",
+      "source_url": "https://www.topky.sk/cl/10/9481065/Transakcnu-dan-by-podla-Fica-mohlo-nahradit-plosne-znizenie-vydavkov",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-economic-sentiment-drop",
+      "reported_date": "2026-08-30",
+      "event_date": "2026-08-29",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Statisticky urad SR"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "Slovakia's Economic Sentiment Indicator fell 4.4 points to 95 in August, its lowest this year, with the industrial confidence sub-index plunging to -15, the weakest since June 2023.",
+      "source_url": "https://www.primanews.eu/slovenska-ekonomika-dostala-v-auguste-facku-firmy-v-priemysle-su-najpesimistickejsie-za-tri-roky/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-energy-concept-scrapped-minisek",
+      "reported_date": "2026-08-30",
+      "event_date": "2026-08-29",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Karel Havlicek",
+        "Czech Ministry of Industry and Trade"
+      ],
+      "event_type": "policy_change",
+      "canonical_summary": "The Czech Ministry of Industry and Trade will stop producing the decade-cycle State Energy Concept in favor of shorter annual 'mini-SEK' reports, shifting focus toward nuclear, gas, energy savings and storage.",
+      "source_url": "https://ct24.ceskatelevize.cz/clanek/domaci/ministerstvo-upusti-od-energeticke-koncepce-chce-mensi-a-castejsi-377081",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-nepal-gyirong-flood-barrier-lake-rescue",
+      "reported_date": "2026-08-30",
+      "event_date": "2026-08-29",
+      "category": "China",
+      "entities": [
+        "Gyirong County",
+        "China Ministry of Emergency Management",
+        "Nepal"
+      ],
+      "event_type": "disaster_update",
+      "canonical_summary": "China reported the death toll from the cross-border Gyirong flood disaster rising, warned a growing barrier lake threatens further overflow, and dispatched tunnel-rescue specialists to Nepal to help free workers trapped in flooded hydropower tunnels.",
+      "source_url": "https://english.news.cn/20260829/db8c978219b04105a8eb0c47be6dc72d/c.html",
+      "material_update_of": "china-tibet-gyirong-flood-li-qiang-visit"
+    },
+    {
+      "event_id": "china-vanke-h1-loss-widens",
+      "reported_date": "2026-08-30",
+      "event_date": "2026-08-29",
+      "category": "China",
+      "entities": [
+        "China Vanke"
+      ],
+      "event_type": "earnings",
+      "canonical_summary": "China Vanke's first-half 2026 net loss widened 47.5% year over year to 16 billion yuan (about $2.4 billion) as contracted sales fell 48.2% and settlement revenue dropped 45.9%, despite state-backed support from Shenzhen Metro.",
+      "source_url": "https://www.caixinglobal.com/2026-08-29/china-vankes-first-half-loss-widens-as-sales-slump-and-debt-pressure-builds-102479505.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-sanctions-kameng-trading-hongkong-iran",
+      "reported_date": "2026-08-30",
+      "event_date": "2026-08-28",
+      "category": "China",
+      "entities": [
+        "US Treasury",
+        "OFAC",
+        "Kameng Trading Ltd"
+      ],
+      "event_type": "sanctions",
+      "canonical_summary": "The US Treasury's OFAC sanctioned Hong Kong-based Kameng Trading Ltd for acting as a front company helping an Iranian exchange house access global banking, as part of its Iran sanctions-evasion crackdown.",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3365670/us-treasury-sanctions-hong-kong-based-firm-over-iran-money-laundering-ties",
+      "material_update_of": null
+    },
+    {
+      "event_id": "xi-putin-bishkek-meeting-siberia2-pipeline",
+      "reported_date": "2026-08-30",
+      "event_date": "2026-08-29",
+      "category": "China",
+      "entities": [
+        "Xi Jinping",
+        "Vladimir Putin",
+        "Kremlin"
+      ],
+      "event_type": "diplomatic_meeting",
+      "canonical_summary": "The Kremlin confirmed Xi Jinping and Vladimir Putin will hold bilateral talks in Bishkek on August 31 during the SCO summit, with the long-stalled Power of Siberia 2 gas pipeline on the agenda.",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3365710/xi-putin-meet-bishkek-power-siberia-2-pipeline-talks-kremlin",
+      "material_update_of": null
     }
   ]
 }
