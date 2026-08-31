@@ -4469,6 +4469,121 @@
       "canonical_summary": "The Kremlin confirmed Xi Jinping and Vladimir Putin will hold bilateral talks in Bishkek on August 31 during the SCO summit, with the long-stalled Power of Siberia 2 gas pipeline on the agenda.",
       "source_url": "https://www.scmp.com/news/china/diplomacy/article/3365710/xi-putin-meet-bishkek-power-siberia-2-pipeline-talks-kremlin",
       "material_update_of": null
+    },
+    {
+      "event_id": "openai-terminates-cursor-model-access",
+      "reported_date": "2026-08-31",
+      "event_date": "2026-08-29",
+      "category": "AI",
+      "entities": [
+        "OpenAI",
+        "Cursor",
+        "Anysphere",
+        "SpaceX"
+      ],
+      "event_type": "partnership_termination",
+      "canonical_summary": "OpenAI announced it will terminate Cursor maker Anysphere's access to OpenAI's models effective November 12, 2026, invoking a change-of-control clause after SpaceX completed its roughly $60 billion all-stock acquisition of Anysphere on August 14, citing an inability to trust a Musk-controlled company to honor its usage terms.",
+      "source_url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "anthropic-infostealer-session-hijacking",
+      "reported_date": "2026-08-31",
+      "event_date": "2026-08-30",
+      "category": "AI",
+      "entities": [
+        "Anthropic"
+      ],
+      "event_type": "security_disclosure",
+      "canonical_summary": "Anthropic disclosed that infostealer malware already present on some users' own computers (including Vidar, LummaC2, StealC, RedLine and Atomic Stealer) has been hijacking logged-in Claude sessions to drain usage quotas without owners' knowledge; the company is force-signing-out affected accounts, wiping stored payment methods and refunding unauthorized charges.",
+      "source_url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "deepseek-nearing-7-4-billion-funding-round",
+      "reported_date": "2026-08-31",
+      "event_date": "2026-08-28",
+      "category": "AI",
+      "entities": [
+        "DeepSeek",
+        "CATL",
+        "Monolith",
+        "Shixiang Capital"
+      ],
+      "event_type": "funding",
+      "canonical_summary": "DeepSeek is nearing a roughly 50 billion yuan (about $7.4 billion) funding round at a $74 billion pre-money valuation, with backers including CATL, Monolith and Shixiang Capital, as it plans a roughly 1-gigawatt compute buildout and eyes a Shanghai STAR Market listing.",
+      "source_url": "https://techstartups.com/2026/08/28/deepseek-nears-7-4-billion-funding-round-at-74-billion-valuation-ahead-of-2027-ipo/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-strikes-iran-hormuz-market-reaction",
+      "reported_date": "2026-08-31",
+      "event_date": "2026-08-30",
+      "category": "US Stock Market - General News",
+      "entities": [
+        "US Central Command",
+        "Iran"
+      ],
+      "event_type": "military_action_market_reaction",
+      "canonical_summary": "US forces struck Iranian rocket launchers near the Strait of Hormuz on August 30 after Revolutionary Guard forces were seen preparing to fire mine-laden rockets into the waterway; US crude jumped about 2% to near $85 a barrel and Dow, S&P 500 and Nasdaq-100 futures each fell roughly 0.3-0.4% heading into Monday's session, while gold slid to nearly a two-week low.",
+      "source_url": "https://www.nbcnews.com/politics/national-security/us-forces-strike-iranian-rocket-launchers-strait-hormuz-first-military-rcna595194",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-labor-code-salary-history-ban",
+      "reported_date": "2026-08-31",
+      "event_date": "2026-08-31",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Government",
+        "Ministry of Labour and Social Affairs"
+      ],
+      "event_type": "labor_law",
+      "canonical_summary": "The Czech cabinet reviewed a labor code amendment transposing the EU pay-transparency directive that would bar employers from asking job candidates about previous salaries and require disclosure of minimum offered pay and benefits before signing a contract.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/vlada-projedna-navrh-rozpoctu-zmeny-zakoniku-prace-i-kulturni-politiku/2867578",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-platform-work-law-january-2027",
+      "reported_date": "2026-08-31",
+      "event_date": "2026-08-31",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Government",
+        "Ministry of Labour and Social Affairs"
+      ],
+      "event_type": "labor_law",
+      "canonical_summary": "The Czech cabinet reviewed a draft law transposing the EU platform-work directive that redefines dependent employment and requires digital platforms to register as employers by the end of January 2027; roughly 546,000 Czechs currently work via such platforms, with about 139,000 depending on it for most of their income.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/vlada-projedna-navrh-zakona-o-platformove-praci-se-zmenou-definice-zamestnani/2867691",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-manufacturing-pmi-august-2026",
+      "reported_date": "2026-08-31",
+      "event_date": "2026-08-31",
+      "category": "China",
+      "entities": [
+        "China National Bureau of Statistics"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "China's official manufacturing PMI rose to 49.8 in August from 49.2 in July, beating forecasts but marking a second straight month below the 50-point growth threshold, with the new-orders sub-index returning to expansion at 50.6.",
+      "source_url": "https://www.scmp.com/economy/economic-indicators/article/3365785/chinas-factory-activity-stays-contraction-august-despite-improvement",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-nepal-gyirong-flood-toll-relief-update",
+      "reported_date": "2026-08-31",
+      "event_date": "2026-08-30",
+      "category": "China",
+      "entities": [
+        "China",
+        "Tibet Autonomous Region",
+        "Nepal"
+      ],
+      "event_type": "disaster_update",
+      "canonical_summary": "China updated the toll from the Gyirong border flood disaster to 16 dead with 261 foreign nationals from 23 countries missing, and disclosed it has mobilized about 2,100 rescue workers and allocated at least 220 million yuan (about $32.7 million) in relief funds while monitoring an unstable upstream debris barrier lake.",
+      "source_url": "https://www.aljazeera.com/news/2026/8/30/nepal-china-flood-disaster-whats-the-latest-toll-how-many-are-missing",
+      "material_update_of": "china-nepal-gyirong-flood-barrier-lake-rescue"
     }
   ]
 }

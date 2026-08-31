@@ -1,33 +1,25 @@
-Daily News for Sunday, August 30, 2026.
+Daily News for Monday, August 31, 2026.
 
 Artificial intelligence.
 
-Sony Music Publishing and Warner Chappell filed a new copyright lawsuit against Anthropic, accusing the company of scraping pirated song lyrics to train its Claude models, with potential damages reaching into the billions of dollars.
+OpenAI is cutting off the coding tool Cursor's access to its AI models this November, after Elon Musk's SpaceX bought Cursor's maker, Anysphere, for about sixty billion dollars, saying it cannot trust a Musk controlled company to honor its usage terms.
 
-Quantum computing.
+Anthropic warned that malware already sitting on some users' computers has been hijacking their logged in Claude sessions to quietly burn through usage limits, and the company is now force logging out affected accounts and refunding unauthorized charges.
 
-IBM released Qiskit Fermions, an open source tool that keeps quantum chemistry problems in their natural form during compilation, holding circuit depth flat as problem size grows instead of expanding sharply under older mapping methods.
+Chinese AI lab DeepSeek is closing in on a funding round of about seven point four billion dollars at a valuation near seventy four billion dollars, money earmarked for roughly a gigawatt of new computing capacity as it eyes a future Shanghai stock listing.
 
 United States stock market.
 
-Gap shares jumped about thirteen percent after the retailer beat second quarter earnings expectations and named a new chief executive for its Old Navy brand.
-
-Affirm posted its most profitable quarter ever, with revenue of one point one seven billion dollars beating estimates, and its shares extended gains into Friday's trading session.
+United States forces struck Iranian rocket launchers near the Strait of Hormuz on Sunday, after Revolutionary Guard forces were seen preparing to fire mine laden rockets into the waterway. Oil prices jumped about two percent and stock futures fell heading into Monday's session, while gold slid to nearly a two week low.
 
 Czech Republic and Slovakia.
 
-Slovakia's government is moving to scrap its financial transaction tax starting in twenty twenty seven and is considering an across the board one percent cut to public spending to cover the resulting budget gap.
+The Czech government reviewed a labor code amendment that would bar employers from asking job candidates about their previous salary, requiring them instead to disclose minimum pay and benefits before signing a contract, transposing a new European Union pay transparency law.
 
-Slovak industrial confidence fell to its weakest level since twenty twenty three this month, as the country's broader economic sentiment indicator dropped to its lowest point this year.
-
-The Czech Ministry of Industry and Trade is scrapping its decade long State Energy Concept in favor of shorter annual reports, shifting policy focus toward nuclear power, gas, and energy storage.
+Czech ministers also reviewed a new platform work law extending employee style protections to gig workers on delivery and ride hailing apps. More than half a million Czechs currently work through such platforms, and the law is set to take effect from January twenty twenty seven.
 
 China.
 
-A barrier lake formed by a landslide in Tibet's Gyirong region continued to threaten overflow, as China reported the death toll from last week's cross border flood with Nepal rising and sent tunnel rescue specialists to help free trapped hydropower workers.
+China's official manufacturing index rose slightly to forty nine point eight in August, beating forecasts but marking a second straight month below the fifty point growth threshold, as the world's second largest economy continues to struggle with weak domestic demand.
 
-Chinese developer China Vanke reported its first half loss widened to sixteen billion yuan, roughly two point four billion dollars, as sales and settlement revenue continued to slump despite state support.
-
-The United States Treasury sanctioned a Hong Kong trading firm, accusing it of helping an Iranian exchange house launder money through the global banking system.
-
-The Kremlin confirmed Xi Jinping and Vladimir Putin will meet in Bishkek on August thirty first, with the long stalled Power of Siberia two gas pipeline expected on the agenda.
+China updated the toll from last week's glacier collapse flood on the Nepal border to sixteen dead, with two hundred sixty one foreign nationals from twenty three countries still missing. Authorities have mobilized about two thousand one hundred rescue workers and allocated more than thirty two million dollars in relief funds while monitoring an unstable debris lake upstream.
