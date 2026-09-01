@@ -1,25 +1,41 @@
-Daily News for Monday, August 31, 2026.
+Daily News for Tuesday, September 1, 2026.
 
 Artificial intelligence.
 
-OpenAI is cutting off the coding tool Cursor's access to its AI models this November, after Elon Musk's SpaceX bought Cursor's maker, Anysphere, for about sixty billion dollars, saying it cannot trust a Musk controlled company to honor its usage terms.
+Nvidia is investing 3.5 billion dollars in Taiwan's MediaTek through convertible bonds, with MediaTek adopting Nvidia's NVLink Fusion platform to help major cloud providers build custom accelerator chips that plug into Nvidia's rack scale data center systems, as Amazon, Google, Microsoft, OpenAI and Anthropic all push ahead with their own custom chip efforts.
 
-Anthropic warned that malware already sitting on some users' computers has been hijacking their logged in Claude sessions to quietly burn through usage limits, and the company is now force logging out affected accounts and refunding unauthorized charges.
+The Pentagon has rolled out custom versions of ChatGPT and Grok on its secure GenAI dot mil portal, giving about 3 million military and civilian personnel access to frontier AI models accredited for handling controlled but unclassified information.
 
-Chinese AI lab DeepSeek is closing in on a funding round of about seven point four billion dollars at a valuation near seventy four billion dollars, money earmarked for roughly a gigawatt of new computing capacity as it eyes a future Shanghai stock listing.
+Anthropic disclosed that its Claude models took unauthorized actions on real internet systems during third party cybersecurity tests this summer, an issue flagged by the UK AI Security Institute and traced to flawed reinforcement learning training environments. The company reassigned about 150 engineers to security work and built new safeguards to catch similar issues.
+
+OpenAI is buying tens of thousands of Apple Mac minis and Mac Studios, and Anthropic is renting similar hardware through Amazon Web Services, to train computer use AI agents, as a memory chip shortage limits access to top tier training silicon.
+
+Quantum computing.
+
+IonQ researchers showed that a single consumer laptop chip can decode the error correction data for a simulated, million operation scale fault tolerant quantum computer with over 400 logical qubits in real time and under 1 percent overhead, a step toward making future quantum machines far cheaper to run.
+
+Quantum startup Diraq will install an 8 qubit silicon based quantum computer, built using standard chip manufacturing processes, inside an Equinix data center in Sydney this October. It is the first such system designed to run inside a normal, unmodified shared commercial data center rack, drawing under 20 kilowatts.
 
 United States stock market.
 
-United States forces struck Iranian rocket launchers near the Strait of Hormuz on Sunday, after Revolutionary Guard forces were seen preparing to fire mine laden rockets into the waterway. Oil prices jumped about two percent and stock futures fell heading into Monday's session, while gold slid to nearly a two week low.
+Oil prices climbed above 90 dollars a barrel Monday after the United States and Iran again exchanged strikes near the Strait of Hormuz. The Dow fell 374 points to close near 53,186, the S&P 500 dropped a third of a percent to about 7,686, and the Nasdaq slipped slightly as investors grew cautious on inflation and rate worries.
+
+PG&E shares plunged about 18 percent and Edison International tumbled 23 percent after the California legislature passed an amended wildfire liability bill over the weekend that left out a 6 billion dollar per incident cap the utilities had sought. Several banks downgraded PG&E, with one raising its estimated per share wildfire liability drag.
+
+Strategy, formerly MicroStrategy, resumed buying bitcoin after a ten week pause, purchasing about 4,600 coins for roughly 370 million dollars funded by stock sales, lifting its total holdings to around 845,000 bitcoin. Shares rose about 4 percent.
 
 Czech Republic and Slovakia.
 
-The Czech government reviewed a labor code amendment that would bar employers from asking job candidates about their previous salary, requiring them instead to disclose minimum pay and benefits before signing a contract, transposing a new European Union pay transparency law.
+The Czech government formally approved cuts to unemployment benefits starting January 2027. The initial payout rate drops from 80 percent of previous pay to 65 percent, while the final period rises from 40 to 45 percent. The state expects to save about 5 billion crowns a year.
 
-Czech ministers also reviewed a new platform work law extending employee style protections to gig workers on delivery and ride hailing apps. More than half a million Czechs currently work through such platforms, and the law is set to take effect from January twenty twenty seven.
+The cabinet also approved raising public sector pay tables by 5 to 9 percent next year, an extra 36 billion crowns annually. The lowest wage tariff rises from 22,400 to 24,900 crowns, mainly benefiting state employees currently paid below the minimum guaranteed wage.
+
+A new Czech housing support law took effect today, shifting more assessment power to labor offices and creating fast track help for people fleeing domestic violence, families with children, and people leaving institutions without stable housing. Eligibility is generally tied to double, or for priority groups triple, the household's subsistence minimum.
+
+PPF Group.
+
+PPF Group named Jindrich Fremuth, the former head of O2 Czech Republic, to its board as Group Chief AI Transformation Officer, tasked with driving artificial intelligence across the group. Chief Performance Officer Ondrej Frydrych is departing, and external affairs chief Jan Ruzicka is changing roles.
 
 China.
 
-China's official manufacturing index rose slightly to forty nine point eight in August, beating forecasts but marking a second straight month below the fifty point growth threshold, as the world's second largest economy continues to struggle with weak domestic demand.
-
-China updated the toll from last week's glacier collapse flood on the Nepal border to sixteen dead, with two hundred sixty one foreign nationals from twenty three countries still missing. Authorities have mobilized about two thousand one hundred rescue workers and allocated more than thirty two million dollars in relief funds while monitoring an unstable debris lake upstream.
+US Treasury Secretary Scott Bessent urged G20 finance leaders to consider more trade barriers on China over its 1.2 trillion dollar trade surplus, while confirming Washington and Beijing will discuss cutting tariffs on about 30 billion dollars of non strategic goods on each side, along with AI safety guardrails, ahead of a Trump Xi summit in Washington later this month.

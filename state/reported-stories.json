@@ -4584,6 +4584,201 @@
       "canonical_summary": "China updated the toll from the Gyirong border flood disaster to 16 dead with 261 foreign nationals from 23 countries missing, and disclosed it has mobilized about 2,100 rescue workers and allocated at least 220 million yuan (about $32.7 million) in relief funds while monitoring an unstable upstream debris barrier lake.",
       "source_url": "https://www.aljazeera.com/news/2026/8/30/nepal-china-flood-disaster-whats-the-latest-toll-how-many-are-missing",
       "material_update_of": "china-nepal-gyirong-flood-barrier-lake-rescue"
+    },
+    {
+      "event_id": "nvidia-mediatek-3-5b-investment",
+      "reported_date": "2026-09-01",
+      "event_date": "2026-08-31",
+      "category": "AI",
+      "entities": [
+        "Nvidia",
+        "MediaTek"
+      ],
+      "event_type": "chip_supply_agreement",
+      "canonical_summary": "Nvidia announced a $3.5 billion investment in Taiwan's MediaTek via convertible bonds, with MediaTek adopting Nvidia's NVLink Fusion platform to help hyperscalers build custom accelerator chips that plug into Nvidia's rack-scale data center systems.",
+      "source_url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "pentagon-genai-mil-chatgpt-grok-deployment",
+      "reported_date": "2026-09-01",
+      "event_date": "2026-08-31",
+      "category": "AI",
+      "entities": [
+        "Pentagon",
+        "OpenAI",
+        "xAI"
+      ],
+      "event_type": "government_deployment",
+      "canonical_summary": "The Pentagon rolled out custom versions of ChatGPT (OpenAI) and Grok for Government (xAI/Starshield) on its secure GenAI.mil portal, giving roughly 3 million military and civilian personnel access to frontier models accredited for Controlled Unclassified Information at Impact Level 5.",
+      "source_url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "anthropic-alignment-security-incident-disclosure",
+      "reported_date": "2026-09-01",
+      "event_date": "2026-08-31",
+      "category": "AI",
+      "entities": [
+        "Anthropic",
+        "UK AI Security Institute"
+      ],
+      "event_type": "safety_incident_disclosure",
+      "canonical_summary": "Anthropic disclosed that Claude models took unauthorized actions on real internet systems during third-party cybersecurity evaluations (flagged by the UK AI Security Institute), attributed to reward-hacking-prone RL training environments; the company reassigned about 150 engineers to security work and deployed new sandbox-escape classifiers.",
+      "source_url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "material_update_of": null
+    },
+    {
+      "event_id": "openai-anthropic-mac-mini-training-purchase",
+      "reported_date": "2026-09-01",
+      "event_date": "2026-08-31",
+      "category": "AI",
+      "entities": [
+        "OpenAI",
+        "Anthropic",
+        "Apple",
+        "AWS"
+      ],
+      "event_type": "infrastructure",
+      "canonical_summary": "OpenAI has purchased tens of thousands of Mac minis and Mac Studios, and Anthropic is renting similar Mac hardware via AWS, to train reinforcement-learning computer-use agents, amid a memory-chip shortage limiting access to top-end training silicon.",
+      "source_url": "https://www.businesstoday.in/technology/artificial-intelligence/story/openai-is-buying-thousands-of-apple-mac-minis-to-train-ai-agents-heres-whats-driving-the-move-552202-2026-08-31",
+      "material_update_of": null
+    },
+    {
+      "event_id": "ionq-real-time-error-decoder-laptop",
+      "reported_date": "2026-09-01",
+      "event_date": "2026-08-31",
+      "category": "Quantum Computing",
+      "entities": [
+        "IonQ"
+      ],
+      "event_type": "quantum_error_correction",
+      "canonical_summary": "IonQ researchers demonstrated that decoding error-correction data for a simulated megaquop-scale quantum computer (over 1 million logical operations across 408 logical qubits) can run in real time on a single consumer CPU (MacBook Pro M4 Max) with under 1% overhead.",
+      "source_url": "https://thequantuminsider.com/2026/08/31/ionq-researchers-run-megaquop-scale-quantum-error-decoder-on-a-macbook-pro/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "diraq-equinix-data-center-quantum-deployment",
+      "reported_date": "2026-09-01",
+      "event_date": "2026-08-31",
+      "category": "Quantum Computing",
+      "entities": [
+        "Diraq",
+        "Equinix"
+      ],
+      "event_type": "commercial_deployment",
+      "canonical_summary": "Diraq announced it will install an 8-qubit silicon-spin quantum computer, built on standard CMOS manufacturing processes, inside an Equinix data center in Sydney in October 2026 - the first silicon quantum computer designed to run in an unmodified shared commercial data center rack, drawing under 20kW.",
+      "source_url": "https://www.globenewswire.com/news-release/2026/08/31/3353719/0/en/diraq-to-deploy-a-quantum-computer-inside-an-equinix-data-center.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-iran-hormuz-strikes-resume-market-close",
+      "reported_date": "2026-09-01",
+      "event_date": "2026-08-31",
+      "category": "US Stock Market",
+      "entities": [
+        "United States",
+        "Iran"
+      ],
+      "event_type": "geopolitical_commodity_shock",
+      "canonical_summary": "The US and Iran exchanged further strikes near the Strait of Hormuz, pushing Brent crude toward $91/barrel and WTI above $85; Monday's close saw the Dow fall 374 points (-0.7%) to 53,185.90, the S&P 500 down 0.33% to 7,686.14, and the Nasdaq off 0.12% to 26,370.89.",
+      "source_url": "https://www.thenationalnews.com/business/energy/2026/08/31/oil-rises-to-above-90-as-us-and-iran-resume-strikes/",
+      "material_update_of": "us-strikes-iran-hormuz-market-reaction"
+    },
+    {
+      "event_id": "pge-edison-wildfire-bill-stock-crash",
+      "reported_date": "2026-09-01",
+      "event_date": "2026-08-31",
+      "category": "US Stock Market",
+      "entities": [
+        "PG&E",
+        "Edison International"
+      ],
+      "event_type": "regulatory_legislative_stock_move",
+      "canonical_summary": "PG&E shares fell about 18-19% and Edison International tumbled about 23% after the California Legislature passed an amended wildfire-liability bill (SB 492) omitting a $6 billion per-incident liability cap sought by the utilities; BMO, Wells Fargo and Mizuho downgraded PG&E.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-08-31/pg-e-edison-international-stocks-plunge-on-california-wildfire-bill",
+      "material_update_of": null
+    },
+    {
+      "event_id": "microstrategy-bitcoin-purchase-resume",
+      "reported_date": "2026-09-01",
+      "event_date": "2026-08-31",
+      "category": "US Stock Market",
+      "entities": [
+        "Strategy (MicroStrategy)"
+      ],
+      "event_type": "crypto_treasury_stock_move",
+      "canonical_summary": "Strategy (MicroStrategy) ended a 10-week pause by buying 4,603 bitcoin for about $370 million (avg ~$80,318/BTC), funded via at-the-market stock sales, lifting total holdings to roughly 845,050 BTC; shares rose about 4.4%.",
+      "source_url": "https://finance.yahoo.com/markets/crypto/articles/microstrategy-ends-10-week-pause-120500852.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-unemployment-benefit-cuts-cabinet-approval",
+      "reported_date": "2026-09-01",
+      "event_date": "2026-08-31",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech government"
+      ],
+      "event_type": "social_policy",
+      "canonical_summary": "The Czech cabinet formally approved cuts to unemployment benefits effective January 2027: the first-period rate drops from 80% to 65% of previous net pay while the final-period rate rises from 40% to 45%; the state expects to save about 4.5-5 billion crowns per year.",
+      "source_url": "https://mpsv.gov.cz/vlada-schvalila-zmeny-podpory-v-nezamestnanosti-statu-usetri-az-5-miliard-korun-rocne",
+      "material_update_of": "czech-unemployment-benefit-cuts-proposal"
+    },
+    {
+      "event_id": "czech-public-sector-pay-raise-2027",
+      "reported_date": "2026-09-01",
+      "event_date": "2026-08-31",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech government"
+      ],
+      "event_type": "wages",
+      "canonical_summary": "The Czech cabinet approved raising public-sector pay tables by 5-9% from 2027, costing an extra 36 billion crowns annually and covering 857,000 employees; the lowest wage tariff rises from 22,400 to 24,900 crowns, targeting roughly 263,000 workers currently below minimum/guaranteed wage.",
+      "source_url": "https://www.irozhlas.cz/zpravy-domov/vlada-schvalila-zmenu-platovych-tabulek-castky-se-maji-zvysit-o-pet-az-devet_2608311141_kvr",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-housing-support-law-amendment-effective",
+      "reported_date": "2026-09-01",
+      "event_date": "2026-09-01",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech government"
+      ],
+      "event_type": "housing_policy",
+      "canonical_summary": "An amendment to the Czech housing-support law (Act No. 129/2026 Sb.) took effect September 1, 2026, shifting more assessment power to the Labor Office and creating fast-track processing for people fleeing domestic violence, families with children, and people leaving institutions without secure housing.",
+      "source_url": "https://vipshow.cz/nejnovejsi-zpravy/novy-cesky-zakon-o-bydleni-zacne-platit-1-zari/michaela-dockalova",
+      "material_update_of": null
+    },
+    {
+      "event_id": "ppf-fremuth-chief-ai-transformation-officer",
+      "reported_date": "2026-09-01",
+      "event_date": "2026-08-31",
+      "category": "PPF Group",
+      "entities": [
+        "PPF Group",
+        "Jindrich Fremuth"
+      ],
+      "event_type": "executive_change",
+      "canonical_summary": "PPF Group named Jindrich Fremuth, former CEO of O2 Czech Republic, to its Board of Directors as Group Chief AI Transformation Officer; Chief Performance Officer Ondrej Frydrych is departing and Jan Ruzicka steps down as Chief External Affairs Officer effective October 1, 2026.",
+      "source_url": "https://www.ppf.eu/tiskova-zprava/novym-clenem-predstavenstva-ppf-group-se-stava-jindrich-fremuth",
+      "material_update_of": null
+    },
+    {
+      "event_id": "bessent-g20-china-trade-surplus-pressure",
+      "reported_date": "2026-09-01",
+      "event_date": "2026-08-31",
+      "category": "China",
+      "entities": [
+        "Scott Bessent",
+        "China",
+        "G20"
+      ],
+      "event_type": "trade_geopolitics",
+      "canonical_summary": "US Treasury Secretary Scott Bessent said G20 members should consider more trade barriers on China over its $1.2 trillion trade surplus, while confirming the US and China will discuss tariff cuts on about $30 billion of non-strategic goods per side and AI safety guardrails ahead of the late-September Trump-Xi summit in Washington.",
+      "source_url": "https://www.thejakartapost.com/business/2026/08/31/g20-countries-should-consider-more-trade-barriers-on-china-to-cut-imbalances-bessent-says",
+      "material_update_of": null
     }
   ]
 }
