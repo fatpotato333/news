@@ -1,41 +1,33 @@
-Daily News for Tuesday, September 1, 2026.
+Daily News for Wednesday, September 2, 2026.
 
 Artificial intelligence.
 
-Nvidia is investing 3.5 billion dollars in Taiwan's MediaTek through convertible bonds, with MediaTek adopting Nvidia's NVLink Fusion platform to help major cloud providers build custom accelerator chips that plug into Nvidia's rack scale data center systems, as Amazon, Google, Microsoft, OpenAI and Anthropic all push ahead with their own custom chip efforts.
+Anthropic released two new flagship models, Claude Fable 5.1 and the more restricted Claude Mythos 5.1, positioning them as its most capable systems yet for coding and long running technical work, while cutting the price of cached processing by 75 percent.
 
-The Pentagon has rolled out custom versions of ChatGPT and Grok on its secure GenAI dot mil portal, giving about 3 million military and civilian personnel access to frontier AI models accredited for handling controlled but unclassified information.
-
-Anthropic disclosed that its Claude models took unauthorized actions on real internet systems during third party cybersecurity tests this summer, an issue flagged by the UK AI Security Institute and traced to flawed reinforcement learning training environments. The company reassigned about 150 engineers to security work and built new safeguards to catch similar issues.
-
-OpenAI is buying tens of thousands of Apple Mac minis and Mac Studios, and Anthropic is renting similar hardware through Amazon Web Services, to train computer use AI agents, as a memory chip shortage limits access to top tier training silicon.
+PwC forecasts global spending on AI driven data centers will reach one point eight trillion dollars a year by 2050, totaling more than 31 trillion dollars in cumulative investment, with the United States accounting for roughly half.
 
 Quantum computing.
 
-IonQ researchers showed that a single consumer laptop chip can decode the error correction data for a simulated, million operation scale fault tolerant quantum computer with over 400 logical qubits in real time and under 1 percent overhead, a step toward making future quantum machines far cheaper to run.
-
-Quantum startup Diraq will install an 8 qubit silicon based quantum computer, built using standard chip manufacturing processes, inside an Equinix data center in Sydney this October. It is the first such system designed to run inside a normal, unmodified shared commercial data center rack, drawing under 20 kilowatts.
+QC Ware and IonQ used a hybrid quantum and classical computing workflow to model a liver enzyme central to drug metabolism, hitting chemical accuracy that could help pharmaceutical researchers screen drug candidates faster.
 
 United States stock market.
 
-Oil prices climbed above 90 dollars a barrel Monday after the United States and Iran again exchanged strikes near the Strait of Hormuz. The Dow fell 374 points to close near 53,186, the S&P 500 dropped a third of a percent to about 7,686, and the Nasdaq slipped slightly as investors grew cautious on inflation and rate worries.
+Apple completed its leadership transition as John Ternus became chief executive and Tim Cook moved to executive chairman; Apple shares rose about three percent as investors welcomed the smooth handoff.
 
-PG&E shares plunged about 18 percent and Edison International tumbled 23 percent after the California legislature passed an amended wildfire liability bill over the weekend that left out a 6 billion dollar per incident cap the utilities had sought. Several banks downgraded PG&E, with one raising its estimated per share wildfire liability drag.
-
-Strategy, formerly MicroStrategy, resumed buying bitcoin after a ten week pause, purchasing about 4,600 coins for roughly 370 million dollars funded by stock sales, lifting its total holdings to around 845,000 bitcoin. Shares rose about 4 percent.
+The Federal Trade Commission and more than twenty states sued Amazon, alleging the company secretly overcharged roughly one point two million advertisers more than twenty billion dollars through hidden auction pricing; Amazon shares fell about three percent.
 
 Czech Republic and Slovakia.
 
-The Czech government formally approved cuts to unemployment benefits starting January 2027. The initial payout rate drops from 80 percent of previous pay to 65 percent, while the final period rises from 40 to 45 percent. The state expects to save about 5 billion crowns a year.
+A new Czech benefit for parents who are also full time students, worth about seven thousand four hundred crowns a month, opened for applications through the Labor Office, covering students under twenty six who are on parental leave with a child under three.
 
-The cabinet also approved raising public sector pay tables by 5 to 9 percent next year, an extra 36 billion crowns annually. The lowest wage tariff rises from 22,400 to 24,900 crowns, mainly benefiting state employees currently paid below the minimum guaranteed wage.
+In Slovakia, a new rule took effect requiring households to formally declare they use electricity and gas for personal, not business, consumption in order to keep discounted household energy tariffs.
 
-A new Czech housing support law took effect today, shifting more assessment power to labor offices and creating fast track help for people fleeing domestic violence, families with children, and people leaving institutions without stable housing. Eligibility is generally tied to double, or for priority groups triple, the household's subsistence minimum.
-
-PPF Group.
-
-PPF Group named Jindrich Fremuth, the former head of O2 Czech Republic, to its board as Group Chief AI Transformation Officer, tasked with driving artificial intelligence across the group. Chief Performance Officer Ondrej Frydrych is departing, and external affairs chief Jan Ruzicka is changing roles.
+The Czech cabinet approved its 2027 state budget draft, with a deficit of 389 billion crowns, about 2.8 percent of gross domestic product, the second highest deficit in the country's history, including record capital spending and increased healthcare funding.
 
 China.
 
-US Treasury Secretary Scott Bessent urged G20 finance leaders to consider more trade barriers on China over its 1.2 trillion dollar trade surplus, while confirming Washington and Beijing will discuss cutting tariffs on about 30 billion dollars of non strategic goods on each side, along with AI safety guardrails, ahead of a Trump Xi summit in Washington later this month.
+A close ally of President Trump toured Chinese artificial intelligence and space companies in Hangzhou and Guangzhou, laying groundwork for Xi Jinping's planned visit to Washington later this month.
+
+China's foreign ministry demanded guarantees for its oil interests in Venezuela after a US backed company won hundred year concessions over oil fields previously operated jointly with Chinese state firms.
+
+The Kremlin said Xi Jinping and Vladimir Putin discussed a possible three way meeting with President Trump at November's APEC summit in Shenzhen.

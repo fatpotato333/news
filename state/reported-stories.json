@@ -4779,6 +4779,162 @@
       "canonical_summary": "US Treasury Secretary Scott Bessent said G20 members should consider more trade barriers on China over its $1.2 trillion trade surplus, while confirming the US and China will discuss tariff cuts on about $30 billion of non-strategic goods per side and AI safety guardrails ahead of the late-September Trump-Xi summit in Washington.",
       "source_url": "https://www.thejakartapost.com/business/2026/08/31/g20-countries-should-consider-more-trade-barriers-on-china-to-cut-imbalances-bessent-says",
       "material_update_of": null
+    },
+    {
+      "event_id": "anthropic-claude-fable-mythos-5-1-release",
+      "reported_date": "2026-09-02",
+      "event_date": "2026-09-01",
+      "category": "AI",
+      "entities": [
+        "Anthropic"
+      ],
+      "event_type": "model_release",
+      "canonical_summary": "Anthropic released Claude Fable 5.1 (generally available) and the more restricted Claude Mythos 5.1 as its most advanced models for coding and long-running technical work, reporting 52.6% on Terminal-Bench-Science 0.1 (company-reported, not independently verified) and cutting cache-read pricing 75%, from $1.00 to $0.25 per million tokens.",
+      "source_url": "https://www.marktechpost.com/2026/09/01/anthropic-releases-claude-fable-5-1-and-claude-mythos-5-1-52-6-on-terminal-bench-science-and-75-cheaper-cache-reads/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "pwc-ai-datacenter-capex-forecast-2050",
+      "reported_date": "2026-09-02",
+      "event_date": "2026-09-02",
+      "category": "AI",
+      "entities": [
+        "PwC"
+      ],
+      "event_type": "forecast_report",
+      "canonical_summary": "PwC published a report forecasting global AI-driven data center investment will rise from about $800 billion this year to $1.8 trillion annually by 2050, totaling $31.6 trillion cumulatively, with the United States accounting for about $15.1 trillion of the total.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-02/data-center-spending-to-reach-31-6-trillion-by-2050-on-ai-boom",
+      "material_update_of": null
+    },
+    {
+      "event_id": "qcware-ionq-hybrid-quantum-chemistry-drug-discovery",
+      "reported_date": "2026-09-02",
+      "event_date": "2026-09-01",
+      "category": "Quantum Computing",
+      "entities": [
+        "QC Ware",
+        "IonQ"
+      ],
+      "event_type": "research_demonstration",
+      "canonical_summary": "QC Ware and IonQ demonstrated a hybrid quantum-classical workflow, combining QC Ware's Promethium platform with IonQ's Forte trapped-ion computer via Amazon Braket, modeling the heme active site of the drug-metabolism enzyme cytochrome P450nor to within 0.5 kcal/mol of classical benchmarks, clearing the 1 kcal/mol chemical-accuracy threshold using an 8-qubit active space.",
+      "source_url": "https://www.prnewswire.com/news-releases/qc-ware-and-ionq-demonstrate-high-precision-hybrid-quantum-workflow-for-drug-discovery-302866066.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "apple-ternus-ceo-cook-executive-chairman-transition",
+      "reported_date": "2026-09-02",
+      "event_date": "2026-09-01",
+      "category": "US Stock Market",
+      "entities": [
+        "Apple",
+        "John Ternus",
+        "Tim Cook"
+      ],
+      "event_type": "executive_change",
+      "canonical_summary": "John Ternus's appointment as Apple CEO (announced in April 2026) took effect on September 1, 2026, succeeding Tim Cook, who became Executive Chairman after 15 years as CEO; Apple shares rose roughly 2.5-3% as investors welcomed the smooth handoff, with Apple's market cap above $4 trillion.",
+      "source_url": "https://www.npr.org/2026/09/01/g-s1-141411/apple-ceo-tim-cook-john-ternus",
+      "material_update_of": null
+    },
+    {
+      "event_id": "ftc-states-sue-amazon-ad-pricing-manipulation",
+      "reported_date": "2026-09-02",
+      "event_date": "2026-08-31",
+      "category": "US Stock Market",
+      "entities": [
+        "Federal Trade Commission",
+        "Amazon"
+      ],
+      "event_type": "litigation_filed",
+      "canonical_summary": "The FTC and 22 state attorneys general sued Amazon on August 31, 2026, alleging it secretly added an undisclosed 'soft reserve price' auction surcharge in 2019 that overcharged roughly 1.2 million advertisers more than $20 billion; Amazon disputes the claims and its shares fell about 3%.",
+      "source_url": "https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-states-sue-amazon-over-secret-ad-surcharge-scheme",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-hlidackovne-studying-parent-benefit-launch",
+      "reported_date": "2026-09-02",
+      "event_date": "2026-09-01",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Labor Office",
+        "Czech Ministry of Labour and Social Affairs"
+      ],
+      "event_type": "benefit_launch",
+      "canonical_summary": "Applications opened September 1, 2026 for the new Czech 'hlidackovne' benefit (Podpora studujiciho rodice), paying 7,467 crowns a month (rising to about 8,300 crowns from January 2027) to full-time university or VOS students under 26 who are also drawing parental allowance for a child under three, applied for through the Labor Office.",
+      "source_url": "https://up.gov.cz/podpora-studujiciho-rodice-hlidackovne",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-household-energy-tariff-declaration-rule",
+      "reported_date": "2026-09-02",
+      "event_date": "2026-09-01",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Slovak government",
+        "President Peter Pellegrini"
+      ],
+      "event_type": "regulation_effective",
+      "canonical_summary": "A provision of a Slovak energy-law amendment (signed by President Pellegrini in June 2026) took effect September 1, 2026, requiring households to sign a declaration confirming they use electricity and gas for personal, non-business, consumption in order to keep the discounted household tariff, with penalties for suppliers who misclassify customers.",
+      "source_url": "https://www.startitup.sk/pellegrini-specatil-nove-pravidla-pre-energie-ak-mas-lacnejsiu-tarifu-statu-budes-musiet-dokazat-tuto-vec/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-2027-state-budget-cabinet-approval",
+      "reported_date": "2026-09-02",
+      "event_date": "2026-08-31",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech government",
+        "Czech Ministry of Finance"
+      ],
+      "event_type": "budget_approval",
+      "canonical_summary": "The Czech cabinet approved its 2027 state budget draft on August 31, 2026, setting a deficit of 389 billion crowns (about 2.8% of GDP), the second-highest deficit in Czech history, with record capital spending of 289.6 billion crowns, plus increased healthcare and pension funding, ahead of a Parliament vote expected in late September.",
+      "source_url": "https://zpravy.kurzy.cz/872969-rozpocet-2027-deficit-389-mld-kc--2-8--hdp-rekordni-investice-dostupnejsi-zdravotnictvi/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "daines-china-ai-space-firms-visit-xi-summit-groundwork",
+      "reported_date": "2026-09-02",
+      "event_date": "2026-09-01",
+      "category": "China",
+      "entities": [
+        "Steve Daines",
+        "China"
+      ],
+      "event_type": "diplomatic_visit",
+      "canonical_summary": "US Senator Steve Daines, a Trump ally, toured Chinese AI and space companies including autonomous-aircraft maker EHang in Hangzhou and Guangzhou, laying groundwork for Xi Jinping's planned September 24 visit to Washington, notably gaining access that a July congressional delegation had been denied.",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3366009/trump-envoy-daines-visits-chinese-ai-space-firms-lay-groundwork-xi-summit-us",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-venezuela-oil-concession-guarantee-demand",
+      "reported_date": "2026-09-02",
+      "event_date": "2026-09-01",
+      "category": "China",
+      "entities": [
+        "China Ministry of Foreign Affairs",
+        "Venezuela",
+        "North American Blue Energy Partners"
+      ],
+      "event_type": "diplomatic_statement",
+      "canonical_summary": "China's foreign ministry demanded guarantees for its oil interests in Venezuela after Venezuela's interim authorities granted US-backed North American Blue Energy Partners 100-year concessions over 17 oilfields (about 65 billion barrels) previously operated jointly with Chinese state firms CNPC and China Concord Petroleum.",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3365995/china-demands-rights-guarantee-us-firm-secures-100-year-venezuelan-oil-deal",
+      "material_update_of": null
+    },
+    {
+      "event_id": "xi-putin-trump-trilateral-apec-shenzhen-discussion",
+      "reported_date": "2026-09-02",
+      "event_date": "2026-09-02",
+      "category": "China",
+      "entities": [
+        "Xi Jinping",
+        "Vladimir Putin",
+        "Donald Trump",
+        "Kremlin"
+      ],
+      "event_type": "diplomatic_statement",
+      "canonical_summary": "The Kremlin said Xi Jinping and Vladimir Putin discussed the possibility of a three-way meeting with Donald Trump at the APEC summit in Shenzhen on November 18-19, with Putin signaling intent to attend while Trump's attendance remains unconfirmed.",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3366039/xi-trump-and-putin-may-hold-trilateral-meeting-next-apec-forum-kremlin-says",
+      "material_update_of": null
     }
   ]
 }
