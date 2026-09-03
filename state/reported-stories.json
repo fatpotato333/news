@@ -4935,6 +4935,212 @@
       "canonical_summary": "The Kremlin said Xi Jinping and Vladimir Putin discussed the possibility of a three-way meeting with Donald Trump at the APEC summit in Shenzhen on November 18-19, with Putin signaling intent to attend while Trump's attendance remains unconfirmed.",
       "source_url": "https://www.scmp.com/news/china/diplomacy/article/3366039/xi-trump-and-putin-may-hold-trilateral-meeting-next-apec-forum-kremlin-says",
       "material_update_of": null
+    },
+    {
+      "event_id": "google-gemini-3-8-flash-release",
+      "reported_date": "2026-09-03",
+      "event_date": "2026-09-02",
+      "category": "AI",
+      "entities": [
+        "Google DeepMind"
+      ],
+      "event_type": "model_release",
+      "canonical_summary": "Google DeepMind released Gemini 3.8 Flash, its third Flash release in about six weeks, with improved coding, agentic and reasoning performance (54.9% on HLE-Verified) at unchanged introductory pricing ($0.75/$3.75 per million tokens), plus a new Cyber variant for autonomous vulnerability discovery available to a limited Fairwind trusted-tester program.",
+      "source_url": "https://9to5google.com/2026/09/02/gemini-3-8-flash-launch/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "meta-muse-spark-1-3-release",
+      "reported_date": "2026-09-03",
+      "event_date": "2026-09-02",
+      "category": "AI",
+      "entities": [
+        "Meta"
+      ],
+      "event_type": "model_release",
+      "canonical_summary": "Meta released Muse Spark 1.3, its largest coding and agentic capability jump yet, ranking sixth of 636 systems on the Artificial Analysis Intelligence Index and beating some Claude Opus 5 and GPT-Sol 5.6 coding benchmarks (DeepSWE, Terminal-Bench 2.1); Meta said an open-weights version is coming.",
+      "source_url": "https://siliconangle.com/2026/09/02/meta-says-it-has-caught-up-with-anthropic-and-openai-after-releasing-muse-spark-1-3-its-most-powerful-llm-so-far/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "openai-astra-critical-cyber-threshold-confirmed",
+      "reported_date": "2026-09-03",
+      "event_date": "2026-09-01",
+      "category": "AI",
+      "entities": [
+        "OpenAI"
+      ],
+      "event_type": "safety_disclosure",
+      "canonical_summary": "OpenAI confirmed its unreleased Astra model has actually crossed the Critical cyber-capability threshold under its Preparedness Framework -- scoring perfectly on ExploitBench and autonomously discovering and chaining two previously unknown zero-day vulnerabilities in testing -- moving beyond its earlier August disclosure that it could not rule out reaching that threshold; OpenAI is restricting advanced access via a new 'Daybreak Blue' defensive program rather than releasing it openly.",
+      "source_url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "material_update_of": "openai-astra-model-critical-cyber-capability-flag"
+    },
+    {
+      "event_id": "anthropic-commerce-agent-blueprints-launch",
+      "reported_date": "2026-09-03",
+      "event_date": "2026-09-02",
+      "category": "AI",
+      "entities": [
+        "Anthropic"
+      ],
+      "event_type": "product_launch",
+      "canonical_summary": "Anthropic launched reference blueprints for AI shopping and merchant agents built on Claude for retail, travel, telecom and ticketing use cases, deployable via the Claude API, Amazon Bedrock, Microsoft Foundry or Google Vertex AI; Anthropic said one partner saw cart sizes grow roughly 30-35% and a 60% higher likelihood of completed purchases (company-reported, not independently verified).",
+      "source_url": "https://claude.com/blog/claude-for-commerce-agents",
+      "material_update_of": null
+    },
+    {
+      "event_id": "ibm-nighthawk-r2-qpu-release",
+      "reported_date": "2026-09-03",
+      "event_date": "2026-09-02",
+      "category": "Quantum Computing",
+      "entities": [
+        "IBM Quantum"
+      ],
+      "event_type": "hardware_release",
+      "canonical_summary": "IBM released Nighthawk r2, a 120-qubit square-lattice quantum processor with active dissipative qubit reset that cuts effective reset time about 25x and lifts circuit throughput past 100,000 circuits per second (25x over the Heron fleet), while holding Heron-class two-qubit gate error rates -- a step toward IBM's fault-tolerant quantum error correction roadmap.",
+      "source_url": "https://quantumcomputingreport.com/ibm-releases-nighthawk-r2-qpu-featuring-active-dissipative-qubit-reset-and-25x-circuit-throughput/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "rigetti-purdue-quantum-preconditioning-optimization",
+      "reported_date": "2026-09-03",
+      "event_date": "2026-09-02",
+      "category": "Quantum Computing",
+      "entities": [
+        "Rigetti Computing",
+        "Purdue University"
+      ],
+      "event_type": "algorithm_demonstration",
+      "canonical_summary": "Rigetti and Purdue University demonstrated that shallow-depth QAOA quantum circuits can precondition a classical Gurobi mixed-integer solver, reaching near-optimal solutions (within about 1% of global optimum) on 40-node dense constrained-optimization graphs in under a second, roughly 100x faster than unpreconditioned classical solving, with QAOA parameters transferring across problem sizes without retuning.",
+      "source_url": "https://quantumcomputingreport.com/rigetti-and-purdue-university-demonstrate-quantum-preconditioning-framework-for-constrained-optimization/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-markets-iran-oil-yield-spike-sept2",
+      "reported_date": "2026-09-03",
+      "event_date": "2026-09-02",
+      "category": "US Stock Market",
+      "entities": [
+        "S&P 500",
+        "Nasdaq Composite",
+        "Dow Jones Industrial Average"
+      ],
+      "event_type": "market_move",
+      "canonical_summary": "US equity indexes closed higher (S&P 500 +0.46% to 7,666.60; Nasdaq +0.45%; Dow +0.56%) even as renewed direct US-Iran military clashes pushed Brent crude to roughly $95.63/bbl on Strait of Hormuz supply-risk fears and drove the 10-year Treasury yield to 4.814%, its highest since November 2023.",
+      "source_url": "https://www.cnbc.com/2026/09/01/stock-market-today-live-updates.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-adp-august-payrolls-slowdown",
+      "reported_date": "2026-09-03",
+      "event_date": "2026-09-02",
+      "category": "US Stock Market",
+      "entities": [
+        "ADP",
+        "Federal Reserve"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "ADP's National Employment Report showed US private payrolls rose just 38,000 in August, below consensus and the slowest pace since January, with manufacturing down 17,000 and professional/business services down 16,000; the soft print reinforced market expectations for a Federal Reserve interest-rate cut at the September 16 FOMC meeting.",
+      "source_url": "https://www.cnbc.com/2026/09/02/private-payrolls-rose-by-38000-in-august-fewer-than-expected-adp-reports.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "dell-q2-fy27-ai-backlog-earnings-surge",
+      "reported_date": "2026-09-03",
+      "event_date": "2026-09-02",
+      "category": "US Stock Market",
+      "entities": [
+        "Dell Technologies"
+      ],
+      "event_type": "earnings",
+      "canonical_summary": "Dell shares surged as much as 16% after reporting record fiscal Q2 revenue of $47 billion (+58% YoY), adjusted EPS up 203% to $7.04, a record $60.9 billion in AI server orders booked and a $95 billion AI-server backlog, prompting Dell to raise its FY27 revenue outlook by $25 billion to $192 billion.",
+      "source_url": "https://www.fool.com/coverage/stock-market-today/2026/09/02/stock-market-today-sept-2-dell-surges-16-on-soaring-ai-backlog/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "broadcom-q3-fy26-earnings-stock-drop",
+      "reported_date": "2026-09-03",
+      "event_date": "2026-09-02",
+      "category": "US Stock Market",
+      "entities": [
+        "Broadcom"
+      ],
+      "event_type": "earnings",
+      "canonical_summary": "Broadcom reported Q3 revenue up 86% YoY to $29.59 billion, beating estimates, with AI semiconductor revenue more than tripling YoY to over $16 billion and Q4 guidance of about $34.8 billion (+93% YoY); shares nonetheless fell as much as 6% in a 'sell the news' reaction attributed to elevated pre-earnings expectations rather than any negative in the results.",
+      "source_url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262147397-avgo-broadcom-q3-earnings-outlook-investors-ai-stock-after-tradingkey",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-2027-targeted-tax-hikes-schillerova",
+      "reported_date": "2026-09-03",
+      "event_date": "2026-09-03",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Alena Schillerova",
+        "Czech government"
+      ],
+      "event_type": "fiscal_policy",
+      "canonical_summary": "Czech Finance Minister Alena Schillerova confirmed the government will raise taxes in 2027, reversing a January no-hikes pledge, with targeted increases on online gambling, tobacco and nicotine pouches (via a planned 'Lex Kratom'), and large-scale real estate investors owning dozens of properties; income tax, property tax for ordinary homeowners and the wage-tax base remain untouched, with bigger changes pointed to 2028-2029.",
+      "source_url": "https://www.tiscali.cz/v-roce-2027-budeme-muset-zvednout-dane-potvrdila-schillerova-jeste-v-lednu-ano-tvrdilo-opak-749042",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-energy-wholesale-price-spike-cez-hike",
+      "reported_date": "2026-09-03",
+      "event_date": "2026-09-02",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "CEZ",
+        "TTF gas hub",
+        "Czech wholesale power market"
+      ],
+      "event_type": "energy_market",
+      "canonical_summary": "European wholesale gas (TTF) topped 75 euros/MWh, its highest in over three years, as EU storage sits at only 65% (a record low for the date) amid the renewed US-Iran conflict; Czech wholesale electricity is up 33.8% YoY and gas up 56.4% YoY to two-year highs, and utility CEZ has already raised fixed electricity tariffs about 6% and gas up to 17%, with other suppliers expected to follow.",
+      "source_url": "https://oenergetice.cz/komoditni-trhy/velkoobchodni-ceny-energii-jsou-v-cr-na-dvouletych-maximech-zdrazeni-teprve-prijde",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-q2-2026-real-wage-decline",
+      "reported_date": "2026-09-03",
+      "event_date": "2026-09-01",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Slovak Statistical Office"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "Slovakia's Statistical Office reported the average nominal wage rose 3.2% YoY to 1,707 euros in Q2 2026, but after inflation real wages fell 0.5% YoY, the first real decline in two and a half years; public administration wages fell hardest (nominal -4.8%, real -8.2% YoY), while industry and trade wages still grew in real terms.",
+      "source_url": "https://www.forbes.sk/priemerna-mzda-stupla-na-1707-eur-slovaci-si-vsak-realne-pohorsili/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "eu-china-beijing-trade-talks-october-ultimatum",
+      "reported_date": "2026-09-03",
+      "event_date": "2026-09-02",
+      "category": "China",
+      "entities": [
+        "European Commission",
+        "China Ministry of Commerce"
+      ],
+      "event_type": "trade_negotiation",
+      "canonical_summary": "The EU's top trade enforcer Denis Redonnet met Chinese officials in Beijing, with Trade Commissioner Maros Sefcovic warning China must show 'concrete results' narrowing the EU's trade deficit (autos, medical devices, agri-food prioritized) by October or face a new 'diversification instrument' and expanded trade-defense investigations; a Sefcovic-Wang Wentao video call is set for mid-September ahead of an October Beijing visit, building on the trade-imbalance dispute reported in August.",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3366067/eu-trade-enforcers-descend-beijing-demanding-china-fix-untenable-imbalances",
+      "material_update_of": "china-eu-trade-surplus-widens-july"
+    },
+    {
+      "event_id": "china-coast-guard-taiwan-patrol-japan-philippines-dispute",
+      "reported_date": "2026-09-03",
+      "event_date": "2026-09-03",
+      "category": "China",
+      "entities": [
+        "China Coast Guard",
+        "Taiwan",
+        "Japan",
+        "Philippines"
+      ],
+      "event_type": "geopolitical_action",
+      "canonical_summary": "China's coast guard conducted a new 'law enforcement' patrol near Taiwan aboard the vessel Putuoshan, part of intensifying activity Beijing has escalated over the past month amid a dispute over Japan-Philippines maritime boundary talks that China calls illegal.",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3366189/beijing-sends-coastguard-conduct-law-enforcement-patrol-near-taiwan",
+      "material_update_of": null
     }
   ]
 }

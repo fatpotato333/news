@@ -1,33 +1,41 @@
-Daily News for Wednesday, September 2, 2026.
+Daily News for Thursday, September 3, 2026.
 
 Artificial intelligence.
 
-Anthropic released two new flagship models, Claude Fable 5.1 and the more restricted Claude Mythos 5.1, positioning them as its most capable systems yet for coding and long running technical work, while cutting the price of cached processing by 75 percent.
+Google DeepMind released Gemini 3 point 8 Flash, a faster workhorse model with improved coding, agentic and reasoning scores, reaching nearly fifty five percent on a tough reasoning benchmark while pricing stays unchanged; a new Cyber variant was also launched for automated vulnerability discovery under a limited trusted tester program.
 
-PwC forecasts global spending on AI driven data centers will reach one point eight trillion dollars a year by 2050, totaling more than 31 trillion dollars in cumulative investment, with the United States accounting for roughly half.
+Meta released Muse Spark one point three, its most capable model yet, ranking sixth out of more than six hundred systems on a major independent intelligence index and beating some rival coding benchmarks; Meta says an open weights version is coming soon.
+
+OpenAI confirmed its unreleased Astra model has crossed the Critical cyber capability threshold under its safety framework, scoring perfectly on an exploit benchmark and autonomously chaining previously unknown software vulnerabilities in testing; OpenAI is restricting access through a new defensive program rather than releasing it openly.
+
+Anthropic launched reference blueprints for AI shopping and merchant agents built on Claude, deployable through its API, Amazon Bedrock, Microsoft Foundry or Google Vertex AI, saying one retail partner saw cart sizes grow by roughly a third and a sixty percent higher chance of completed purchases.
 
 Quantum computing.
 
-QC Ware and IonQ used a hybrid quantum and classical computing workflow to model a liver enzyme central to drug metabolism, hitting chemical accuracy that could help pharmaceutical researchers screen drug candidates faster.
+IBM released Nighthawk R2, its fastest quantum processor yet, a hundred twenty qubit chip that cuts qubit reset time about twenty five times and lifts circuit throughput past one hundred thousand circuits per second while holding its existing low error rates, a step toward fault tolerant, error corrected quantum computing.
+
+Rigetti and Purdue University showed that shallow quantum circuits can precondition classical optimization solvers, hitting near optimal solutions on dense forty node graphs in under a second, about one hundred times faster than classical solving alone, without needing deep, noise prone circuits.
 
 United States stock market.
 
-Apple completed its leadership transition as John Ternus became chief executive and Tim Cook moved to executive chairman; Apple shares rose about three percent as investors welcomed the smooth handoff.
+Major indexes rose Wednesday even as renewed US-Iran military clashes pushed oil prices and bond yields sharply higher; the S&P 500 gained about half a percent while the ten year Treasury yield hit its highest level since November 2023 on Strait of Hormuz supply fears.
 
-The Federal Trade Commission and more than twenty states sued Amazon, alleging the company secretly overcharged roughly one point two million advertisers more than twenty billion dollars through hidden auction pricing; Amazon shares fell about three percent.
+A report from ADP showed private employers added just thirty eight thousand jobs in August, the slowest pace since January, with manufacturing and professional services shedding jobs, reinforcing bets that the Federal Reserve will cut interest rates at its September sixteenth meeting.
+
+Dell shares jumped about sixteen percent after the company reported record quarterly revenue of forty seven billion dollars, more than tripled earnings per share, and a ninety five billion dollar backlog of artificial intelligence server orders, prompting Dell to raise its full year revenue forecast by twenty five billion dollars.
+
+Broadcom beat earnings expectations with artificial intelligence chip revenue more than tripling year over year and guided next quarter revenue up ninety three percent, but shares still fell as much as six percent as investors judged the results against very high expectations.
 
 Czech Republic and Slovakia.
 
-A new Czech benefit for parents who are also full time students, worth about seven thousand four hundred crowns a month, opened for applications through the Labor Office, covering students under twenty six who are on parental leave with a child under three.
+Czech Finance Minister Alena Schillerova confirmed the government will raise taxes in 2027, targeting online gambling, tobacco and nicotine products including a planned kratom law, and large scale real estate investors, while leaving income tax and ordinary homeowners untouched until at least 2028.
 
-In Slovakia, a new rule took effect requiring households to formally declare they use electricity and gas for personal, not business, consumption in order to keep discounted household energy tariffs.
+European wholesale gas prices hit a three year high above seventy five euros per megawatt hour as continental storage sits at its lowest level on record for this time of year; Czech wholesale electricity and gas prices are also at two year highs, and utility CEZ has already raised fixed tariffs, with other suppliers expected to follow within months.
 
-The Czech cabinet approved its 2027 state budget draft, with a deficit of 389 billion crowns, about 2.8 percent of gross domestic product, the second highest deficit in the country's history, including record capital spending and increased healthcare funding.
+Slovakia's statistics office reported real wages fell year over year in the second quarter for the first time in two and a half years, as a three percent nominal pay rise failed to keep pace with inflation, hitting public sector workers hardest with an eight percent real terms drop.
 
 China.
 
-A close ally of President Trump toured Chinese artificial intelligence and space companies in Hangzhou and Guangzhou, laying groundwork for Xi Jinping's planned visit to Washington later this month.
+The European Union's top trade enforcers met Chinese officials in Beijing this week, warning China must show concrete results narrowing the bloc's trade deficit in autos, medical devices and agri-food by October or face a new diversification instrument and expanded trade defense investigations; a follow up video call is set for mid September.
 
-China's foreign ministry demanded guarantees for its oil interests in Venezuela after a US backed company won hundred year concessions over oil fields previously operated jointly with Chinese state firms.
-
-The Kremlin said Xi Jinping and Vladimir Putin discussed a possible three way meeting with President Trump at November's APEC summit in Shenzhen.
+China's coast guard conducted a new patrol near Taiwan, part of intensifying activity that Beijing has escalated over the past month amid a dispute over Japan-Philippines maritime boundary talks that China calls illegal.
