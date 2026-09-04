@@ -5141,6 +5141,141 @@
       "canonical_summary": "China's coast guard conducted a new 'law enforcement' patrol near Taiwan aboard the vessel Putuoshan, part of intensifying activity Beijing has escalated over the past month amid a dispute over Japan-Philippines maritime boundary talks that China calls illegal.",
       "source_url": "https://www.scmp.com/news/china/diplomacy/article/3366189/beijing-sends-coastguard-conduct-law-enforcement-patrol-near-taiwan",
       "material_update_of": null
+    },
+    {
+      "event_id": "openai-gpt6-astra-launch",
+      "reported_date": "2026-09-04",
+      "event_date": "2026-09-03",
+      "category": "AI",
+      "entities": [
+        "OpenAI"
+      ],
+      "event_type": "model_release",
+      "canonical_summary": "OpenAI began rolling out GPT-6 Astra to Daybreak business testers, with wider ChatGPT and API access (including AWS Bedrock and Azure) coming in following days; it is OpenAI's first model designated Critical for cybersecurity risk under its Preparedness Framework after scoring perfectly on ExploitBench and autonomously discovering and exploiting real zero-day vulnerabilities in testing, with the strongest cyber capabilities gated to vetted partners.",
+      "source_url": "https://openai.com/index/gpt-6-astra/",
+      "material_update_of": "openai-astra-critical-cyber-threshold-confirmed"
+    },
+    {
+      "event_id": "anthropic-ipo-prospectus-timeline",
+      "reported_date": "2026-09-04",
+      "event_date": "2026-09-02",
+      "category": "AI",
+      "entities": [
+        "Anthropic"
+      ],
+      "event_type": "ipo_process",
+      "canonical_summary": "Reports (The Information) said Anthropic is planning to release its IPO prospectus after the US Labor Day holiday, hold an investor day in mid-September, and list on a US exchange as soon as late September or early October, at a reported target valuation of roughly 1.5 to 2 trillion dollars; this is a more concrete timeline than the earlier August revenue/valuation leak, though still sourced to reports rather than an Anthropic confirmation.",
+      "source_url": "https://www.theinformation.com/newsletters/dealmaker/anthropics-ipo-investors-want-know",
+      "material_update_of": "anthropic-q2-2026-revenue-ipo-valuation-leak"
+    },
+    {
+      "event_id": "doj-ai-copyright-fair-use-statement-nyt-openai",
+      "reported_date": "2026-09-04",
+      "event_date": "2026-09-02",
+      "category": "AI",
+      "entities": [
+        "US Department of Justice",
+        "OpenAI",
+        "Microsoft",
+        "New York Times"
+      ],
+      "event_type": "regulatory_filing",
+      "canonical_summary": "The US Department of Justice filed a statement of interest in the New York Times' copyright lawsuit against OpenAI and Microsoft, arguing that training large language models on copyrighted text qualifies as fair use and framing US AI industry success as a national-security interest; reporting describes it as the first time the US government has taken a formal position in AI-training copyright litigation.",
+      "source_url": "https://www.washingtonpost.com/technology/2026/09/02/doj-urges-judge-rule-openai-microsoft-ny-times-lawsuit/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "moonshot-ai-hongkong-ipo-filing",
+      "reported_date": "2026-09-04",
+      "event_date": "2026-09-03",
+      "category": "AI",
+      "entities": [
+        "Moonshot AI"
+      ],
+      "event_type": "ipo_process",
+      "canonical_summary": "Beijing-based Moonshot AI confidentially filed for a Hong Kong IPO seeking to raise about 3 billion dollars at a roughly 50 billion dollar valuation, working with Goldman Sachs, CICC and Deutsche Bank as underwriters.",
+      "source_url": "https://www.rte.ie/news/business/2026/0903/1590165-ai-firm-moonshot-files-confidentially-for-hong-kong-ipo/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "quantum-motion-series-c-second-close",
+      "reported_date": "2026-09-04",
+      "event_date": "2026-09-03",
+      "category": "Quantum Computing",
+      "entities": [
+        "Quantum Motion"
+      ],
+      "event_type": "funding_round",
+      "canonical_summary": "UK silicon-spin-qubit startup Quantum Motion closed a second tranche of its Series C round (following a prior $160 million close), with investors including Imec.ventures, Lansdowne Partners and Sony Innovation Fund, funding continued silicon-CMOS quantum chip development, a new US lab in Maryland, and work under DARPA's Quantum Benchmarking Initiative.",
+      "source_url": "https://thequantuminsider.com/2026/09/03/quantum-motion-additional-funding-silicon-quantum-computing/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "fed-waller-dovish-comments-market-rally",
+      "reported_date": "2026-09-04",
+      "event_date": "2026-09-03",
+      "category": "US Stock Market",
+      "entities": [
+        "Federal Reserve",
+        "Christopher Waller",
+        "S&P 500",
+        "Nasdaq Composite",
+        "Dow Jones Industrial Average"
+      ],
+      "event_type": "market_move",
+      "canonical_summary": "US stocks posted their best day in about a month after Fed Governor Christopher Waller said he would favor holding rates steady in September if inflation pressures keep easing, pulling market-implied September rate-hike odds down to about 50 percent from roughly 63-70 percent earlier in the week; the Dow rose about 1.2 percent to 53,686.11, the S&P 500 gained about 1.1 percent to 7,747.71, and the Nasdaq climbed about 1.4-1.6 percent to 26,584.06, as the 10-year Treasury yield eased back from its highest level since November 2023.",
+      "source_url": "https://www.fool.com/coverage/stock-market-today/2026/09/03/stock-market-midday-sept-3-stocks-rally-as-treasury-yields-fall-broadcom-falls-despite-earnings-beat/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-prague-ai-declaration-gigafactory",
+      "reported_date": "2026-09-04",
+      "event_date": "2026-09-03",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Ministry of Industry and Trade",
+        "Poland",
+        "Slovakia",
+        "Hungary",
+        "Croatia",
+        "Slovenia",
+        "Lithuania",
+        "Latvia",
+        "Romania"
+      ],
+      "event_type": "policy_agreement",
+      "canonical_summary": "At the CEE AI Summit 2026 in Prague, nine Central and Eastern European countries signed a 'Prague Declaration' committing to joint AI policy positioning in the EU and shared infrastructure; Czech officials unveiled plans for a roughly 100 billion crown AI data center ('gigafactory') near Prague-Zbraslav, funded by about 70 billion crowns from private investor Czech Radiocommunications, 15 billion from the Czech state and 15 billion from the European Commission.",
+      "source_url": "https://www.e15.cz/domaci/devet-evropskych-zemi-spojilo-sily-kvuli-umele-inteligenci-cesko-chce-ziskat-projekt-za-100-miliard-1435520",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-typhoon-saudel-third-landfall-fujian",
+      "reported_date": "2026-09-04",
+      "event_date": "2026-09-03",
+      "category": "China",
+      "entities": [
+        "Fujian province",
+        "China Meteorological Administration"
+      ],
+      "event_type": "natural_disaster",
+      "canonical_summary": "Typhoon Saudel made its third landfall on the Chinese coast, striking Zhangpu County, Fujian on September 3 after two earlier landfalls in Zhejiang, prompting evacuation of more than 83,000 people; a three-story building collapsed, floodwaters swamped vehicles, and multiple roads, transport services and construction sites were suspended.",
+      "source_url": "https://english.news.cn/20260903/a5807ed5ba5c444eb5985b298e08e451/c.html",
+      "material_update_of": "china-typhoon-saudel-landfall"
+    },
+    {
+      "event_id": "china-nexperia-asset-freeze-court-order",
+      "reported_date": "2026-09-04",
+      "event_date": "2026-09-01",
+      "category": "China",
+      "entities": [
+        "Nexperia",
+        "Wingtech Technology",
+        "Dongguan Intermediate People's Court"
+      ],
+      "event_type": "litigation_ruling",
+      "canonical_summary": "A Chinese court in Dongguan ordered a freeze, effective until August 2029, on equity stakes worth about 318 million dollars in five Nexperia-linked entities, escalating Chinese parent Wingtech's lawsuit seeking 1.17 billion dollars in compensation and restored control after the Dutch government's 2025 seizure of Nexperia, deepening the operational split affecting European auto-sector chip supply chains.",
+      "source_url": "https://www.scmp.com/tech/article/3365996/whats-next-after-china-court-freezes-us318m-nexperia-assets-amid-wingtech-battle",
+      "material_update_of": "nexperia-china-domestic-wafer-independence"
     }
   ]
 }

@@ -1,41 +1,29 @@
-Daily News for Thursday, September 3, 2026.
+Daily News for Friday, September 4, 2026.
 
 Artificial intelligence.
 
-Google DeepMind released Gemini 3 point 8 Flash, a faster workhorse model with improved coding, agentic and reasoning scores, reaching nearly fifty five percent on a tough reasoning benchmark while pricing stays unchanged; a new Cyber variant was also launched for automated vulnerability discovery under a limited trusted tester program.
+OpenAI began rolling out GPT-6 Astra to business testers, with wider ChatGPT and API access coming in the following days. It is the company's first model classified as critical risk for cybersecurity, after scoring perfectly on an exploit benchmark and independently finding and exploiting real software flaws during testing.
 
-Meta released Muse Spark one point three, its most capable model yet, ranking sixth out of more than six hundred systems on a major independent intelligence index and beating some rival coding benchmarks; Meta says an open weights version is coming soon.
+Anthropic is reportedly preparing to release its IPO prospectus after Labor Day, with an investor day in mid September and a possible stock listing by early October, at a valuation reports put between one point five and two trillion dollars.
 
-OpenAI confirmed its unreleased Astra model has crossed the Critical cyber capability threshold under its safety framework, scoring perfectly on an exploit benchmark and autonomously chaining previously unknown software vulnerabilities in testing; OpenAI is restricting access through a new defensive program rather than releasing it openly.
+The US Department of Justice filed its first-ever statement in an AI copyright case, arguing in the New York Times lawsuit against OpenAI and Microsoft that training language models on copyrighted text counts as fair use.
 
-Anthropic launched reference blueprints for AI shopping and merchant agents built on Claude, deployable through its API, Amazon Bedrock, Microsoft Foundry or Google Vertex AI, saying one retail partner saw cart sizes grow by roughly a third and a sixty percent higher chance of completed purchases.
+Chinese AI startup Moonshot, maker of the Kimi models, confidentially filed for a Hong Kong stock listing seeking about three billion dollars at a fifty billion dollar valuation.
 
 Quantum computing.
 
-IBM released Nighthawk R2, its fastest quantum processor yet, a hundred twenty qubit chip that cuts qubit reset time about twenty five times and lifts circuit throughput past one hundred thousand circuits per second while holding its existing low error rates, a step toward fault tolerant, error corrected quantum computing.
-
-Rigetti and Purdue University showed that shallow quantum circuits can precondition classical optimization solvers, hitting near optimal solutions on dense forty node graphs in under a second, about one hundred times faster than classical solving alone, without needing deep, noise prone circuits.
+British startup Quantum Motion closed a second tranche of its Series C funding round, backed by investors including Sony's innovation fund, to expand silicon-based quantum chip development, including a new US lab in Maryland.
 
 United States stock market.
 
-Major indexes rose Wednesday even as renewed US-Iran military clashes pushed oil prices and bond yields sharply higher; the S&P 500 gained about half a percent while the ten year Treasury yield hit its highest level since November 2023 on Strait of Hormuz supply fears.
-
-A report from ADP showed private employers added just thirty eight thousand jobs in August, the slowest pace since January, with manufacturing and professional services shedding jobs, reinforcing bets that the Federal Reserve will cut interest rates at its September sixteenth meeting.
-
-Dell shares jumped about sixteen percent after the company reported record quarterly revenue of forty seven billion dollars, more than tripled earnings per share, and a ninety five billion dollar backlog of artificial intelligence server orders, prompting Dell to raise its full year revenue forecast by twenty five billion dollars.
-
-Broadcom beat earnings expectations with artificial intelligence chip revenue more than tripling year over year and guided next quarter revenue up ninety three percent, but shares still fell as much as six percent as investors judged the results against very high expectations.
+Wall Street posted its best day in about a month after Federal Reserve Governor Christopher Waller said he would favor holding interest rates steady this month if inflation keeps easing. The Dow rose about one point two percent, the S and P 500 gained around one percent, and the Nasdaq climbed roughly one point four percent, as Treasury yields pulled back from their highest level since 2023.
 
 Czech Republic and Slovakia.
 
-Czech Finance Minister Alena Schillerova confirmed the government will raise taxes in 2027, targeting online gambling, tobacco and nicotine products including a planned kratom law, and large scale real estate investors, while leaving income tax and ordinary homeowners untouched until at least 2028.
-
-European wholesale gas prices hit a three year high above seventy five euros per megawatt hour as continental storage sits at its lowest level on record for this time of year; Czech wholesale electricity and gas prices are also at two year highs, and utility CEZ has already raised fixed tariffs, with other suppliers expected to follow within months.
-
-Slovakia's statistics office reported real wages fell year over year in the second quarter for the first time in two and a half years, as a three percent nominal pay rise failed to keep pace with inflation, hitting public sector workers hardest with an eight percent real terms drop.
+Nine Central and Eastern European countries, including the Czech Republic, Poland and Slovakia, signed a Prague declaration on joint AI policy and shared infrastructure. Czech officials also unveiled plans for a state and EU backed AI data center worth about one hundred billion crowns near Prague.
 
 China.
 
-The European Union's top trade enforcers met Chinese officials in Beijing this week, warning China must show concrete results narrowing the bloc's trade deficit in autos, medical devices and agri-food by October or face a new diversification instrument and expanded trade defense investigations; a follow up video call is set for mid September.
+Typhoon Saudel made its third landfall on the Chinese coast, this time in Fujian province, forcing the evacuation of more than eighty three thousand people amid flooding and a building collapse.
 
-China's coast guard conducted a new patrol near Taiwan, part of intensifying activity that Beijing has escalated over the past month amid a dispute over Japan-Philippines maritime boundary talks that China calls illegal.
+A Chinese court froze roughly three hundred eighteen million dollars in assets linked to Dutch chipmaker Nexperia, deepening the legal fight between its Chinese parent Wingtech and Nexperia's Amsterdam headquarters over control of the company.
