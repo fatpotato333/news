@@ -5276,6 +5276,205 @@
       "canonical_summary": "A Chinese court in Dongguan ordered a freeze, effective until August 2029, on equity stakes worth about 318 million dollars in five Nexperia-linked entities, escalating Chinese parent Wingtech's lawsuit seeking 1.17 billion dollars in compensation and restored control after the Dutch government's 2025 seizure of Nexperia, deepening the operational split affecting European auto-sector chip supply chains.",
       "source_url": "https://www.scmp.com/tech/article/3365996/whats-next-after-china-court-freezes-us318m-nexperia-assets-amid-wingtech-battle",
       "material_update_of": "nexperia-china-domestic-wafer-independence"
+    },
+    {
+      "event_id": "anthropic-ipo-timeline-delay-mid-october",
+      "reported_date": "2026-09-05",
+      "event_date": "2026-09-04",
+      "category": "AI",
+      "entities": [
+        "Anthropic"
+      ],
+      "event_type": "process_change",
+      "canonical_summary": "Reuters reported Anthropic's IPO marketing is now expected to begin mid-October at the earliest, with listing targeted for just before the US midterm elections, and the prospectus itself pushed to late September -- a later timeline than the 'prospectus after Labor Day, listing late Sept/early Oct' reporting from a day earlier.",
+      "source_url": "https://www.investing.com/news/stock-market-news/exclusiveanthropic-ipo-launch-shifts-toward-midoctober-sources-say-4890091",
+      "material_update_of": "anthropic-ipo-prospectus-timeline"
+    },
+    {
+      "event_id": "julich-eleqtron-jion-trapped-ion-launch",
+      "reported_date": "2026-09-05",
+      "event_date": "2026-09-03",
+      "category": "Quantum Computing",
+      "entities": [
+        "Forschungszentrum Jülich",
+        "eleQtron"
+      ],
+      "event_type": "hardware_launch",
+      "canonical_summary": "Forschungszentrum Jülich and eleQtron inaugurated JION, a trapped-ion quantum computer integrated directly with the JUPITER exascale supercomputer via the JUNIQ infrastructure, backed by new North Rhine-Westphalia state funding (SQALING for chip-scale ion traps, Q-STAR.NRW for a planned 200-qubit semiconductor system).",
+      "source_url": "https://thequantuminsider.com/2026/09/04/julich-launches-trapped-ion-quantum-computer-for-supercomputing-integration/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "copenhagen-quantum-chip-fab-390m",
+      "reported_date": "2026-09-05",
+      "event_date": "2026-09-04",
+      "category": "Quantum Computing",
+      "entities": [
+        "Novo Nordisk Foundation",
+        "Quantum Foundry Copenhagen"
+      ],
+      "event_type": "infrastructure_investment",
+      "canonical_summary": "The Novo Nordisk Foundation and Quantum Foundry Copenhagen announced a roughly EUR 390 million quantum-chip manufacturing facility in Copenhagen (5,300 sq m, operational 2027), one of Europe's largest quantum fabs, tied to Denmark's goal of a fault-tolerant quantum computer by 2034.",
+      "source_url": "https://www.globenewswire.com/news-release/2026/09/04/3356364/0/en/new-copenhagen-facility-to-strengthen-europe-s-quantum-manufacturing-capabilities.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "mit-arm-qubit-dual-purpose-design",
+      "reported_date": "2026-09-05",
+      "event_date": "2026-09-03",
+      "category": "Quantum Computing",
+      "entities": [
+        "MIT"
+      ],
+      "event_type": "research_publication",
+      "canonical_summary": "MIT researchers published peer-reviewed work in Physical Review Applied on a superconducting 'arm qubit' design that separates data-storage and qubit-coupling functions within a single device, predicting faster, higher-fidelity entangling gates; an architectural proposal, not yet fabricated and tested in hardware.",
+      "source_url": "https://phys.org/news/2026-09-dual-purpose-qubit-quantum-errors.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "quantinuum-aramco-quantum-mou",
+      "reported_date": "2026-09-05",
+      "event_date": "2026-09-03",
+      "category": "Quantum Computing",
+      "entities": [
+        "Quantinuum",
+        "Saudi Aramco"
+      ],
+      "event_type": "partnership",
+      "canonical_summary": "Quantinuum signed a non-binding MOU with Saudi Aramco at the LEAP conference in Riyadh to explore industrial quantum computing research applications for the energy sector, giving Aramco access to Quantinuum's trapped-ion hardware and software stack.",
+      "source_url": "https://www.quantinuum.com/press-releases/quantinuum-signs-non-binding-mou-with-aramco-to-explore-synergies-leveraging-industrial-quantum-computing-research-applications-and-expertise",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-august-jobs-report-fed-hike-fears",
+      "reported_date": "2026-09-05",
+      "event_date": "2026-09-04",
+      "category": "US Stock Market",
+      "entities": [
+        "US Bureau of Labor Statistics",
+        "Federal Reserve"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "US nonfarm payrolls rose 162,000 in August versus roughly 53,000 expected, with unemployment holding at 4.1%; stocks fell Friday September 4 as traders raised bets on a Fed rate hike at the September 15-16 meeting (Dow -271.86 points/-0.51% to 53,414.25, S&P 500 -0.38%, Nasdaq -0.29%), and the 2-year Treasury yield hit its highest since January 2025.",
+      "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+      "material_update_of": null
+    },
+    {
+      "event_id": "fico-fhfa-vantagescore-monopoly-ends",
+      "reported_date": "2026-09-05",
+      "event_date": "2026-09-04",
+      "category": "US Stock Market",
+      "entities": [
+        "Fair Isaac (FICO)",
+        "Federal Housing Finance Agency",
+        "Fannie Mae",
+        "Freddie Mac"
+      ],
+      "event_type": "regulatory_action",
+      "canonical_summary": "FHFA Director Bill Pulte directed Fannie Mae and Freddie Mac to let all lenders use rival VantageScore effective immediately, ending a capped pilot and FICO's exclusive hold on mortgage credit scoring; FICO shares fell roughly 15-21% intraday, with TransUnion down about 9% and Equifax about 8%.",
+      "source_url": "https://www.benzinga.com/news/politics/26/09/61622054/fico-stock-falls-pre-market-after-bill-pulte-declares-no-more-to-ficos-mortgage-scoring-monopoly-orders-fannie-mae-freddie-mac-to-open-door-to-vantagescore",
+      "material_update_of": null
+    },
+    {
+      "event_id": "lululemon-q2-guidance-cut-stock-drop",
+      "reported_date": "2026-09-05",
+      "event_date": "2026-09-04",
+      "category": "US Stock Market",
+      "entities": [
+        "Lululemon"
+      ],
+      "event_type": "earnings_guidance",
+      "canonical_summary": "Lululemon shares fell about 17-20%, trading below $100 for the first time since 2018, after Q2 revenue fell 4% year over year (comparable sales down 9-10%) and management cut FY2026 revenue guidance to $10.35-10.5 billion and EPS guidance to $9.48-9.73, its second guidance cut this year, citing weak US and China demand.",
+      "source_url": "https://www.cnbc.com/2026/09/03/lululemon-lulu-q2-2026-earnings.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "tesla-cybercab-nhtsa-investigation",
+      "reported_date": "2026-09-05",
+      "event_date": "2026-09-04",
+      "category": "US Stock Market",
+      "entities": [
+        "Tesla",
+        "NHTSA"
+      ],
+      "event_type": "regulatory_investigation",
+      "canonical_summary": "NHTSA opened an Audit Query into whether Tesla properly self-certified compliance with Federal Motor Vehicle Safety Standards for its steering-wheel-and-pedal-free Cybercab robotaxi, covering an estimated 1,000 vehicles, a day after Tesla began commercial Cybercab rides in Austin; Tesla shares fell more than 6%.",
+      "source_url": "https://www.nhtsa.gov/press-releases/investigation-tesla-cybercab-self-certification",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-august-2026-inflation-1-9-percent",
+      "reported_date": "2026-09-05",
+      "event_date": "2026-09-04",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Statistical Office (ČSÚ)"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "The Czech Statistical Office's preliminary estimate showed consumer prices rose 1.9% year over year in August 2026 (up from 1.7% in July), nearing the central bank's 2% target, driven by alcohol/tobacco (+4.7%), services (+4.5%) and energy (+2.3%), while unprocessed food fell; final data due September 10. Continues the trend from the July inflation acceleration reported August 6.",
+      "source_url": "https://csu.gov.cz/rychle-informace/predbezny-odhad-indexu-spotrebitelskych-cen-srpen-2026",
+      "material_update_of": "czech-cpi-july-2026-inflation-acceleration"
+    },
+    {
+      "event_id": "china-us-board-of-trade-agri-deal-preview",
+      "reported_date": "2026-09-05",
+      "event_date": "2026-09-04",
+      "category": "China",
+      "entities": [
+        "USTR Jamieson Greer",
+        "China",
+        "United States"
+      ],
+      "event_type": "trade_policy",
+      "canonical_summary": "USTR Jamieson Greer said he is optimistic US-China ties can stabilize and expects concrete deliverables operationalizing the US-China Board of Trade plus incentives for US agricultural sales to China when Xi Jinping visits Washington later in September, adding specifics to the previously vague truce-extension reporting from late August.",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3366318/trade-chief-greer-optimistic-us-and-china-can-stabilise-ties",
+      "material_update_of": "china-xi-us-delegation-trade-truce-extension"
+    },
+    {
+      "event_id": "china-philippines-scarborough-shoal-armed-jets",
+      "reported_date": "2026-09-05",
+      "event_date": "2026-09-03",
+      "category": "China",
+      "entities": [
+        "China",
+        "PLA Southern Theatre Command",
+        "Philippines"
+      ],
+      "event_type": "geopolitical_incident",
+      "canonical_summary": "PLA Southern Theatre Command released footage of three armed JL-10 trainer jets carrying PL-5 missiles intercepting and driving away Philippine light aircraft over the disputed Scarborough Shoal on September 3, an escalation from earlier confrontations that had relied on coast guard vessels and water cannons.",
+      "source_url": "https://www.scmp.com/news/china/military/article/3366364/chinese-armed-trainer-jets-drive-away-philippine-aircraft-over-scarborough-shoal",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-us-theatre-commanders-meeting-canada",
+      "reported_date": "2026-09-05",
+      "event_date": "2026-09-04",
+      "category": "China",
+      "entities": [
+        "PLA Eastern Theatre Command",
+        "Gen. Yang Zhibin",
+        "US INDOPACOM",
+        "Adm. Samuel Paparo"
+      ],
+      "event_type": "military_diplomacy",
+      "canonical_summary": "PLA Eastern Theatre Command commander Gen. Yang Zhibin and US INDOPACOM commander Adm. Samuel Paparo met on the sidelines of the Indo-Pacific Chiefs of Defence Conference in Victoria, Canada -- their first-ever meeting and the first top-commander contact in two years -- aimed at reducing risk of military miscalculation.",
+      "source_url": "https://www.scmp.com/news/china/military/article/3366413/china-us-military-commanders-snap-2-year-break-talks-canada",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-singapore-starlink-terminal-hack",
+      "reported_date": "2026-09-05",
+      "event_date": "2026-09-03",
+      "category": "China",
+      "entities": [
+        "Darknavy",
+        "Starlink",
+        "SpaceX"
+      ],
+      "event_type": "security_disclosure",
+      "canonical_summary": "Darknavy, a Shanghai/Singapore-based security research team, said it gained full administrative control of current-generation Starlink user terminals through hardware-level attacks, reopening deep security-research access to the satellite constellation used widely for Western military and consumer connectivity.",
+      "source_url": "https://www.scmp.com/news/china/science/article/3366192/china-singapore-security-team-claims-breakthrough-hacking-starlink-terminals",
+      "material_update_of": null
     }
   ]
 }

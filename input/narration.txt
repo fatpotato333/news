@@ -1,29 +1,39 @@
-Daily News for Friday, September 4, 2026.
+Daily News for Saturday, September 5, 2026.
 
 Artificial intelligence.
 
-OpenAI began rolling out GPT-6 Astra to business testers, with wider ChatGPT and API access coming in the following days. It is the company's first model classified as critical risk for cybersecurity, after scoring perfectly on an exploit benchmark and independently finding and exploiting real software flaws during testing.
-
-Anthropic is reportedly preparing to release its IPO prospectus after Labor Day, with an investor day in mid September and a possible stock listing by early October, at a valuation reports put between one point five and two trillion dollars.
-
-The US Department of Justice filed its first-ever statement in an AI copyright case, arguing in the New York Times lawsuit against OpenAI and Microsoft that training language models on copyrighted text counts as fair use.
-
-Chinese AI startup Moonshot, maker of the Kimi models, confidentially filed for a Hong Kong stock listing seeking about three billion dollars at a fifty billion dollar valuation.
+Anthropic's initial public offering is now expected to launch in mid-October, later than previously reported, with the share listing targeted for just before the U.S. midterm elections and the prospectus delayed to late September, according to Reuters.
 
 Quantum computing.
 
-British startup Quantum Motion closed a second tranche of its Series C funding round, backed by investors including Sony's innovation fund, to expand silicon-based quantum chip development, including a new US lab in Maryland.
+Germany's Forschungszentrum Jülich and eleQtron inaugurated JION, a trapped ion quantum computer now directly linked to the Jupiter exascale supercomputer, backed by sixty million euros in new state funding for chip scale ion traps and a two hundred qubit semiconductor system.
+
+The Novo Nordisk Foundation and Quantum Foundry Copenhagen announced a roughly three hundred ninety million euro quantum chip manufacturing facility, one of Europe's largest, aiming to open in 2027 as part of Denmark's goal of a fault tolerant quantum computer by 2034.
+
+MIT researchers published peer reviewed work on a new superconducting qubit design that separates data storage from qubit coupling in a single device, aiming to make quantum operations both faster and more resistant to errors.
+
+Quantinuum signed a non binding agreement with Saudi Aramco to explore industrial quantum computing applications for the energy sector, giving one of the world's largest energy companies access to Quantinuum's hardware and software.
 
 United States stock market.
 
-Wall Street posted its best day in about a month after Federal Reserve Governor Christopher Waller said he would favor holding interest rates steady this month if inflation keeps easing. The Dow rose about one point two percent, the S and P 500 gained around one percent, and the Nasdaq climbed roughly one point four percent, as Treasury yields pulled back from their highest level since 2023.
+U.S. stocks fell Friday after August's jobs report showed payrolls rising by one hundred sixty two thousand, far above forecasts, raising bets on a Federal Reserve rate hike this month; the Dow lost about two hundred seventy points.
+
+Shares of Fair Isaac fell roughly fifteen to twenty percent after the Federal Housing Finance Agency ordered Fannie Mae and Freddie Mac to accept rival VantageScore credit scores, ending FICO's exclusive hold on mortgage scoring.
+
+Lululemon shares sank about seventeen to twenty percent, falling below one hundred dollars for the first time since 2018, after the retailer cut its full year guidance for the second time this year on weak demand in the U.S. and China.
+
+U.S. auto safety regulators opened an investigation into whether Tesla properly certified its steering wheel free Cybercab robotaxi, a day after commercial rides began in Austin; Tesla shares fell more than six percent.
 
 Czech Republic and Slovakia.
 
-Nine Central and Eastern European countries, including the Czech Republic, Poland and Slovakia, signed a Prague declaration on joint AI policy and shared infrastructure. Czech officials also unveiled plans for a state and EU backed AI data center worth about one hundred billion crowns near Prague.
+Czech consumer prices rose one point nine percent year over year in August, the fastest pace since spring and nearing the central bank's two percent target, driven by higher services, alcohol and tobacco costs.
 
 China.
 
-Typhoon Saudel made its third landfall on the Chinese coast, this time in Fujian province, forcing the evacuation of more than eighty three thousand people amid flooding and a building collapse.
+The top U.S. trade official said he expects concrete trade deliverables, including a new U.S. China Board of Trade and incentives for American farm sales, when President Xi visits Washington later this month.
 
-A Chinese court froze roughly three hundred eighteen million dollars in assets linked to Dutch chipmaker Nexperia, deepening the legal fight between its Chinese parent Wingtech and Nexperia's Amsterdam headquarters over control of the company.
+China's military released footage of armed fighter jets driving away Philippine aircraft over the disputed Scarborough Shoal, an escalation from earlier confrontations that had relied on coast guard vessels.
+
+Senior Chinese and American theater commanders met in Canada for the first time in two years, a step aimed at reducing the risk of military miscalculation between the two powers.
+
+A China based security team said it gained full administrative control of current generation Starlink satellite terminals through hardware attacks, reopening security research access to the network.
