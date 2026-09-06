@@ -1,39 +1,5 @@
-Daily News for Saturday, September 5, 2026.
-
-Artificial intelligence.
-
-Anthropic's initial public offering is now expected to launch in mid-October, later than previously reported, with the share listing targeted for just before the U.S. midterm elections and the prospectus delayed to late September, according to Reuters.
-
-Quantum computing.
-
-Germany's Forschungszentrum Jülich and eleQtron inaugurated JION, a trapped ion quantum computer now directly linked to the Jupiter exascale supercomputer, backed by sixty million euros in new state funding for chip scale ion traps and a two hundred qubit semiconductor system.
-
-The Novo Nordisk Foundation and Quantum Foundry Copenhagen announced a roughly three hundred ninety million euro quantum chip manufacturing facility, one of Europe's largest, aiming to open in 2027 as part of Denmark's goal of a fault tolerant quantum computer by 2034.
-
-MIT researchers published peer reviewed work on a new superconducting qubit design that separates data storage from qubit coupling in a single device, aiming to make quantum operations both faster and more resistant to errors.
-
-Quantinuum signed a non binding agreement with Saudi Aramco to explore industrial quantum computing applications for the energy sector, giving one of the world's largest energy companies access to Quantinuum's hardware and software.
-
-United States stock market.
-
-U.S. stocks fell Friday after August's jobs report showed payrolls rising by one hundred sixty two thousand, far above forecasts, raising bets on a Federal Reserve rate hike this month; the Dow lost about two hundred seventy points.
-
-Shares of Fair Isaac fell roughly fifteen to twenty percent after the Federal Housing Finance Agency ordered Fannie Mae and Freddie Mac to accept rival VantageScore credit scores, ending FICO's exclusive hold on mortgage scoring.
-
-Lululemon shares sank about seventeen to twenty percent, falling below one hundred dollars for the first time since 2018, after the retailer cut its full year guidance for the second time this year on weak demand in the U.S. and China.
-
-U.S. auto safety regulators opened an investigation into whether Tesla properly certified its steering wheel free Cybercab robotaxi, a day after commercial rides began in Austin; Tesla shares fell more than six percent.
-
-Czech Republic and Slovakia.
-
-Czech consumer prices rose one point nine percent year over year in August, the fastest pace since spring and nearing the central bank's two percent target, driven by higher services, alcohol and tobacco costs.
+Daily News for Sunday, September 6, 2026.
 
 China.
 
-The top U.S. trade official said he expects concrete trade deliverables, including a new U.S. China Board of Trade and incentives for American farm sales, when President Xi visits Washington later this month.
-
-China's military released footage of armed fighter jets driving away Philippine aircraft over the disputed Scarborough Shoal, an escalation from earlier confrontations that had relied on coast guard vessels.
-
-Senior Chinese and American theater commanders met in Canada for the first time in two years, a step aimed at reducing the risk of military miscalculation between the two powers.
-
-A China based security team said it gained full administrative control of current generation Starlink satellite terminals through hardware attacks, reopening security research access to the network.
+China's Deep Space Exploration Laboratory announced an international project to build a three dimensional CubeSat satellite network spanning low Earth orbit out to roughly two million kilometers from Earth, to monitor solar activity and cosmic explosions. About thirty small satellites will be deployed over four years, with confirmed partner countries Egypt, Indonesia, Senegal, Serbia, and Thailand.

@@ -5475,6 +5475,24 @@
       "canonical_summary": "Darknavy, a Shanghai/Singapore-based security research team, said it gained full administrative control of current-generation Starlink user terminals through hardware-level attacks, reopening deep security-research access to the satellite constellation used widely for Western military and consumer connectivity.",
       "source_url": "https://www.scmp.com/news/china/science/article/3366192/china-singapore-security-team-claims-breakthrough-hacking-starlink-terminals",
       "material_update_of": null
+    },
+    {
+      "event_id": "china-deep-space-lab-cislunar-cubesat-network",
+      "reported_date": "2026-09-06",
+      "event_date": "2026-09-04",
+      "category": "China",
+      "entities": [
+        "China Deep Space Exploration Laboratory",
+        "Egypt",
+        "Indonesia",
+        "Senegal",
+        "Serbia",
+        "Thailand"
+      ],
+      "event_type": "project_announcement",
+      "canonical_summary": "China's Deep Space Exploration Laboratory announced an international project to build a 3D CubeSat constellation of about 30 small satellites spanning low Earth orbit to roughly 2 million kilometers from Earth (cislunar space), to monitor solar activity and cosmic explosions, with confirmed partner countries Egypt, Indonesia, Senegal, Serbia and Thailand; deployment is planned over about four years.",
+      "source_url": "https://www.scmp.com/news/china/science/article/3366483/china-launches-plan-3d-satellite-network-monitor-sun-and-cosmic-explosions",
+      "material_update_of": null
     }
   ]
 }
