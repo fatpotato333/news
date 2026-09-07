@@ -5493,6 +5493,156 @@
       "canonical_summary": "China's Deep Space Exploration Laboratory announced an international project to build a 3D CubeSat constellation of about 30 small satellites spanning low Earth orbit to roughly 2 million kilometers from Earth (cislunar space), to monitor solar activity and cosmic explosions, with confirmed partner countries Egypt, Indonesia, Senegal, Serbia and Thailand; deployment is planned over about four years.",
       "source_url": "https://www.scmp.com/news/china/science/article/3366483/china-launches-plan-3d-satellite-network-monitor-sun-and-cosmic-explosions",
       "material_update_of": null
+    },
+    {
+      "event_id": "deepseek-huawei-ascend-950dt-chip-order",
+      "reported_date": "2026-09-07",
+      "event_date": "2026-09-04",
+      "category": "AI",
+      "entities": [
+        "DeepSeek",
+        "Huawei"
+      ],
+      "event_type": "chip_deal",
+      "canonical_summary": "DeepSeek plans to deploy at least 160,000 Huawei Ascend 950DT accelerators at a roughly 1 gigawatt data center in Ulanqab, Inner Mongolia, for inference workloads, an order valued at about 17.76 billion yuan (roughly 2.64 billion dollars), signaling a continued shift away from Nvidia hardware for China-based inference compute.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-04/deepseek-plans-big-huawei-ai-chip-order-to-power-new-data-center",
+      "material_update_of": null
+    },
+    {
+      "event_id": "figure-nscale-vera-rubin-gpu-partnership",
+      "reported_date": "2026-09-07",
+      "event_date": "2026-09-04",
+      "category": "AI",
+      "entities": [
+        "Figure",
+        "Nscale",
+        "NVIDIA"
+      ],
+      "event_type": "infrastructure_partnership",
+      "canonical_summary": "Humanoid-robotics company Figure and cloud provider Nscale announced a partnership for up to 100,000 Nvidia Vera Rubin-platform GPUs at a Barstow, Texas site (initial deployment planned for H2 2027), with an initial 3.5 billion dollar compute commitment scaling to over 6 billion dollars and an Nscale equity stake in Figure, with compute earmarked to train Figure's Helix foundation model.",
+      "source_url": "https://www.figure.ai/news/figure-and-nscale-sign-strategic-partnership",
+      "material_update_of": null
+    },
+    {
+      "event_id": "google-hhmi-fruit-fly-brain-connectome",
+      "reported_date": "2026-09-07",
+      "event_date": "2026-09-04",
+      "category": "AI",
+      "entities": [
+        "Google Research",
+        "Google DeepMind",
+        "HHMI Janelia",
+        "MRC Laboratory of Molecular Biology",
+        "University of Cambridge"
+      ],
+      "event_type": "scientific_progress",
+      "canonical_summary": "Google Research, HHMI Janelia, the MRC Laboratory of Molecular Biology and the University of Cambridge used AI to stitch millions of 2D images into a complete 3D connectome of the adult male fruit fly brain, mapping more than 166,000 neurons and 125 million synaptic connections, the largest brain connectome by neuron count published to date. This is published research, not a clinical trial.",
+      "source_url": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "anthropic-fermat-last-theorem-proof",
+      "reported_date": "2026-09-07",
+      "event_date": "2026-09-04",
+      "category": "AI",
+      "entities": [
+        "Anthropic"
+      ],
+      "event_type": "model_capability",
+      "canonical_summary": "Anthropic said one of its models worked largely autonomously for about 11 days, writing roughly 13 million lines of Lean 4 code, to produce the first complete computer-checked formalization of Andrew Wiles's proof of Fermat's Last Theorem, verifying about 29,500 of 30,300 intermediate theorems; this is a machine-checked formalization of an existing proof, not a new mathematical result.",
+      "source_url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "material_update_of": null
+    },
+    {
+      "event_id": "nec-halts-quantum-hardware-development",
+      "reported_date": "2026-09-07",
+      "event_date": "2026-09-06",
+      "category": "Quantum Computing",
+      "entities": [
+        "NEC",
+        "Tohoku University",
+        "ParityQC"
+      ],
+      "event_type": "strategic_pullback",
+      "canonical_summary": "Nikkei Asia reported that NEC has discontinued development of its own physical quantum-computing hardware, a decision made internally around March 2026 and disclosed publicly on September 6, judging commercialization too far off to justify further investment; NEC will continue quantum-inspired and annealing software work on conventional hardware but ends the superconducting-annealer program it built with Tohoku University and ParityQC.",
+      "source_url": "https://thequantuminsider.com/2026/09/06/nec-halts-development-of-quantum-computer-hardware/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-iran-oil-tanker-strikes-hormuz-escalation",
+      "reported_date": "2026-09-07",
+      "event_date": "2026-09-06",
+      "category": "US Stock Market",
+      "entities": [
+        "United States",
+        "Iran",
+        "Lockheed Martin",
+        "RTX",
+        "Northrop Grumman"
+      ],
+      "event_type": "geopolitical_market_event",
+      "canonical_summary": "Over the weekend the United States struck three Iranian oil tankers near Kharg Island, Jask and the Gulf of Oman after accusing Iran of missile attacks on US Navy ships, a new escalation beyond the prior rocket-launcher strikes near the Strait of Hormuz; Iran vowed retaliation, Brent crude rose toward roughly 97 dollars a barrel and WTI toward roughly 92 dollars on fears of disruption to the strait (through which over 9 million barrels per day transit), while defense stocks including Lockheed Martin, RTX and Northrop Grumman declined rather than rallied.",
+      "source_url": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
+      "material_update_of": "us-markets-iran-oil-yield-spike-sept2"
+    },
+    {
+      "event_id": "czech-2027-budget-deficit-survey-reject",
+      "reported_date": "2026-09-07",
+      "event_date": "2026-09-05",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Ministry of Finance",
+        "Alena Schillerova",
+        "Median",
+        "Czech government"
+      ],
+      "event_type": "fiscal_policy_survey",
+      "canonical_summary": "A Median poll of 777 adults found 62 percent of Czechs consider the government's proposed 2027 state budget deficit of 389 billion crowns -- the second-highest in Czech history -- unacceptable, versus 22 percent who called it acceptable; Finance Minister Alena Schillerova said room for further spending cuts is limited, with the cabinet due to submit the budget to the Chamber of Deputies by the end of September and aiming to close government-level debate by September 21.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/pruzkum-navrzeny-schodek-rozpoctu-je-neprijatelny-pro-62-lidi/2870429",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-jiangxi-suichuan-landslide-typhoon-saudel",
+      "reported_date": "2026-09-07",
+      "event_date": "2026-09-06",
+      "category": "China",
+      "entities": [
+        "Suichuan County",
+        "Jiangxi provincial government"
+      ],
+      "event_type": "natural_disaster",
+      "canonical_summary": "Landslides linked to the remnants of Typhoon Saudel struck Mingkeng Village in Suichuan County, Jiangxi around 4am on September 5, destroying or damaging 12 houses (8 fully destroyed); the confirmed death toll rose to 4 with 10 people still missing as of September 6-7, over 640 rescuers were deployed, more than 5,300 residents relocated, and road collapses have hampered rescue efforts -- a materially more severe and distinct human-toll development beyond the storm's earlier landfall reporting.",
+      "source_url": "https://www.washingtonpost.com/world/2026/09/06/china-mudslide-jiang-xi-deaths-saudel-typhoon/22da7192-a9bc-11f1-9e38-f705d048bd5a_story.html",
+      "material_update_of": "china-typhoon-saudel-third-landfall-fujian"
+    },
+    {
+      "event_id": "china-kyrgyzstan-uzbekistan-railway-tunnel-breakthrough",
+      "reported_date": "2026-09-07",
+      "event_date": "2026-09-05",
+      "category": "China",
+      "entities": [
+        "China",
+        "Kyrgyzstan",
+        "Uzbekistan"
+      ],
+      "event_type": "infrastructure_milestone",
+      "canonical_summary": "Workers completed a tunnel breakthrough (the 209.6 meter Kosh Dobo North No. 2 tunnel) on the Kyrgyz section of the China-Kyrgyzstan-Uzbekistan railway, a roughly 500 kilometer Belt and Road corridor from Kashgar, Xinjiang through Kyrgyzstan to Andijan, Uzbekistan intended as the shortest overland route from China to the Middle East and Europe, cutting transit time by up to eight days while bypassing Russia.",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3366555/china-marks-major-tunnel-milestone-central-asia-railway-bypassing-russia",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-canada-military-talks-resume",
+      "reported_date": "2026-09-07",
+      "event_date": "2026-09-04",
+      "category": "China",
+      "entities": [
+        "China Ministry of National Defence",
+        "Canadian Armed Forces"
+      ],
+      "event_type": "diplomatic_military",
+      "canonical_summary": "China's and Canada's armed forces held the 5th China-Canada Defence Coordination Dialogue on September 4 in Canada, the first such talks in eight years, part of a broader thaw that has included resumed high-level exchanges, expanded direct flights and eased trade tension over agriculture and EVs, amid continued US pressure on both countries.",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3366477/canada-and-china-thaw-continues-militaries-hold-first-talks-8-years-amid-us-pressure",
+      "material_update_of": null
     }
   ]
 }
