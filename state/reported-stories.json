@@ -5643,6 +5643,74 @@
       "canonical_summary": "China's and Canada's armed forces held the 5th China-Canada Defence Coordination Dialogue on September 4 in Canada, the first such talks in eight years, part of a broader thaw that has included resumed high-level exchanges, expanded direct flights and eased trade tension over agriculture and EVs, amid continued US pressure on both countries.",
       "source_url": "https://www.scmp.com/news/china/diplomacy/article/3366477/canada-and-china-thaw-continues-militaries-hold-first-talks-8-years-amid-us-pressure",
       "material_update_of": null
+    },
+    {
+      "event_id": "sparrow-quantum-500m-photon-source",
+      "reported_date": "2026-09-08",
+      "event_date": "2026-09-07",
+      "category": "Quantum Computing",
+      "entities": [
+        "Sparrow Quantum",
+        "Ruhr University Bochum"
+      ],
+      "event_type": "hardware_breakthrough",
+      "canonical_summary": "Sparrow Quantum and Ruhr University Bochum unveiled a deterministic single-photon source delivering over 500 million usable photons per second into optical fiber, the highest single-photon flux reported to date.",
+      "source_url": "https://thequantuminsider.com/2026/09/07/sparrow-quantum-sets-record-with-500-million-usable-photons-per-second/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-august-trade-surplus-surge",
+      "reported_date": "2026-09-08",
+      "event_date": "2026-09-08",
+      "category": "China",
+      "entities": [
+        "China General Administration of Customs"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "China's customs agency reported August exports rose 25% year-over-year and imports rose 28.2%, widening the trade surplus to $119.1 billion, driven by demand for autos, semiconductors and AI infrastructure hardware.",
+      "source_url": "https://www.clickorlando.com/business/2026/09/08/chinas-exports-pick-up-in-august-jumping-25-on-strong-demand-for-autos-and-high-tech-goods/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-wuhan-yangtze-dumping-investigation",
+      "reported_date": "2026-09-08",
+      "event_date": "2026-09-07",
+      "category": "China",
+      "entities": [
+        "Wuhan Ecology and Environment Bureau"
+      ],
+      "event_type": "environmental_incident",
+      "canonical_summary": "Chinese authorities in Wuhan launched an investigation after drone footage showed barges dumping an unidentified black substance into the Yangtze River near an islet supplying the city's drinking water.",
+      "source_url": "https://www.scmp.com/news/china/article/3366675/rare-drone-film-suspected-dumping-spurs-chinese-agencies-investigation",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-2027-minimum-wage-24900",
+      "reported_date": "2026-09-08",
+      "event_date": "2026-09-07",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech government",
+        "Ales Juchelka"
+      ],
+      "event_type": "economic_policy",
+      "canonical_summary": "The Czech government approved a 2027 minimum wage of 24,900 crowns per month, an 11.2% increase, effective January 1, 2027, with related insurance-payment increases for self-employed workers.",
+      "source_url": "https://www.mesec.cz/aktuality/minimalni-mzda-vzroste-o-2500-kc-na-24-900-korun-zvysuji-se-i-zalohy-pro-obzp-a-osvc/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-fuel-margin-cap-rejected",
+      "reported_date": "2026-09-08",
+      "event_date": "2026-09-07",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech government",
+        "Andrej Babis"
+      ],
+      "event_type": "policy_decision",
+      "canonical_summary": "The Czech government decided not to reinstate caps on fuel retailer margins, with PM Andrej Babis attributing rising pump prices to refinery capacity shortages and Middle East supply disruption rather than retailer markups.",
+      "source_url": "https://www.respekt.cz/informacni-servis/marze-prodejcu-paliv-vlada-stropovat-nebude-jsou-pry-nizke-2026-09-07-14-20",
+      "material_update_of": null
     }
   ]
 }

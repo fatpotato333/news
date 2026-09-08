@@ -1,31 +1,13 @@
-Daily News for Monday, September 7, 2026.
-
-Artificial intelligence.
-
-DeepSeek is deploying at least 160,000 Huawei Ascend 950DT chips at a new data center in Inner Mongolia worth roughly 2.64 billion dollars, extending its shift away from Nvidia hardware for inference computing in China.
-
-Robotics company Figure and cloud provider Nscale signed a partnership for up to 100,000 Nvidia Vera Rubin GPUs, backed by an initial 3.5 billion dollar compute commitment scaling past 6 billion, to train Figure's Helix foundation model.
-
-Google Research and HHMI Janelia completed the first full connectome of an adult fruit fly brain, mapping over 166,000 neurons and 125 million synapses using AI-assisted image reconstruction, the largest brain connectome by neuron count to date.
-
-Anthropic said an internal model produced the first complete computer-checked proof of Fermat's Last Theorem, translating Andrew Wiles's original proof into machine-verifiable code across roughly 30,000 intermediate theorems after eleven days of largely autonomous work.
+Daily News for Tuesday, September 8, 2026.
 
 Quantum computing.
 
-Nikkei Asia reported that NEC has halted development of its own quantum computer hardware, judging commercialization too distant to justify further investment, though it will continue quantum-inspired software work on conventional computers.
-
-United States stock market.
-
-Over the weekend the United States struck Iranian oil tankers near Kharg Island, Jask, and the Gulf of Oman, and Iran vowed retaliation, sending Brent crude toward 97 dollars a barrel on fears of disruption to the Strait of Hormuz while defense stocks including Lockheed Martin and RTX declined.
-
-Czech Republic and Slovakia.
-
-A new poll found 62 percent of Czechs consider the government's proposed record budget deficit of 389 billion crowns for 2027 unacceptable, as the cabinet prepares to submit the budget to parliament by the end of September.
+Sparrow Quantum, working with Ruhr University Bochum, unveiled a deterministic photon source delivering more than 500 million usable photons per second into optical fiber, the highest single photon flux reported to date. The device operates at 1 gigahertz with over 50 percent fiber coupling efficiency, enabling multi photon interference experiments previously out of reach for quantum computing and quantum networking research.
 
 China.
 
-Landslides triggered by Typhoon Saudel's remnants killed at least four people and left ten missing in Suichuan County, Jiangxi, destroying homes and prompting the relocation of more than 5,300 residents as rescue efforts continue.
+China's customs agency reported August exports rose 25 percent from a year earlier, driven by strong demand for autos, semiconductors, and AI infrastructure hardware, widening the trade surplus to 119.1 billion dollars. Separately, authorities in Wuhan opened an investigation after drone footage showed barges dumping an unidentified black substance into the Yangtze River near an islet that supplies the city's drinking water.
 
-Workers completed a tunnel breakthrough on the China-Kyrgyzstan-Uzbekistan railway, a Belt and Road corridor intended to cut transit time between China and the Middle East or Europe by up to eight days while bypassing Russia.
+Czech Republic and Slovakia.
 
-China and Canada held their first bilateral military talks in eight years, part of a broader diplomatic thaw that has included resumed high-level exchanges and eased trade tension, even as both countries remain under pressure from Washington.
+The Czech government approved a 2027 minimum wage of 24,900 crowns per month, an increase of 11.2 percent, taking effect January 1st. Related minimum insurance payments for self-employed workers and people without taxable income will also rise. The government separately decided against capping fuel retailer margins, with Prime Minister Andrej Babiš saying rising pump prices stem from refinery capacity shortages and Middle East supply disruption rather than retailer markups.
