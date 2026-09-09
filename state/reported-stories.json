@@ -5711,6 +5711,226 @@
       "canonical_summary": "The Czech government decided not to reinstate caps on fuel retailer margins, with PM Andrej Babis attributing rising pump prices to refinery capacity shortages and Middle East supply disruption rather than retailer markups.",
       "source_url": "https://www.respekt.cz/informacni-servis/marze-prodejcu-paliv-vlada-stropovat-nebude-jsou-pry-nizke-2026-09-07-14-20",
       "material_update_of": null
+    },
+    {
+      "event_id": "openai-navier-stokes-proof-claim-dispute",
+      "reported_date": "2026-09-09",
+      "event_date": "2026-09-08",
+      "category": "AI",
+      "entities": [
+        "OpenAI",
+        "Anthropic",
+        "New York University"
+      ],
+      "event_type": "scientific_progress",
+      "canonical_summary": "OpenAI said an internal, unreleased model produced a proof that 3D Navier-Stokes equations can develop a finite-time singularity; NYU mathematician Tristan Buckmaster publicly accused OpenAI of accessing his own unpublished related-equation proof before publishing a competing claim, which OpenAI disputes. Neither proof is peer-reviewed.",
+      "source_url": "https://www.axios.com/2026/09/08/openai-math-solution-navier-stokes-credit",
+      "material_update_of": null
+    },
+    {
+      "event_id": "google-deepmind-alphagenome-atlas",
+      "reported_date": "2026-09-09",
+      "event_date": "2026-09-08",
+      "category": "AI",
+      "entities": [
+        "Google DeepMind"
+      ],
+      "event_type": "scientific_progress",
+      "canonical_summary": "Google DeepMind released AlphaGenome Atlas, a free public database predicting the molecular effects of all roughly 9 billion possible single-letter point mutations in human DNA, about 30x larger than the AlphaFold Database; commercial licensing via Google Cloud planned to follow.",
+      "source_url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "qualcomm-aws-custom-ai-chip-deal",
+      "reported_date": "2026-09-09",
+      "event_date": "2026-09-08",
+      "category": "AI",
+      "entities": [
+        "Qualcomm",
+        "Amazon",
+        "AWS"
+      ],
+      "event_type": "chip_deal",
+      "canonical_summary": "Qualcomm and AWS announced a multi-generation partnership to co-develop custom AI inference chips and high-bandwidth optical interconnects for AWS data centers, Qualcomm's first major Western hyperscaler deal; Amazon received warrants for 25 million Qualcomm shares tied to up to $60 billion in future orders.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-08/qualcomm-signs-deal-to-provide-amazon-with-custom-ai-chips",
+      "material_update_of": null
+    },
+    {
+      "event_id": "nsa-cisa-fbi-china-ai-distillation-advisory",
+      "reported_date": "2026-09-09",
+      "event_date": "2026-09-08",
+      "category": "AI",
+      "entities": [
+        "NSA",
+        "CISA",
+        "FBI",
+        "DeepSeek",
+        "Moonshot AI",
+        "Alibaba",
+        "MiniMax",
+        "StepFun",
+        "Z.AI"
+      ],
+      "event_type": "security_advisory",
+      "canonical_summary": "NSA, CISA and the FBI issued a joint advisory naming DeepSeek, Moonshot AI, Alibaba, MiniMax, StepFun and Z.AI as extracting billions of tokens from Claude, GPT, Gemini and Grok via obfuscated proxy traffic since late 2024, saying Chinese government awareness is likely.",
+      "source_url": "https://www.cisa.gov/news-events/news/cisa-nsa-and-fbi-warn-china-based-ai-companies-targeting-us-ai-models-industrial-scale-knowledge",
+      "material_update_of": null
+    },
+    {
+      "event_id": "ionq-superion-256-launch",
+      "reported_date": "2026-09-09",
+      "event_date": "2026-09-08",
+      "category": "Quantum Computing",
+      "entities": [
+        "IonQ",
+        "SkyWater Technology"
+      ],
+      "event_type": "new_processor",
+      "canonical_summary": "IonQ unveiled Superion 256, a 256-qubit trapped-ion platform built via SkyWater's semiconductor process and designed for volume manufacturing rather than one-at-a-time builds; first integrated units already fabricated, customer deliveries targeted for 2027.",
+      "source_url": "https://thequantuminsider.com/2026/09/08/ionq-launches-superion-256-quantum-computing-platform/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-chips-act-quantum-funding-wave",
+      "reported_date": "2026-09-09",
+      "event_date": "2026-09-08",
+      "category": "Quantum Computing",
+      "entities": [
+        "PsiQuantum",
+        "D-Wave",
+        "Quantinuum",
+        "Rigetti Computing",
+        "US Department of Commerce"
+      ],
+      "event_type": "major_funding",
+      "canonical_summary": "PsiQuantum, D-Wave, Quantinuum and Rigetti each finalized roughly $100 million CHIPS Act Other Transaction Agreements with the US Commerce Department for quantum manufacturing R&D, with Commerce taking a minority, non-controlling equity stake in each company.",
+      "source_url": "https://thequantuminsider.com/2026/09/08/d-wave-signs-100m-us-government-agreement-quantum-computing-rd/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "fujitsu-diamond-spin-quantum-prototype",
+      "reported_date": "2026-09-09",
+      "event_date": "2026-09-08",
+      "category": "Quantum Computing",
+      "entities": [
+        "Fujitsu",
+        "TU Delft",
+        "QuTech"
+      ],
+      "event_type": "new_processor",
+      "canonical_summary": "Fujitsu unveiled a working prototype diamond-spin quantum computer using tin-vacancy color centers, operable at a warmer temperature than superconducting systems, built on joint research with TU Delft/QuTech; roadmap targets 250 logical qubits by FY2030 and 1,000 by FY2035.",
+      "source_url": "https://thequantuminsider.com/2026/09/08/fujitsu-develops-diamond-spin-quantum-computer-prototype/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "houthi-saudi-oil-attack-market-selloff",
+      "reported_date": "2026-09-09",
+      "event_date": "2026-09-08",
+      "category": "US Stock Market",
+      "entities": [
+        "Houthi forces",
+        "Saudi Arabia",
+        "Saudi Aramco"
+      ],
+      "event_type": "geopolitical_oil_shock",
+      "canonical_summary": "Houthi forces fired ballistic missiles and drones at four Saudi cities, hitting Aramco's Jazan refinery and a military air base and wounding 73; Brent crude jumped toward $99/bbl and US stocks fell sharply, Dow -628 points.",
+      "source_url": "https://www.npr.org/2026/09/08/g-s1-142296/houthi-attacks-saudi-arabia",
+      "material_update_of": null
+    },
+    {
+      "event_id": "canada-tariffs-take-effect-sept8",
+      "reported_date": "2026-09-09",
+      "event_date": "2026-09-08",
+      "category": "US Stock Market",
+      "entities": [
+        "Canada",
+        "United States"
+      ],
+      "event_type": "trade_policy",
+      "canonical_summary": "Canada's retaliatory tariffs on roughly $20 billion of US goods, including steel/aluminum duties doubled to 50%, plus dairy, appliances and farm equipment, formally took legal effect after trade talks collapsed.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-08/why-the-us-canada-trade-war-is-escalating",
+      "material_update_of": "canada-retaliatory-tariffs-us-goods"
+    },
+    {
+      "event_id": "intel-price-hike-stock-surge",
+      "reported_date": "2026-09-09",
+      "event_date": "2026-09-08",
+      "category": "US Stock Market",
+      "entities": [
+        "Intel"
+      ],
+      "event_type": "single_stock_mover",
+      "canonical_summary": "Intel shares jumped as much as 9.5% after reports it plans to raise PC processor prices about 10% starting in October amid a server chip shortage, adding an estimated $36 billion in paper value to the US government's roughly 10% stake.",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-jumps-9-chip-163052538.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-fuel-price-tax-cut-rejected",
+      "reported_date": "2026-09-09",
+      "event_date": "2026-09-08",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Slovak Finance Ministry",
+        "SaS"
+      ],
+      "event_type": "policy_proposal_rejected",
+      "canonical_summary": "Slovak diesel and petrol prices hit roughly 2.5-year highs amid a European supply shock; the Finance Ministry rejected an opposition proposal to cut fuel excise duty and VAT, citing tens to hundreds of millions of euros in lost revenue.",
+      "source_url": "https://spravy.stvr.sk/2026/09/nafta-aj-benzin-su-coraz-drahsie-opozicia-chce-problem-riesit-znizovanim-spotrebnej-dane-rezort-financii-je-proti",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-private-church-school-subsidy-cut-proposal",
+      "reported_date": "2026-09-09",
+      "event_date": "2026-09-08",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech government",
+        "Andrej Babis"
+      ],
+      "event_type": "policy_proposal",
+      "canonical_summary": "Czech PM Andrej Babis floated suspending state funding for roughly 800 private and church schools nationwide as part of the search for savings in the 2027 state budget; still a proposal, not decided.",
+      "source_url": "https://www.expats.cz/czech-news/article/czech-news-in-brief-for-september-8-2026-tuesday-top-afternoon-headlines",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-supreme-court-ai-judicial-rules",
+      "reported_date": "2026-09-09",
+      "event_date": "2026-09-07",
+      "category": "China",
+      "entities": [
+        "Supreme People's Court (China)"
+      ],
+      "event_type": "regulation",
+      "canonical_summary": "China's Supreme People's Court issued its first judicial guidance specifically on AI disputes, barring non-consensual deepfake replicas of faces/voices and addressing AI-generated defamation, false information and algorithmic price discrimination.",
+      "source_url": "https://www.scmp.com/news/china/politics/article/3366802/chinas-highest-court-sets-out-new-ai-red-lines-rules-deepfakes-and-privacy",
+      "material_update_of": null
+    },
+    {
+      "event_id": "huawei-us-racketeering-trial-opens",
+      "reported_date": "2026-09-09",
+      "event_date": "2026-09-08",
+      "category": "China",
+      "entities": [
+        "Huawei",
+        "US Department of Justice"
+      ],
+      "event_type": "legal_trial",
+      "canonical_summary": "Huawei's US criminal trial opened in Brooklyn federal court on racketeering, bank/wire fraud and trade secret theft charges after nearly a decade of litigation; company pleads not guilty to all 14 counts.",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3366831/huawei-goes-trial-us-racketeering-after-nearly-decade-litigation",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-august-cpi-ppi-rebound",
+      "reported_date": "2026-09-09",
+      "event_date": "2026-09-09",
+      "category": "China",
+      "entities": [
+        "National Bureau of Statistics of China"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "China's August CPI rose 0.8% y/y (up from 0.5% in July) and PPI rose 3.8% y/y, both accelerating, as higher commodity costs and tech-sector demand cushioned weak domestic consumption.",
+      "source_url": "https://www.cnbc.com/2026/09/09/china-cpi-ppi-august-oil-prices-tech-manufacturing-.html",
+      "material_update_of": null
     }
   ]
 }
