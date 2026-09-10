@@ -5931,6 +5931,194 @@
       "canonical_summary": "China's August CPI rose 0.8% y/y (up from 0.5% in July) and PPI rose 3.8% y/y, both accelerating, as higher commodity costs and tech-sector demand cushioned weak domestic consumption.",
       "source_url": "https://www.cnbc.com/2026/09/09/china-cpi-ppi-august-oil-prices-tech-manufacturing-.html",
       "material_update_of": null
+    },
+    {
+      "event_id": "deepseek-v41-flash-launch",
+      "reported_date": "2026-09-10",
+      "event_date": "2026-09-10",
+      "category": "AI",
+      "entities": [
+        "DeepSeek"
+      ],
+      "event_type": "model_release",
+      "canonical_summary": "DeepSeek launched V4.1 Flash, its first natively multimodal model, running several times faster than V4 Pro; all Pro-tier API traffic is now routed to the new model at prices cut up to 60%.",
+      "source_url": "https://byteiota.com/deepseek-v4-1-flash-is-live-v4-pro-silently-routed-out/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "apple-siri-gemini-foldable-iphone",
+      "reported_date": "2026-09-10",
+      "event_date": "2026-09-09",
+      "category": "AI",
+      "entities": [
+        "Apple",
+        "Google"
+      ],
+      "event_type": "product_launch",
+      "canonical_summary": "Apple unveiled a rebuilt Siri using custom Apple Foundation Models built with Google Gemini, plus its first foldable iPhone (iPhone Duo) and a new A20 Pro chip, at its September 9 event.",
+      "source_url": "https://www.theneuron.ai/news/everything-ai-apple-announced-september-9-event/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "mistral-3b-series-d-samsung",
+      "reported_date": "2026-09-10",
+      "event_date": "2026-09-08",
+      "category": "AI",
+      "entities": [
+        "Mistral AI",
+        "Samsung Electronics",
+        "EQT",
+        "PSG Equity"
+      ],
+      "event_type": "funding",
+      "canonical_summary": "Mistral AI raised a EUR 3 billion Series D led by Samsung, valuing it above EUR 21 billion, the largest funding round ever for a European tech company.",
+      "source_url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "cloudflare-openai-vulnerability-remediation-launch",
+      "reported_date": "2026-09-10",
+      "event_date": "2026-09-09",
+      "category": "AI",
+      "entities": [
+        "Cloudflare",
+        "OpenAI"
+      ],
+      "event_type": "product_launch",
+      "canonical_summary": "Cloudflare launched a security product pairing OpenAI's Daybreak/GPT-5.6 Cyber models with its network to autonomously find and patch vulnerabilities; shares jumped roughly 8%.",
+      "source_url": "https://www.cnbc.com/2026/09/09/oil-prices-today-wti-brent-us-iran-hormuz-attacks.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "xanadu-asml-photonic-lithography-partnership",
+      "reported_date": "2026-09-10",
+      "event_date": "2026-09-09",
+      "category": "Quantum Computing",
+      "entities": [
+        "Xanadu",
+        "ASML"
+      ],
+      "event_type": "hardware_partnership",
+      "canonical_summary": "Xanadu and ASML announced a collaboration applying advanced lithography to photonic quantum chips to reduce optical losses, ASML's first public entry into quantum photonics.",
+      "source_url": "https://thequantuminsider.com/2026/09/09/xanadu-asml-lithography-photonic-quantum-hardware/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-stocks-oil-100-iran-fed-hike-odds-sept9",
+      "reported_date": "2026-09-10",
+      "event_date": "2026-09-09",
+      "category": "US Stock Market",
+      "entities": [
+        "S&P 500",
+        "Dow Jones",
+        "Nasdaq",
+        "Federal Reserve",
+        "crude oil"
+      ],
+      "event_type": "market_move",
+      "canonical_summary": "Brent crude broke above $100/barrel for the first time since July as the US-Iran conflict escalated near the Strait of Hormuz; US stocks fell a third straight session (S&P 500 -0.48%, Dow -405pts, Nasdaq -0.64%), and a Reuters poll showed the share of economists expecting the Fed to hold rates steady dropped to 56% from 80%, with more now expecting a hike.",
+      "source_url": "https://www.cnbc.com/2026/09/09/oil-prices-today-wti-brent-us-iran-hormuz-attacks.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "servicetitan-q2-weak-guidance-drop",
+      "reported_date": "2026-09-10",
+      "event_date": "2026-09-09",
+      "category": "US Stock Market",
+      "entities": [
+        "ServiceTitan"
+      ],
+      "event_type": "earnings",
+      "canonical_summary": "ServiceTitan shares fell about 17% despite beating Q2 estimates, after issuing Q3 and full-year revenue guidance below consensus, signaling growth deceleration.",
+      "source_url": "https://www.investing.com/news/economy-news/fed-to-hold-rates-steady-in-rest-of-2026-rising-number-of-analysts-see-at-least-one-hike-reuters-poll-4893770",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-retail-earnings-academy-caseys-sept9",
+      "reported_date": "2026-09-10",
+      "event_date": "2026-09-09",
+      "category": "US Stock Market",
+      "entities": [
+        "Academy Sports",
+        "Casey's General Stores"
+      ],
+      "event_type": "earnings",
+      "canonical_summary": "Academy Sports jumped roughly 8% on an earnings beat and raised full-year guidance, while Casey's General Stores fell about 16.5% on weak same-store sales.",
+      "source_url": "https://www.investing.com/news/economy-news/fed-to-hold-rates-steady-in-rest-of-2026-rising-number-of-analysts-see-at-least-one-hike-reuters-poll-4893770",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-august-inflation-final-1-9pct",
+      "reported_date": "2026-09-10",
+      "event_date": "2026-09-10",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Statistical Office",
+        "Czech National Bank"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "CSU confirmed final August 2026 Czech inflation at 1.9% y/y (up from 1.7% in July), feeding into the CNB's September 17 rate decision where no change is expected.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/csu-zverejni-konecnou-hodnotu-srpnove-inflace-predbezne-ji-odhadl-19-/2872556",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-private-school-funding-budget-gap",
+      "reported_date": "2026-09-10",
+      "event_date": "2026-09-08",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Andrej Babis",
+        "Robert Plaga",
+        "Czech Ministry of Education"
+      ],
+      "event_type": "budget_dispute",
+      "canonical_summary": "Czech Education Minister Plaga disclosed a CZK 3 billion shortfall in the 2027 draft budget for private/church school funding; directors warn of tuition hikes to CZK 130,000-200,000/year or closures affecting ~130,000 students.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/plaga-se-debate-o-placeni-soukromych-skol-nebrani-na-penezich-na-rok-2027-trva/2871669",
+      "material_update_of": "czech-private-church-school-subsidy-cut-proposal"
+    },
+    {
+      "event_id": "cetin-h1-2026-financial-results",
+      "reported_date": "2026-09-10",
+      "event_date": "2026-09-09",
+      "category": "PPF Group",
+      "entities": [
+        "CETIN Group N.V.",
+        "PPF Group"
+      ],
+      "event_type": "financial_results",
+      "canonical_summary": "CETIN Group published H1 2026 results: revenue (excl. international voice transit) up 3.8% y/y to EUR 354m, EBITDA up 6.6% to EUR 242m, with EUR 164m capex driven by 5G modernization and fibre (FTTH) buildout.",
+      "source_url": "https://www.cetin.eu/documents/d/guest/20260909-cetin-group-1h2026-financial-results-pr",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-csrc-blocks-distressed-developer-mcb-tool",
+      "reported_date": "2026-09-10",
+      "event_date": "2026-09-09",
+      "category": "China",
+      "entities": [
+        "CSRC",
+        "Country Garden",
+        "Sino-Ocean Group"
+      ],
+      "event_type": "regulation",
+      "canonical_summary": "China's CSRC has been rejecting mandatory convertible bonds (a key offshore debt-restructuring tool) for distressed developers with defaulted/discredited status, including Country Garden and Sino-Ocean, undercutting negotiated restructurings in an industry with ~$130B defaulted debt.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-09/china-sours-on-tool-that-helped-real-estate-firms-overhaul-debt",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-us-soybean-purchases-on-track-sept10",
+      "reported_date": "2026-09-10",
+      "event_date": "2026-09-10",
+      "category": "China",
+      "entities": [
+        "China",
+        "United States",
+        "USTR"
+      ],
+      "event_type": "trade",
+      "canonical_summary": "US trade official Luke Lindberg said China is on track to meet its 2026 agricultural purchase pledges (25M tonnes of soybeans), with over 700,000 tonnes shipped in the first nine days of September, ahead of Xi's planned September 24 Washington visit.",
+      "source_url": "https://www.scmp.com/news/us/economy-trade-business/article/3366979/us-says-china-track-fulfil-farm-purchases-ahead-xis-washington-visit",
+      "material_update_of": "china-us-board-of-trade-agri-deal-preview"
     }
   ]
 }

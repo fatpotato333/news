@@ -1,41 +1,39 @@
-Daily News for Wednesday, September 9, 2026.
+Daily News for Thursday, September 10, 2026.
 
 Artificial intelligence.
 
-OpenAI says an internal, unreleased model worked for about 88 hours across thousands of parallel agents to produce a proof that three dimensional Navier-Stokes equations can develop a singularity in finite time, a Millennium Prize-level mathematics problem. New York University mathematician Tristan Buckmaster has publicly accused OpenAI staff of accessing his own unpublished proof of a related equation before racing out a competing claim, an allegation OpenAI disputes; neither proof has been peer reviewed.
+DeepSeek released V4.1 Flash, its first natively multimodal model, integrating text, image and speech at the architecture level rather than bolting them together. Early benchmarks show it running several times faster than the previous Pro model. The company is now routing all existing Pro tier traffic to the new model and cutting prices by up to sixty percent.
 
-Google DeepMind released AlphaGenome Atlas, a free public database predicting the molecular effects of all nine billion possible single-letter mutations in human DNA, describing it as thirty times larger than its AlphaFold database and roughly a petabyte in size. Commercial licensing is planned to follow later through Google Cloud.
+Apple unveiled a rebuilt Siri built on custom models developed with Google's Gemini, adding contextual search across a user's texts and email and working with more than three hundred thousand apps, with a standalone Siri app coming in October. Apple also showed its first foldable iPhone, priced at nineteen ninety nine dollars, alongside a new A20 Pro chip built for heavier on device AI use.
 
-Qualcomm and Amazon Web Services announced a multi-generation deal to co-develop custom AI inference chips and high-speed optical interconnects for Amazon's data centers, Qualcomm's first major deal with a Western cloud provider. Amazon received warrants for twenty-five million Qualcomm shares tied to as much as sixty billion dollars in future chip orders.
+Mistral AI raised three billion euros in a Series D round led by Samsung Electronics, with EQT and PSG Equity co-leading and BlackRock funds joining as new investors. The deal values the French AI company at more than twenty one billion euros, the largest funding round for a European technology company to date, with the money earmarked for compute infrastructure and international expansion.
 
-The National Security Agency, the Cybersecurity and Infrastructure Security Agency, and the F.B.I. issued a joint advisory naming six Chinese AI companies, including DeepSeek, Moonshot AI, and Alibaba, for extracting billions of tokens from Western AI models such as Claude, GPT, Gemini, and Grok through obfuscated proxy traffic since late 2024, saying Chinese authorities are likely aware of the activity.
+Cloudflare shares jumped about eight percent after the company launched a security tool pairing OpenAI's Daybreak and GPT five point six Cyber models with its network to automatically find and patch software vulnerabilities.
 
 Quantum computing.
 
-IonQ unveiled Superion 256, a 256 qubit trapped-ion platform built with semiconductor manufacturer SkyWater and designed to be manufactured by the hundreds rather than built one at a time. The first integrated units have already been fabricated, with customer deliveries targeted for 2027.
-
-The US Commerce Department finalized roughly 100 million dollar CHIPS Act agreements with four quantum computing companies in a single day, PsiQuantum, D-Wave, Quantinuum, and Rigetti, funding manufacturing research and scale-up work, with the government taking a minority, non-controlling equity stake in each company.
-
-Fujitsu unveiled a working prototype diamond-spin quantum computer using tin-vacancy color centers that operates at a notably warmer temperature than superconducting rivals, built with TU Delft and QuTech, and is targeting 250 logical qubits by 2030 and 1,000 by 2035.
+Xanadu and ASML announced a partnership applying advanced chip lithography techniques to photonic quantum computing hardware, marking ASML's first public entry into quantum photonics and aiming to reduce the light losses that currently limit photonic qubit performance.
 
 United States stock market.
 
-Houthi forces fired ballistic missiles and drones at four Saudi cities, striking Saudi Aramco's Jazan refinery and a military air base and wounding 73 people. Brent crude jumped toward 99 dollars a barrel on supply fears, and US stocks fell sharply, with the Dow dropping 628 points, the S&P 500 down about six tenths of one percent, and the Nasdaq also lower.
+Oil prices broke above one hundred dollars a barrel for the first time since July, as the conflict between the United States and Iran escalated near the Strait of Hormuz. US stocks fell for a third straight session, with the S and P 500 down about half a percent, the Dow down four hundred five points, and the Nasdaq down about six tenths of a percent. The oil spike also shifted Federal Reserve expectations. A Reuters poll found just fifty six percent of economists now expect the Fed to hold rates steady through year end, down sharply from eighty percent last month, with more now betting on a rate hike at next week's meeting.
 
-Canada's retaliatory tariffs on roughly 20 billion dollars of US goods, including steel and aluminum duties doubled to 50 percent plus levies on dairy, appliances, and farm equipment, formally took legal effect after trade talks collapsed.
+ServiceTitan shares fell seventeen percent even after beating second quarter revenue and earnings estimates, after the company issued third quarter and full year revenue guidance below Wall Street's expectations, signaling slower growth ahead.
 
-Intel shares jumped as much as nine and a half percent after reports the company plans to raise PC processor prices about 10 percent starting in October amid a server chip shortage, adding an estimated 36 billion dollars in paper value to the US government's roughly 10 percent stake in the company.
+Academy Sports jumped about eight percent after beating earnings estimates and raising its full year guidance, while Casey's General Stores fell more than sixteen percent on weak same store sales.
 
 Czech Republic and Slovakia.
 
-Slovak diesel and petrol prices hit roughly two and a half year highs on a European supply shock, and the Finance Ministry rejected an opposition call to cut fuel excise duty and VAT, citing lost budget revenue in the tens to hundreds of millions of euros with no relief expected soon.
+The Czech Statistical Office confirmed August inflation at one point nine percent, up from one point seven percent in July, driven largely by alcohol and tobacco prices. The data feeds into the central bank's September seventeenth rate decision, where officials have signaled no change to the current key rate is expected.
 
-Czech Prime Minister Andrej Babis floated suspending state funding for roughly 800 private and church schools nationwide as part of the hunt for savings in the 2027 state budget, a proposal still under consideration.
+The dispute over state funding for private and church schools sharpened, as the education ministry disclosed a three billion koruna shortfall in the twenty twenty seven draft budget. School directors warn the gap could force tuition as high as two hundred thousand koruna a year or closures, affecting roughly one hundred thirty thousand students nationwide.
+
+PPF Group.
+
+Cetin reported first half twenty twenty six results, with revenue up three point eight percent to three hundred fifty four million euros and core earnings up six point six percent to two hundred forty two million euros. The company invested one hundred sixty four million euros in the period, mainly on five G network modernization and fiber broadband expansion across Czechia.
 
 China.
 
-China's Supreme People's Court issued its first judicial guidance specifically on artificial intelligence disputes, barring non-consensual deepfake replicas of people's faces and voices and addressing AI-generated defamation, misinformation, and algorithmic price discrimination against consumers.
+China's securities regulator has been rejecting a debt restructuring tool called mandatory convertible bonds for distressed property developers, including Country Garden and Sino-Ocean Group, undercutting negotiated deals for an industry that has defaulted on roughly one hundred thirty billion dollars in debt.
 
-Huawei's criminal trial opened in federal court in Brooklyn, with the company pleading not guilty to fourteen counts including racketeering, bank and wire fraud, and trade secret theft, after nearly a decade of litigation and a recent narrowing of some export-control charges.
-
-China's consumer prices rose 0.8 percent in August from a year earlier, up from 0.5 percent in July, while factory-gate prices rose 3.8 percent, both accelerating as higher commodity costs and technology-sector demand offset weak domestic consumption.
+A senior US trade official said China remains on track to meet its agricultural purchase pledges, including twenty five million tons of soybeans this year, with more than seven hundred thousand tons shipped in just the first nine days of September, ahead of President Xi's planned visit to Washington on September twenty fourth.
