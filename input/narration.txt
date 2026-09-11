@@ -1,39 +1,41 @@
-Daily News for Thursday, September 10, 2026.
+Daily News for Friday, September 11, 2026.
 
 Artificial intelligence.
 
-DeepSeek released V4.1 Flash, its first natively multimodal model, integrating text, image and speech at the architecture level rather than bolting them together. Early benchmarks show it running several times faster than the previous Pro model. The company is now routing all existing Pro tier traffic to the new model and cutting prices by up to sixty percent.
+Microsoft plans to nearly triple its AI data center capacity to more than 38 gigawatts by 2032, up from about 12 gigawatts today, according to a Bloomberg report citing people familiar with the matter. The buildout reportedly follows capacity shortages that have forced Microsoft to turn away cloud and AI customers in recent months, and AI-dedicated capacity alone is expected to grow roughly nineteen-fold over that period.
 
-Apple unveiled a rebuilt Siri built on custom models developed with Google's Gemini, adding contextual search across a user's texts and email and working with more than three hundred thousand apps, with a standalone Siri app coming in October. Apple also showed its first foldable iPhone, priced at nineteen ninety nine dollars, alongside a new A20 Pro chip built for heavier on device AI use.
+OpenAI opened its new Agents API in public beta, giving developers direct access to the session management, tool orchestration, context compaction, and sandboxed execution system that powers its own Codex coding agent, at no added fee beyond standard model and tool usage.
 
-Mistral AI raised three billion euros in a Series D round led by Samsung Electronics, with EQT and PSG Equity co-leading and BlackRock funds joining as new investors. The deal values the French AI company at more than twenty one billion euros, the largest funding round for a European technology company to date, with the money earmarked for compute infrastructure and international expansion.
-
-Cloudflare shares jumped about eight percent after the company launched a security tool pairing OpenAI's Daybreak and GPT five point six Cyber models with its network to automatically find and patch software vulnerabilities.
+Anthropic published a new threat intelligence report saying it disrupted a large-scale operation in which Alibaba used Claude's chain of thought output to distill model behavior into its Qwen models, describing it as the largest such case it has measured. Anthropic also said it separately blocked attempts to misuse Claude for bioweapons research and for planning drone swarm attacks.
 
 Quantum computing.
 
-Xanadu and ASML announced a partnership applying advanced chip lithography techniques to photonic quantum computing hardware, marking ASML's first public entry into quantum photonics and aiming to reduce the light losses that currently limit photonic qubit performance.
+IBM and Lockheed Martin announced Switzerland's first IBM quantum computer, a system built on IBM's new Nighthawk processor heading to the Swiss National Supercomputing Centre in Lugano by year end. It anchors a new quantum innovation hub with ETH Zurich focused on quantum sensing for navigation and on additive manufacturing of metal alloys.
+
+Finnish quantum company IQM was selected to build a system for Finland's LUMI AI Factory that it says will become Europe's first superconducting quantum computer with logical qubits. The plan starts with an early error-correction system next year, moves to real-time error correction by 2028, and reaches nine logical qubits by 2029.
 
 United States stock market.
 
-Oil prices broke above one hundred dollars a barrel for the first time since July, as the conflict between the United States and Iran escalated near the Strait of Hormuz. US stocks fell for a third straight session, with the S and P 500 down about half a percent, the Dow down four hundred five points, and the Nasdaq down about six tenths of a percent. The oil spike also shifted Federal Reserve expectations. A Reuters poll found just fifty six percent of economists now expect the Fed to hold rates steady through year end, down sharply from eighty percent last month, with more now betting on a rate hike at next week's meeting.
+Wall Street fell for a fourth straight session as August producer prices rose more than expected, reviving bets that the Federal Reserve could raise rates rather than cut them at its September meeting. Brent crude jumped more than six percent to above 107 dollars a barrel, its highest since July, as the U.S.-Iran conflict intensified and Treasury yields climbed toward five percent.
 
-ServiceTitan shares fell seventeen percent even after beating second quarter revenue and earnings estimates, after the company issued third quarter and full year revenue guidance below Wall Street's expectations, signaling slower growth ahead.
+Oracle shares jumped as much as seven percent after hours after cloud infrastructure revenue more than doubled and its backlog of remaining performance obligations hit a record 664 billion dollars, boosted by more than 30 billion dollars of new AI contracts signed in the quarter; the company also raised its full-year revenue outlook.
 
-Academy Sports jumped about eight percent after beating earnings estimates and raising its full year guidance, while Casey's General Stores fell more than sixteen percent on weak same store sales.
+Adobe beat third-quarter earnings estimates, with record revenue up 13 percent, and said AI-related annual recurring revenue topped 650 million dollars, up more than 150 percent. Its shares still fell about two percent as investors focused on a cautious near-term outlook.
 
 Czech Republic and Slovakia.
 
-The Czech Statistical Office confirmed August inflation at one point nine percent, up from one point seven percent in July, driven largely by alcohol and tobacco prices. The data feeds into the central bank's September seventeenth rate decision, where officials have signaled no change to the current key rate is expected.
+New European Union rules under the Cyber Resilience Act took effect today, requiring makers of connected digital products sold in the EU, including in Czechia and Slovakia, to report actively exploited vulnerabilities within 24 hours through national cybersecurity authorities.
 
-The dispute over state funding for private and church schools sharpened, as the education ministry disclosed a three billion koruna shortfall in the twenty twenty seven draft budget. School directors warn the gap could force tuition as high as two hundred thousand koruna a year or closures, affecting roughly one hundred thirty thousand students nationwide.
+The Czech Chamber of Deputies overrode the Senate to finalize a renewed electronic sales-records law that will require businesses to report card payments as well as cash starting in 2027, a rule expected to affect nearly all Czech merchants and the self-employed.
 
-PPF Group.
+The Chamber also overrode the Senate a second time to finalize a Building Act amendment centralizing construction permits into a single state office system, intended to speed up permitting later this year ahead of a full office reform from January 2027.
 
-Cetin reported first half twenty twenty six results, with revenue up three point eight percent to three hundred fifty four million euros and core earnings up six point six percent to two hundred forty two million euros. The company invested one hundred sixty four million euros in the period, mainly on five G network modernization and fiber broadband expansion across Czechia.
+Czech mortgage rates rose for a sixth straight month to an average of 5.51 percent, the highest level in more than two years, adding roughly 1,280 crowns a month to payments on a typical new mortgage since rates bottomed out in March.
 
 China.
 
-China's securities regulator has been rejecting a debt restructuring tool called mandatory convertible bonds for distressed property developers, including Country Garden and Sino-Ocean Group, undercutting negotiated deals for an industry that has defaulted on roughly one hundred thirty billion dollars in debt.
+Reuters reported that Iran has used a China-based barter network tied to state oil trader Zhuhai Zhenrong to trade oil for an estimated two to two and a half billion dollars in Chinese goods since 2021, including in one case military equipment, sidestepping U.S. sanctions.
 
-A senior US trade official said China remains on track to meet its agricultural purchase pledges, including twenty five million tons of soybeans this year, with more than seven hundred thousand tons shipped in just the first nine days of September, ahead of President Xi's planned visit to Washington on September twenty fourth.
+DeepSeek has hired CITIC Securities to prepare a listing on Shanghai's STAR Market, Bloomberg reported, with a pre-IPO funding round said to value the Chinese AI company at around 75 billion dollars.
+
+Chinese state media confirmed the death toll from landslides triggered by Typhoon Saudel's remnants in Jiangxi's Suichuan county has risen to 16, finalizing a toll that stood at four dead and ten missing earlier in the week.

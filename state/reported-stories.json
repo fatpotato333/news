@@ -6119,6 +6119,223 @@
       "canonical_summary": "US trade official Luke Lindberg said China is on track to meet its 2026 agricultural purchase pledges (25M tonnes of soybeans), with over 700,000 tonnes shipped in the first nine days of September, ahead of Xi's planned September 24 Washington visit.",
       "source_url": "https://www.scmp.com/news/us/economy-trade-business/article/3366979/us-says-china-track-fulfil-farm-purchases-ahead-xis-washington-visit",
       "material_update_of": "china-us-board-of-trade-agri-deal-preview"
+    },
+    {
+      "event_id": "microsoft-38gw-datacenter-capacity-plan-2032",
+      "reported_date": "2026-09-11",
+      "event_date": "2026-09-10",
+      "category": "AI",
+      "entities": [
+        "Microsoft"
+      ],
+      "event_type": "infrastructure_plan",
+      "canonical_summary": "Bloomberg reported Microsoft plans to grow global data center capacity from about 12 gigawatts today to more than 38 gigawatts by 2032, with AI-dedicated capacity growing roughly nineteen-fold, following recent capacity shortages that forced Microsoft to turn away cloud and AI business; unconfirmed by Microsoft directly, sourced to people familiar with the matter.",
+      "source_url": "https://www.bloomberg.com/news/features/2026-09-10/microsoft-ai-focused-data-center-plan-to-add-26-gigawatts-of-compute",
+      "material_update_of": null
+    },
+    {
+      "event_id": "openai-agents-api-public-beta",
+      "reported_date": "2026-09-11",
+      "event_date": "2026-09-10",
+      "category": "AI",
+      "entities": [
+        "OpenAI"
+      ],
+      "event_type": "api_launch",
+      "canonical_summary": "OpenAI opened public beta access to its new Agents API, exposing the Codex harness (session management, tool orchestration, context compaction, sandboxed execution, subagents) via a single API call at no fee beyond standard token/tool usage, running in an OpenAI-managed sandbox, customer infrastructure, or a partner sandbox.",
+      "source_url": "https://openai.com/index/introducing-the-agents-api/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "anthropic-sept-2026-threat-intel-report-alibaba-distillation",
+      "reported_date": "2026-09-11",
+      "event_date": "2026-09-10",
+      "category": "AI",
+      "entities": [
+        "Anthropic",
+        "Alibaba"
+      ],
+      "event_type": "safety_disclosure",
+      "canonical_summary": "Anthropic published its September 2026 threat intelligence report disclosing it disrupted what it called its largest measured case of chain-of-thought distillation, in which Alibaba extracted up to roughly 3 million exchanges a day (151 million-plus from May to July) from Claude Opus 4.6/4.7 to train its Qwen 3.5-3.7 models, and separately blocked attempts to misuse Claude for bioweapons research and drone-swarm attack planning.",
+      "source_url": "https://www.anthropic.com/news",
+      "material_update_of": null
+    },
+    {
+      "event_id": "ibm-lockheed-swiss-quantum-hub-eth-zurich",
+      "reported_date": "2026-09-11",
+      "event_date": "2026-09-10",
+      "category": "Quantum Computing",
+      "entities": [
+        "IBM",
+        "Lockheed Martin",
+        "ETH Zurich",
+        "CSCS"
+      ],
+      "event_type": "deployment_partnership",
+      "canonical_summary": "IBM and Lockheed Martin announced a defense-offset-funded Swiss Quantum Innovation Hub at ETH Zurich, anchored by Switzerland's first IBM quantum computer, an IBM Quantum System Two running a Nighthawk processor, to be installed at the Swiss National Supercomputing Centre in Lugano by end of 2026, with research focused on quantum sensing for navigation and additive manufacturing of metal alloys.",
+      "source_url": "https://newsroom.ibm.com/2026-09-10-ibm,-lockheed-martin-announce-swiss-quantum-innovation-hub-at-eth-zurich,-anchored-by-switzerlands-first-ibm-quantum-computer",
+      "material_update_of": null
+    },
+    {
+      "event_id": "iqm-lumi-ai-factory-logical-qubit-roadmap",
+      "reported_date": "2026-09-11",
+      "event_date": "2026-09-10",
+      "category": "Quantum Computing",
+      "entities": [
+        "IQM",
+        "LUMI AI Factory",
+        "CSC Finland"
+      ],
+      "event_type": "logical_qubit_roadmap",
+      "canonical_summary": "IQM announced a three-stage plan to deploy 'LUMI-IQ' at CSC's Kajaani, Finland data center: a 150-physical-qubit Halocene H4 system with early error correction in 2027, real-time error correction in 2028, and a Halocene H5 system in 2029 supporting up to 9 logical qubits, billed as Europe's first superconducting quantum computer with logical qubits.",
+      "source_url": "https://iqm.tech/press-releases/lumi-ai-factory-selects-iqm-to-deploy-advanced-quantum-computer-accelerating-hybrid-hpc-and-ai-development/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-stocks-ppi-oil-107-fourth-day-decline",
+      "reported_date": "2026-09-11",
+      "event_date": "2026-09-10",
+      "category": "US Stock Market",
+      "entities": [
+        "S&P 500",
+        "Dow Jones",
+        "Nasdaq",
+        "Federal Reserve",
+        "Brent crude"
+      ],
+      "event_type": "macro_market_move",
+      "canonical_summary": "US stocks fell for a fourth straight session as August PPI rose 0.4% m/m and 5.4% y/y, above forecast, reinforcing bets the Fed could hike rather than cut at its September 15-16 meeting; Treasury yields climbed toward 5% and Brent crude surged over 6% intraday above $107/barrel, its highest since July, amid intensifying US-Iran conflict.",
+      "source_url": "https://www.cnbc.com/2026/09/10/ppi-inflation-report-august-2026.html",
+      "material_update_of": "us-stocks-oil-100-iran-fed-hike-odds-sept9"
+    },
+    {
+      "event_id": "oracle-q1-fy2027-record-backlog-earnings-surge",
+      "reported_date": "2026-09-11",
+      "event_date": "2026-09-10",
+      "category": "US Stock Market",
+      "entities": [
+        "Oracle"
+      ],
+      "event_type": "earnings_beat",
+      "canonical_summary": "Oracle shares rose as much as 4-7% after hours after Q1 FY2027 revenue rose 30% y/y to $19.35B, cloud infrastructure revenue rose 121% to $7.4B, and remaining performance obligations hit a record $664B (+$209B y/y) on more than $30B of new AI cloud contracts signed in the quarter; FY27 revenue guidance was raised to at least $90B.",
+      "source_url": "https://www.cnbc.com/2026/09/10/oracle-orcl-q1-earnings-report-2027.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "adobe-q3-fy2026-ai-arr-surge-cautious-outlook",
+      "reported_date": "2026-09-11",
+      "event_date": "2026-09-10",
+      "category": "US Stock Market",
+      "entities": [
+        "Adobe"
+      ],
+      "event_type": "earnings_mixed",
+      "canonical_summary": "Adobe reported record Q3 FY2026 revenue of $6.76B (+13% y/y) and non-GAAP EPS of $6.13, both slightly ahead of estimates, with AI-first ARR topping $650M (+150%+ y/y) and raised full-year guidance; shares nonetheless fell about 2.3% in regular trading and further after hours on a cautious near-term outlook.",
+      "source_url": "https://www.stocktitan.net/news/ADBE/adobe-reports-record-q3-eqfptdv2yclp.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "eu-cyber-resilience-act-reporting-duties-effective",
+      "reported_date": "2026-09-11",
+      "event_date": "2026-09-11",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "European Commission",
+        "ENISA",
+        "NUKIB",
+        "SK-CERT"
+      ],
+      "event_type": "regulation_effective",
+      "canonical_summary": "EU Cyber Resilience Act Article 14 incident-reporting duties took effect September 11, 2026, requiring manufacturers of connected digital products sold in the EU (including Czechia and Slovakia) to report actively exploited vulnerabilities within 24 hours and severe incidents via national CSIRTs (NUKIB, SK-CERT) to a single EU reporting platform shared with ENISA, the CRA's first enforceable compliance deadline.",
+      "source_url": "https://digital-strategy.ec.europa.eu/en/policies/cra-reporting",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-eet-2-0-card-payments-chamber-override",
+      "reported_date": "2026-09-11",
+      "event_date": "2026-09-09",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Chamber of Deputies",
+        "Czech Senate",
+        "Ministry of Finance"
+      ],
+      "event_type": "legislation_passed",
+      "canonical_summary": "The Czech Chamber of Deputies voted down Senate amendments and reaffirmed renewed electronic sales-records legislation (EET 2.0) requiring businesses to register card payments in addition to cash starting January 1, 2027; the Senate had sought to exclude card payments, now rejected. The law goes to President Pavel for signature and affects nearly all Czech merchants and the self-employed.",
+      "source_url": "https://portal.pohoda.cz/rychle-zpravy/snemovna-stvrdila-zavedeni-eet-2-0/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-building-act-chamber-overrides-senate-finalized",
+      "reported_date": "2026-09-11",
+      "event_date": "2026-09-09",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Chamber of Deputies",
+        "Czech Senate",
+        "Ministry for Regional Development"
+      ],
+      "event_type": "legislation_passed",
+      "canonical_summary": "The Czech Chamber of Deputies (104-53) overrode the Senate's August 20 rejection and reaffirmed the Building Act amendment centralizing building-permit decisions into a unified state building-office system with 'one stamp' approval, intended to speed permitting from around November 2026, with the office reform itself effective January 1, 2027; the bill now goes to President Pavel for signature.",
+      "source_url": "https://www.respekt.cz/informacni-servis/snemovna-prehlasovala-senat-a-stvrdila-koalicni-novelu-stavebniho-zakona-2026-09-09-19-11",
+      "material_update_of": "czech-senate-rejects-building-act-amendment"
+    },
+    {
+      "event_id": "czech-mortgage-rates-sixth-rise-5-51pct",
+      "reported_date": "2026-09-11",
+      "event_date": "2026-09-09",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Banking Association",
+        "Hypoindex"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "The September Hypoindex showed the average Czech mortgage rate rose to 5.51% (+0.09pp month-on-month), a sixth consecutive monthly rise and the highest since summer 2024, up from a March 2026 low of 4.89%; for a model CZK 3.5m/25-year mortgage this adds about CZK 1,280 a month versus March, with no near-term decline expected.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/hypoindex-prumerna-sazba-hypotek-je-nejvys-za-dva-roky/2872042",
+      "material_update_of": "czech-mortgage-rates-fifth-rise"
+    },
+    {
+      "event_id": "china-iran-barter-sanctions-evasion-zhuhai-zhenrong",
+      "reported_date": "2026-09-11",
+      "event_date": "2026-09-10",
+      "category": "China",
+      "entities": [
+        "Zhuhai Zhenrong",
+        "ChuXin",
+        "Iran"
+      ],
+      "event_type": "sanctions_evasion_disclosure",
+      "canonical_summary": "A Reuters investigation revealed Iran has used a China-based barter mechanism, trading oil for credits toward Chinese imports, to bypass US sanctions, routing an estimated $2-2.5 billion over the past year through China-based entity ChuXin tied to state oil trader Zhuhai Zhenrong, funding purchases including, in at least one case, military/air-defense equipment.",
+      "source_url": "https://www.usnews.com/news/world/articles/2026-09-10/exclusive-how-a-billion-dollar-sanctions-dodge-kept-chinese-goods-flowing-to-iran",
+      "material_update_of": null
+    },
+    {
+      "event_id": "deepseek-citic-securities-star-market-ipo-prep",
+      "reported_date": "2026-09-11",
+      "event_date": "2026-09-09",
+      "category": "China",
+      "entities": [
+        "DeepSeek",
+        "CITIC Securities"
+      ],
+      "event_type": "ipo_preparation",
+      "canonical_summary": "Bloomberg reported DeepSeek has retained CITIC Securities among four underwriters for pre-IPO tutoring ahead of a planned Shanghai STAR Market listing, aiming to file this year; a concurrent pre-IPO funding round could value DeepSeek around 500 billion yuan (roughly $75 billion), a first concrete step toward a landmark domestic listing for a Chinese AI company.",
+      "source_url": "https://finance.yahoo.com/technology/ai/articles/deepseek-taps-citic-securities-shanghai-120650036.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-jiangxi-suichuan-landslide-toll-16-confirmed",
+      "reported_date": "2026-09-11",
+      "event_date": "2026-09-10",
+      "category": "China",
+      "entities": [
+        "Suichuan County",
+        "Jiangxi provincial government"
+      ],
+      "event_type": "disaster_toll_update",
+      "canonical_summary": "Chinese state media confirmed the death toll from landslides triggered by Typhoon Saudel's remnant rainfall in Suichuan County, Jiangxi has risen to 16 confirmed dead, finalizing a toll that stood at 4 dead and 10 missing as of September 6-7, with over 18,000 people evacuated.",
+      "source_url": "https://news.cgtn.com/news/2026-09-10/news-1QjKEF9sXUQ/p.html",
+      "material_update_of": "china-jiangxi-suichuan-landslide-typhoon-saudel"
     }
   ]
 }
