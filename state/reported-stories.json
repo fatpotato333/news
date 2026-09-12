@@ -6336,6 +6336,220 @@
       "canonical_summary": "Chinese state media confirmed the death toll from landslides triggered by Typhoon Saudel's remnant rainfall in Suichuan County, Jiangxi has risen to 16 confirmed dead, finalizing a toll that stood at 4 dead and 10 missing as of September 6-7, with over 18,000 people evacuated.",
       "source_url": "https://news.cgtn.com/news/2026-09-10/news-1QjKEF9sXUQ/p.html",
       "material_update_of": "china-jiangxi-suichuan-landslide-typhoon-saudel"
+    },
+    {
+      "event_id": "openai-binding-ai-safety-regulation-call",
+      "reported_date": "2026-09-12",
+      "event_date": "2026-09-11",
+      "category": "AI",
+      "entities": [
+        "OpenAI",
+        "Chris Lehane"
+      ],
+      "event_type": "policy_position_shift",
+      "canonical_summary": "OpenAI's chief global affairs officer Chris Lehane published a statement calling for mandatory, capability-based national AI safety regulation, including testing standards, independent assessments, cybersecurity requirements and incident reporting, reversing the company's prior resistance to binding regulation.",
+      "source_url": "https://www.euronews.com/next/2026/09/11/openai-makes-u-turn-and-calls-for-binding-national-ai-safety-rules",
+      "material_update_of": null
+    },
+    {
+      "event_id": "moonshot-ai-2b-arr-target-kimi-k3",
+      "reported_date": "2026-09-12",
+      "event_date": "2026-09-11",
+      "category": "AI",
+      "entities": [
+        "Moonshot AI",
+        "Kimi K3"
+      ],
+      "event_type": "business_results",
+      "canonical_summary": "Moonshot AI told investors its annualized revenue run rate hit roughly $1 billion in August 2026, up from about $300 million in June, and is targeting $2 billion by year-end, driven by the breakout success of its July-released Kimi K3 model.",
+      "source_url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "nvidia-dmatrix-nvlink-fusion-raptor",
+      "reported_date": "2026-09-12",
+      "event_date": "2026-09-10",
+      "category": "AI",
+      "entities": [
+        "Nvidia",
+        "d-Matrix"
+      ],
+      "event_type": "chip_partnership",
+      "canonical_summary": "Inference-chip startup d-Matrix announced a multi-year collaboration with Nvidia to connect its next-generation Raptor XPUs into Nvidia's MGX rack-scale architecture using NVLink Fusion, with first rack-integrated systems expected around Q4 2027 targeting low-latency AI inference.",
+      "source_url": "https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "pentagon-fluidstack-5b-loan-talks",
+      "reported_date": "2026-09-12",
+      "event_date": "2026-09-10",
+      "category": "AI",
+      "entities": [
+        "Pentagon",
+        "Office of Strategic Capital",
+        "Fluidstack"
+      ],
+      "event_type": "government_ai_infrastructure_financing",
+      "canonical_summary": "The Pentagon's Office of Strategic Capital is negotiating what would be its largest-ever loan, up to $5 billion, to AI cloud company Fluidstack to shore up US data-center supply-chain and manufacturing capacity; the deal is not yet finalized.",
+      "source_url": "https://finance.yahoo.com/technology/ai/articles/fluidstack-talks-5-billion-pentagon-224816413.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "sakana-ai-fugu-max-ultra-v2-release",
+      "reported_date": "2026-09-12",
+      "event_date": "2026-09-11",
+      "category": "AI",
+      "entities": [
+        "Sakana AI"
+      ],
+      "event_type": "model_release",
+      "canonical_summary": "Tokyo-based Sakana AI released Fugu Max, a cost-efficient multi-agent orchestrator claiming frontier-adjacent performance at 2-6x lower cost, and Fugu Ultra v2, a higher-capability flagship scoring best-or-joint-best on 5 of 8 benchmarks without relying on proprietary frontier models in its agent pool.",
+      "source_url": "https://sakana.ai/fugu-max-release/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-stocks-rally-sept11-cpi-oil-retreat",
+      "reported_date": "2026-09-12",
+      "event_date": "2026-09-11",
+      "category": "US Stock Market",
+      "entities": [
+        "S&P 500",
+        "Dow Jones Industrial Average",
+        "Nasdaq Composite"
+      ],
+      "event_type": "index_move",
+      "canonical_summary": "The S&P 500 rose 0.9% to 7,656.98, the Dow gained 1% to 52,573.29, and the Nasdaq added 1% to 26,333.04 on September 11, snapping a four-session losing streak, as August CPI matched forecasts and Brent crude dropped nearly 3%.",
+      "source_url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-friday-9112026-136375931",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-august-2026-cpi-fed-hike-odds-surge",
+      "reported_date": "2026-09-12",
+      "event_date": "2026-09-11",
+      "category": "US Stock Market",
+      "entities": [
+        "Bureau of Labor Statistics",
+        "Federal Reserve",
+        "FOMC"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "BLS reported August CPI rose 0.4% month-over-month and 3.4% year-over-year, with core CPI up 0.3% m/m and 2.4% y/y; gasoline prices drove over a third of the monthly increase, pushing CME FedWatch odds of a 25bp hike at the September 16 FOMC meeting to nearly 90%.",
+      "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+      "material_update_of": null
+    },
+    {
+      "event_id": "kroger-q2-fy2026-guidance-cut-eps-beat",
+      "reported_date": "2026-09-12",
+      "event_date": "2026-09-11",
+      "category": "US Stock Market",
+      "entities": [
+        "Kroger"
+      ],
+      "event_type": "earnings",
+      "canonical_summary": "Kroger reported Q2 FY2026 adjusted EPS of $1.09 on revenue of $34.6 billion, beating estimates, but cut full-year identical-sales guidance to 0.2%-0.8% from 1%-2%, citing pharmacy revenue pressure; shares closed up about 2.8% as the broader market rallied.",
+      "source_url": "https://www.stocktitan.net/news/KR/kroger-reports-second-quarter-2026-results-and-updates-guidance-for-9u40w1l6wnxj.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-consumer-credit-apr-cap-chamber-approval",
+      "reported_date": "2026-09-12",
+      "event_date": "2026-09-11",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Chamber of Deputies",
+        "Ministry of Finance"
+      ],
+      "event_type": "consumer_protection_law",
+      "canonical_summary": "The Czech Chamber of Deputies gave final approval to an amendment to the Consumer Credit Act capping the APR on larger consumer loans at four times the CNB repo rate plus 8 percentage points (about 47-50% at current rates), banning misleading loan ads, and requiring creditworthiness checks on interest-free installment plans; it passed 134-2 and moves to the Senate, expected in force February 2027.",
+      "source_url": "https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2026/snemovna-schvalila-vyssi-ochranu-spotrebitelu-nove-65160",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-foreigner-residence-digitalization-law-passed",
+      "reported_date": "2026-09-12",
+      "event_date": "2026-09-11",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Chamber of Deputies",
+        "Ministry of Interior"
+      ],
+      "event_type": "immigration_digital_government_law",
+      "canonical_summary": "The Czech Chamber of Deputies passed a law overhauling the residence system for foreigners, making registration mandatory (previously voluntary) for EU citizens staying over 90 days, with fines up to CZK 10,000 for non-compliance and expanded employer/guarantor liability; full digital case-handling is planned from 2029, EU-citizen registration from 2030.",
+      "source_url": "https://www.psp.cz/sqw/historie.sqw?o=10&t=144",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-social-insurance-digitalization-proactive-benefits",
+      "reported_date": "2026-09-12",
+      "event_date": "2026-09-11",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Socialna poistovna"
+      ],
+      "event_type": "benefit_administration_digitalization",
+      "canonical_summary": "Slovakia's Socialna poistovna announced 36 new digital services funded via the EU Recovery Plan, including proactive/automatic payment of maternity, pregnancy and parental benefits based on healthcare records with no application needed, pension applications at any branch, and a new employer payment gateway.",
+      "source_url": "https://www.teraz.sk/ekonomika/socialna-poistovna-digitalizuje-sluz/991591-clanok.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "qingdao-beihai-shipyard-ocean-melody-fire",
+      "reported_date": "2026-09-12",
+      "event_date": "2026-09-09",
+      "category": "China",
+      "entities": [
+        "Beihai Shipbuilding Co",
+        "China State Shipbuilding Corporation",
+        "Xi Jinping"
+      ],
+      "event_type": "industrial_accident",
+      "canonical_summary": "A fire aboard the bulk carrier Ocean Melody, docked for repairs at the state-owned Beihai Shipbuilding yard in Qingdao, killed 25 of 42 people aboard; state media confirmed the updated toll on September 11. Xi Jinping ordered accountability measures and a nationwide fire-hazard inspection; cause remains under investigation.",
+      "source_url": "https://hongkongfp.com/2026/09/11/death-toll-from-cargo-ship-fire-in-china-rises-to-25-state-media/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-cia-economic-espionage-statement",
+      "reported_date": "2026-09-12",
+      "event_date": "2026-09-11",
+      "category": "China",
+      "entities": [
+        "China Ministry of Foreign Affairs",
+        "CIA",
+        "Michael Ellis"
+      ],
+      "event_type": "diplomatic_dispute",
+      "canonical_summary": "China condemned CIA deputy director Michael Ellis's public statement that US intelligence conducts economic espionage against Chinese semiconductor and biotech firms, threatening 'necessary measures' under its Counter-Espionage Law, less than two weeks before a planned Xi-Trump meeting on September 24.",
+      "source_url": "https://english.news.cn/20260911/2303fb2ded054e81a9fee5d971d2af92/c.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-ai-chip-price-hikes-hbm-shortage",
+      "reported_date": "2026-09-12",
+      "event_date": "2026-09-10",
+      "category": "China",
+      "entities": [
+        "Huawei",
+        "Cambricon",
+        "Ascend 950DT"
+      ],
+      "event_type": "semiconductor_market",
+      "canonical_summary": "Huawei and Cambricon raised prices on domestic AI accelerators 20-60% as a global HBM shortage forces reliance on costlier grey-market supply; Huawei's flagship Ascend 950DT card is now quoted above 250,000 yuan (about $37,255), up 20-50% from two months ago.",
+      "source_url": "https://finance.yahoo.com/technology/ai/articles/exclusive-chinas-ai-chipmakers-raise-050223278.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "eu-china-manufacturing-shock-150bn-gdp",
+      "reported_date": "2026-09-12",
+      "event_date": "2026-09-10",
+      "category": "China",
+      "entities": [
+        "European Union",
+        "European Commission",
+        "Chinese automakers"
+      ],
+      "event_type": "trade_data",
+      "canonical_summary": "Bloomberg Economics found Chinese manufacturers' gains in EU markets equaled 0.7% of EU GDP in 2025 (about $150bn), with the EU's goods deficit with China up 15% to EUR 360bn and Chinese car imports topping 1 million units (over 10% of EU auto sales) despite 35.3% tariffs; Brussels is weighing swapping EV tariffs for export limits or minimum pricing.",
+      "source_url": "https://europeanbusinessmagazine.com/china-150bn-export-shock-europe",
+      "material_update_of": null
     }
   ]
 }

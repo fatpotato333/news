@@ -1,41 +1,39 @@
-Daily News for Friday, September 11, 2026.
+Daily News for Saturday, September 12, 2026.
 
 Artificial intelligence.
 
-Microsoft plans to nearly triple its AI data center capacity to more than 38 gigawatts by 2032, up from about 12 gigawatts today, according to a Bloomberg report citing people familiar with the matter. The buildout reportedly follows capacity shortages that have forced Microsoft to turn away cloud and AI customers in recent months, and AI-dedicated capacity alone is expected to grow roughly nineteen-fold over that period.
+OpenAI reversed its longstanding opposition to binding AI regulation, with its chief global affairs officer calling for mandatory national safety rules, including capability testing, independent assessments, and incident reporting for advanced AI systems.
 
-OpenAI opened its new Agents API in public beta, giving developers direct access to the session management, tool orchestration, context compaction, and sandboxed execution system that powers its own Codex coding agent, at no added fee beyond standard model and tool usage.
+Moonshot AI, maker of the Kimi chatbot, told investors its annualized revenue hit about one billion dollars in August, up from three hundred million in June, and it is now targeting two billion dollars by year end on strong demand for its Kimi K3 model. For comparison, OpenAI's run rate is near forty billion dollars and Anthropic's near sixty five billion.
 
-Anthropic published a new threat intelligence report saying it disrupted a large-scale operation in which Alibaba used Claude's chain of thought output to distill model behavior into its Qwen models, describing it as the largest such case it has measured. Anthropic also said it separately blocked attempts to misuse Claude for bioweapons research and for planning drone swarm attacks.
+Chip startup d-Matrix announced a multi-year partnership with Nvidia to integrate its Raptor inference chips into Nvidia's rack-scale systems using NVLink Fusion, aiming for combined systems in late 2027 that target faster, cheaper AI inference.
 
-Quantum computing.
+The Pentagon is negotiating a loan of up to five billion dollars, its largest ever, to AI cloud company Fluidstack to expand U.S. data center and chip supply capacity, according to Wall Street Journal reporting; the deal is not yet finalized.
 
-IBM and Lockheed Martin announced Switzerland's first IBM quantum computer, a system built on IBM's new Nighthawk processor heading to the Swiss National Supercomputing Centre in Lugano by year end. It anchors a new quantum innovation hub with ETH Zurich focused on quantum sensing for navigation and on additive manufacturing of metal alloys.
-
-Finnish quantum company IQM was selected to build a system for Finland's LUMI AI Factory that it says will become Europe's first superconducting quantum computer with logical qubits. The plan starts with an early error-correction system next year, moves to real-time error correction by 2028, and reaches nine logical qubits by 2029.
+Tokyo-based Sakana AI released two new orchestration models, Fugu Max and Fugu Ultra version two, which route tasks across pools of smaller AI models instead of relying on one large model, claiming frontier-level performance at two to six times lower cost than proprietary rivals.
 
 United States stock market.
 
-Wall Street fell for a fourth straight session as August producer prices rose more than expected, reviving bets that the Federal Reserve could raise rates rather than cut them at its September meeting. Brent crude jumped more than six percent to above 107 dollars a barrel, its highest since July, as the U.S.-Iran conflict intensified and Treasury yields climbed toward five percent.
+U.S. stocks rallied Friday, snapping a four-session losing streak, after August inflation data came in close to forecasts and oil prices retreated. The S&P 500 rose nine tenths of a percent, the Dow gained one percent, and the Nasdaq added one percent.
 
-Oracle shares jumped as much as seven percent after hours after cloud infrastructure revenue more than doubled and its backlog of remaining performance obligations hit a record 664 billion dollars, boosted by more than 30 billion dollars of new AI contracts signed in the quarter; the company also raised its full-year revenue outlook.
+The Labor Department reported August consumer prices rose zero point four percent for the month and three point four percent from a year earlier, with core inflation at two point four percent; the data pushed traders' odds of a Federal Reserve rate hike next week to nearly ninety percent.
 
-Adobe beat third-quarter earnings estimates, with record revenue up 13 percent, and said AI-related annual recurring revenue topped 650 million dollars, up more than 150 percent. Its shares still fell about two percent as investors focused on a cautious near-term outlook.
+Kroger beat second-quarter earnings expectations, posting adjusted profit of one dollar and nine cents per share on thirty four point six billion dollars in revenue, but cut its full-year sales guidance, citing pressure on pharmacy revenue from healthcare policy changes; shares still closed up nearly three percent as the broader market rallied.
 
 Czech Republic and Slovakia.
 
-New European Union rules under the Cyber Resilience Act took effect today, requiring makers of connected digital products sold in the EU, including in Czechia and Slovakia, to report actively exploited vulnerabilities within 24 hours through national cybersecurity authorities.
+The Czech Chamber of Deputies approved a cap on consumer loan interest rates, limiting the annual percentage rate on larger loans to roughly the central bank's repo rate times four plus eight percentage points, and requiring creditworthiness checks even on interest-free installment plans; the bill now moves to the Senate.
 
-The Czech Chamber of Deputies overrode the Senate to finalize a renewed electronic sales-records law that will require businesses to report card payments as well as cash starting in 2027, a rule expected to affect nearly all Czech merchants and the self-employed.
+The Czech Chamber of Deputies also passed a law overhauling residence rules for foreigners, making registration mandatory for European Union citizens staying more than ninety days, with fines up to ten thousand crowns for noncompliance; full digital processing is planned to begin by 2029.
 
-The Chamber also overrode the Senate a second time to finalize a Building Act amendment centralizing construction permits into a single state office system, intended to speed up permitting later this year ahead of a full office reform from January 2027.
-
-Czech mortgage rates rose for a sixth straight month to an average of 5.51 percent, the highest level in more than two years, adding roughly 1,280 crowns a month to payments on a typical new mortgage since rates bottomed out in March.
+Slovakia's Social Insurance Agency launched thirty-six new digital services, including automatic payment of maternity and parental benefits based on healthcare records with no application required, funded through the European Union's recovery plan.
 
 China.
 
-Reuters reported that Iran has used a China-based barter network tied to state oil trader Zhuhai Zhenrong to trade oil for an estimated two to two and a half billion dollars in Chinese goods since 2021, including in one case military equipment, sidestepping U.S. sanctions.
+Chinese state media confirmed the death toll from a fire aboard a cargo ship docked for repairs at a shipyard in Qingdao has risen to twenty-five, with five more injured; Xi Jinping ordered a nationwide fire-safety inspection as the cause remains under investigation.
 
-DeepSeek has hired CITIC Securities to prepare a listing on Shanghai's STAR Market, Bloomberg reported, with a pre-IPO funding round said to value the Chinese AI company at around 75 billion dollars.
+China accused the CIA of economic espionage against its semiconductor and biotechnology firms after a senior American intelligence official publicly described such operations, threatening countermeasures just weeks before a planned meeting between Xi Jinping and President Trump.
 
-Chinese state media confirmed the death toll from landslides triggered by Typhoon Saudel's remnants in Jiangxi's Suichuan county has risen to 16, finalizing a toll that stood at four dead and ten missing earlier in the week.
+Chinese chipmakers Huawei and Cambricon have raised prices on their domestic AI accelerators by twenty to sixty percent as a global shortage of high bandwidth memory forces them to rely on costlier grey-market supply; Huawei's flagship Ascend chip is now quoted above two hundred fifty thousand yuan, roughly thirty seven thousand dollars.
+
+A Bloomberg Economics analysis found Chinese manufacturers' growing share of European Union markets cost the EU about one hundred fifty billion dollars in economic output last year, with Chinese car imports topping one million units and crossing ten percent of EU auto sales despite thirty five percent tariffs; the EU is weighing replacing those tariffs with export limits or minimum pricing.
