@@ -6550,6 +6550,48 @@
       "canonical_summary": "Bloomberg Economics found Chinese manufacturers' gains in EU markets equaled 0.7% of EU GDP in 2025 (about $150bn), with the EU's goods deficit with China up 15% to EUR 360bn and Chinese car imports topping 1 million units (over 10% of EU auto sales) despite 35.3% tariffs; Brussels is weighing swapping EV tariffs for export limits or minimum pricing.",
       "source_url": "https://europeanbusinessmagazine.com/china-150bn-export-shock-europe",
       "material_update_of": null
+    },
+    {
+      "event_id": "openai-anthropic-ai-pacing-ipo-delay",
+      "reported_date": "2026-09-13",
+      "event_date": "2026-09-12",
+      "category": "AI",
+      "entities": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "event_type": "policy_statement",
+      "canonical_summary": "OpenAI's Sam Altman ruled out a 2026 IPO citing AI safety concerns, alongside an essay from Anthropic CEO Dario Amodei urging AI labs to deliberately slow the pace of capability development, which Altman said he agreed with.",
+      "source_url": "https://www.cnn.com/2026/09/12/tech/anthropic-ceo-essay-ai",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-eu-farm-subsidy-clawback-6bn",
+      "reported_date": "2026-09-13",
+      "event_date": "2026-09-12",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Republic",
+        "European Commission"
+      ],
+      "event_type": "regulatory_finding",
+      "canonical_summary": "A European Commission audit found the Czech Republic may have to repay roughly CZK 6 billion in EU agricultural subsidies after the same land plots were found to have been claimed by multiple recipients; the Agriculture Ministry disputes the finding and plans to contest it by year end.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/po-auditu-ek-hrozi-ze-bude-cr-muset-vratit-6-mld-dotaci-na-zemedelstvi/2873553",
+      "material_update_of": null
+    },
+    {
+      "event_id": "brics-new-delhi-declaration-de-dollarization",
+      "reported_date": "2026-09-13",
+      "event_date": "2026-09-12",
+      "category": "China",
+      "entities": [
+        "China",
+        "BRICS"
+      ],
+      "event_type": "diplomatic_declaration",
+      "canonical_summary": "BRICS leaders, including Xi Jinping, adopted the New Delhi Declaration committing to expand trade and payments in local currencies and launch a payment-messaging system linking India, China, and Russia to reduce reliance on the US dollar.",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3367315/under-trumps-shadow-brics-takes-step-towards-de-dollarisation",
+      "material_update_of": null
     }
   ]
 }

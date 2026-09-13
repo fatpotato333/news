@@ -1,39 +1,13 @@
-Daily News for Saturday, September 12, 2026.
+Daily News for Sunday, September 13, 2026.
 
 Artificial intelligence.
 
-OpenAI reversed its longstanding opposition to binding AI regulation, with its chief global affairs officer calling for mandatory national safety rules, including capability testing, independent assessments, and incident reporting for advanced AI systems.
-
-Moonshot AI, maker of the Kimi chatbot, told investors its annualized revenue hit about one billion dollars in August, up from three hundred million in June, and it is now targeting two billion dollars by year end on strong demand for its Kimi K3 model. For comparison, OpenAI's run rate is near forty billion dollars and Anthropic's near sixty five billion.
-
-Chip startup d-Matrix announced a multi-year partnership with Nvidia to integrate its Raptor inference chips into Nvidia's rack-scale systems using NVLink Fusion, aiming for combined systems in late 2027 that target faster, cheaper AI inference.
-
-The Pentagon is negotiating a loan of up to five billion dollars, its largest ever, to AI cloud company Fluidstack to expand U.S. data center and chip supply capacity, according to Wall Street Journal reporting; the deal is not yet finalized.
-
-Tokyo-based Sakana AI released two new orchestration models, Fugu Max and Fugu Ultra version two, which route tasks across pools of smaller AI models instead of relying on one large model, claiming frontier-level performance at two to six times lower cost than proprietary rivals.
-
-United States stock market.
-
-U.S. stocks rallied Friday, snapping a four-session losing streak, after August inflation data came in close to forecasts and oil prices retreated. The S&P 500 rose nine tenths of a percent, the Dow gained one percent, and the Nasdaq added one percent.
-
-The Labor Department reported August consumer prices rose zero point four percent for the month and three point four percent from a year earlier, with core inflation at two point four percent; the data pushed traders' odds of a Federal Reserve rate hike next week to nearly ninety percent.
-
-Kroger beat second-quarter earnings expectations, posting adjusted profit of one dollar and nine cents per share on thirty four point six billion dollars in revenue, but cut its full-year sales guidance, citing pressure on pharmacy revenue from healthcare policy changes; shares still closed up nearly three percent as the broader market rallied.
+OpenAI's Sam Altman ruled out taking the company public in 2026, citing AI safety concerns as the reason a listing would be premature. The comments followed an essay from Anthropic CEO Dario Amodei urging AI labs to deliberately slow the pace of capability development, a call Altman said he agreed with.
 
 Czech Republic and Slovakia.
 
-The Czech Chamber of Deputies approved a cap on consumer loan interest rates, limiting the annual percentage rate on larger loans to roughly the central bank's repo rate times four plus eight percentage points, and requiring creditworthiness checks even on interest-free installment plans; the bill now moves to the Senate.
-
-The Czech Chamber of Deputies also passed a law overhauling residence rules for foreigners, making registration mandatory for European Union citizens staying more than ninety days, with fines up to ten thousand crowns for noncompliance; full digital processing is planned to begin by 2029.
-
-Slovakia's Social Insurance Agency launched thirty-six new digital services, including automatic payment of maternity and parental benefits based on healthcare records with no application required, funded through the European Union's recovery plan.
+A European Commission audit found the Czech Republic may have to repay about six billion crowns in EU agricultural subsidies, after discovering the same land plots were used by multiple claimants. The Czech Agriculture Ministry disputes the finding and plans to contest it by the end of the year.
 
 China.
 
-Chinese state media confirmed the death toll from a fire aboard a cargo ship docked for repairs at a shipyard in Qingdao has risen to twenty-five, with five more injured; Xi Jinping ordered a nationwide fire-safety inspection as the cause remains under investigation.
-
-China accused the CIA of economic espionage against its semiconductor and biotechnology firms after a senior American intelligence official publicly described such operations, threatening countermeasures just weeks before a planned meeting between Xi Jinping and President Trump.
-
-Chinese chipmakers Huawei and Cambricon have raised prices on their domestic AI accelerators by twenty to sixty percent as a global shortage of high bandwidth memory forces them to rely on costlier grey-market supply; Huawei's flagship Ascend chip is now quoted above two hundred fifty thousand yuan, roughly thirty seven thousand dollars.
-
-A Bloomberg Economics analysis found Chinese manufacturers' growing share of European Union markets cost the EU about one hundred fifty billion dollars in economic output last year, with Chinese car imports topping one million units and crossing ten percent of EU auto sales despite thirty five percent tariffs; the EU is weighing replacing those tariffs with export limits or minimum pricing.
+Xi Jinping and other BRICS leaders adopted a declaration at their New Delhi summit committing to expand trade and payments in local currencies, launching a system linking India, China, and Russia's payment networks to reduce reliance on the dollar.
