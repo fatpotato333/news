@@ -1,13 +1,17 @@
-Daily News for Sunday, September 13, 2026.
+Daily News for Monday, September 14, 2026.
 
 Artificial intelligence.
 
-OpenAI's Sam Altman ruled out taking the company public in 2026, citing AI safety concerns as the reason a listing would be premature. The comments followed an essay from Anthropic CEO Dario Amodei urging AI labs to deliberately slow the pace of capability development, a call Altman said he agreed with.
+Microsoft announced a new code of conduct governing its own AI models, responding directly to Anthropic chief executive Dario Amodei's call for the industry to slow the pace of frontier AI development; the code is open for public consultation. The Information reported that Anthropic, OpenAI, and Google DeepMind have quietly been negotiating a joint industry safety standards body since July, aiming for shared pre-release testing and independent evaluations. Microsoft also began rolling out xAI's Grok models inside Copilot for Word, Excel, and PowerPoint, giving users model choice beyond OpenAI's systems.
+
+United States stock market.
+
+Asian and US futures markets fell Monday after Amodei's essay and Sam Altman's confirmation that OpenAI is delaying its IPO to 2027; SoftBank, OpenAI's largest outside investor, dropped more than eleven percent in Tokyo, while chipmakers Samsung, SK Hynix, Intel, and AMD all declined sharply. Oil prices jumped more than two percent after Oman postponed talks between Iran and Gulf states meant to reopen the Strait of Hormuz to normal tanker traffic, with Brent crude trading near one hundred eight dollars a barrel. SpaceX's weighting in the Nasdaq 100 index is set to more than double, from about 1.3 percent to 2.8 percent, as post-IPO lockup shares become eligible for the index, a change expected to trigger billions of dollars in passive fund buying.
 
 Czech Republic and Slovakia.
 
-A European Commission audit found the Czech Republic may have to repay about six billion crowns in EU agricultural subsidies, after discovering the same land plots were used by multiple claimants. The Czech Agriculture Ministry disputes the finding and plans to contest it by the end of the year.
+The Czech government said it is ready to cap both producer and supplier electricity prices if wholesale costs keep rising, as European gas prices hit their highest level since 2022 amid Middle East tensions; no trigger threshold has been set yet. Czech and Slovak fuel prices are climbing sharply, with Czech gasoline near forty four crowns and diesel near forty eight crowns per liter, as Middle East disruptions squeeze diesel supply; both governments say they will not intervene unless prices diverge sharply from neighboring countries. The Czech labor minister said he is open to reviving a coalition proposal to scrap paid sick leave for the first three days of illness, a rule reinstated only last year, a move employers back and unions oppose.
 
 China.
 
-Xi Jinping and other BRICS leaders adopted a declaration at their New Delhi summit committing to expand trade and payments in local currencies, launching a system linking India, China, and Russia's payment networks to reduce reliance on the dollar.
+China's foreign ministry warned it may cancel the planned September 24 summit between Xi Jinping and Donald Trump in Washington over a fourteen billion dollar Taiwan arms package that Congress passed but the White House has not yet acted on. China's state security minister, Chen Yixin, published an unusually explicit warning that foreign use of artificial intelligence, including deepfakes and AI-assisted espionage, directly threatens the country's political and institutional security.

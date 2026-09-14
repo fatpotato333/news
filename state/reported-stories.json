@@ -6592,6 +6592,171 @@
       "canonical_summary": "BRICS leaders, including Xi Jinping, adopted the New Delhi Declaration committing to expand trade and payments in local currencies and launch a payment-messaging system linking India, China, and Russia to reduce reliance on the US dollar.",
       "source_url": "https://www.scmp.com/news/china/diplomacy/article/3367315/under-trumps-shadow-brics-takes-step-towards-de-dollarisation",
       "material_update_of": null
+    },
+    {
+      "event_id": "microsoft-ai-code-of-conduct-mai-models",
+      "reported_date": "2026-09-14",
+      "event_date": "2026-09-13",
+      "category": "AI",
+      "entities": [
+        "Microsoft",
+        "Satya Nadella"
+      ],
+      "event_type": "policy_announcement",
+      "canonical_summary": "Microsoft CEO Satya Nadella announced a new code of conduct governing Microsoft's own first-party MAI models, opening it for public consultation, in direct response to Anthropic CEO Dario Amodei's essay urging AI labs to deliberately pace frontier capability development.",
+      "source_url": "https://www.unite.ai/nadella-announces-public-consultation-on-microsofts-mai-model-rules/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "ai-labs-joint-safety-standards-body-talks",
+      "reported_date": "2026-09-14",
+      "event_date": "2026-09-13",
+      "category": "AI",
+      "entities": [
+        "Anthropic",
+        "OpenAI",
+        "Google DeepMind"
+      ],
+      "event_type": "industry_coordination_disclosure",
+      "canonical_summary": "The Information reported that working groups from Anthropic, OpenAI, and Google DeepMind have met regularly since July to design an industry-led AI safety standards body covering shared pre-release testing, independent evaluations, and standardized risk assessments, as an alternative to government regulation.",
+      "source_url": "https://www.theinformation.com/articles/inside-ai-industrys-behind-scenes-push-police",
+      "material_update_of": null
+    },
+    {
+      "event_id": "microsoft-copilot-grok-integration",
+      "reported_date": "2026-09-14",
+      "event_date": "2026-09-12",
+      "category": "AI",
+      "entities": [
+        "Microsoft",
+        "xAI"
+      ],
+      "event_type": "product_integration",
+      "canonical_summary": "Microsoft began rolling out xAI's Grok models as a selectable option inside Copilot for Word, Excel, and PowerPoint, gated to its Frontier Program with admin opt-in and excluding the EU/EFTA/UK during preview.",
+      "source_url": "https://www.neowin.net/news/microsoft-brings-grok-to-word-excel-and-powerpoint-as-it-moves-further-beyond-openai/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "softbank-chip-stocks-selloff-ai-pacing-reaction",
+      "reported_date": "2026-09-14",
+      "event_date": "2026-09-14",
+      "category": "US Stock Market",
+      "entities": [
+        "SoftBank Group",
+        "Samsung",
+        "SK Hynix",
+        "Intel",
+        "AMD"
+      ],
+      "event_type": "market_move",
+      "canonical_summary": "Markets reacted Monday to Amodei's pacing essay and Sam Altman's confirmation that OpenAI is delaying its IPO to 2027: SoftBank, OpenAI's largest outside investor, fell over 11 percent in Tokyo, and chipmakers Samsung, SK Hynix, Intel and AMD all declined sharply.",
+      "source_url": "https://www.wral.com/news/ap/0b44b-asian-shares-are-mixed-and-openai-investor-softbank-shares-plunge-after-calls-to-slow-ai-industry/",
+      "material_update_of": "openai-anthropic-ai-pacing-ipo-delay"
+    },
+    {
+      "event_id": "oil-jump-hormuz-talks-postponed",
+      "reported_date": "2026-09-14",
+      "event_date": "2026-09-14",
+      "category": "US Stock Market",
+      "entities": [
+        "Oman",
+        "Iran",
+        "Saudi Arabia",
+        "Gulf states"
+      ],
+      "event_type": "geopolitical_market_event",
+      "canonical_summary": "Oil prices jumped more than 2 percent, with Brent near $108/barrel, after Oman postponed a planned Sept 14 meeting meant to negotiate reopening the Strait of Hormuz to normal tanker traffic, while Saudi Arabia's East-West crude pipeline stayed shut following a drone attack.",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/9/14/iran-war-live-oman-says-hormuz-talks-with-iran-gulf-states-postponed",
+      "material_update_of": "us-stocks-oil-100-iran-fed-hike-odds-sept9"
+    },
+    {
+      "event_id": "spacex-nasdaq100-weighting-doubles",
+      "reported_date": "2026-09-14",
+      "event_date": "2026-09-12",
+      "category": "US Stock Market",
+      "entities": [
+        "SpaceX",
+        "Nasdaq 100"
+      ],
+      "event_type": "index_rebalance",
+      "canonical_summary": "SpaceX's weighting in the Nasdaq 100 is set to more than double, from about 1.28 percent to 2.82 percent, as post-IPO lockup shares become free-float eligible, a change expected to trigger billions of dollars in forced passive-fund buying.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-12/spacex-to-get-weighting-boost-in-nasdaq-100-after-rebalance",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-govt-electricity-price-cap-readiness",
+      "reported_date": "2026-09-14",
+      "event_date": "2026-09-13",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Ministry of Industry and Trade",
+        "Karel Havlicek",
+        "Czech government"
+      ],
+      "event_type": "policy_readiness",
+      "canonical_summary": "Czech Industry Minister Karel Havlicek said the government is ready to cap both producer and supplier electricity prices if wholesale costs keep rising amid Middle East-driven European gas prices at their highest since 2022; no trigger threshold has been set and it is a contingency, not yet activated.",
+      "source_url": "https://www.e15.cz/ekonomika/elektrina-dal-zdrazuje-vlada-je-pripravena-zastropovat-ceny-havlicek-popsal-plan-1435743",
+      "material_update_of": "czech-energy-wholesale-price-spike-cez-hike"
+    },
+    {
+      "event_id": "czech-slovak-fuel-prices-climbing-sept",
+      "reported_date": "2026-09-14",
+      "event_date": "2026-09-13",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech fuel market",
+        "Slovak fuel market"
+      ],
+      "event_type": "price_trend",
+      "canonical_summary": "Czech and Slovak fuel prices are climbing sharply after the Czech cap expired, with Czech gasoline near 44.22 CZK/l and diesel 47.79 CZK/l; both governments say they will not intervene unless local prices diverge sharply from neighboring countries.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/pohonne-hmoty-v-cesku-dal-zdrazuji-vlada-se-k-zasahu-nechysta/2872675",
+      "material_update_of": "czech-fuel-prices-stagnate-post-cap"
+    },
+    {
+      "event_id": "czech-karencni-doba-scrap-proposal",
+      "reported_date": "2026-09-14",
+      "event_date": "2026-09-14",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Ministry of Labour and Social Affairs",
+        "Ales Juchelka",
+        "Motoriste",
+        "Boris Stastny"
+      ],
+      "event_type": "policy_proposal",
+      "canonical_summary": "Czech Labor Minister Ales Juchelka said he is open to reviving coalition partner Motoriste's proposal to scrap paid sick leave for the first three days of illness, a rule only reinstated in January 2025, a move backed by employers and opposed by union leader Josef Stredula.",
+      "source_url": "https://zpravy.aktualne.cz/domaci/prvni-tri-dny-nemoci-bez-podpory-firmy-po-tom-volaji-haji-juchelka-navrh-motoristu/r~aaa29a34543b23e02c55b63d75e81f2c/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-taiwan-arms-summit-risk",
+      "reported_date": "2026-09-14",
+      "event_date": "2026-09-13",
+      "category": "China",
+      "entities": [
+        "China Foreign Ministry",
+        "Xi Jinping",
+        "Donald Trump",
+        "Taiwan"
+      ],
+      "event_type": "diplomatic_warning",
+      "canonical_summary": "China's foreign ministry warned it may cancel the planned September 24 Xi-Trump summit in Washington over a 14 billion dollar Taiwan arms package that Congress passed but the White House has not yet acted on, calling Taiwan a consistent red line.",
+      "source_url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/13/2003864183",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-mss-ai-political-security-warning",
+      "reported_date": "2026-09-14",
+      "event_date": "2026-09-14",
+      "category": "China",
+      "entities": [
+        "China Ministry of State Security",
+        "Chen Yixin"
+      ],
+      "event_type": "government_statement",
+      "canonical_summary": "China's state security minister Chen Yixin published an unusually explicit warning in official state media that foreign adversarial use of AI, including deepfakes, disinformation bots, and AI-assisted data mining of secrets, directly threatens China's political, institutional and ideological security.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-14/china-spy-chief-warns-of-ai-risks-as-us-tech-leaders-urge-brakes",
+      "material_update_of": null
     }
   ]
 }
