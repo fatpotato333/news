@@ -6757,6 +6757,177 @@
       "canonical_summary": "China's state security minister Chen Yixin published an unusually explicit warning in official state media that foreign adversarial use of AI, including deepfakes, disinformation bots, and AI-assisted data mining of secrets, directly threatens China's political, institutional and ideological security.",
       "source_url": "https://www.bloomberg.com/news/articles/2026-09-14/china-spy-chief-warns-of-ai-risks-as-us-tech-leaders-urge-brakes",
       "material_update_of": null
+    },
+    {
+      "event_id": "apple-siri-ai-beta-launch",
+      "reported_date": "2026-09-15",
+      "event_date": "2026-09-14",
+      "category": "AI",
+      "entities": [
+        "Apple"
+      ],
+      "event_type": "product_launch",
+      "canonical_summary": "Apple began publicly rolling out Siri AI in English-language beta, its rebuilt conversational assistant with personal-context understanding, onscreen awareness, and cross-app actions; French, Japanese, Korean, Portuguese and Spanish follow in October.",
+      "source_url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/",
+      "material_update_of": "apple-siri-gemini-foldable-iphone"
+    },
+    {
+      "event_id": "anthropic-claude-financial-advisors-launch",
+      "reported_date": "2026-09-15",
+      "event_date": "2026-09-14",
+      "category": "AI",
+      "entities": [
+        "Anthropic",
+        "BlackRock",
+        "Charles Schwab",
+        "Addepar"
+      ],
+      "event_type": "product_launch",
+      "canonical_summary": "Anthropic launched Claude for Financial Advisors, an enterprise plugin bundling connectors to major wealth-management platforms with workflow skills for research, portfolio oversight and admin tasks.",
+      "source_url": "https://www.unite.ai/anthropic-launches-claude-for-financial-advisors-with-partner-connectors/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "zhipu-5b-funding-round",
+      "reported_date": "2026-09-15",
+      "event_date": "2026-09-14",
+      "category": "AI",
+      "entities": [
+        "Zhipu AI"
+      ],
+      "event_type": "funding",
+      "canonical_summary": "Chinese AI lab Zhipu closed roughly $5 billion in fresh funding, two months after a $4 billion round, earmarked for its next-gen GLM model, a proprietary training framework, and compute expansion.",
+      "source_url": "https://en.sedaily.com/international/2026/09/15/chinas-zhipu-raises-5-billion-in-two-months-for-ai-push",
+      "material_update_of": null
+    },
+    {
+      "event_id": "bytedance-296b-ai-infrastructure-loan",
+      "reported_date": "2026-09-15",
+      "event_date": "2026-09-14",
+      "category": "AI",
+      "entities": [
+        "ByteDance"
+      ],
+      "event_type": "funding",
+      "canonical_summary": "ByteDance secured a roughly $29.6 billion syndicated loan to fund an AI infrastructure buildout that could see it spend as much as $70 billion in 2026 on data centers and compute.",
+      "source_url": "https://www.coindesk.com/business/2026/09/14/tiktok-developer-bytedance-arranges-usd29-6-billion-loan-as-it-builds-ai-ambitions",
+      "material_update_of": null
+    },
+    {
+      "event_id": "nvidia-cuda-q-logical-launch",
+      "reported_date": "2026-09-15",
+      "event_date": "2026-09-14",
+      "category": "Quantum Computing",
+      "entities": [
+        "NVIDIA",
+        "Iceberg Quantum",
+        "Diraq",
+        "Fermilab"
+      ],
+      "event_type": "fault_tolerance",
+      "canonical_summary": "NVIDIA launched CUDA-Q Logical, a software layer for simulating fault-tolerant, error-corrected quantum systems before hardware is built; early users report a 10x improvement in a silicon-qubit design estimate and cut algorithm development time from five months to three weeks.",
+      "source_url": "https://siliconangle.com/2026/09/14/nvidia-expands-cuda-q-platform-to-support-fault-tolerant-quantum-processors/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "penn-diamond-qubit-entanglement",
+      "reported_date": "2026-09-15",
+      "event_date": "2026-09-14",
+      "category": "Quantum Computing",
+      "entities": [
+        "University of Pennsylvania"
+      ],
+      "event_type": "qubit_advance",
+      "canonical_summary": "University of Pennsylvania physicists entangled four qubits in a room-temperature nitrogen-vacancy diamond in 14.8 microseconds, about ten times faster than the standard sequential method, boosting fidelity from 0.69 to 0.92.",
+      "source_url": "https://thequantuminsider.com/2026/09/14/penn-researchers-demonstrate-room-temperature-diamond-system-that-entangles-four-qubits-10-times-faster/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "phasecraft-nvidia-molecular-simulation-speedup",
+      "reported_date": "2026-09-15",
+      "event_date": "2026-09-14",
+      "category": "Quantum Computing",
+      "entities": [
+        "Phasecraft",
+        "NVIDIA"
+      ],
+      "event_type": "commercial_application",
+      "canonical_summary": "Phasecraft and NVIDIA reported a 15x speedup in hybrid quantum-classical molecular simulations for drug discovery under the Wellcome Leap Q4Bio program, generating over 3,000 VQE runs across 13 molecules on NVIDIA Hopper GPUs.",
+      "source_url": "https://thequantuminsider.com/2026/09/14/phasecraft-nvidia-quantum-simulation-drug-discovery/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-stocks-treasury-yield-5pct-chip-selloff-close",
+      "reported_date": "2026-09-15",
+      "event_date": "2026-09-14",
+      "category": "US Stock Market",
+      "entities": [
+        "S&P 500",
+        "Nasdaq",
+        "Nvidia",
+        "Intel",
+        "AMD",
+        "US Treasury"
+      ],
+      "event_type": "index_move",
+      "canonical_summary": "Confirmed Monday close: S&P 500 fell 0.48%, Nasdaq 0.56%, as chip stocks Nvidia, Intel, AMD and Marvell dropped 3-7% on AI-slowdown fears while hyperscalers Microsoft, Alphabet and Meta rose; the 10-year Treasury yield briefly topped 5% for the first time since 2007.",
+      "source_url": "https://fortune.com/2026/09/14/ai-slowdown-stocks-nvidia-meta/",
+      "material_update_of": "softbank-chip-stocks-selloff-ai-pacing-reaction"
+    },
+    {
+      "event_id": "czech-slovak-energy-price-spike-sept15",
+      "reported_date": "2026-09-15",
+      "event_date": "2026-09-15",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Republic",
+        "Slovakia"
+      ],
+      "event_type": "energy_prices",
+      "canonical_summary": "Wholesale gas and electricity prices in Czechia and Slovakia jumped again week-on-week, with gas up over 10% to about EUR 80/MWh, the highest since 2022, and electricity up over 8% to near EUR 150/MWh, as Middle East supply disruptions squeeze European energy markets.",
+      "source_url": "https://www.topky.sk/cl/10/9493091/Dalsia-rana-pre-penazenky--Plyn-a-elektrina-prudko-ZDRAZELI--Dodavky-blokuje-napatie-na-Blizkom-vychode",
+      "material_update_of": "czech-govt-electricity-price-cap-readiness"
+    },
+    {
+      "event_id": "eppf-telecom-h1-2026-results",
+      "reported_date": "2026-09-15",
+      "event_date": "2026-09-14",
+      "category": "PPF Group",
+      "entities": [
+        "e& PPF Telecom Group"
+      ],
+      "event_type": "financial_results",
+      "canonical_summary": "e& PPF Telecom Group, the joint venture running PPF's telecom operations across Slovakia, Hungary, Bulgaria and Serbia, posted H1 2026 revenue of EUR 1.292 billion, up 14.2% y/y, with EBITDAaL up 14.1% to EUR 582 million and net leverage improving to 1.90x.",
+      "source_url": "https://www.telecompaper.com/news/e-ppf-telecom-group-reports-14-revenue-growth-in-h1--1582528",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-exit-entry-regulations-effective",
+      "reported_date": "2026-09-15",
+      "event_date": "2026-09-15",
+      "category": "China",
+      "entities": [
+        "China",
+        "National Immigration Administration"
+      ],
+      "event_type": "regulation",
+      "canonical_summary": "China's new Exit and Entry Administration Regulations took effect, expanding authorities' power to scrutinize visa and entry applications, impose 1-5 year entry bans for false information, and newly regulate immigration consulting firms, while leaving visa-free access for 50 countries untouched.",
+      "source_url": "https://eiglaw.com/china-issues-new-exit-and-entry-administration-regulations-effective-september-15-2026/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-august-retail-sales-weak-industrial-beat",
+      "reported_date": "2026-09-15",
+      "event_date": "2026-09-15",
+      "category": "China",
+      "entities": [
+        "China",
+        "National Bureau of Statistics"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "China's NBS reported August retail sales grew just 0.4% y/y, the weakest since May and below forecasts, while industrial output beat expectations at 5.2% and fixed-asset investment fell 7.2%, keeping pressure on Beijing for further stimulus.",
+      "source_url": "https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html",
+      "material_update_of": null
     }
   ]
 }

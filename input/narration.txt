@@ -1,17 +1,37 @@
-Daily News for Monday, September 14, 2026.
+Daily News for Tuesday, September 15, 2026.
 
 Artificial intelligence.
 
-Microsoft announced a new code of conduct governing its own AI models, responding directly to Anthropic chief executive Dario Amodei's call for the industry to slow the pace of frontier AI development; the code is open for public consultation. The Information reported that Anthropic, OpenAI, and Google DeepMind have quietly been negotiating a joint industry safety standards body since July, aiming for shared pre-release testing and independent evaluations. Microsoft also began rolling out xAI's Grok models inside Copilot for Word, Excel, and PowerPoint, giving users model choice beyond OpenAI's systems.
+Apple began rolling out Siri AI in beta, a rebuilt assistant with personal context awareness and cross app actions, launching in English first, with French, Japanese, Korean, Portuguese, and Spanish following next month.
+
+Anthropic launched Claude for Financial Advisors, an enterprise plugin connecting to wealth management platforms including BlackRock, Charles Schwab, and Addepar, with workflow tools for research, portfolio oversight, and administrative tasks.
+
+Chinese AI lab Zhipu raised roughly five billion dollars, just two months after a four billion dollar round, earmarking the funds for its next generation GLM model, a new training framework, and expanded computing capacity.
+
+ByteDance secured a syndicated loan of nearly thirty billion dollars to fund an AI infrastructure buildout that could see it spend as much as seventy billion dollars this year on data centers and computing power.
+
+Quantum computing.
+
+Nvidia expanded its CUDA-Q platform with a new tool called CUDA-Q Logical for simulating fault tolerant quantum systems before they are built; early users say it cut one algorithm's development time from five months to three weeks.
+
+University of Pennsylvania physicists entangled four qubits in a room temperature diamond in under fifteen microseconds, about ten times faster than the standard method, pointing toward better quantum sensors and error correction.
+
+Phasecraft and Nvidia reported a fifteen times speedup in quantum molecular simulations for drug discovery, generating thousands of simulation runs across thirteen molecules using Nvidia's Hopper GPUs.
 
 United States stock market.
 
-Asian and US futures markets fell Monday after Amodei's essay and Sam Altman's confirmation that OpenAI is delaying its IPO to 2027; SoftBank, OpenAI's largest outside investor, dropped more than eleven percent in Tokyo, while chipmakers Samsung, SK Hynix, Intel, and AMD all declined sharply. Oil prices jumped more than two percent after Oman postponed talks between Iran and Gulf states meant to reopen the Strait of Hormuz to normal tanker traffic, with Brent crude trading near one hundred eight dollars a barrel. SpaceX's weighting in the Nasdaq 100 index is set to more than double, from about 1.3 percent to 2.8 percent, as post-IPO lockup shares become eligible for the index, a change expected to trigger billions of dollars in passive fund buying.
+US stocks closed lower Monday as the AI slowdown debate hit chip stocks hard, with Nvidia, Intel, and AMD falling three to seven percent while Microsoft, Alphabet, and Meta rose; the ten year Treasury yield briefly topped five percent for the first time since 2007, as oil's climb stoked inflation concern ahead of this week's Federal Reserve meeting.
 
 Czech Republic and Slovakia.
 
-The Czech government said it is ready to cap both producer and supplier electricity prices if wholesale costs keep rising, as European gas prices hit their highest level since 2022 amid Middle East tensions; no trigger threshold has been set yet. Czech and Slovak fuel prices are climbing sharply, with Czech gasoline near forty four crowns and diesel near forty eight crowns per liter, as Middle East disruptions squeeze diesel supply; both governments say they will not intervene unless prices diverge sharply from neighboring countries. The Czech labor minister said he is open to reviving a coalition proposal to scrap paid sick leave for the first three days of illness, a rule reinstated only last year, a move employers back and unions oppose.
+Wholesale gas and electricity prices in Czechia and Slovakia jumped again this week, with gas up more than ten percent to about eighty euros per megawatt hour, the highest since 2022, as Middle East supply disruptions squeeze European energy markets and raise the odds the Czech government's contingency price cap gets triggered.
+
+PPF Group.
+
+E and PPF Telecom Group, the joint venture running PPF's telecom operations in Slovakia, Hungary, Bulgaria, and Serbia, reported first half revenue of one point three billion euros, up fourteen percent, with leverage improving to under its target level.
 
 China.
 
-China's foreign ministry warned it may cancel the planned September 24 summit between Xi Jinping and Donald Trump in Washington over a fourteen billion dollar Taiwan arms package that Congress passed but the White House has not yet acted on. China's state security minister, Chen Yixin, published an unusually explicit warning that foreign use of artificial intelligence, including deepfakes and AI-assisted espionage, directly threatens the country's political and institutional security.
+New Chinese exit and entry regulations took effect today, giving authorities expanded power to scrutinize visa and entry applications, impose multi year entry bans for false information, and newly regulate immigration consulting firms.
+
+China's August data showed retail sales grew just zero point four percent year on year, the weakest pace since May, while industrial output beat forecasts at five point two percent, adding pressure on Beijing for further stimulus.
