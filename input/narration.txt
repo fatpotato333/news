@@ -1,37 +1,35 @@
-Daily News for Tuesday, September 15, 2026.
+Daily News for Wednesday, September 16, 2026.
 
 Artificial intelligence.
 
-Apple began rolling out Siri AI in beta, a rebuilt assistant with personal context awareness and cross app actions, launching in English first, with French, Japanese, Korean, Portuguese, and Spanish following next month.
+Independent analysis firm SemiAnalysis published pre-release benchmark testing showing NVIDIA's unreleased Rubin NVL72 platform reaching about fifty nine point four million tokens per second per megawatt, versus twenty eight point five million for the current GB300 Blackwell platform, at matched interactivity, with the efficiency gap widening further at higher throughput.
 
-Anthropic launched Claude for Financial Advisors, an enterprise plugin connecting to wealth management platforms including BlackRock, Charles Schwab, and Addepar, with workflow tools for research, portfolio oversight, and administrative tasks.
+Cornelis Networks, an Intel networking spinoff, raised two hundred five million dollars led by IAG Capital Partners and unveiled Active Compute Fabric, a GPU agnostic in-network computing architecture built on open Ethernet and Ultra Ethernet standards, meant to challenge NVIDIA's interconnect dominance in AI data centers, alongside a new rack scale networking collaboration with Qualcomm.
 
-Chinese AI lab Zhipu raised roughly five billion dollars, just two months after a four billion dollar round, earmarking the funds for its next generation GLM model, a new training framework, and expanded computing capacity.
+Perplexity and NVIDIA released Portable Computer for Windows, a fully on-device agentic AI assistant for RTX graphics cards with at least twenty four gigabytes of memory, running its model, orchestrator and task scheduler locally with no cloud connection required.
 
-ByteDance secured a syndicated loan of nearly thirty billion dollars to fund an AI infrastructure buildout that could see it spend as much as seventy billion dollars this year on data centers and computing power.
+An investigation revealed OpenAI runs an internal program called Project Lily, in which hundreds of contractors read real ChatGPT conversations, with usernames and personal details supposedly stripped, to rate and improve model responses, though sensitive details can still leak through. OpenAI confirmed the practice and said Anthropic runs a similar review program of its own.
 
 Quantum computing.
 
-Nvidia expanded its CUDA-Q platform with a new tool called CUDA-Q Logical for simulating fault tolerant quantum systems before they are built; early users say it cut one algorithm's development time from five months to three weeks.
+USC and Quantum Elements published peer reviewed research in Nature Communications showing a surface code error correction scheme, combined with dynamical decoupling to suppress idle qubit errors, achieved below threshold logical qubit performance on IBM's real Heron quantum processors, despite a mismatch between the code's grid layout and the chip's native connectivity.
 
-University of Pennsylvania physicists entangled four qubits in a room temperature diamond in under fifteen microseconds, about ten times faster than the standard method, pointing toward better quantum sensors and error correction.
-
-Phasecraft and Nvidia reported a fifteen times speedup in quantum molecular simulations for drug discovery, generating thousands of simulation runs across thirteen molecules using Nvidia's Hopper GPUs.
+Quantum hardware design firm QC Design integrated its Plaquette platform with NVIDIA's newly launched CUDA-Q Logical simulation layer and found that a leakage rate of just zero point two percent on two qubit gates cuts a fault tolerant circuit's noise threshold by roughly sixty percent, a concrete warning sign for how leakage erodes real hardware error correction margins.
 
 United States stock market.
 
-US stocks closed lower Monday as the AI slowdown debate hit chip stocks hard, with Nvidia, Intel, and AMD falling three to seven percent while Microsoft, Alphabet, and Meta rose; the ten year Treasury yield briefly topped five percent for the first time since 2007, as oil's climb stoked inflation concern ahead of this week's Federal Reserve meeting.
+US stocks fell for a second straight session Tuesday, with the S and P 500 down zero point four five percent to seven thousand five hundred eighty five, the Nasdaq down zero point seven eight percent to about twenty five thousand nine hundred eighty two, and the Dow down three hundred twenty eight points to fifty two thousand ninety three, as investors braced for the Federal Reserve's rate decision and Treasury yields stayed near multi decade highs.
+
+Bank of America shares fell as much as five point seven percent after CEO Brian Moynihan warned that third quarter trading revenue would be roughly flat year over year, a reversal from the surge seen in the first half, and that investment banking fees could decline more than ten percent, a warning that also weighed on Asian bank stocks the following session.
 
 Czech Republic and Slovakia.
 
-Wholesale gas and electricity prices in Czechia and Slovakia jumped again this week, with gas up more than ten percent to about eighty euros per megawatt hour, the highest since 2022, as Middle East supply disruptions squeeze European energy markets and raise the odds the Czech government's contingency price cap gets triggered.
+The Czech governing coalition failed to agree on reinstating a three day unpaid waiting period at the start of sick leave, after part of ANO and SPD sided with unions and the opposition against it. Minister Boris Šťastný confirmed the plan has fallen through for now; it would have saved the state budget an estimated five billion crowns a year, at the direct expense of workers' sick pay.
 
-PPF Group.
+Slovak lawmakers gave final approval to a building act amendment that eases paperwork for minor construction, adjusts building authority procedures, and allows retroactive legalization of some unauthorized construction. It affects developers, contractors and property owners, with most provisions taking effect January first, twenty twenty seven.
 
-E and PPF Telecom Group, the joint venture running PPF's telecom operations in Slovakia, Hungary, Bulgaria, and Serbia, reported first half revenue of one point three billion euros, up fourteen percent, with leverage improving to under its target level.
+Slovak parliament also passed a reform letting a new state run entity perform vehicle technical and emissions inspections alongside private operators, while extending inspection validity from two years to three and easing staffing requirements, effective January first, twenty twenty seven.
 
 China.
 
-New Chinese exit and entry regulations took effect today, giving authorities expanded power to scrutinize visa and entry applications, impose multi year entry bans for false information, and newly regulate immigration consulting firms.
-
-China's August data showed retail sales grew just zero point four percent year on year, the weakest pace since May, while industrial output beat forecasts at five point two percent, adding pressure on Beijing for further stimulus.
+China and the United States are discussing cutting tariffs on roughly thirty billion dollars of agricultural and energy trade, and lowering duties on Chinese manufacturing inputs, ahead of Xi Jinping's September twenty fourth White House visit. Treasury Secretary Scott Bessent is set to meet Vice Premier He Lifeng that weekend to advance preparations, with an extension of the trade truce expected.

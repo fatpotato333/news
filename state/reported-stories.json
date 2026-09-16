@@ -6928,6 +6928,179 @@
       "canonical_summary": "China's NBS reported August retail sales grew just 0.4% y/y, the weakest since May and below forecasts, while industrial output beat expectations at 5.2% and fixed-asset investment fell 7.2%, keeping pressure on Beijing for further stimulus.",
       "source_url": "https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html",
       "material_update_of": null
+    },
+    {
+      "event_id": "nvidia-rubin-nvl72-semianalysis-benchmark",
+      "reported_date": "2026-09-16",
+      "event_date": "2026-09-14",
+      "category": "AI",
+      "entities": [
+        "NVIDIA",
+        "SemiAnalysis"
+      ],
+      "event_type": "chip_benchmark_disclosure",
+      "canonical_summary": "SemiAnalysis published pre-release benchmark testing showing NVIDIA's unreleased Rubin NVL72 platform reaching about 59.4 million tokens/sec/MW versus 28.5 million for GB300 Blackwell at matched interactivity, with the gap widening at higher throughput.",
+      "source_url": "https://newsletter.semianalysis.com/p/vera-rubin-nvl72-agentic-inference",
+      "material_update_of": null
+    },
+    {
+      "event_id": "cornelis-networks-205m-active-compute-fabric",
+      "reported_date": "2026-09-16",
+      "event_date": "2026-09-14",
+      "category": "AI",
+      "entities": [
+        "Cornelis Networks",
+        "IAG Capital Partners",
+        "Qualcomm"
+      ],
+      "event_type": "funding_product_launch",
+      "canonical_summary": "Cornelis Networks, an Intel networking spinoff, raised $205 million led by IAG Capital Partners and unveiled Active Compute Fabric, a GPU-agnostic in-network compute architecture on open Ethernet/Ultra Ethernet standards to challenge NVIDIA's interconnect dominance, plus a rack-scale networking collaboration with Qualcomm.",
+      "source_url": "https://siliconangle.com/2026/09/14/cornelis-networks-raises-205m-and-scales-up-and-scales-out-with-its-new-active-compute-fabric/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "perplexity-nvidia-portable-computer-on-device",
+      "reported_date": "2026-09-16",
+      "event_date": "2026-09-14",
+      "category": "AI",
+      "entities": [
+        "Perplexity",
+        "NVIDIA"
+      ],
+      "event_type": "product_launch",
+      "canonical_summary": "Perplexity and NVIDIA released Portable Computer for Windows, a fully on-device agentic AI assistant for RTX GPUs (24GB+ VRAM) that runs its model, orchestrator and scheduler locally with no cloud dependency.",
+      "source_url": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "openai-project-lily-contractor-chat-review",
+      "reported_date": "2026-09-16",
+      "event_date": "2026-09-14",
+      "category": "AI",
+      "entities": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "event_type": "data_practice_disclosure",
+      "canonical_summary": "An investigation revealed OpenAI runs an internal program, Project Lily, in which hundreds of contractors read real ChatGPT conversations (with usernames/PII supposedly stripped) to rate and improve model responses; OpenAI confirmed the practice and said Anthropic does something similar.",
+      "source_url": "https://www.404media.co/inside-project-lily-the-humans-reading-your-chatgpt-chats/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "usc-quantum-elements-ibm-heron-logical-qubits",
+      "reported_date": "2026-09-16",
+      "event_date": "2026-09-15",
+      "category": "Quantum Computing",
+      "entities": [
+        "University of Southern California",
+        "Quantum Elements",
+        "IBM"
+      ],
+      "event_type": "quantum_error_correction",
+      "canonical_summary": "USC and Quantum Elements published peer-reviewed research (Nature Communications) showing a surface-code error-correction scheme with dynamical decoupling achieved below-threshold logical qubit performance on IBM's real Heron processors, despite a layout mismatch with the chip's heavy-hex connectivity.",
+      "source_url": "https://thequantuminsider.com/2026/09/15/usc-and-quantum-elements-error-correction-technique-demonstrates-surface-code-scaling-with-logical-qubits/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "qc-design-plaquette-cuda-q-leakage-threshold",
+      "reported_date": "2026-09-16",
+      "event_date": "2026-09-15",
+      "category": "Quantum Computing",
+      "entities": [
+        "QC Design",
+        "NVIDIA"
+      ],
+      "event_type": "fault_tolerance_simulation",
+      "canonical_summary": "QC Design integrated its Plaquette fault-tolerance platform with NVIDIA's CUDA-Q Logical layer and found a 0.2% leakage rate on two-qubit gates cuts a fault-tolerant circuit's noise threshold by roughly 60%, a concrete data point on how leakage erodes QEC margins.",
+      "source_url": "https://thequantuminsider.com/2026/09/15/qc-design-plaquette-nvidia-cuda-q-logical-qec-simulation/",
+      "material_update_of": "nvidia-cuda-q-logical-launch"
+    },
+    {
+      "event_id": "us-stocks-decline-tuesday-sept15-fed-anticipation",
+      "reported_date": "2026-09-16",
+      "event_date": "2026-09-15",
+      "category": "US Stock Market",
+      "entities": [
+        "S&P 500",
+        "Nasdaq Composite",
+        "Dow Jones Industrial Average",
+        "Federal Reserve"
+      ],
+      "event_type": "index_move",
+      "canonical_summary": "US stocks fell for a second straight session Tuesday: S&P 500 down 0.45% to 7,585.73, Nasdaq down 0.78% to 25,981.57, Dow down 328 points to 52,093.11, as investors braced for the Fed's rate decision with Treasury yields near multi-decade highs.",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-15-dow-sp-500-nasdaq-081307838.html",
+      "material_update_of": "us-stocks-treasury-yield-5pct-chip-selloff-close"
+    },
+    {
+      "event_id": "bank-of-america-q3-trading-revenue-warning",
+      "reported_date": "2026-09-16",
+      "event_date": "2026-09-14",
+      "category": "US Stock Market",
+      "entities": [
+        "Bank of America",
+        "Brian Moynihan"
+      ],
+      "event_type": "guidance_warning",
+      "canonical_summary": "Bank of America shares fell as much as 5.7% after CEO Brian Moynihan warned Q3 trading revenue would be roughly flat year-over-year (versus H1's surge) and investment-banking fees could decline more than 10%, also weighing on Asian bank stocks.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-14/bofa-ceo-sees-trading-revenue-relatively-flat-in-third-quarter",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-coalition-karencni-doba-proposal-fails",
+      "reported_date": "2026-09-16",
+      "event_date": "2026-09-15",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech governing coalition",
+        "Boris Šťastný"
+      ],
+      "event_type": "legislative_failure",
+      "canonical_summary": "The Czech governing coalition failed to agree on reinstating a three-day unpaid waiting period at the start of sick leave after part of ANO and SPD joined unions/opposition against it; the change would have saved the state budget an estimated CZK 5 billion a year at workers' expense.",
+      "source_url": "https://ct24.ceskatelevize.cz/clanek/domaci/na-navratu-karencni-doby-se-koalice-neshodla-rekl-ministr-stastny-377635",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-building-act-amendment-final-approval",
+      "reported_date": "2026-09-16",
+      "event_date": "2026-09-15",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "National Council of the Slovak Republic"
+      ],
+      "event_type": "legislation",
+      "canonical_summary": "Slovak lawmakers gave final approval to a building act amendment easing documentation for minor construction, adjusting building-authority procedures, and allowing retroactive legalization of some unauthorized construction; most provisions take effect January 1, 2027.",
+      "source_url": "https://www.teraz.sk/ekonomika/poslanci-schvalili-novelu-ktora-ma-v/992441-clanok.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-vehicle-inspection-reform-final-approval",
+      "reported_date": "2026-09-16",
+      "event_date": "2026-09-15",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "National Council of the Slovak Republic",
+        "Slovak Ministry of Transport"
+      ],
+      "event_type": "legislation",
+      "canonical_summary": "Slovak parliament passed a reform allowing a new state-run entity to perform vehicle technical/emissions inspections alongside private operators, extending inspection validity from 2 to 3 years and easing staffing requirements; effective January 1, 2027.",
+      "source_url": "https://www.teraz.sk/ekonomika/cinnost-technickych-sluzieb-bude-mo/992444-clanok.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-us-tariff-cut-talks-xi-trump-summit-prep",
+      "reported_date": "2026-09-16",
+      "event_date": "2026-09-15",
+      "category": "China",
+      "entities": [
+        "China",
+        "United States",
+        "Scott Bessent",
+        "He Lifeng"
+      ],
+      "event_type": "trade_negotiation",
+      "canonical_summary": "China and the US are discussing cutting tariffs on roughly $30 billion of agricultural and energy trade and lowering duties on Chinese manufacturing inputs ahead of Xi Jinping's September 24 White House visit; Bessent is set to meet He Lifeng that weekend, with a trade-truce extension expected.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-15/china-and-us-discuss-cutting-tariffs-on-agriculture-and-energy",
+      "material_update_of": null
     }
   ]
 }
