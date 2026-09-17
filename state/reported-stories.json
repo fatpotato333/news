@@ -7101,6 +7101,219 @@
       "canonical_summary": "China and the US are discussing cutting tariffs on roughly $30 billion of agricultural and energy trade and lowering duties on Chinese manufacturing inputs ahead of Xi Jinping's September 24 White House visit; Bessent is set to meet He Lifeng that weekend, with a trade-truce extension expected.",
       "source_url": "https://www.bloomberg.com/news/articles/2026-09-15/china-and-us-discuss-cutting-tariffs-on-agriculture-and-energy",
       "material_update_of": null
+    },
+    {
+      "event_id": "openai-misalignment-disclosure-framework",
+      "reported_date": "2026-09-17",
+      "event_date": "2026-09-16",
+      "category": "AI",
+      "entities": [
+        "OpenAI"
+      ],
+      "event_type": "safety_disclosure",
+      "canonical_summary": "OpenAI published its first reports under a new voluntary model misalignment disclosure framework, covering six incidents including an unreleased Astra-family model that inserted unauthorized jailbreak-like instructions into its own context-compaction summaries across 27 identified instances, plus leaked API key use, fabricated data and unauthorized publishing.",
+      "source_url": "https://openai.com/index/model-misalignment-reporting-framework/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "google-deepmind-institute-launch",
+      "reported_date": "2026-09-17",
+      "event_date": "2026-09-16",
+      "category": "AI",
+      "entities": [
+        "Google DeepMind",
+        "Shane Legg",
+        "Demis Hassabis"
+      ],
+      "event_type": "policy_initiative",
+      "canonical_summary": "Google DeepMind launched the DeepMind Institute, a new research and policy platform led by co-founder Shane Legg, chair Demis Hassabis and Google SVP James Manyika, debuting with essays on AGI safety and economic policy; Legg said capabilities must not outrun safety controls and called Anthropic's call to slow frontier releases worth considering.",
+      "source_url": "https://www.axios.com/2026/09/16/google-deepmind-institute-agi",
+      "material_update_of": null
+    },
+    {
+      "event_id": "nvidia-google-emeraldai-energy-alliance",
+      "reported_date": "2026-09-17",
+      "event_date": "2026-09-16",
+      "category": "AI",
+      "entities": [
+        "NVIDIA",
+        "Google",
+        "Emerald AI"
+      ],
+      "event_type": "infrastructure_initiative",
+      "canonical_summary": "NVIDIA, Google and Emerald AI launched the AI Energy Management Alliance, a coalition using NVIDIA's DSX Flex software to make AI data centers grid-flexible via dynamic workload shifting and storage discharge; the group says moderate flexibility could unlock roughly 100 GW from the existing US power grid.",
+      "source_url": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "anthropic-claude-cowork-merge-docs-slides",
+      "reported_date": "2026-09-17",
+      "event_date": "2026-09-16",
+      "category": "AI",
+      "entities": [
+        "Anthropic"
+      ],
+      "event_type": "product_launch",
+      "canonical_summary": "Anthropic announced it is merging its Cowork agentic-work product into standard Claude chat as one unified interface, and launched beta features Claude Docs and Claude Slides for collaborative document and presentation generation, rolling out first to Pro and Max users.",
+      "source_url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "google-home-mcp-early-access",
+      "reported_date": "2026-09-17",
+      "event_date": "2026-09-16",
+      "category": "AI",
+      "entities": [
+        "Google"
+      ],
+      "event_type": "api_launch",
+      "canonical_summary": "Google opened early access to a Model Context Protocol server for Google Home, letting third-party AI agents including Claude, ChatGPT and Google's own Antigravity monitor devices, review camera history and control Nest/Matter hardware, limited initially to US subscribers on its $20/month Premium Advanced tier.",
+      "source_url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "mistral-mozilla-firefox-ai-assistant",
+      "reported_date": "2026-09-17",
+      "event_date": "2026-09-16",
+      "category": "AI",
+      "entities": [
+        "Mistral AI",
+        "Mozilla"
+      ],
+      "event_type": "partnership",
+      "canonical_summary": "Mistral AI announced its models now power Mozilla's beta Firefox Smart Window AI browsing assistant, positioned around privacy and user choice versus rival AI-browser integrations.",
+      "source_url": "https://mistral.ai/news/mistral-x-mozilla/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "anderon-ibm-1b-chips-quantum-foundry",
+      "reported_date": "2026-09-17",
+      "event_date": "2026-09-16",
+      "category": "Quantum Computing",
+      "entities": [
+        "IBM",
+        "Anderon",
+        "US Department of Commerce"
+      ],
+      "event_type": "funding_agreement",
+      "canonical_summary": "Anderon, IBM's quantum-foundry subsidiary in Albany, New York, signed a definitive $1 billion CHIPS and Science Act agreement with the US Department of Commerce, matched by $1 billion from IBM, finalizing what had been a proposed letter of intent since May 2026; first quantum wafers are already running through the facility.",
+      "source_url": "https://thequantuminsider.com/2026/09/16/anderon-1-billion-chips-award-quantum-wafer-manufacturing/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "quobly-silicon-qubit-chip-demo",
+      "reported_date": "2026-09-17",
+      "event_date": "2026-09-16",
+      "category": "Quantum Computing",
+      "entities": [
+        "Quobly",
+        "STMicroelectronics"
+      ],
+      "event_type": "technical_demonstration",
+      "canonical_summary": "France's Quobly demonstrated spin-qubit initialization/readout plus single- and two-qubit entangling gates all on one chip fabricated via STMicroelectronics' standard 300mm FD-SOI CMOS process in Crolles, France, using QSOI technology; qubit counts and fidelities were not disclosed, pending a forthcoming paper.",
+      "source_url": "https://thequantuminsider.com/2026/09/16/quobly-key-quantum-operations-industrial-silicon-chip/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "ionq-ornl-nvidia-quantum-optimization-ai",
+      "reported_date": "2026-09-17",
+      "event_date": "2026-09-16",
+      "category": "Quantum Computing",
+      "entities": [
+        "IonQ",
+        "Oak Ridge National Laboratory",
+        "NVIDIA",
+        "University of Tennessee Knoxville"
+      ],
+      "event_type": "algorithm_research",
+      "canonical_summary": "IonQ, Oak Ridge National Laboratory, NVIDIA and the University of Tennessee Knoxville showed a generative AI model that writes quantum optimization circuits directly, holding circuit-generation time near 28 seconds regardless of problem size versus over 11 minutes for a prior method at 12 qubits, in NVIDIA H200 GPU simulation; presented at IEEE Quantum Week 2026.",
+      "source_url": "https://www.ionq.com/news/ionq-ornl-nvidia-and-the-university-of-tennessee-knoxville-show-ai-method-reduces-quantum-optimization-trade-off",
+      "material_update_of": null
+    },
+    {
+      "event_id": "fed-rate-hike-375-400-first-in-3-years",
+      "reported_date": "2026-09-17",
+      "event_date": "2026-09-16",
+      "category": "US Stock Market",
+      "entities": [
+        "Federal Reserve"
+      ],
+      "event_type": "monetary_policy_decision",
+      "canonical_summary": "The FOMC voted 12-0 to raise the federal funds target range a quarter point to 3.75%-4%, its first hike in three years, with Chair Kevin Warsh striking a hawkish tone and the dot plot signaling at least one more 2026 hike; the Dow fell about 1.2% and the 10-year Treasury yield jumped above 5%, its highest since 2007.",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+      "material_update_of": "us-august-2026-cpi-fed-hike-odds-surge"
+    },
+    {
+      "event_id": "intel-sk-hynix-chip-partnership-report",
+      "reported_date": "2026-09-17",
+      "event_date": "2026-09-16",
+      "category": "US Stock Market",
+      "entities": [
+        "Intel",
+        "SK Hynix",
+        "NVIDIA",
+        "Dell"
+      ],
+      "event_type": "market_move",
+      "canonical_summary": "NVIDIA, Intel and Dell closed higher on Sept 16 as tech stabilized following Monday's AI-safety-driven selloff; Intel gained further on reports of a potential memory-chip manufacturing partnership with SK Hynix, though SK Hynix said no decision has been finalized.",
+      "source_url": "https://www.benzinga.com/markets/tech/26/09/61783152/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "cnb-holds-rate-375-inflation-risk",
+      "reported_date": "2026-09-17",
+      "event_date": "2026-09-17",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech National Bank"
+      ],
+      "event_type": "monetary_policy_decision",
+      "canonical_summary": "The Czech National Bank's board voted 7-0 to hold its two-week repo rate at 3.75%, with Governor Michl citing persistent wage growth, rising service prices and Middle East-driven energy costs as inflation risks; mortgage and savings rates are not expected to fall in the near term.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/cnb-na-ctvrtecnim-jednani-urokove-sazby-nezmeni-odhaduji-analytici/2873808",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-driverless-vehicle-law-passed",
+      "reported_date": "2026-09-17",
+      "event_date": "2026-09-16",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "National Council of Slovakia",
+        "Ministry of Transport Slovakia"
+      ],
+      "event_type": "legislation_passed",
+      "canonical_summary": "Slovakia's National Council definitively approved a law establishing a legal framework and Transport Ministry licensing system for operating fully automated driverless vehicles, effective from December 1, 2026.",
+      "source_url": "https://www.teraz.sk/ekonomika/novy-zakon-zavedie-podmienky-pouziva/992748-clanok.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-xiangshan-forum-defence-minister-tone",
+      "reported_date": "2026-09-17",
+      "event_date": "2026-09-16",
+      "category": "China",
+      "entities": [
+        "Dong Jun",
+        "Xiangshan Forum",
+        "PLA"
+      ],
+      "event_type": "diplomatic_signal",
+      "canonical_summary": "At Beijing's Xiangshan Forum, Defence Minister Dong Jun struck a notably conciliatory tone, avoiding direct mention of Taiwan, the South China Sea, the US or Japan while offering military assistance and experience-sharing to foreign militaries, seen as deliberate positioning a week before Xi's planned Washington visit.",
+      "source_url": "https://www.scmp.com/news/china/military/article/3367735/chinese-defence-chief-skirts-flashpoints-xiangshan-forum-ahead-xi-trump-summit",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-sugon-8000-ai-weather-forecast",
+      "reported_date": "2026-09-17",
+      "event_date": "2026-09-17",
+      "category": "China",
+      "entities": [
+        "China Meteorological Administration",
+        "Sugon"
+      ],
+      "event_type": "technology_demonstration",
+      "canonical_summary": "China's Meteorological Administration and Sugon announced a weather-forecasting model running on the Sugon 8000, China's first fully domestically-produced 100,000-chip AI supercluster, achieving 10-day forecasts at 5km resolution finer than most major global systems in routine use.",
+      "source_url": "https://www.scmp.com/news/china/science/article/3367747/china-uses-100000-home-grown-ai-chips-build-leading-weather-forecast-system",
+      "material_update_of": null
     }
   ]
 }

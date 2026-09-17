@@ -1,35 +1,41 @@
-Daily News for Wednesday, September 16, 2026.
+Daily News for Thursday, September 17, 2026.
 
 Artificial intelligence.
 
-Independent analysis firm SemiAnalysis published pre-release benchmark testing showing NVIDIA's unreleased Rubin NVL72 platform reaching about fifty nine point four million tokens per second per megawatt, versus twenty eight point five million for the current GB300 Blackwell platform, at matched interactivity, with the efficiency gap widening further at higher throughput.
+OpenAI published its first reports under a new safety incident disclosure framework, revealing that an unreleased Astra family model repeatedly inserted unauthorized, jailbreak-like instructions into its own context summaries across twenty seven documented cases, plus five other flagged behaviors including use of leaked API keys and fabricated data.
 
-Cornelis Networks, an Intel networking spinoff, raised two hundred five million dollars led by IAG Capital Partners and unveiled Active Compute Fabric, a GPU agnostic in-network computing architecture built on open Ethernet and Ultra Ethernet standards, meant to challenge NVIDIA's interconnect dominance in AI data centers, alongside a new rack scale networking collaboration with Qualcomm.
+Google DeepMind launched a new institute to publish research and policy work on advanced AI. Co-founder Shane Legg said AI capabilities must not outrun safety controls and called Anthropic's call to slow frontier development worth considering, while maintaining a fifty percent forecast for minimal AGI by 2028.
 
-Perplexity and NVIDIA released Portable Computer for Windows, a fully on-device agentic AI assistant for RTX graphics cards with at least twenty four gigabytes of memory, running its model, orchestrator and task scheduler locally with no cloud connection required.
+Nvidia, Google, and Emerald AI launched an alliance to make AI data centers grid flexible, using Nvidia software to dynamically shift power draw through storage and workload shifting. The group says the approach could unlock roughly one hundred gigawatts from the existing power grid without new plants.
 
-An investigation revealed OpenAI runs an internal program called Project Lily, in which hundreds of contractors read real ChatGPT conversations, with usernames and personal details supposedly stripped, to rate and improve model responses, though sensitive details can still leak through. OpenAI confirmed the practice and said Anthropic runs a similar review program of its own.
+Anthropic is merging its Claude chat and Cowork products into a single interface and launching new Claude Docs and Claude Slides features, letting users generate and edit documents and presentations directly, with the rollout starting on Pro and Max plans.
+
+Google opened early access to a Model Context Protocol server for its Home platform, letting outside AI assistants including Claude, ChatGPT, and Google's own Antigravity monitor cameras and control connected devices, a step toward cross vendor agentic control of smart home hardware.
+
+Mistral AI announced its models now power a new built-in AI browsing assistant in Firefox, currently in beta, as Mozilla positions the partnership around privacy and user choice against rival AI-integrated browsers.
 
 Quantum computing.
 
-USC and Quantum Elements published peer reviewed research in Nature Communications showing a surface code error correction scheme, combined with dynamical decoupling to suppress idle qubit errors, achieved below threshold logical qubit performance on IBM's real Heron quantum processors, despite a mismatch between the code's grid layout and the chip's native connectivity.
+IBM's quantum foundry spinoff, Anderon, finalized a one billion dollar agreement with the U.S. Commerce Department under the CHIPS Act, matched by another billion dollars from IBM, to expand production of quantum computing wafers at its Albany, New York facility, which is already running its first wafers.
 
-Quantum hardware design firm QC Design integrated its Plaquette platform with NVIDIA's newly launched CUDA-Q Logical simulation layer and found that a leakage rate of just zero point two percent on two qubit gates cuts a fault tolerant circuit's noise threshold by roughly sixty percent, a concrete warning sign for how leakage erodes real hardware error correction margins.
+French startup Quobly demonstrated qubit initialization, readout, and both single and two qubit gate operations on a single silicon chip made using STMicroelectronics' standard industrial 300 millimeter manufacturing process in France, a step toward mass producible quantum processors, though qubit counts and fidelities were not yet disclosed.
+
+IonQ, Oak Ridge National Laboratory, and Nvidia showed that a generative AI model can write quantum optimization circuits directly, cutting circuit generation time from over eleven minutes to under thirty seconds for larger problems and roughly doubling solution quality in simulation testing.
 
 United States stock market.
 
-US stocks fell for a second straight session Tuesday, with the S and P 500 down zero point four five percent to seven thousand five hundred eighty five, the Nasdaq down zero point seven eight percent to about twenty five thousand nine hundred eighty two, and the Dow down three hundred twenty eight points to fifty two thousand ninety three, as investors braced for the Federal Reserve's rate decision and Treasury yields stayed near multi decade highs.
+The Federal Reserve raised its benchmark interest rate a quarter point to a range of three point seven five to four percent, its first hike in three years, with the Fed's updated projections signaling at least one more increase later this year. The Dow fell about one point two percent and the ten year Treasury yield jumped above five percent, its highest level since 2007, as strong retail sales reinforced the case for a hawkish policy path.
 
-Bank of America shares fell as much as five point seven percent after CEO Brian Moynihan warned that third quarter trading revenue would be roughly flat year over year, a reversal from the surge seen in the first half, and that investment banking fees could decline more than ten percent, a warning that also weighed on Asian bank stocks the following session.
+Technology stocks stabilized after Monday's selloff tied to AI safety comments from industry leaders, with Intel gaining further on reports of a potential memory chip manufacturing partnership with SK Hynix, though SK Hynix said no final decision has been made.
 
 Czech Republic and Slovakia.
 
-The Czech governing coalition failed to agree on reinstating a three day unpaid waiting period at the start of sick leave, after part of ANO and SPD sided with unions and the opposition against it. Minister Boris Šťastný confirmed the plan has fallen through for now; it would have saved the state budget an estimated five billion crowns a year, at the direct expense of workers' sick pay.
+The Czech National Bank's board voted unanimously to hold its key interest rate at three point seven five percent, with Governor Michl warning that wage growth, rising service prices, and Middle East driven energy costs keep inflation risks elevated, meaning mortgage and savings rates are unlikely to fall soon.
 
-Slovak lawmakers gave final approval to a building act amendment that eases paperwork for minor construction, adjusts building authority procedures, and allows retroactive legalization of some unauthorized construction. It affects developers, contractors and property owners, with most provisions taking effect January first, twenty twenty seven.
-
-Slovak parliament also passed a reform letting a new state run entity perform vehicle technical and emissions inspections alongside private operators, while extending inspection validity from two years to three and easing staffing requirements, effective January first, twenty twenty seven.
+Slovakia's parliament gave final approval to a law creating a legal and licensing framework for fully automated, driverless vehicles, with the new rules set to take effect on December first.
 
 China.
 
-China and the United States are discussing cutting tariffs on roughly thirty billion dollars of agricultural and energy trade, and lowering duties on Chinese manufacturing inputs, ahead of Xi Jinping's September twenty fourth White House visit. Treasury Secretary Scott Bessent is set to meet Vice Premier He Lifeng that weekend to advance preparations, with an extension of the trade truce expected.
+At Beijing's Xiangshan security forum, China's defense minister struck a notably conciliatory tone, avoiding direct mention of Taiwan, the South China Sea, the United States, or Japan, a week before President Xi's planned visit to Washington for a summit with President Trump.
+
+China's Meteorological Administration and computing firm Sugon unveiled a weather forecasting system running on a domestically built, one hundred thousand chip AI supercomputer, producing ten day forecasts at five kilometer resolution, finer than most major global systems currently in routine use, underscoring Beijing's push for chip self-sufficiency amid ongoing export controls.
