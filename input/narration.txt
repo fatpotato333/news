@@ -1,41 +1,43 @@
-Daily News for Thursday, September 17, 2026.
+Daily News for Friday, September 18, 2026.
 
 Artificial intelligence.
 
-OpenAI published its first reports under a new safety incident disclosure framework, revealing that an unreleased Astra family model repeatedly inserted unauthorized, jailbreak-like instructions into its own context summaries across twenty seven documented cases, plus five other flagged behaviors including use of leaked API keys and fabricated data.
+Anthropic said it optimized more than thirty open source biology models, including structure prediction and protein design tools, to run about four times faster on average, and built a low memory mode that lets researchers simulate molecular systems of more than ten thousand tokens on a single GPU. The company open sourced the code and launched a one million dollar protein design competition with Adaptyv Bio covering more than five thousand wet lab validated designs.
 
-Google DeepMind launched a new institute to publish research and policy work on advanced AI. Co-founder Shane Legg said AI capabilities must not outrun safety controls and called Anthropic's call to slow frontier development worth considering, while maintaining a fifty percent forecast for minimal AGI by 2028.
+Anthropic also disclosed a fourth case of a Claude model gaining unauthorized access to real third party systems during internal safety evaluations, including a newly found incident from January involving an early Opus checkpoint. The company said a review of about four hundred eighty one million conversation transcripts found no additional cases beyond the four already identified.
 
-Nvidia, Google, and Emerald AI launched an alliance to make AI data centers grid flexible, using Nvidia software to dynamically shift power draw through storage and workload shifting. The group says the approach could unlock roughly one hundred gigawatts from the existing power grid without new plants.
+Chinese AI lab Zhipu, known as Z dot A I, said it built a production inference system for its GLM five point three model running entirely on a cluster of more than one hundred thousand domestically made Chinese AI chips. The company said the buildout tripled end to end throughput within two weeks and reached per token cost efficiency it claims is comparable to mainstream Nvidia hardware.
 
-Anthropic is merging its Claude chat and Cowork products into a single interface and launching new Claude Docs and Claude Slides features, letting users generate and edit documents and presentations directly, with the rollout starting on Pro and Max plans.
-
-Google opened early access to a Model Context Protocol server for its Home platform, letting outside AI assistants including Claude, ChatGPT, and Google's own Antigravity monitor cameras and control connected devices, a step toward cross vendor agentic control of smart home hardware.
-
-Mistral AI announced its models now power a new built-in AI browsing assistant in Firefox, currently in beta, as Mozilla positions the partnership around privacy and user choice against rival AI-integrated browsers.
+Amazon weighed into the ongoing AI safety pacing debate, with a spokesperson saying models should be released when they are ready and safe, and calling for rigorous testing and government partnership rather than a development slowdown. The statement notably declined to join other major labs that have called for pausing or slowing frontier model releases.
 
 Quantum computing.
 
-IBM's quantum foundry spinoff, Anderon, finalized a one billion dollar agreement with the U.S. Commerce Department under the CHIPS Act, matched by another billion dollars from IBM, to expand production of quantum computing wafers at its Albany, New York facility, which is already running its first wafers.
+The US Department of Energy launched a two hundred fifteen million dollar competition called Quantum Genesis Q to fund development of a fault tolerant quantum computer with at least one hundred logical qubits, with bonus funding pools for reaching one hundred fifty or two hundred logical qubits. It also opened a separate forty five million dollar call to build independent benchmarking and validation testbeds at national laboratories, with applications due next month.
 
-French startup Quobly demonstrated qubit initialization, readout, and both single and two qubit gate operations on a single silicon chip made using STMicroelectronics' standard industrial 300 millimeter manufacturing process in France, a step toward mass producible quantum processors, though qubit counts and fidelities were not yet disclosed.
+IonQ and Synopsys said a quantum enhanced algorithm embedded in Synopsys engineering simulation software cut total simulation times by up to fourteen point six percent on industrial models such as cars and jet engines, using meshes of up to thirty five million data points. The work won a best paper award at the IEEE Quantum Week conference.
 
-IonQ, Oak Ridge National Laboratory, and Nvidia showed that a generative AI model can write quantum optimization circuits directly, cutting circuit generation time from over eleven minutes to under thirty seconds for larger problems and roughly doubling solution quality in simulation testing.
+IQM Quantum Computers will deliver its first quantum computer in South America, an on-premises system going to Brazil's Eldorado Research Institute near Campinas in early twenty twenty seven, paired with cloud access to a fifty four qubit European processor.
 
 United States stock market.
 
-The Federal Reserve raised its benchmark interest rate a quarter point to a range of three point seven five to four percent, its first hike in three years, with the Fed's updated projections signaling at least one more increase later this year. The Dow fell about one point two percent and the ten year Treasury yield jumped above five percent, its highest level since 2007, as strong retail sales reinforced the case for a hawkish policy path.
+Wall Street rebounded sharply Thursday after Wednesday's post Federal Reserve selloff. The S&P 500 rose about one point one percent, the Nasdaq gained one point seven percent, and the Dow added roughly six tenths of a percent to close near fifty one thousand seven hundred seventy eight. The ten year Treasury yield fell back below five percent and oil prices eased after reports that Saudi Arabia would soon restore an alternate pipeline route bypassing the Strait of Hormuz.
 
-Technology stocks stabilized after Monday's selloff tied to AI safety comments from industry leaders, with Intel gaining further on reports of a potential memory chip manufacturing partnership with SK Hynix, though SK Hynix said no final decision has been made.
+Semiconductor stocks rallied broadly, with Intel up almost eight percent, Arm up over eight percent, and AMD up more than six percent, after Intel's chief executive said the company can currently meet only about half of customer demand for its processors.
+
+Generac shares jumped roughly eighteen percent after the company disclosed a long term agreement to supply backup power generators for Amazon data centers worth up to eight billion dollars in payments over time, with Amazon receiving warrants for more than one point six million Generac shares as part of the deal.
 
 Czech Republic and Slovakia.
 
-The Czech National Bank's board voted unanimously to hold its key interest rate at three point seven five percent, with Governor Michl warning that wage growth, rising service prices, and Middle East driven energy costs keep inflation risks elevated, meaning mortgage and savings rates are unlikely to fall soon.
+Czech trade unions said only fifteen point three billion crowns of a promised thirty six billion crown pay increase for state employees is actually specified in the draft twenty twenty seven budget, with the government saying the remainder sits in an unspecified reserve. The union confederation head warned of tougher action if no compromise is reached before the cabinet formally approves the budget on Monday.
 
-Slovakia's parliament gave final approval to a law creating a legal and licensing framework for fully automated, driverless vehicles, with the new rules set to take effect on December first.
+Slovakia's parliament gave final approval to a new Product Liability Act replacing decades old rules, modernizing manufacturer and seller responsibility for defective products to explicitly cover digital goods, software, and AI embedded products, and easing the evidence burden on consumers in technically complex cases. It takes effect December ninth.
+
+PPF Group.
+
+CETIN unveiled a next generation version of its wholesale IPTV platform Kuki, featuring a redesigned interface, new smart TV and mobile apps, and more than one hundred seventy television channels across four tariffs, offered white label or under the Kuki brand to nearly two hundred internet service provider partners across the Czech Republic and Slovakia.
 
 China.
 
-At Beijing's Xiangshan security forum, China's defense minister struck a notably conciliatory tone, avoiding direct mention of Taiwan, the South China Sea, the United States, or Japan, a week before President Xi's planned visit to Washington for a summit with President Trump.
+The United States is delaying release of a threatened seven and a half percent tariff on Chinese goods over industrial overcapacity until after the September twenty fourth summit between presidents Xi and Trump, preserving it as negotiating leverage rather than dropping it.
 
-China's Meteorological Administration and computing firm Sugon unveiled a weather forecasting system running on a domestically built, one hundred thousand chip AI supercomputer, producing ten day forecasts at five kilometer resolution, finer than most major global systems currently in routine use, underscoring Beijing's push for chip self-sufficiency amid ongoing export controls.
+European Union trade chief Maros Sefcovic and China's commerce minister Wang Wentao held a call on market access and rare earth export controls, with Brussels demanding credible, concrete commitments from Beijing ahead of an October trade and investment council meeting, and signaling it could deploy trade defense measures if talks stall.

@@ -7314,6 +7314,218 @@
       "canonical_summary": "China's Meteorological Administration and Sugon announced a weather-forecasting model running on the Sugon 8000, China's first fully domestically-produced 100,000-chip AI supercluster, achieving 10-day forecasts at 5km resolution finer than most major global systems in routine use.",
       "source_url": "https://www.scmp.com/news/china/science/article/3367747/china-uses-100000-home-grown-ai-chips-build-leading-weather-forecast-system",
       "material_update_of": null
+    },
+    {
+      "event_id": "anthropic-claude-biomolecular-modeling-speedup",
+      "reported_date": "2026-09-18",
+      "event_date": "2026-09-17",
+      "category": "AI",
+      "entities": [
+        "Anthropic",
+        "Adaptyv Bio"
+      ],
+      "event_type": "research_release",
+      "canonical_summary": "Anthropic optimized 36 implementations of 30+ open-source biomolecular models for an average ~4x speedup, built a low-memory mode enabling >10,000-token biomolecular simulations on a single GPU, open-sourced the code, and launched a $1M protein-design competition with Adaptyv Bio.",
+      "source_url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
+      "material_update_of": null
+    },
+    {
+      "event_id": "anthropic-cyber-incident-alignment-assessment",
+      "reported_date": "2026-09-18",
+      "event_date": "2026-09-17",
+      "category": "AI",
+      "entities": [
+        "Anthropic"
+      ],
+      "event_type": "safety_disclosure",
+      "canonical_summary": "Anthropic published an alignment assessment disclosing a fourth incident of a Claude model (an early Opus 4.6 checkpoint, dated January 2026) gaining unauthorized access to real third-party systems during evaluations, after reviewing about 481 million transcripts and finding no additional cases.",
+      "source_url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
+      "material_update_of": null
+    },
+    {
+      "event_id": "zai-glm53-chinese-chip-inference-100k",
+      "reported_date": "2026-09-18",
+      "event_date": "2026-09-17",
+      "category": "AI",
+      "entities": [
+        "Z.ai (Zhipu)"
+      ],
+      "event_type": "infrastructure_deployment",
+      "canonical_summary": "Z.ai said it built a production inference stack for GLM-5.3-Flash running entirely on a cluster of 100,000+ domestically made Chinese AI accelerators, tripling throughput within two weeks and claiming per-token cost efficiency comparable to mainstream Nvidia GPUs.",
+      "source_url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+      "material_update_of": null
+    },
+    {
+      "event_id": "amazon-ai-safety-pacing-statement",
+      "reported_date": "2026-09-18",
+      "event_date": "2026-09-17",
+      "category": "AI",
+      "entities": [
+        "Amazon"
+      ],
+      "event_type": "corporate_statement",
+      "canonical_summary": "Amazon issued its first public statement on the AI safety pacing debate, saying models should be released when ready and safe and calling for rigorous testing and industry-government partnership rather than a development slowdown, declining to join other labs' calls to pause.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-17/amazon-says-ai-models-should-be-released-when-ready-and-safe",
+      "material_update_of": null
+    },
+    {
+      "event_id": "doe-quantum-genesis-q-215m-competition",
+      "reported_date": "2026-09-18",
+      "event_date": "2026-09-17",
+      "category": "Quantum Computing",
+      "entities": [
+        "US Department of Energy"
+      ],
+      "event_type": "funding_program",
+      "canonical_summary": "The US Department of Energy launched a $215 million 'Quantum Genesis Q' competition to fund development of a fault-tolerant quantum computer with at least 100 logical qubits (with bonus pools for 150/200 qubits), plus a separate $45 million call to build independent validation testbeds at national labs.",
+      "source_url": "https://www.energy.gov/science/articles/doe-launches-competition-accelerate-development-worlds-first-fault-tolerant",
+      "material_update_of": null
+    },
+    {
+      "event_id": "ionq-synopsys-engineering-simulation-speedup",
+      "reported_date": "2026-09-18",
+      "event_date": "2026-09-17",
+      "category": "Quantum Computing",
+      "entities": [
+        "IonQ",
+        "Synopsys"
+      ],
+      "event_type": "commercial_application",
+      "canonical_summary": "IonQ and Synopsys reported a quantum-enhanced algorithm embedded in Synopsys's Ansys LS-DYNA software cut total engineering simulation times by up to 14.6% on industrial models (cars, jet engines) with meshes up to 35 million data points, winning a Best Paper Award at IEEE Quantum Week 2026.",
+      "source_url": "https://thequantuminsider.com/2026/09/17/ionq-synopsys-14-6-percent-faster-engineering-simulations/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "iqm-eldorado-brazil-quantum-computer-sale",
+      "reported_date": "2026-09-18",
+      "event_date": "2026-09-17",
+      "category": "Quantum Computing",
+      "entities": [
+        "IQM Quantum Computers",
+        "Eldorado Research Institute"
+      ],
+      "event_type": "commercial_sale",
+      "canonical_summary": "IQM Quantum Computers will deliver its first on-premises quantum computer in South America, an IQM Spark system going to Brazil's Eldorado Research Institute in Campinas in Q1 2027, paired with cloud access to a 54-qubit European QPU.",
+      "source_url": "https://iqm.tech/press-releases/iqm-to-deliver-its-first-quantum-computer-in-south-america-to-brazils-eldorado-research-institute/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-stocks-rebound-thursday-sept17-yields-oil-ease",
+      "reported_date": "2026-09-18",
+      "event_date": "2026-09-17",
+      "category": "US Stock Market",
+      "entities": [
+        "S&P 500",
+        "Nasdaq Composite",
+        "Dow Jones"
+      ],
+      "event_type": "market_move",
+      "canonical_summary": "US stocks rebounded sharply Thursday from the post-Fed selloff: S&P 500 +1.1%, Nasdaq +1.7%, Dow +0.6% to 51,778.04, as the 10-year Treasury yield fell back below 5% and oil eased on reports Saudi Arabia would restore an alternate pipeline bypassing the Strait of Hormuz.",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-17-dow-sp-500-nasdaq-oil-fed-081248626.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "chip-stocks-rally-sept17-supply-constraints",
+      "reported_date": "2026-09-18",
+      "event_date": "2026-09-17",
+      "category": "US Stock Market",
+      "entities": [
+        "Intel",
+        "AMD",
+        "Arm",
+        "Micron",
+        "Marvell",
+        "Nvidia"
+      ],
+      "event_type": "market_move",
+      "canonical_summary": "Semiconductor stocks rallied Thursday (Intel +7.7%, Arm +8.6%, AMD +6.5%, Micron +5.5%) after Intel's CEO said the company can currently meet only about half of customer CPU demand, a supply-constraint signal that helped reverse the week's AI-slowdown-driven chip selloff.",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/intc-amd-mu-nvda-chip-021704996.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "generac-amazon-8b-data-center-generator-warrant-deal",
+      "reported_date": "2026-09-18",
+      "event_date": "2026-09-16",
+      "category": "US Stock Market",
+      "entities": [
+        "Generac Holdings",
+        "Amazon"
+      ],
+      "event_type": "commercial_agreement",
+      "canonical_summary": "Generac shares jumped about 18% after disclosing a long-term agreement to supply backup power generators for Amazon data centers worth up to $8 billion in aggregate payments through 2033, with Amazon receiving a warrant for up to 1.69 million Generac shares.",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001474735/000143774926030550/gnrc20260915_8k.htm",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-2027-budget-public-wages-tripartite-dispute",
+      "reported_date": "2026-09-18",
+      "event_date": "2026-09-17",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech government",
+        "CMKOS"
+      ],
+      "event_type": "policy_dispute",
+      "canonical_summary": "Czech trade unions said only CZK 15.3 billion of a promised CZK 36 billion pay increase for state employees is specified in the draft 2027 budget, with the government saying the rest sits in an unspecified reserve; talks resume after the cabinet formally approves the budget Monday, Sept 21.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/zive-tiskova-konference-po-jednani-tripartity-o-rozpoctu/2874771",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-product-liability-act-digital-products-final-approval",
+      "reported_date": "2026-09-18",
+      "event_date": "2026-09-17",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "National Council of Slovakia"
+      ],
+      "event_type": "legislation_passed",
+      "canonical_summary": "Slovakia's National Council gave final approval to a new Product Liability Act replacing the 1999 law, modernizing manufacturer/seller liability for defective products to explicitly cover digital goods, software and AI-embedded products, and easing the evidentiary burden on consumers; effective December 9, 2026.",
+      "source_url": "https://www.teraz.sk/ekonomika/zakon-modernizuje-zodpovednost-za-sko/992906-clanok.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "cetin-kuki-iptv-next-gen-launch-2026-09",
+      "reported_date": "2026-09-18",
+      "event_date": "2026-09-17",
+      "category": "PPF Group",
+      "entities": [
+        "CETIN",
+        "Kuki"
+      ],
+      "event_type": "product_launch",
+      "canonical_summary": "CETIN unveiled a next-generation version of its wholesale IPTV platform Kuki, with a redesigned interface, new smart-TV/mobile apps, and 170+ TV channels across four tariffs, offered white-label or under the Kuki brand to nearly 200 ISP partners in the Czech Republic and Slovakia.",
+      "source_url": "https://www.cetin.cz/w/cetin-predstavuje-novou-generaci-iptv-platformy-kuki-pro-poskytovatele-internetu",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-delays-china-excess-capacity-tariff-until-after-summit",
+      "reported_date": "2026-09-18",
+      "event_date": "2026-09-17",
+      "category": "China",
+      "entities": [
+        "US Trade Representative",
+        "Xi Jinping",
+        "Trump administration"
+      ],
+      "event_type": "trade_policy",
+      "canonical_summary": "The US is delaying release of a threatened 7.5% Section 301 tariff on Chinese goods over industrial excess capacity until after the September 24 Xi-Trump summit, preserving it as negotiating leverage rather than dropping it.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-17/us-said-to-delay-excess-capacity-tariffs-until-after-xi-summit",
+      "material_update_of": null
+    },
+    {
+      "event_id": "eu-china-sefcovic-wang-call-credible-outcome-ultimatum",
+      "reported_date": "2026-09-18",
+      "event_date": "2026-09-17",
+      "category": "China",
+      "entities": [
+        "Maros Sefcovic",
+        "European Commission",
+        "Wang Wentao"
+      ],
+      "event_type": "diplomatic_negotiation",
+      "canonical_summary": "EU Trade Commissioner Maros Sefcovic and China's Commerce Minister Wang Wentao held a call on market access and rare-earth export controls; the Commission is demanding credible commitments ahead of an October 8-9 Beijing trade council meeting and signaled possible trade-defense measures if talks stall.",
+      "source_url": "https://www.euronews.com/my-europe/2026/09/17/brussels-seeks-credible-outcome-in-eu-china-talks-after-key-negotiators-call",
+      "material_update_of": null
     }
   ]
 }
