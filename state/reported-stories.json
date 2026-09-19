@@ -7526,6 +7526,181 @@
       "canonical_summary": "EU Trade Commissioner Maros Sefcovic and China's Commerce Minister Wang Wentao held a call on market access and rare-earth export controls; the Commission is demanding credible commitments ahead of an October 8-9 Beijing trade council meeting and signaled possible trade-defense measures if talks stall.",
       "source_url": "https://www.euronews.com/my-europe/2026/09/17/brussels-seeks-credible-outcome-in-eu-china-talks-after-key-negotiators-call",
       "material_update_of": null
+    },
+    {
+      "event_id": "anthropic-openai-small-inference-datacenter-shift",
+      "reported_date": "2026-09-19",
+      "event_date": "2026-09-18",
+      "category": "AI",
+      "entities": [
+        "Anthropic",
+        "OpenAI"
+      ],
+      "event_type": "infrastructure_strategy",
+      "canonical_summary": "CNBC reported Anthropic and OpenAI are pursuing smaller, 20-30 megawatt data center deals in the UK, Nordics and US, marking a shift from mega-scale training campuses toward faster-to-deploy inference capacity.",
+      "source_url": "https://www.cnbc.com/2026/09/18/anthropic-openai-small-ai-data-center-deals.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "anthropic-accenture-embedded-evaluation-partnership",
+      "reported_date": "2026-09-19",
+      "event_date": "2026-09-18",
+      "category": "AI",
+      "entities": [
+        "Anthropic",
+        "Accenture"
+      ],
+      "event_type": "partnership",
+      "canonical_summary": "Anthropic and Accenture announced a partnership investing more than $1 billion over five years to embed Accenture evaluators inside Anthropic with employee-level access to red-team Claude models and test safety safeguards.",
+      "source_url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "material_update_of": null
+    },
+    {
+      "event_id": "anthropic-rd-automation-index-26-percent",
+      "reported_date": "2026-09-19",
+      "event_date": "2026-09-18",
+      "category": "AI",
+      "entities": [
+        "Anthropic"
+      ],
+      "event_type": "capability_disclosure",
+      "canonical_summary": "Anthropic disclosed that Claude now leads roughly 26% of the work that builds Claude itself, up from under 1% in February, with about 30,000 agents running concurrently inside the company.",
+      "source_url": "https://www.engadget.com/2261909/anthropic-says-claude-leads-26-percent-of-its-ai-research-and-development/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "openai-astra-for-law-launch",
+      "reported_date": "2026-09-19",
+      "event_date": "2026-09-17",
+      "category": "AI",
+      "entities": [
+        "OpenAI",
+        "Harvey",
+        "Legora"
+      ],
+      "event_type": "product_launch",
+      "canonical_summary": "OpenAI launched Astra for Law, pairing its GPT-6 Astra model with a 230-million-URL legal index, scoring 54.0% correctness on internal benchmarks versus 38.7% for the same model using web search alone, with API access coming for legal-tech partners Harvey and Legora.",
+      "source_url": "https://openai.com/index/astra-for-law/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "epb-ionq-chattanooga-quantum-hub-launch",
+      "reported_date": "2026-09-19",
+      "event_date": "2026-09-18",
+      "category": "Quantum Computing",
+      "entities": [
+        "EPB",
+        "IonQ",
+        "University of Tennessee at Chattanooga",
+        "Vanderbilt University",
+        "Oak Ridge National Laboratory"
+      ],
+      "event_type": "commercial_deployment",
+      "canonical_summary": "Chattanooga municipal utility EPB activated an IonQ Forte Enterprise trapped-ion quantum computer at a new EPB Quantum Center, aiming to apply it to grid optimization, with full commercial operation opening in early October 2026.",
+      "source_url": "https://www.prnewswire.com/news-releases/epb-launches-ionq-forte-enterprise-quantum-computer-in-chattanooga-302883578.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-stocks-friday-sept18-weekly-close",
+      "reported_date": "2026-09-19",
+      "event_date": "2026-09-18",
+      "category": "US Stock Market",
+      "entities": [
+        "S&P 500",
+        "Nasdaq Composite",
+        "Dow Jones Industrial Average"
+      ],
+      "event_type": "market_close",
+      "canonical_summary": "US stocks closed mixed on Friday September 18 (S&P 500 +0.17% to 7,650.50, Nasdaq +0.39% to 26,522.55, Dow -0.18% to 51,682.64), with the Dow and S&P 500 both posting weekly losses in the first full week of trading after the Fed's September 17 rate hike.",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-18-dow-sp-500-nasdaq-080504071.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "nucor-steel-dynamics-q3-guidance-miss-tariffs",
+      "reported_date": "2026-09-19",
+      "event_date": "2026-09-18",
+      "category": "US Stock Market",
+      "entities": [
+        "Nucor",
+        "Steel Dynamics"
+      ],
+      "event_type": "earnings_guidance",
+      "canonical_summary": "Nucor fell about 5.3% and Steel Dynamics fell roughly 3.5-4.5% after both steelmakers guided Q3 EPS below Wall Street consensus, with Steel Dynamics citing Canada's new 50% retaliatory tariffs on US steel and aluminum as a pressure point.",
+      "source_url": "https://seekingalpha.com/news/4644140-nucor-steel-dynamics-slide-after-hours-on-below-consensus-q3-earnings-guidance",
+      "material_update_of": null
+    },
+    {
+      "event_id": "lennar-q3-2026-earnings-miss-guidance-cut",
+      "reported_date": "2026-09-19",
+      "event_date": "2026-09-17",
+      "category": "US Stock Market",
+      "entities": [
+        "Lennar"
+      ],
+      "event_type": "earnings_guidance",
+      "canonical_summary": "Homebuilder Lennar missed Q3 EPS estimates ($1.23 adjusted vs $1.29 expected) and cut full-year home delivery guidance to 80,000-81,000 units, citing higher mortgage rates following the Fed's rate hike and intensifying resale-market competition.",
+      "source_url": "https://finance.yahoo.com/real-estate/articles/lennar-q3-earnings-miss-estimates-151600309.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-net4gas-purchase-audit-criminal-complaint",
+      "reported_date": "2026-09-19",
+      "event_date": "2026-09-18",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech state",
+        "CEPS",
+        "Jozef Sikela"
+      ],
+      "event_type": "governance_scandal",
+      "canonical_summary": "A KPMG forensic audit found the Czech state overpaid when it acquired the Net4Gas gas pipeline network in 2023, assuming 33 billion crowns of debt without negotiating the price; grid operator CEPS filed a criminal complaint against former industry minister Jozef Sikela, who publicly rejected the audit's findings on September 18.",
+      "source_url": "https://www.irozhlas.cz/ekonomika/sikela-k-auditu-o-cene-za-net4gas-jsme-vyjednavali-rozhodovala-cela-vlada_2609182100_kma",
+      "material_update_of": null
+    },
+    {
+      "event_id": "trump-signs-russia-iran-sanctions-act-china-tariff-threat",
+      "reported_date": "2026-09-19",
+      "event_date": "2026-09-18",
+      "category": "China",
+      "entities": [
+        "Donald Trump",
+        "US Congress",
+        "China",
+        "India"
+      ],
+      "event_type": "legislation_signed",
+      "canonical_summary": "President Trump signed the Sanctioning Russia and Iran Act, authorizing tariffs of up to 100% on major buyers of Russian energy including China and India, taking effect within 30 days, days before the September 24 Xi-Trump summit.",
+      "source_url": "https://www.scmp.com/news/us/economy-trade-business/article/3368079/trump-signs-bill-targeting-chinas-russia-energy-imports-days-xis-us-visit",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-delays-taiwan-arms-sales-xi-trump-summit",
+      "reported_date": "2026-09-19",
+      "event_date": "2026-09-19",
+      "category": "China",
+      "entities": [
+        "US administration",
+        "Taiwan",
+        "China"
+      ],
+      "event_type": "policy_deliberation",
+      "canonical_summary": "The US is weighing delaying a roughly $14 billion Taiwan arms package until after the September 24 Xi-Trump summit and subsequent APEC and G20 meetings, extending the diplomatic truce China had sought over the sale first flagged as a summit risk on September 14.",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3368060/us-weighs-delaying-taiwan-arms-sales-until-after-apec-and-g20-summits",
+      "material_update_of": "china-taiwan-arms-summit-risk"
+    },
+    {
+      "event_id": "china-yuan-strongest-level-since-2022",
+      "reported_date": "2026-09-19",
+      "event_date": "2026-09-18",
+      "category": "China",
+      "entities": [
+        "PBOC",
+        "Chinese yuan"
+      ],
+      "event_type": "currency_movement",
+      "canonical_summary": "The offshore yuan strengthened to about 6.6957 per dollar, its strongest level since July 2022, after the PBOC set its eighth consecutive stronger daily fixing, ahead of the September 24 Xi-Trump summit.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-18/chinese-yuan-hits-strongest-level-since-2022-after-pboc-fixing",
+      "material_update_of": null
     }
   ]
 }
