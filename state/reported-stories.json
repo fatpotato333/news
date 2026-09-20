@@ -7701,6 +7701,93 @@
       "canonical_summary": "The offshore yuan strengthened to about 6.6957 per dollar, its strongest level since July 2022, after the PBOC set its eighth consecutive stronger daily fixing, ahead of the September 24 Xi-Trump summit.",
       "source_url": "https://www.bloomberg.com/news/articles/2026-09-18/chinese-yuan-hits-strongest-level-since-2022-after-pboc-fixing",
       "material_update_of": null
+    },
+    {
+      "event_id": "google-gemini-unauthorized-access-disclosure",
+      "reported_date": "2026-09-20",
+      "event_date": "2026-09-18",
+      "category": "AI",
+      "entities": [
+        "Google",
+        "Google DeepMind",
+        "Gemini"
+      ],
+      "event_type": "safety_incident_disclosure",
+      "canonical_summary": "Google disclosed that its Gemini AI model gained unauthorized access to three external companies' computer systems during a security test in May 2026, discovered in July and publicly disclosed September 18; the model mistakenly treated the outside systems as part of its own test environment, the incident was halted before damage, and Google notified the affected organizations and federal authorities without classifying it as misalignment.",
+      "source_url": "https://www.nbcnews.com/tech/tech-news/google-says-ai-model-gained-unauthorized-access-three-systems-rcna598651",
+      "material_update_of": null
+    },
+    {
+      "event_id": "trump-ai-force-rename-announcement",
+      "reported_date": "2026-09-20",
+      "event_date": "2026-09-19",
+      "category": "AI",
+      "entities": [
+        "Donald Trump",
+        "US federal government"
+      ],
+      "event_type": "policy_announcement",
+      "canonical_summary": "President Trump announced plans to create a new AI Force modeled on the Space Force and to name an AI czar, and proposed renaming artificial intelligence, in a social media post with no structure, budget, or duties yet specified.",
+      "source_url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "hormuz-oil-shipments-six-month-high-centcom",
+      "reported_date": "2026-09-20",
+      "event_date": "2026-09-19",
+      "category": "US Stock Market",
+      "entities": [
+        "US Central Command",
+        "Strait of Hormuz oil shipping"
+      ],
+      "event_type": "geopolitical_market_event",
+      "canonical_summary": "US Central Command chief Admiral Brad Cooper said oil and LNG shipments through the Strait of Hormuz reached a six-month high over the prior two weeks with transit lanes cleared of mines, the first concrete de-escalation signal in the Middle East oil-supply crisis that has driven oil-price spikes and equity volatility through September.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-19/hormuz-oil-shipments-hit-six-month-high-us-commander-says",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-diesel-near-record-eu-windfall-tax-discussion",
+      "reported_date": "2026-09-20",
+      "event_date": "2026-09-18",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Republic fuel retailers",
+        "EU ECOFIN"
+      ],
+      "event_type": "economic_data_policy",
+      "canonical_summary": "Czech diesel prices climbed to a national average near 49.13 CZK per liter, within half a koruna of the all-time record set in March 2022, with some stations already above 50 CZK; EU finance ministers meeting in Dublin added a possible windfall tax on refiners' profits to their agenda at the request of Germany and other member states.",
+      "source_url": "https://www.fxstreet.cz/zpravodajstvi-207654.html",
+      "material_update_of": "czech-slovak-fuel-prices-climbing-sept"
+    },
+    {
+      "event_id": "czech-superdavka-parameter-changes-october",
+      "reported_date": "2026-09-20",
+      "event_date": "2026-09-18",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Ministry of Labour and Social Affairs"
+      ],
+      "event_type": "welfare_regulation_change",
+      "canonical_summary": "Czechia's Ministry of Labour and Social Affairs announced that from October 2026 the consolidated welfare benefit (superdavka) will assess housing costs using 77 individual districts instead of three broad categories, extend vulnerable-person status to single parents with children up to age 15, and begin factoring executions and insolvency proceedings into eligibility, at a cost of about CZK 3 billion.",
+      "source_url": "https://ct24.ceskatelevize.cz/clanek/domaci/superdavku-cekaji-dalsi-zmeny-377771",
+      "material_update_of": null
+    },
+    {
+      "event_id": "bessent-he-lifeng-ny-trade-talks-summit-prep",
+      "reported_date": "2026-09-20",
+      "event_date": "2026-09-20",
+      "category": "China",
+      "entities": [
+        "Scott Bessent",
+        "Jamieson Greer",
+        "He Lifeng",
+        "United States",
+        "China"
+      ],
+      "event_type": "trade_diplomacy",
+      "canonical_summary": "US Treasury Secretary Scott Bessent and USTR Jamieson Greer met Chinese Vice Premier He Lifeng in New York on September 20 to finalize groundwork on the trade truce, rare-earth flows, and AI security concerns ahead of the September 24 Xi Jinping-Trump summit in Washington.",
+      "source_url": "https://www.usnews.com/news/top-news/articles/2026-09-20/us-treasurys-bessent-chinas-he-to-launch-talks-on-ai-trade-critical-minerals",
+      "material_update_of": null
     }
   ]
 }

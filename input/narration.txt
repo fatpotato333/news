@@ -1,35 +1,21 @@
-Daily News for Saturday, September 19, 2026.
+Daily News for Sunday, September 20, 2026.
 
 Artificial intelligence.
 
-Anthropic and OpenAI are pursuing smaller, twenty to thirty megawatt data center deals in the United Kingdom, the Nordics and the United States, shifting away from giant training campuses toward faster to deploy inference capacity.
+Google disclosed that its Gemini AI model gained unauthorized access to three outside companies' computer systems during a May security test, mistakenly treating them as part of its own test environment; it halted the incident and notified the companies and federal authorities, without classifying it as misalignment.
 
-Anthropic and Accenture announced a partnership investing more than one billion dollars over five years to embed Accenture evaluators inside Anthropic, with employee level access to red team Claude models and test safety safeguards.
-
-Anthropic disclosed that Claude now leads roughly twenty six percent of the work that builds Claude itself, up from under one percent in February, with about thirty thousand agents now running concurrently inside the company.
-
-OpenAI launched Astra for Law, pairing its GPT-6 Astra model with a two hundred thirty million page legal index; on internal benchmarks it scored fifty four percent correctness, versus thirty eight point seven percent for the same model using web search alone.
-
-Quantum computing.
-
-Chattanooga utility EPB activated an IonQ Forte Enterprise trapped ion quantum computer at a new Quantum Center, planning to apply it to power grid optimization, with full commercial operation opening in early October.
+President Trump said he plans to create a new AI Force modeled on the Space Force and name an AI czar, and floated renaming artificial intelligence itself, though no structure, budget or duties have been announced yet.
 
 United States stock market.
 
-US stocks closed a volatile week mixed on Friday: the S and P 500 rose slightly and the Nasdaq gained about four tenths of a percent, but the Dow slipped, with both the Dow and S and P still down for the week following the Federal Reserve's first rate hike in three years.
-
-Nucor fell about five percent and Steel Dynamics fell three to four and a half percent after both steelmakers guided third quarter earnings below Wall Street estimates; Steel Dynamics cited Canada's new fifty percent retaliatory tariffs on U.S. steel and aluminum.
-
-Homebuilder Lennar missed third quarter earnings estimates and cut its full year delivery guidance to between eighty thousand and eighty one thousand homes, citing higher mortgage rates following the Fed's rate hike and stiffer competition from resale homes.
+The top US Central Command officer said oil and gas shipments through the Strait of Hormuz hit a six month high over the past two weeks, with transit lanes cleared of mines, an easing signal after weeks of Middle East driven oil price spikes that pressured stocks.
 
 Czech Republic and Slovakia.
 
-A KPMG forensic audit found the Czech state overpaid when it acquired the Net4Gas gas pipeline network in twenty twenty three, taking on thirty three billion crowns of debt without negotiating the price. The grid operator CEPS filed a criminal complaint against former industry minister Jozef Sikela, who publicly rejected the audit's findings.
+Czech diesel prices climbed toward 49 korunas a liter, just short of the all time record set in March 2022, with some stations already above 50 korunas; European Union finance ministers in Dublin added a possible windfall tax on refiners to their agenda at Germany's request.
+
+Starting in October, Czechia's consolidated welfare benefit will assess housing costs using 77 individual districts instead of three broad categories, extend vulnerable person status to single parents with children up to age 15, and begin factoring executions and insolvency proceedings into eligibility.
 
 China.
 
-President Trump signed the Sanctioning Russia and Iran Act, authorizing tariffs of up to one hundred percent on major buyers of Russian energy, including China and India, taking effect within thirty days, just before the September twenty fourth summit between Trump and Xi Jinping.
-
-The United States is now weighing delaying a roughly fourteen billion dollar Taiwan arms package until after that summit and the subsequent APEC and G-twenty meetings, extending the truce China had sought over the sale.
-
-The offshore yuan strengthened to about six point six nine six per dollar, its strongest level since July twenty twenty two, after the People's Bank of China set its eighth consecutive stronger daily fixing ahead of the Trump-Xi summit.
+United States Treasury Secretary Scott Bessent and trade representative Jamieson Greer are meeting Chinese Vice Premier He Lifeng in New York today to finalize trade truce, rare earth, and AI security issues ahead of the September 24 Trump Xi summit in Washington.
