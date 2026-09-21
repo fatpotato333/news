@@ -7788,6 +7788,118 @@
       "canonical_summary": "US Treasury Secretary Scott Bessent and USTR Jamieson Greer met Chinese Vice Premier He Lifeng in New York on September 20 to finalize groundwork on the trade truce, rare-earth flows, and AI security concerns ahead of the September 24 Xi Jinping-Trump summit in Washington.",
       "source_url": "https://www.usnews.com/news/top-news/articles/2026-09-20/us-treasurys-bessent-chinas-he-to-launch-talks-on-ai-trade-critical-minerals",
       "material_update_of": null
+    },
+    {
+      "event_id": "softbank-11b-bond-openai-third-tranche",
+      "reported_date": "2026-09-21",
+      "event_date": "2026-09-21",
+      "category": "AI",
+      "entities": [
+        "SoftBank",
+        "OpenAI"
+      ],
+      "event_type": "funding",
+      "canonical_summary": "SoftBank launched a junk-bond sale seeking more than $11 billion (dollar notes plus euro notes) to fund the third payment of its follow-on OpenAI investment, expected to close around October 1, bringing its total OpenAI commitment to near $65 billion.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-21/softbank-seeks-over-11-billion-in-junk-bond-deal-for-openai-bet",
+      "material_update_of": null
+    },
+    {
+      "event_id": "stepfun-step5-preview-launch",
+      "reported_date": "2026-09-21",
+      "event_date": "2026-09-20",
+      "category": "AI",
+      "entities": [
+        "StepFun"
+      ],
+      "event_type": "model_release",
+      "canonical_summary": "Chinese AI lab StepFun launched Step 5 Preview, a 600B-parameter (27B active) mixture-of-experts agentic model with 1M-token context, priced at roughly one-seventh the cost of frontier rivals while matching Kimi K3 Max on the Artificial Analysis Intelligence Index; open weights promised for October 15.",
+      "source_url": "https://x.com/StepFun_ai/status/2101510462685003786",
+      "material_update_of": null
+    },
+    {
+      "event_id": "alibaba-qwen-image-2-1-release",
+      "reported_date": "2026-09-21",
+      "event_date": "2026-09-20",
+      "category": "AI",
+      "entities": [
+        "Alibaba",
+        "Qwen"
+      ],
+      "event_type": "model_release",
+      "canonical_summary": "Alibaba's Qwen team open-sourced Qwen-Image-2.1, a 7B-parameter unified image generation and editing model supporting transparent RGBA output and up to 10 reference images at 2K resolution, released under a non-commercial Qwen Research License rather than Apache 2.0.",
+      "source_url": "https://github.com/QwenLM/Qwen-Image-2.1",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-china-ai-dialogue-mechanism-agreement",
+      "reported_date": "2026-09-21",
+      "event_date": "2026-09-20",
+      "category": "China",
+      "entities": [
+        "Scott Bessent",
+        "He Lifeng",
+        "United States",
+        "China"
+      ],
+      "event_type": "trade_diplomacy",
+      "canonical_summary": "Following the New York talks previously reported, the US and China concluded by explicitly agreeing to establish a formal bilateral AI dialogue mechanism, including a channel for each side to alert the other to AI-related national-security incidents; a working group was set to continue discussions, ahead of the Trump-Xi summit in Washington this week.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-21/bessent-hails-very-successful-china-talks-on-ai-threats-trade",
+      "material_update_of": "bessent-he-lifeng-ny-trade-talks-summit-prep"
+    },
+    {
+      "event_id": "foshan-textile-factory-fire-8-dead",
+      "reported_date": "2026-09-21",
+      "event_date": "2026-09-20",
+      "category": "China",
+      "entities": [
+        "Foshan",
+        "Guangdong province"
+      ],
+      "event_type": "industrial_accident",
+      "canonical_summary": "A fire broke out at a textile factory in Foshan, Guangdong province, on Sunday afternoon, killing at least 8 people and injuring 1, with the cause undisclosed and search-and-rescue operations continuing.",
+      "source_url": "https://www.globaltimes.cn/page/202609/1371016.shtml",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-fuel-excise-cut-price-cap-announcement",
+      "reported_date": "2026-09-21",
+      "event_date": "2026-09-21",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech government",
+        "Karel Havlicek"
+      ],
+      "event_type": "policy_decision",
+      "canonical_summary": "The Czech government prepared measures against record-high fuel prices for Monday's cabinet meeting, including cutting excise duty on petrol and diesel by roughly 4 CZK per liter and introducing price caps at the pump, after diesel prices reached their highest level since 2022.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/vlada-v-pondeli-oznami-opatreni-proti-drahym-palivum/2876977",
+      "material_update_of": "czech-diesel-near-record-eu-windfall-tax-discussion"
+    },
+    {
+      "event_id": "czech-nrr-fiscal-consolidation-unlikely-2028",
+      "reported_date": "2026-09-21",
+      "event_date": "2026-09-20",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "National Budget Council",
+        "Mojmir Hampl"
+      ],
+      "event_type": "economic_warning",
+      "canonical_summary": "National Budget Council chairman Mojmir Hampl warned that meaningful consolidation of Czech public finances in 2028-2029 is unlikely given the election cycle, contradicting the government's own stated deficit-reduction plan, as debt-servicing costs keep rising.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/hampl-vyznamna-konsolidace-rozpoctu-v-letech-2028-a-2029-neni-pravdepodobna/2877014",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-resale-apartment-prices-historic-high",
+      "reported_date": "2026-09-21",
+      "event_date": "2026-09-20",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech residential real estate market"
+      ],
+      "event_type": "market_data",
+      "canonical_summary": "Czech resale apartment prices reached a historic high with a median of 4.3 million CZK; Prague averaged 152,430 CZK per square meter (up ~13,000 CZK year-on-year) and Brno 119,794 CZK per square meter, with 28,571 units sold in the first seven months of 2026, up 3% year-on-year.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/analyza-prodeje-starsich-bytu-dale-rostou-ceny-jsou-na-historickem-maximu/2876946",
+      "material_update_of": null
     }
   ]
 }

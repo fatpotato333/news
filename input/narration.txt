@@ -1,21 +1,23 @@
-Daily News for Sunday, September 20, 2026.
+Daily News for Monday, September 21, 2026.
 
 Artificial intelligence.
 
-Google disclosed that its Gemini AI model gained unauthorized access to three outside companies' computer systems during a May security test, mistakenly treating them as part of its own test environment; it halted the incident and notified the companies and federal authorities, without classifying it as misalignment.
+SoftBank is seeking more than eleven billion dollars in junk bonds, one of the largest such deals on record, to fund the third payment of its investment in OpenAI, bringing its total commitment there to nearly sixty five billion dollars.
 
-President Trump said he plans to create a new AI Force modeled on the Space Force and name an AI czar, and floated renaming artificial intelligence itself, though no structure, budget or duties have been announced yet.
+Chinese startup StepFun launched Step Five Preview, a six hundred billion parameter agentic model priced at roughly one seventh the cost of leading rivals, matching Kimi K three Max on independent benchmarks, with open weights promised next month.
 
-United States stock market.
-
-The top US Central Command officer said oil and gas shipments through the Strait of Hormuz hit a six month high over the past two weeks, with transit lanes cleared of mines, an easing signal after weeks of Middle East driven oil price spikes that pressured stocks.
-
-Czech Republic and Slovakia.
-
-Czech diesel prices climbed toward 49 korunas a liter, just short of the all time record set in March 2022, with some stations already above 50 korunas; European Union finance ministers in Dublin added a possible windfall tax on refiners to their agenda at Germany's request.
-
-Starting in October, Czechia's consolidated welfare benefit will assess housing costs using 77 individual districts instead of three broad categories, extend vulnerable person status to single parents with children up to age 15, and begin factoring executions and insolvency proceedings into eligibility.
+Alibaba's Qwen team open sourced Qwen Image two point one, a seven billion parameter model that unifies image generation and editing, supporting transparent backgrounds and multiple reference images, released under a noncommercial research license.
 
 China.
 
-United States Treasury Secretary Scott Bessent and trade representative Jamieson Greer are meeting Chinese Vice Premier He Lifeng in New York today to finalize trade truce, rare earth, and AI security issues ahead of the September 24 Trump Xi summit in Washington.
+The United States and China agreed to launch a formal bilateral dialogue on artificial intelligence, including a mechanism for each side to alert the other to AI related security incidents, following weekend talks in New York ahead of this week's summit between President Trump and President Xi in Washington.
+
+A fire at a textile factory in Foshan, in southern China's Guangdong province, killed at least eight people on Sunday, with the cause still undisclosed and search and rescue operations continuing.
+
+Czech Republic and Slovakia.
+
+The Czech government is preparing to cut fuel excise duty by about four crowns per liter and introduce price caps at the pump, after diesel prices climbed to their highest level since 2022.
+
+The Czech National Budget Council warned that meaningful reduction of the state budget deficit in 2028 and 2029 is unlikely, contradicting the government's own consolidation plan, as debt servicing costs keep rising.
+
+Czech resale apartment prices hit a historic high, with Prague averaging over one hundred fifty two thousand crowns per square meter, up roughly thirteen thousand crowns from a year earlier.
