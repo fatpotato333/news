@@ -1,23 +1,41 @@
-Daily News for Monday, September 21, 2026.
+Daily News for Tuesday, September 22, 2026.
 
 Artificial intelligence.
 
-SoftBank is seeking more than eleven billion dollars in junk bonds, one of the largest such deals on record, to fund the third payment of its investment in OpenAI, bringing its total commitment there to nearly sixty five billion dollars.
+XAI, now folded into SpaceX, released Grok four point seven, a two point one trillion parameter flagship model priced at two dollars per million input tokens, which the company says leads on cost efficiency and new biosecurity and cybersecurity safety benchmarks.
 
-Chinese startup StepFun launched Step Five Preview, a six hundred billion parameter agentic model priced at roughly one seventh the cost of leading rivals, matching Kimi K three Max on independent benchmarks, with open weights promised next month.
+Alibaba said its next generation of Qwen models will scale up to five to ten trillion parameters, and unveiled a new in-house AI chip called Zhenwu V900 that it claims triples the performance of its predecessor and supports clusters of up to half a million units, part of a push to cut reliance on Nvidia.
 
-Alibaba's Qwen team open sourced Qwen Image two point one, a seven billion parameter model that unifies image generation and editing, supporting transparent backgrounds and multiple reference images, released under a noncommercial research license.
+Xiaomi open-sourced its MiMo two point six Pro and Flash models, trillion-parameter-class systems with a one million token context window, publishing the weights, training code and reinforcement learning environments, and claiming the strongest open-weight benchmark results yet.
 
-China.
+Amazon began blocking Meta's Muse AI shopping agent from completing purchases on Amazon dot com as unauthorized, while Shopify struck a deal the same week letting Muse check out automatically across all of its merchant stores with no extra setup, sharpening a fight over who controls AI shopping agents.
 
-The United States and China agreed to launch a formal bilateral dialogue on artificial intelligence, including a mechanism for each side to alert the other to AI related security incidents, following weekend talks in New York ahead of this week's summit between President Trump and President Xi in Washington.
+Quantum computing.
 
-A fire at a textile factory in Foshan, in southern China's Guangdong province, killed at least eight people on Sunday, with the cause still undisclosed and search and rescue operations continuing.
+IonQ and South Korea's SDT announced a multi-year partnership to deploy IonQ's Superion two fifty six trapped ion quantum computer and a new silicon vacancy quantum memory module in a hybrid quantum data center, the first such deployment in South Korea, with SDT also building a manufacturing and integration facility for the hardware.
+
+United States stock market.
+
+The Nasdaq closed at a record high, up two point three percent, and the S and P 500 had its best day since early August, as AI and chip stocks rallied on falling oil prices and optimism ahead of the Trump-Xi summit; AMD's market value topped one trillion dollars for the first time, and Intel and Arm also jumped sharply.
+
+Meta shares jumped more than eleven percent after its Muse AI agent app hit number one on Apple's app store with about seven hundred thirty thousand downloads in ten days, and Wells Fargo raised its price target to seven hundred ninety six dollars.
+
+Morgan Stanley strategist Mike Wilson warned the S and P 500 could still fall as much as seven percent in the near term if energy prices and bond yields keep climbing, even as he holds a year end target near eight thousand; he pointed to thirty S and P 500 stocks hitting new fifty two week lows even as the index rallied, a narrow-leadership pattern last seen in 1999.
+
+Bitcoin rose above eighty seven thousand dollars, its highest level since January, lifting shares of Coinbase and Robinhood by more than five percent each as falling oil prices boosted risk appetite broadly.
 
 Czech Republic and Slovakia.
 
-The Czech government is preparing to cut fuel excise duty by about four crowns per liter and introduce price caps at the pump, after diesel prices climbed to their highest level since 2022.
+The Czech government approved its twenty twenty seven budget, with a record three hundred eighty six billion koruna deficit, up from three hundred ten billion this year, public sector wage increases of five to nine percent, healthcare funding up more than fifty billion koruna, and defense spending reaching two percent of GDP for the first time.
 
-The Czech National Budget Council warned that meaningful reduction of the state budget deficit in 2028 and 2029 is unlikely, contradicting the government's own consolidation plan, as debt servicing costs keep rising.
+The government also confirmed pensions will rise again in January, lifting the average old age pension by over three hundred koruna a month to about twenty two thousand koruna, plus a one time two thousand koruna payment to every pensioner, covering roughly two point three million retirees at a total cost of ten point three billion koruna.
 
-Czech resale apartment prices hit a historic high, with Prague averaging over one hundred fifty two thousand crowns per square meter, up roughly thirteen thousand crowns from a year earlier.
+Slovakia's first government bond auction since summer saw yields jump to as high as four and a half percent, well above a month earlier, signaling higher government borrowing costs ahead.
+
+China.
+
+The US trade representative said China is slow walking rare earth export licenses, threatening to derail an extension of the trade truce just two days before the Xi-Trump summit in Washington.
+
+The United States, Japan and South Korea launched a new trilateral economic security consultation and supply chain early warning mechanism opposing industrial overcapacity and economic coercion, days ahead of that same summit.
+
+A senior US congressman called for a nuclear era style safeguard agreement between Washington and Beijing on artificial intelligence, including a ban on recursive self improving systems and mutual inspection standards, ahead of the two leaders' summit.

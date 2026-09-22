@@ -7900,6 +7900,219 @@
       "canonical_summary": "Czech resale apartment prices reached a historic high with a median of 4.3 million CZK; Prague averaged 152,430 CZK per square meter (up ~13,000 CZK year-on-year) and Brno 119,794 CZK per square meter, with 28,571 units sold in the first seven months of 2026, up 3% year-on-year.",
       "source_url": "https://www.ceskenoviny.cz/zpravy/analyza-prodeje-starsich-bytu-dale-rostou-ceny-jsou-na-historickem-maximu/2876946",
       "material_update_of": null
+    },
+    {
+      "event_id": "xai-grok-4-7-launch",
+      "reported_date": "2026-09-22",
+      "event_date": "2026-09-21",
+      "category": "AI",
+      "entities": [
+        "xAI",
+        "SpaceX"
+      ],
+      "event_type": "model_release",
+      "canonical_summary": "xAI, now folded into SpaceX, released Grok 4.7, a 2.1 trillion parameter flagship model (up from Grok 4.6's 1.5T per Musk), priced at $2/$6 per million input/output tokens, claiming leading cost-efficiency on CursorBench 4.0 and new biosecurity/cybersecurity misuse-resistance benchmark records.",
+      "source_url": "https://siliconangle.com/2026/09/21/spacex-launches-grok-4-7-with-long-horizon-processing-safety-upgrades/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "alibaba-qwen-5-10t-roadmap-zhenwu-chip",
+      "reported_date": "2026-09-22",
+      "event_date": "2026-09-22",
+      "category": "AI",
+      "entities": [
+        "Alibaba"
+      ],
+      "event_type": "strategy_announcement",
+      "canonical_summary": "At its Apsara Conference, Alibaba said its next Qwen generation targets 5-10 trillion parameters (versus ~2.4T currently) and unveiled the Zhenwu V900, a new in-house AI chip from its T-Head unit claimed to triple its predecessor's performance and support clusters of up to 500,000 units, part of a push to reduce Nvidia dependence.",
+      "source_url": "https://money.usnews.com/investing/news/articles/2026-09-21/alibaba-plans-ai-model-with-5-trillion-to-10-trillion-parameters-unveils-new-chip",
+      "material_update_of": null
+    },
+    {
+      "event_id": "xiaomi-mimo-v2-6-open-source-release",
+      "reported_date": "2026-09-22",
+      "event_date": "2026-09-22",
+      "category": "AI",
+      "entities": [
+        "Xiaomi"
+      ],
+      "event_type": "model_release",
+      "canonical_summary": "Xiaomi open-sourced MiMo-V2.6 Pro (~1.02T total/~42B active params) and Flash (~309B total/~15B active), trillion-parameter-class mixture-of-experts models with a claimed 1-million-token context window, publishing weights, RL training code and task environments on Hugging Face and claiming top open-weight benchmark results.",
+      "source_url": "https://venturebeat.com/technology/better-than-deepseek-xiaomis-mimo-v2-6-pro-debuts-as-the-top-open-weights-model-in-the-world-alongside-cheaper-v2-6-flash",
+      "material_update_of": null
+    },
+    {
+      "event_id": "amazon-blocks-meta-muse-shopify-agentic-checkout",
+      "reported_date": "2026-09-22",
+      "event_date": "2026-09-21",
+      "category": "AI",
+      "entities": [
+        "Amazon",
+        "Meta",
+        "Shopify"
+      ],
+      "event_type": "platform_policy",
+      "canonical_summary": "Amazon began blocking Meta's Muse AI shopping agent from completing purchases on Amazon.com as an unauthorized agent, while Shopify announced a same-week partnership letting Muse complete automatic agentic checkout via Shop Pay across its merchant stores with no extra merchant setup, sharpening the fight over platform access for AI shopping agents.",
+      "source_url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "ionq-sdt-south-korea-quantum-deployment",
+      "reported_date": "2026-09-22",
+      "event_date": "2026-09-21",
+      "category": "Quantum Computing",
+      "entities": [
+        "IonQ",
+        "SDT"
+      ],
+      "event_type": "commercial_deployment",
+      "canonical_summary": "IonQ and South Korea's SDT announced a multi-year partnership to deploy IonQ's Superion 256 trapped-ion quantum computer and its silicon-vacancy quantum memory module in a new hybrid quantum-classical data center, the first such deployment in South Korea, with SDT also building a manufacturing/integration facility for the hardware in Gumi.",
+      "source_url": "https://www.stocktitan.net/news/IONQ/ion-q-and-sdt-announce-the-first-strategic-partnership-to-bring-both-ujd3rtwl14lw.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-stocks-record-close-sept21-ai-rally",
+      "reported_date": "2026-09-22",
+      "event_date": "2026-09-21",
+      "category": "US Stock Market",
+      "entities": [
+        "Nasdaq",
+        "S&P 500",
+        "AMD",
+        "Intel",
+        "Arm"
+      ],
+      "event_type": "market_move",
+      "canonical_summary": "The Nasdaq Composite closed at a record high (+2.26% to 27,122.09), the S&P 500 had its best day since early August (+1.49% to 7,764.70), and AMD's market value topped $1 trillion for the first time, as AI/chip stocks (also Intel +12%, Arm +17%) rallied on falling oil prices and optimism ahead of the Trump-Xi summit.",
+      "source_url": "https://www.fool.com/coverage/stock-market-today/2026/09/21/stock-market-today-sept-21-tech-strength-powers-nasdaq-to-record-close/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "meta-stock-surge-muse-ai-agent",
+      "reported_date": "2026-09-22",
+      "event_date": "2026-09-21",
+      "category": "US Stock Market",
+      "entities": [
+        "Meta Platforms"
+      ],
+      "event_type": "market_move",
+      "canonical_summary": "Meta Platforms shares jumped over 11% after its Muse AI agent app hit #1 on Apple's US App Store with roughly 730,000 US downloads in its first 10 days, and Wells Fargo raised its price target from $640 to $796 citing Meta's AI momentum.",
+      "source_url": "https://www.tipranks.com/news/why-meta-stock-jumped-over-11-today-september-21-2026",
+      "material_update_of": null
+    },
+    {
+      "event_id": "morgan-stanley-wilson-7pct-pullback-warning",
+      "reported_date": "2026-09-22",
+      "event_date": "2026-09-21",
+      "category": "US Stock Market",
+      "entities": [
+        "Morgan Stanley"
+      ],
+      "event_type": "analyst_forecast",
+      "canonical_summary": "Morgan Stanley strategist Mike Wilson warned the S&P 500 risks a near-term drop of up to 7% (to roughly 7,100) if energy prices and Treasury yields keep rising, citing a rare breadth divergence (30 S&P 500 stocks hit new 52-week lows vs only 7 new highs despite the rally, last seen in 1999) even as he keeps an 8,000 year-end target.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-21/morgan-stanley-s-wilson-says-us-stocks-risk-7-drop-in-near-term",
+      "material_update_of": null
+    },
+    {
+      "event_id": "bitcoin-87k-crypto-stocks-rally-sept21",
+      "reported_date": "2026-09-22",
+      "event_date": "2026-09-21",
+      "category": "US Stock Market",
+      "entities": [
+        "Bitcoin",
+        "Coinbase",
+        "Robinhood"
+      ],
+      "event_type": "market_move",
+      "canonical_summary": "Bitcoin rose above $87,000, its highest level since January, as falling oil prices boosted risk appetite; Coinbase rose about 5.5% to ~$204.87 (Clear Street raised its price target to $224) and Robinhood rose about 5.5% to ~$126.38.",
+      "source_url": "https://www.benzinga.com/trading-ideas/movers/26/09/61894066/robinhood-stock-jumps-5-as-bitcoin-rally-and-sec-rule-change-align",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-2027-budget-cabinet-approval",
+      "reported_date": "2026-09-22",
+      "event_date": "2026-09-21",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech government",
+        "Ministry of Finance"
+      ],
+      "event_type": "budget_approval",
+      "canonical_summary": "The Czech cabinet formally approved the 2027 state budget: revenue 2.198 trillion CZK, spending 2.584 trillion CZK, a record 386 billion CZK deficit (up from 310bn in 2026), public-sector wage increases of 5-9% (33.9bn CZK), healthcare funding up 50bn+ to 605bn, and defense spending reaching 2% of GDP for the first time -- resolving the wage dispute reported earlier this month.",
+      "source_url": "https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2026/vlada-se-dohodla-na-podobe-rozpoctu-mf-nyni-pripra-65253",
+      "material_update_of": "czech-2027-budget-public-wages-tripartite-dispute"
+    },
+    {
+      "event_id": "czech-pension-indexation-january-2027",
+      "reported_date": "2026-09-22",
+      "event_date": "2026-09-21",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Ministry of Labour and Social Affairs"
+      ],
+      "event_type": "policy_announcement",
+      "canonical_summary": "The Czech government confirmed January 2027 pension indexation: the basic pension component rises 270 CZK to 5,170 CZK and the percentage component by 0.2%, lifting the average old-age pension to 22,196 CZK/month, plus a one-off 2,000 CZK payment to all ~2.33 million old-age pensioners, at a total cost of 10.3 billion CZK.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/2877530",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-bond-yields-jump-sept-auction",
+      "reported_date": "2026-09-22",
+      "event_date": "2026-09-21",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Slovakia",
+        "ARDAL"
+      ],
+      "event_type": "market_move",
+      "canonical_summary": "Slovakia's debt agency ARDAL held its first bond auction since the summer break, selling 603 million EUR (against 957.7m EUR demand) across 2028-2043 maturities at yields up to 4.54% (10-year around 4.2%), noticeably higher than a month earlier amid a broader rise in global bond yields.",
+      "source_url": "https://www.teraz.sk/ekonomika/analytik-vyssie-vynosy-dlhopisov-sr/993836-clanok.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-rare-earth-friction-trade-truce-summit",
+      "reported_date": "2026-09-22",
+      "event_date": "2026-09-22",
+      "category": "China",
+      "entities": [
+        "China",
+        "United States",
+        "Jamieson Greer"
+      ],
+      "event_type": "trade_friction",
+      "canonical_summary": "US Trade Representative Jamieson Greer said China has been slow-walking rare-earth export licenses, creating uncertainty that threatens to derail an extension of the 2025 Busan trade truce just two days before the Sept 24 Xi-Trump summit in Washington, even as both sides report progress on a narrower tariff-reduction mechanism.",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3368318/rare-earths-friction-threatens-stall-trade-truce-extension-ahead-xi-trump-summit",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-japan-skorea-economic-security-consultation",
+      "reported_date": "2026-09-22",
+      "event_date": "2026-09-22",
+      "category": "China",
+      "entities": [
+        "United States",
+        "Japan",
+        "South Korea"
+      ],
+      "event_type": "diplomatic_agreement",
+      "canonical_summary": "The foreign ministers of the US, Japan and South Korea, meeting on the UN General Assembly sidelines, launched a new trilateral economic-security consultation and supply-chain early-warning mechanism opposing economic coercion and industrial overcapacity, covering semiconductors, AI, quantum and biotech, days before the Xi-Trump summit.",
+      "source_url": "https://www.scmp.com/news/us/diplomacy/article/3368306/us-japan-and-south-korea-launch-economic-security-talks-xi-summit",
+      "material_update_of": null
+    },
+    {
+      "event_id": "khanna-us-china-ai-nuclear-safeguards-proposal",
+      "reported_date": "2026-09-22",
+      "event_date": "2026-09-22",
+      "category": "China",
+      "entities": [
+        "Ro Khanna",
+        "United States",
+        "China"
+      ],
+      "event_type": "policy_proposal",
+      "canonical_summary": "Rep. Ro Khanna, ranking member of the House Select Committee on China, called for the US and China to agree on nuclear-era-style AI safeguards -- a ban on recursive self-improving AI plus certification/inspection standards -- to give the two leaders a concrete framework at the Xi-Trump summit building on their recently announced AI dialogue mechanism.",
+      "source_url": "https://www.scmp.com/news/us/diplomacy/article/3368311/us-china-need-nuclear-style-ai-safeguards-congressman-says-xi-trump-summit",
+      "material_update_of": null
     }
   ]
 }
