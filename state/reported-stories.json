@@ -8113,6 +8113,196 @@
       "canonical_summary": "Rep. Ro Khanna, ranking member of the House Select Committee on China, called for the US and China to agree on nuclear-era-style AI safeguards -- a ban on recursive self-improving AI plus certification/inspection standards -- to give the two leaders a concrete framework at the Xi-Trump summit building on their recently announced AI dialogue mechanism.",
       "source_url": "https://www.scmp.com/news/us/diplomacy/article/3368311/us-china-need-nuclear-style-ai-safeguards-congressman-says-xi-trump-summit",
       "material_update_of": null
+    },
+    {
+      "event_id": "anthropic-claude-discovers-novel-enzyme-system",
+      "reported_date": "2026-09-24",
+      "event_date": "2026-09-23",
+      "category": "AI",
+      "entities": [
+        "Anthropic"
+      ],
+      "event_type": "scientific_discovery",
+      "canonical_summary": "Anthropic said its new Claude-powered biology research lab autonomously discovered a novel CRISPR-like enzyme system in bacteriophage DNA, deploying about 950 Claude agent instances over 21 hours and 210 million tokens to scan 200,000 reverse transcriptases and identify a new 'array-associated reverse transcriptase' system whose function is still unknown; the finding is an unreviewed company claim, not yet peer-reviewed.",
+      "source_url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "material_update_of": null
+    },
+    {
+      "event_id": "altman-amodei-un-security-council-ai-safety-briefing",
+      "reported_date": "2026-09-24",
+      "event_date": "2026-09-23",
+      "category": "AI",
+      "entities": [
+        "OpenAI",
+        "Anthropic",
+        "DeepSeek",
+        "Moonshot AI",
+        "UN Security Council"
+      ],
+      "event_type": "policy_engagement",
+      "canonical_summary": "OpenAI's Sam Altman and Anthropic's Dario Amodei briefed the UN Security Council on AI risk in a first-of-its-kind session that also featured China's DeepSeek and Moonshot AI; Amodei proposed narrow global agreements such as a bioweapons-use ban and mutual inspection standards, while Altman called for international AI capability and risk-measurement standards.",
+      "source_url": "https://www.cnn.com/2026/09/23/tech/altman-amodei-ai-safety-un-security-council",
+      "material_update_of": null
+    },
+    {
+      "event_id": "google-gemini-3-8-flash-tts-launch",
+      "reported_date": "2026-09-24",
+      "event_date": "2026-09-23",
+      "category": "AI",
+      "entities": [
+        "Google",
+        "Google DeepMind"
+      ],
+      "event_type": "product_launch",
+      "canonical_summary": "Google launched Gemini 3.8 Flash TTS and Flash-Lite TTS, offering promptable voice design across more than 2,000 production voices, 30-second voice cloning with SynthID watermarking, support for over 100 languages, and hour-long two-speaker audio scenes; the Flash model ranked first on the Hume Voice Design benchmark.",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "alibaba-qwen-audio-3-1-price-cuts",
+      "reported_date": "2026-09-24",
+      "event_date": "2026-09-23",
+      "category": "AI",
+      "entities": [
+        "Alibaba",
+        "Qwen"
+      ],
+      "event_type": "product_launch",
+      "canonical_summary": "Alibaba's Qwen team released Qwen-Audio-3.1, a five-model audio stack covering speech recognition, text-to-speech and realtime voice, and cut API prices by up to 95 percent, with the recognition model supporting 30 languages and 16 Chinese dialects.",
+      "source_url": "https://the-decoder.com/alibaba-launches-qwen-audio-3-1-with-five-new-models-and-slashes-ai-audio-prices-by-up-to-95-percent/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "nvidia-nemotron-3-diarization-release",
+      "reported_date": "2026-09-24",
+      "event_date": "2026-09-23",
+      "category": "AI",
+      "entities": [
+        "NVIDIA"
+      ],
+      "event_type": "model_release",
+      "canonical_summary": "NVIDIA released Nemotron 3 Diarization, an open-weight speaker-diarization model of about 100 million parameters that identifies up to eight overlapping speakers, runs on 4 gigabytes of GPU memory, and cuts diarization error rate by roughly 41 percent versus its predecessor, under a commercially permissive license.",
+      "source_url": "https://www.marktechpost.com/2026/09/23/nvidia-releases-nemotron-3-diarization/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "microsoft-maryland-quantum-center-darpa-majorana-access",
+      "reported_date": "2026-09-24",
+      "event_date": "2026-09-23",
+      "category": "Quantum Computing",
+      "entities": [
+        "Microsoft",
+        "DARPA",
+        "University of Maryland"
+      ],
+      "event_type": "facility_launch",
+      "canonical_summary": "Microsoft opened a 15,000-square-foot Quantum Research Center in Maryland and gave DARPA on-site access to test its second-generation Majorana topological qubit system under DARPA's Underexplored Systems for Utility-Scale Quantum Computing program, providing independent government evaluation of Microsoft's topological-qubit claims, which have previously drawn scientific skepticism.",
+      "source_url": "https://thequantuminsider.com/2026/09/22/microsoft-gives-darpa-access-to-majorana-system-opens-maryland-quantum-research-center/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-stocks-fall-treasury-yield-19yr-high-sept23",
+      "reported_date": "2026-09-24",
+      "event_date": "2026-09-23",
+      "category": "US Stock Market",
+      "entities": [
+        "S&P 500",
+        "Nasdaq",
+        "Federal Reserve",
+        "US Treasury"
+      ],
+      "event_type": "market_move",
+      "canonical_summary": "US stocks fell as the 10-year Treasury yield jumped to its highest level since 2007, after a stronger-than-expected September flash PMI reading, a soft 20-year Treasury auction, and hawkish comments from Fed Governor Michael Barr and Richmond Fed's Barkin raised bets on another October rate hike; the S&P 500 dropped about 0.8 percent and the Nasdaq fell about 1.1 percent.",
+      "source_url": "https://www.cnbc.com/2026/09/23/treasury-yields-oil-inflation-fed.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "travel-stocks-tumble-meta-muse-ai-agent-fear",
+      "reported_date": "2026-09-24",
+      "event_date": "2026-09-23",
+      "category": "US Stock Market",
+      "entities": [
+        "Expedia",
+        "Airbnb",
+        "Booking Holdings",
+        "Meta"
+      ],
+      "event_type": "market_move",
+      "canonical_summary": "Shares of Expedia, Airbnb and Booking Holdings fell between roughly 5 and 7 percent on fears that Meta's AI shopping agent Muse could let users book travel directly and bypass online travel agencies, compounded by a Morgan Stanley downgrade of Expedia to Underweight.",
+      "source_url": "https://247wallst.com/investing/2026/09/23/travel-booking-stocks-tumble-as-muse-threatens-to-bypass-them-expedia-falls-7-airbnb-drops-6-booking-holdings-sinks-5/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "bamboo-insurance-ipo-postponed-market-volatility",
+      "reported_date": "2026-09-24",
+      "event_date": "2026-09-23",
+      "category": "US Stock Market",
+      "entities": [
+        "Bamboo Insurance",
+        "CVC Capital Partners",
+        "NYSE"
+      ],
+      "event_type": "ipo_postponement",
+      "canonical_summary": "Bamboo Insurance Services postponed its planned NYSE listing, which had aimed to price 35 million shares at $18-$20 to raise up to about $700 million, citing volatile market conditions tied to the broader yield-driven selloff.",
+      "source_url": "https://www.insurancejournal.com/news/national/2026/09/23/886476.htm",
+      "material_update_of": null
+    },
+    {
+      "event_id": "mcdonalds-investor-day-2028-goal-delay",
+      "reported_date": "2026-09-24",
+      "event_date": "2026-09-23",
+      "category": "US Stock Market",
+      "entities": [
+        "McDonald's"
+      ],
+      "event_type": "earnings_guidance",
+      "canonical_summary": "McDonald's shares fell roughly 4 to 6 percent after the company pushed back its goal of reaching 50,000 restaurants worldwide from 2027 to 2028 at its Investor Day, citing pressure on consumer spending and rising construction costs alongside soft US comparable sales growth of about 0.8 percent.",
+      "source_url": "https://247wallst.com/cards/mcdonald-s-mcd-price-swing-01m37r1sm9jztmjxw6hrr8qeks",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-gig-platform-worker-law-passed",
+      "reported_date": "2026-09-24",
+      "event_date": "2026-09-23",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "National Council of Slovakia",
+        "Ministry of Labour Slovakia"
+      ],
+      "event_type": "legislation_passed",
+      "canonical_summary": "Slovakia's parliament definitively passed a law giving couriers and ride-hailing app workers a legal presumption of employment status when dependency indicators are met, banning off-hours monitoring and processing of data about mental state or political views, granting a right to unionize and human review of account suspensions, and requiring platforms to register publicly; effective December 2, 2026, with fines up to 50,000 euros for non-compliance.",
+      "source_url": "https://www.info.sk/sprava/282437/parlament-schvalil-zakon-o-digitalnych-platformach-kurierov-a-vodicov-caka-vacsia-ochrana",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-social-services-financing-reform-passed",
+      "reported_date": "2026-09-24",
+      "event_date": "2026-09-23",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "National Council of Slovakia",
+        "Ministry of Labour, Social Affairs and Family Slovakia"
+      ],
+      "event_type": "legislation_passed",
+      "canonical_summary": "Slovakia's parliament definitively approved a reform of social-services financing tied to the long-term-care system, changing funding mechanisms, profit controls and provider support for elderly and disability care.",
+      "source_url": "https://www.teraz.sk/ekonomika/suhrn-parlamentom-odhlasovanych-ekonom/994517-clanok.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "trump-xi-summit-opens-trade-truce-extended-jan2027",
+      "reported_date": "2026-09-24",
+      "event_date": "2026-09-24",
+      "category": "China",
+      "entities": [
+        "Xi Jinping",
+        "Donald Trump",
+        "Scott Bessent",
+        "He Lifeng"
+      ],
+      "event_type": "diplomatic_summit",
+      "canonical_summary": "Xi Jinping arrived in Washington for a summit with President Trump covering Taiwan, trade, AI and rare earths, and Treasury Secretary Scott Bessent confirmed the US-China 'Busan' trade truce has been extended to January 10, 2027 from its earlier November 10, 2026 deadline, resolving the uncertainty over rare-earth licensing friction reported in the prior days.",
+      "source_url": "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html",
+      "material_update_of": "china-rare-earth-friction-trade-truce-summit"
     }
   ]
 }
