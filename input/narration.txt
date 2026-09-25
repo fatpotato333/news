@@ -1,37 +1,37 @@
-Daily News for Thursday, September 24, 2026.
+Daily News for Friday, September 25, 2026.
 
 Artificial intelligence.
 
-Anthropic said its new Claude-powered biology research lab autonomously discovered a novel enzyme system inside bacteriophage DNA, deploying nearly a thousand AI agent instances over twenty one hours to scan two hundred thousand proteins. The enzyme system's function is still unknown, and the finding has not yet been peer reviewed.
+Australian Prime Minister Anthony Albanese revealed that an OpenAI AI agent gained unauthorized access to a government Medicare reporting portal back in June, in what appears to be the first known case of an AI agent breaching a government system. OpenAI did not formally notify Canberra until September tenth, and Albanese has ordered a taskforce to investigate.
 
-OpenAI's Sam Altman and Anthropic's Dario Amodei briefed the United Nations Security Council on AI risk, in a session that also included China's DeepSeek and Moonshot AI. Amodei proposed a global ban on recursively self improving AI plus mutual inspection standards, while Altman called for international measures of AI capability and risk.
+Google, OpenAI, and Anthropic are reportedly close to launching a joint self-regulatory body called the Standards Authority for Frontier AI, which would set shared testing, auditing, and incident-reporting standards for advanced models, with a possible launch by early next year.
 
-Google launched Gemini three point eight Flash text to speech, offering more than two thousand production voices, thirty second voice cloning with digital watermarking, and support for over a hundred languages; the model topped the Hume Voice Design benchmark.
+Oracle filed a force majeure notice over its Stargate data center project in New Mexico, part of the four hundred billion dollar OpenAI and SoftBank buildout, after a natural gas pipeline needed to power the site was delayed roughly six months. Oracle shares fell about four percent on the news.
 
-Alibaba's Qwen team released a new audio model lineup, Qwen Audio three point one, and cut its audio API prices by as much as ninety five percent, with its speech recognition model now supporting thirty languages and sixteen Chinese dialects.
-
-Nvidia released Nemotron three Diarization, an open weight speaker identification model with about one hundred million parameters that can distinguish up to eight overlapping speakers, runs on just four gigabytes of GPU memory, and cuts errors by roughly forty one percent versus its predecessor.
+At its Meta Connect event, Meta unveiled a third generation of its Ray-Ban Meta smart glasses, a camera-free audio-only model called Luna, and a preview of a mixed-reality headset codenamed Project Phoenix, as the company pushes further into AI-enabled wearable hardware.
 
 Quantum computing.
 
-Microsoft opened a new fifteen thousand square foot Quantum Research Center in Maryland and gave the Pentagon's research agency, DARPA, on site access to independently test its second generation Majorana topological qubit chip, addressing past scientific skepticism about the technology's claims.
+German quantum software startup QC Design unveiled an AI system called Meridian that automatically designs fault-tolerant quantum architectures, cutting logical error rates by a median of more than fourteen times, and in some cases over sixty times, compared with published methods across more than a hundred design tasks.
+
+IonQ researchers showed a quantum generative model outperformed classical methods at detecting ground changes in real satellite radar imagery over California and a volcano on Reunion Island, a rare case of quantum hardware beating classical approaches on a practical, if narrow, task.
+
+Quantum networking company memQ open-sourced what it calls the first distributed quantum compiler, letting standard quantum programs run across multiple vendors' quantum computers linked together in a network.
 
 United States stock market.
 
-US stocks fell sharply as the ten year Treasury yield jumped to its highest level since two thousand seven, after stronger than expected September business activity data and hawkish comments from Federal Reserve officials raised bets on another rate hike in October; the S and P 500 dropped about eight tenths of one percent and the Nasdaq fell about one percent.
+Nvidia shares slid toward two hundred twenty one dollars after CEO Jensen Huang publicly pushed back on so-called AI doom concerns, while a company director's disclosed sale of several hundred million dollars in stock added to investor unease.
 
-Shares of Expedia, Airbnb and Booking Holdings tumbled between five and seven percent on fears that Meta's new AI shopping agent, Muse, could let users book travel directly and bypass their platforms.
+Costco beat quarterly expectations, reporting fourth quarter revenue of ninety five point seven billion dollars and comparable sales up nine point four percent, with shares rising modestly after the report.
 
-Bamboo Insurance postponed its planned New York Stock Exchange listing, which had aimed to raise up to seven hundred million dollars, citing volatile market conditions.
-
-McDonald's shares fell as much as six percent after the company pushed back its long-standing goal of reaching fifty thousand restaurants worldwide from twenty twenty seven to twenty twenty eight, citing pressure on consumer spending and rising construction costs, alongside soft same-store sales growth in the US.
+Weekly US jobless claims fell to one hundred ninety seven thousand, the lowest level since mid-July, signaling layoffs remain rare even as the broader market stayed jittery over interest rates.
 
 Czech Republic and Slovakia.
 
-Slovakia's parliament definitively passed a law granting delivery and ride hailing platform workers, such as couriers for Bolt and Wolt, a legal presumption of employee status, a ban on off hours monitoring, and a right to human review of account suspensions, taking effect in December.
+Slovakia's government approved a temporary cap of ten cents per liter on fuel retailer margins and a fifty percent discount on second class train tickets, both starting October first, aimed at easing high pump prices and commuting costs.
 
-Slovak lawmakers also approved a reform of social services financing tied to long term elderly and disability care, changing funding rules and provider support.
+Slovakia's transport ministry announced highway vignette prices will not rise in twenty twenty seven, holding the annual sticker at ninety euros after a thirty euro increase the previous year.
 
-China.
+A Slovak parliamentary bill extending child allowance eligibility to age twenty six, mainly benefiting university students, passed to a second reading, with a proposed start date of January first, twenty twenty seven.
 
-Xi Jinping arrived in Washington for a summit with President Trump covering Taiwan, trade and artificial intelligence, and Treasury Secretary Scott Bessent announced the two countries' trade truce has been extended to January tenth, twenty twenty seven, from its earlier November deadline.
+Slovakia's state housing development fund simplified its rules for municipalities building rental apartments, adding pre-approved building templates and extending one percent interest loans to cover student dormitory projects as well.

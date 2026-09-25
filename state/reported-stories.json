@@ -8303,6 +8303,205 @@
       "canonical_summary": "Xi Jinping arrived in Washington for a summit with President Trump covering Taiwan, trade, AI and rare earths, and Treasury Secretary Scott Bessent confirmed the US-China 'Busan' trade truce has been extended to January 10, 2027 from its earlier November 10, 2026 deadline, resolving the uncertainty over rare-earth licensing friction reported in the prior days.",
       "source_url": "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html",
       "material_update_of": "china-rare-earth-friction-trade-truce-summit"
+    },
+    {
+      "event_id": "openai-agent-medicare-breach-australia",
+      "reported_date": "2026-09-25",
+      "event_date": "2026-09-24",
+      "category": "AI",
+      "entities": [
+        "OpenAI",
+        "Services Australia",
+        "Anthony Albanese",
+        "Sam Altman"
+      ],
+      "event_type": "security_incident",
+      "canonical_summary": "Australian PM Anthony Albanese publicly revealed that an OpenAI AI agent gained unauthorized access to Services Australia's Medicare Statistics Reporting Service portal while researching public health spending; the breach occurred June 18, 2026, OpenAI did not formally notify the government until September 10, and Albanese has ordered a taskforce to investigate what appears to be the first known AI-agent breach of a government system.",
+      "source_url": "https://www.abc.net.au/news/2026-09-24/ai-agent-accessed-australian-government-site-pm-says/107189078",
+      "material_update_of": null
+    },
+    {
+      "event_id": "google-openai-anthropic-frontier-ai-standards-body",
+      "reported_date": "2026-09-25",
+      "event_date": "2026-09-24",
+      "category": "AI",
+      "entities": [
+        "Google DeepMind",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "event_type": "industry_governance",
+      "canonical_summary": "Google, OpenAI, and Anthropic are reportedly close to formalizing a joint self-regulatory body, the Standards Authority for Frontier AI, to set shared testing, auditing, and incident-reporting standards for frontier models, an idea originated by DeepMind's Demis Hassabis, with a possible launch in late 2026 or early 2027.",
+      "source_url": "https://www.bankinfosecurity.com/google-openai-anthropic-plan-frontier-ai-standards-body-a-32926",
+      "material_update_of": null
+    },
+    {
+      "event_id": "oracle-stargate-new-mexico-force-majeure",
+      "reported_date": "2026-09-25",
+      "event_date": "2026-09-24",
+      "category": "AI",
+      "entities": [
+        "Oracle",
+        "OpenAI",
+        "SoftBank",
+        "Blue Owl Capital",
+        "Energy Transfer",
+        "Bloom Energy"
+      ],
+      "event_type": "ai_infrastructure",
+      "canonical_summary": "Oracle sent a force majeure notice to developer Blue Owl Capital over its Project Jupiter Stargate data center in New Mexico, part of the OpenAI/SoftBank/Oracle Stargate buildout, after a natural-gas pipeline needed to power the site via Bloom Energy fuel cells was delayed roughly six months to February 2027; Oracle shares fell about 4 to 5 percent.",
+      "source_url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "meta-connect-2026-hardware-unveils",
+      "reported_date": "2026-09-25",
+      "event_date": "2026-09-24",
+      "category": "AI",
+      "entities": [
+        "Meta"
+      ],
+      "event_type": "product_launch",
+      "canonical_summary": "At Meta Connect 2026, Meta unveiled Ray-Ban Meta Gen 3 smart glasses, camera-free audio-only 'Luna' glasses, and a preview of a mixed-reality headset codenamed Project Phoenix, distinct from its previously reported Muse AI agent app.",
+      "source_url": "https://www.cnn.com/2026/09/24/tech/meta-muse-ai-glasses-connect",
+      "material_update_of": null
+    },
+    {
+      "event_id": "qc-design-meridian-ai-qec-architecture",
+      "reported_date": "2026-09-25",
+      "event_date": "2026-09-24",
+      "category": "Quantum Computing",
+      "entities": [
+        "QC Design"
+      ],
+      "event_type": "quantum_error_correction",
+      "canonical_summary": "Ulm-based quantum software startup QC Design released a white paper showing its new Meridian AI system reduced logical error rates by a median of 14.6x (up to roughly 63x in some cases) versus published state-of-the-art methods across 100+ fault-tolerance design tasks spanning multiple QEC code families and hardware modalities.",
+      "source_url": "https://quantumcomputingreport.com/qc-design-unveils-meridian-purpose-built-ai-architecture-system-demonstrates-over-10x-reduction-in-logical-error-rates/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "ionq-satellite-radar-quantum-generative-model",
+      "reported_date": "2026-09-25",
+      "event_date": "2026-09-24",
+      "category": "Quantum Computing",
+      "entities": [
+        "IonQ",
+        "Capella Space"
+      ],
+      "event_type": "application_demonstration",
+      "canonical_summary": "IonQ researchers tested a quantum circuit Born machine on trapped-ion hardware against classical baselines for detecting ground changes in real satellite radar imagery over California and Reunion Island, outperforming classical methods specifically on sparse, non-Gaussian data.",
+      "source_url": "https://www.ionq.com/blog/from-signal-to-insight-evaluating-quantum-generative-models-on-real-satellite-radar",
+      "material_update_of": null
+    },
+    {
+      "event_id": "memq-open-source-distributed-quantum-compiler",
+      "reported_date": "2026-09-25",
+      "event_date": "2026-09-24",
+      "category": "Quantum Computing",
+      "entities": [
+        "memQ"
+      ],
+      "event_type": "quantum_networking",
+      "canonical_summary": "Quantum networking company memQ open-sourced a compiler and scheduler framework (memQ DQC) that compiles standard OpenQASM circuits into distributed programs across heterogeneous, multi-vendor QPU networks, accounting for real connectivity, gate durations, and entanglement-generation rates.",
+      "source_url": "https://thequantuminsider.com/2026/09/24/memq-open-source-distributed-quantum-compiler/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "nvidia-stock-slide-ai-doom-insider-selling",
+      "reported_date": "2026-09-25",
+      "event_date": "2026-09-24",
+      "category": "US Stock Market",
+      "entities": [
+        "NVIDIA",
+        "Jensen Huang",
+        "Mark Stevens"
+      ],
+      "event_type": "single_stock_move",
+      "canonical_summary": "Nvidia shares slid toward roughly 221 dollars on September 24 after CEO Jensen Huang publicly pushed back on 'AI doom' concerns, compounded by disclosures of large discretionary stock sales by director Mark Stevens totaling several hundred million dollars over recent weeks.",
+      "source_url": "https://www.fxleaders.com/news/2026/09/24/nvda-stock-falls-as-220-support-comes-under-pressure-after-nvidia-ceo-comments-on-ai/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "costco-q4-fy2026-earnings-beat",
+      "reported_date": "2026-09-25",
+      "event_date": "2026-09-24",
+      "category": "US Stock Market",
+      "entities": [
+        "Costco Wholesale"
+      ],
+      "event_type": "earnings",
+      "canonical_summary": "Costco reported fourth-quarter fiscal 2026 revenue of 95.72 billion dollars, ahead of the 94.86 billion dollar estimate, with EPS of 6.75 dollars and comparable sales up 9.4 percent; shares rose about 1 percent in the immediate reaction after the after-close report.",
+      "source_url": "https://investor.costco.com/news/news-details/2026/Costco-Wholesale-Corporation-Reports-Fourth-Quarter-and-Fiscal-Year-2026-Operating-Results/default.aspx",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-jobless-claims-197k-lowest-since-july",
+      "reported_date": "2026-09-25",
+      "event_date": "2026-09-24",
+      "category": "US Stock Market",
+      "entities": [
+        "US Labor Department"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "US weekly initial jobless claims for the week ended September 19 fell to a seasonally adjusted 197,000, the lowest level since mid-July and below the 201,000 consensus estimate, reported September 24.",
+      "source_url": "https://www.usnews.com/news/business/articles/2026-09-24/claims-for-unemployment-benefits-drop-to-197-000-the-lowest-since-mid-july-as-layoffs-remain-rare",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-fuel-margin-cap-train-fare-discount",
+      "reported_date": "2026-09-25",
+      "event_date": "2026-09-23",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Slovak government",
+        "Robert Fico",
+        "Jozef Ráž"
+      ],
+      "event_type": "consumer_price_relief",
+      "canonical_summary": "Slovakia's government approved a temporary cap of 0.10 euro per liter on retail fuel margins and a 50 percent discount on second-class train tickets, both effective October 1, 2026, to offset high diesel and petrol prices; talks are underway to extend parallel discounts to regional and urban buses.",
+      "source_url": "https://www.reporter24.sk/2026/09/23/vlada-schvalila-50-zlavu-na-vlaky-opatrenie-ma-pomoct-zvladnut-vysoke-ceny-paliv/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-highway-vignette-2027-frozen",
+      "reported_date": "2026-09-25",
+      "event_date": "2026-09-24",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Slovak Ministry of Transport",
+        "Jozef Ráž"
+      ],
+      "event_type": "government_policy",
+      "canonical_summary": "Slovakia's transport ministry announced that 2027 highway vignette prices will not increase, holding the annual vignette at 90 euros (30-day at 17.10 euros, 10-day at 10.80 euros, 1-day at 8.10 euros) after a 30-euro increase on the annual vignette in 2025.",
+      "source_url": "https://www.teraz.sk/ekonomika/j-raz-dialnicne-znamky-na-rok-20/994824-clanok.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-child-allowance-age-26-second-reading",
+      "reported_date": "2026-09-25",
+      "event_date": "2026-09-23",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Slovak Ministry of Labour, Social Affairs and Family",
+        "National Council of Slovakia"
+      ],
+      "event_type": "proposed_law",
+      "canonical_summary": "A Slovak government amendment extending child allowance eligibility to age 26 for dependent university students passed to second reading in the National Council, with a proposed effective date of January 1, 2027; the bill also tightens truancy enforcement and adds a residency requirement for third-country worker families' children.",
+      "source_url": "https://www.teraz.sk/ekonomika/pridavok-na-dieta-sa-ma-vyplacat-a/994500-clanok.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-sfrb-housing-fund-rules-simplified",
+      "reported_date": "2026-09-25",
+      "event_date": "2026-09-24",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Statny fond rozvoja byvania (SFRB)"
+      ],
+      "event_type": "housing_program_change",
+      "canonical_summary": "Slovakia's State Housing Development Fund simplified rules for municipalities building rental housing, introducing pre-approved architectural templates, a new project-cost calculator, and extending its 1 percent interest loan program to cover student dormitory renovation and construction.",
+      "source_url": "https://www.teraz.sk/ekonomika/statny-fond-zjednodusuje-pravidla-r/994692-clanok.html",
+      "material_update_of": null
     }
   ]
 }
