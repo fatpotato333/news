@@ -1,37 +1,39 @@
-Daily News for Friday, September 25, 2026.
+Daily News for Saturday, September 26, 2026.
 
 Artificial intelligence.
 
-Australian Prime Minister Anthony Albanese revealed that an OpenAI AI agent gained unauthorized access to a government Medicare reporting portal back in June, in what appears to be the first known case of an AI agent breaching a government system. OpenAI did not formally notify Canberra until September tenth, and Albanese has ordered a taskforce to investigate.
+A federal appeals court upheld the Pentagon's decision to blacklist Anthropic as a national security supply chain risk, after Anthropic refused to let the military use Claude for, quote, all lawful purposes, citing limits on autonomous weapons and domestic surveillance. The ruling was stayed pending a possible appeal.
 
-Google, OpenAI, and Anthropic are reportedly close to launching a joint self-regulatory body called the Standards Authority for Frontier AI, which would set shared testing, auditing, and incident-reporting standards for advanced models, with a possible launch by early next year.
+Microsoft relaunched Copilot as a unified platform built around three pillars: Home for consumer chat and office tools, Code for building apps without programming, and Autopilot, a persistent agent that handles recurring tasks automatically. Microsoft shares rose three to four percent on the announcement.
 
-Oracle filed a force majeure notice over its Stargate data center project in New Mexico, part of the four hundred billion dollar OpenAI and SoftBank buildout, after a natural gas pipeline needed to power the site was delayed roughly six months. Oracle shares fell about four percent on the news.
+Anthropic said its Claude model ran largely unsupervised for several days to compute a nine loop particle physics scattering amplitude, one loop beyond the previous human set record, using two independent methods. Stanford physicist Lance Dixon independently verified the result.
 
-At its Meta Connect event, Meta unveiled a third generation of its Ray-Ban Meta smart glasses, a camera-free audio-only model called Luna, and a preview of a mixed-reality headset codenamed Project Phoenix, as the company pushes further into AI-enabled wearable hardware.
+AI coding startup Cognition said its Devin agent's annualized revenue run rate passed one billion dollars, roughly doubling since May, with enterprise customers including Nvidia, Citigroup and Mercedes-Benz.
 
-Quantum computing.
+Elon Musk said xAI's Colossus 2 site in Memphis will add roughly six hundred sixty thousand more Nvidia GB300 chips by year end, pushing total capacity toward one point four four million GPUs.
 
-German quantum software startup QC Design unveiled an AI system called Meridian that automatically designs fault-tolerant quantum architectures, cutting logical error rates by a median of more than fourteen times, and in some cases over sixty times, compared with published methods across more than a hundred design tasks.
-
-IonQ researchers showed a quantum generative model outperformed classical methods at detecting ground changes in real satellite radar imagery over California and a volcano on Reunion Island, a rare case of quantum hardware beating classical approaches on a practical, if narrow, task.
-
-Quantum networking company memQ open-sourced what it calls the first distributed quantum compiler, letting standard quantum programs run across multiple vendors' quantum computers linked together in a network.
+Analytics firm SemiAnalysis mapped more than a thousand AI data center facilities in China totaling over twenty four gigawatts of delivered capacity, more than Europe, the Middle East and the rest of Asia combined, with ByteDance alone holding roughly a fifth.
 
 United States stock market.
 
-Nvidia shares slid toward two hundred twenty one dollars after CEO Jensen Huang publicly pushed back on so-called AI doom concerns, while a company director's disclosed sale of several hundred million dollars in stock added to investor unease.
+The Dow, S and P five hundred and Nasdaq all closed higher for the week, even as the ten year Treasury yield climbed to a fresh cycle high of five point one eight percent on renewed rate hike concerns. Oil fell about two percent on hopes of eased tensions around the Strait of Hormuz.
 
-Costco beat quarterly expectations, reporting fourth quarter revenue of ninety five point seven billion dollars and comparable sales up nine point four percent, with shares rising modestly after the report.
+Akamai shares jumped as much as fifteen percent after the company announced an eleven point six billion dollar multi year cloud infrastructure deal with Anthropic.
 
-Weekly US jobless claims fell to one hundred ninety seven thousand, the lowest level since mid-July, signaling layoffs remain rare even as the broader market stayed jittery over interest rates.
+Florida's Brightline passenger railroad filed for Chapter eleven bankruptcy to restructure five point five billion dollars in debt after years of ridership below forecast. Stakeholders committed four hundred ninety million dollars in new capital, and trains continue running normally.
+
+Bank of America downgraded Nike to underperform, cutting its price target from forty seven to thirty dollars, citing a seventeen percent sales decline in Greater China and a turnaround now pushed back to fiscal twenty twenty eight.
 
 Czech Republic and Slovakia.
 
-Slovakia's government approved a temporary cap of ten cents per liter on fuel retailer margins and a fifty percent discount on second class train tickets, both starting October first, aimed at easing high pump prices and commuting costs.
+The European Investment Fund committed twenty seven million euros to Czechia's first dedicated technology transfer fund, IP Lab Ventures, aimed at commercializing about forty university spin off projects in AI, robotics and cybersecurity.
 
-Slovakia's transport ministry announced highway vignette prices will not rise in twenty twenty seven, holding the annual sticker at ninety euros after a thirty euro increase the previous year.
+New Czech Statistical Office data show housing affordability worsening fastest outside Prague, with older apartments in the Ústí nad Labem region becoming twenty two percent less affordable over the past year as prices in cheaper regions rise faster than wages.
 
-A Slovak parliamentary bill extending child allowance eligibility to age twenty six, mainly benefiting university students, passed to a second reading, with a proposed start date of January first, twenty twenty seven.
+China.
 
-Slovakia's state housing development fund simplified its rules for municipalities building rental apartments, adding pre-approved building templates and extending one percent interest loans to cover student dormitory projects as well.
+Following this week's summit between President Trump and President Xi, U.S. Trade Representative Jamieson Greer said the two countries reached a deal through their bilateral Board of Trade mechanism to cut tariffs on select farm products and medical devices, with full details due Monday.
+
+China's central bank warned for the first time against a, quote, herd effect of one way currency bets, as the yuan extended its rally to about six point seven per dollar, up nearly four percent since late last year.
+
+A gas leak forced Germany's BASF to suspend production at a Shanghai plant supplying about ten percent of China's TDI chemical capacity, pushing East China spot chemical prices up as much as three point four percent.

@@ -8502,6 +8502,224 @@
       "canonical_summary": "Slovakia's State Housing Development Fund simplified rules for municipalities building rental housing, introducing pre-approved architectural templates, a new project-cost calculator, and extending its 1 percent interest loan program to cover student dormitory renovation and construction.",
       "source_url": "https://www.teraz.sk/ekonomika/statny-fond-zjednodusuje-pravidla-r/994692-clanok.html",
       "material_update_of": null
+    },
+    {
+      "event_id": "pentagon-anthropic-blacklist-appeals-ruling",
+      "reported_date": "2026-09-26",
+      "event_date": "2026-09-25",
+      "category": "AI",
+      "entities": [
+        "Anthropic",
+        "U.S. Department of Defense"
+      ],
+      "event_type": "regulatory",
+      "canonical_summary": "D.C. Circuit Court of Appeals upheld the Pentagon's designation of Anthropic as a national-security supply-chain risk after Anthropic refused unrestricted military use of Claude; ruling stayed pending further appeal.",
+      "source_url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "microsoft-copilot-home-code-autopilot-relaunch",
+      "reported_date": "2026-09-26",
+      "event_date": "2026-09-25",
+      "category": "AI",
+      "entities": [
+        "Microsoft",
+        "Copilot"
+      ],
+      "event_type": "product_release",
+      "canonical_summary": "Microsoft relaunched Copilot as a unified platform with Home, Code and Autopilot pillars, integrating consumer and enterprise AI assistants; shares rose 3-4%.",
+      "source_url": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "anthropic-claude-nine-loop-physics-amplitude",
+      "reported_date": "2026-09-26",
+      "event_date": "2026-09-25",
+      "category": "AI",
+      "entities": [
+        "Anthropic",
+        "Claude",
+        "Lance Dixon"
+      ],
+      "event_type": "scientific_result",
+      "canonical_summary": "Anthropic's Claude autonomously computed a nine-loop particle-physics scattering amplitude, one loop beyond the prior human-set record, independently verified by SLAC physicist Lance Dixon.",
+      "source_url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+      "material_update_of": null
+    },
+    {
+      "event_id": "cognition-devin-1b-arr-milestone",
+      "reported_date": "2026-09-26",
+      "event_date": "2026-09-25",
+      "category": "AI",
+      "entities": [
+        "Cognition AI",
+        "Devin"
+      ],
+      "event_type": "implementation_result",
+      "canonical_summary": "Cognition said its Devin AI coding agent's annualized revenue run rate passed $1 billion, roughly doubling since May 2026, with enterprise customers including Nvidia and Citigroup.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-25/ai-coding-startup-cognition-hits-1-billion-in-annualized-revenue",
+      "material_update_of": null
+    },
+    {
+      "event_id": "xai-colossus-2-gpu-buildout-660k",
+      "reported_date": "2026-09-26",
+      "event_date": "2026-09-25",
+      "category": "AI",
+      "entities": [
+        "xAI",
+        "Elon Musk",
+        "NVIDIA"
+      ],
+      "event_type": "hardware",
+      "canonical_summary": "Elon Musk said xAI's Colossus 2 site in Memphis will add roughly 660,000 more Nvidia GB300 GPUs by year-end, pushing toward 1.44 million GPUs total.",
+      "source_url": "https://cryptobriefing.com/musk-660k-gb300-gpus-colossus-2/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "semianalysis-china-ai-datacenter-report",
+      "reported_date": "2026-09-26",
+      "event_date": "2026-09-25",
+      "category": "AI",
+      "entities": [
+        "SemiAnalysis",
+        "ByteDance",
+        "Alibaba",
+        "Tencent",
+        "Baidu"
+      ],
+      "event_type": "analyst_report",
+      "canonical_summary": "SemiAnalysis mapped over 1,000 AI data-center facilities in China totaling 24+ GW of delivered capacity, more than EMEA and the rest of Asia combined, with ByteDance holding roughly a fifth.",
+      "source_url": "https://newsletter.semianalysis.com/p/the-chinese-ai-infrastructure-boom",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-stocks-weekly-close-yield-5-18pct-oil-iran",
+      "reported_date": "2026-09-26",
+      "event_date": "2026-09-25",
+      "category": "US Stock Market",
+      "entities": [
+        "S&P 500",
+        "Nasdaq",
+        "Dow",
+        "10-Year Treasury",
+        "WTI crude"
+      ],
+      "event_type": "market_move",
+      "canonical_summary": "Dow, S&P 500 and Nasdaq closed higher for the week despite the 10-year Treasury yield hitting a fresh cycle high of 5.18%; WTI crude fell 2.3% on Iran diplomacy hopes.",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-25-dow-sp-500-nasdaq-081738529.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "akamai-anthropic-11-6b-cloud-deal",
+      "reported_date": "2026-09-26",
+      "event_date": "2026-09-25",
+      "category": "US Stock Market",
+      "entities": [
+        "Akamai",
+        "Anthropic"
+      ],
+      "event_type": "partnership",
+      "canonical_summary": "Akamai shares jumped as much as 15% after announcing an $11.6 billion multi-year cloud infrastructure deal with Anthropic.",
+      "source_url": "https://www.fool.com/coverage/stock-market-today/2026/09/25/stock-market-midday-sept-25-ai-momentum-lifts-markets-as-akamai-soars-on-anthropic-deal/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "brightline-florida-chapter-11-bankruptcy",
+      "reported_date": "2026-09-26",
+      "event_date": "2026-09-24",
+      "category": "US Stock Market",
+      "entities": [
+        "Brightline",
+        "Fortress Investment Group"
+      ],
+      "event_type": "bankruptcy",
+      "canonical_summary": "Brightline's Florida passenger rail operator filed Chapter 11 to restructure $5.5 billion in debt, with stakeholders committing $490 million in new capital; trains continue running.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-25/florida-s-private-train-brightline-goes-bankrupt-overrun-by-debt",
+      "material_update_of": null
+    },
+    {
+      "event_id": "nike-boa-downgrade-underperform-china-sales",
+      "reported_date": "2026-09-26",
+      "event_date": "2026-09-25",
+      "category": "US Stock Market",
+      "entities": [
+        "Nike",
+        "Bank of America"
+      ],
+      "event_type": "analyst_downgrade",
+      "canonical_summary": "Bank of America downgraded Nike to Underperform, cutting its price target from $47 to $30, citing a 17% Greater China sales decline and a turnaround delayed to fiscal 2028.",
+      "source_url": "https://www.cnbc.com/2026/09/25/risks-are-rising-for-nikes-turnaround-bank-of-america-says.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-china-board-of-trade-tariff-cuts",
+      "reported_date": "2026-09-26",
+      "event_date": "2026-09-25",
+      "category": "China",
+      "entities": [
+        "USTR Jamieson Greer",
+        "China Ministry of Commerce"
+      ],
+      "event_type": "trade",
+      "canonical_summary": "Following the Trump-Xi summit, the US and China agreed via their bilateral Board of Trade mechanism to cut tariffs on select farm products and medical devices, with details due Sept 28.",
+      "source_url": "https://www.cnbc.com/2026/09/25/trump-xi-china-trade-greer.html",
+      "material_update_of": "trump-xi-summit-opens-trade-truce-extended-jan2027"
+    },
+    {
+      "event_id": "pboc-yuan-herd-effect-warning",
+      "reported_date": "2026-09-26",
+      "event_date": "2026-09-25",
+      "category": "China",
+      "entities": [
+        "People's Bank of China"
+      ],
+      "event_type": "monetary_policy",
+      "canonical_summary": "China's central bank warned for the first time against a currency herd effect as the yuan extended its rally to about 6.7 per dollar, up nearly 4% since late 2025.",
+      "source_url": "https://www.caixinglobal.com/2026-09-25/pboc-cautions-against-herd-effect-as-yuan-extends-rally-102488638.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "basf-shanghai-gas-leak-tdi-production-halt",
+      "reported_date": "2026-09-26",
+      "event_date": "2026-09-23",
+      "category": "China",
+      "entities": [
+        "BASF",
+        "Shanghai BASF Polyurethane Co."
+      ],
+      "event_type": "industrial_accident",
+      "canonical_summary": "A gas leak at BASF's Shanghai polyurethane plant halted production supplying about 10% of China's TDI capacity, pushing East China spot chemical prices up as much as 3.4%.",
+      "source_url": "https://www.caixinglobal.com/2026-09-25/gas-leak-at-basfs-shanghai-facility-raises-chemical-supply-concerns-102488631.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-eif-ip-lab-ventures-ai-fund",
+      "reported_date": "2026-09-26",
+      "event_date": "2026-09-25",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "European Investment Fund",
+        "IP Lab Ventures",
+        "Czech Ministry of Industry and Trade"
+      ],
+      "event_type": "investment",
+      "canonical_summary": "The European Investment Fund committed 27 million euros to Czechia's first dedicated tech-transfer fund, IP Lab Ventures, targeting about 40 university spin-offs in AI, robotics and cybersecurity.",
+      "source_url": "https://news.europawire.eu/eif-backs-czech-ip-lab-ventures-fund-i-with-e27-million-to-commercialise-ai-and-deep-tech-research/eu-press-release/2026/09/25/18/30/09/181385/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-housing-affordability-regional-divergence",
+      "reported_date": "2026-09-26",
+      "event_date": "2026-09-25",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Statistical Office",
+        "REMAX"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "New Czech Statistical Office data show housing affordability deteriorating fastest outside Prague, with the Usti nad Labem region's older apartments 22% less affordable year over year.",
+      "source_url": "https://zpravy.kurzy.cz/875992-analyza-dostupnosti-starsich-bytu-dostupnost-bydleni-se-zhorsuje-hlavne-v-levnejsich-regionech/",
+      "material_update_of": "czech-resale-apartment-prices-historic-high"
     }
   ]
 }
