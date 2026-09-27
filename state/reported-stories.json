@@ -8720,6 +8720,65 @@
       "canonical_summary": "New Czech Statistical Office data show housing affordability deteriorating fastest outside Prague, with the Usti nad Labem region's older apartments 22% less affordable year over year.",
       "source_url": "https://zpravy.kurzy.cz/875992-analyza-dostupnosti-starsich-bytu-dostupnost-bydleni-se-zhorsuje-hlavne-v-levnejsich-regionech/",
       "material_update_of": "czech-resale-apartment-prices-historic-high"
+    },
+    {
+      "event_id": "google-gemini-flipkart-agentic-checkout-india",
+      "reported_date": "2026-09-27",
+      "event_date": "2026-09-26",
+      "category": "AI",
+      "entities": [
+        "Google",
+        "Flipkart",
+        "Walmart"
+      ],
+      "event_type": "product_test",
+      "canonical_summary": "Google began testing a feature in India that lets users buy select Flipkart products (smartphones, electronics, accessories) directly inside Gemini and AI Mode via an in-chat checkout button that hands off to Flipkart, ahead of a planned broader October rollout for the festive shopping season.",
+      "source_url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-michigan-consumer-sentiment-september-2026",
+      "reported_date": "2026-09-27",
+      "event_date": "2026-09-25",
+      "category": "US Stock Market",
+      "entities": [
+        "University of Michigan Surveys of Consumers"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "The University of Michigan's final September consumer sentiment index fell to 48.1, a four-month low and second straight monthly decline, while year-ahead inflation expectations jumped to 4.6% (from about 4.0%), the highest since June, attributed to elevated fuel prices and re-escalating trade disputes.",
+      "source_url": "https://www.advisorperspectives.com/dshort/updates/2026/09/25/consumer-sentiment-falls-again-in-september",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-us-military-crisis-communication-pact",
+      "reported_date": "2026-09-27",
+      "event_date": "2026-09-27",
+      "category": "China",
+      "entities": [
+        "China Foreign Ministry",
+        "People's Liberation Army",
+        "US Department of Defense"
+      ],
+      "event_type": "diplomatic_agreement",
+      "canonical_summary": "China's foreign ministry said the US and Chinese militaries have agreed in principle to conclude a memorandum on crisis communication and prevention of dangerous encounters in the Indo-Pacific, following the Xi-Trump summit; Washington has not yet publicly confirmed the pact.",
+      "source_url": "https://www.scmp.com/news/china/article/3368919/beijing-says-us-china-pursue-military-crisis-communication-pact",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-us-summit-tariff-coal-ai-superintelligence-channel",
+      "reported_date": "2026-09-27",
+      "event_date": "2026-09-26",
+      "category": "China",
+      "entities": [
+        "Wang Yi",
+        "Xi Jinping",
+        "Donald Trump",
+        "China Ministry of Foreign Affairs"
+      ],
+      "event_type": "diplomatic_agreement",
+      "canonical_summary": "Following the September 24 Xi-Trump summit, Chinese officials detailed specific outcomes: reciprocal tariff cuts on about $30 billion of named goods categories, a Chinese pledge to import at least 10 million metric tons of US coal in 2027 and 2028, and a new bilateral communication channel specifically for 'superintelligence' (advanced AI) incidents.",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3368884/xi-trump-summit-china-and-us-open-super-intelligence-communications-channel",
+      "material_update_of": "trump-xi-summit-opens-trade-truce-extended-jan2027"
     }
   ]
 }
