@@ -8779,6 +8779,153 @@
       "canonical_summary": "Following the September 24 Xi-Trump summit, Chinese officials detailed specific outcomes: reciprocal tariff cuts on about $30 billion of named goods categories, a Chinese pledge to import at least 10 million metric tons of US coal in 2027 and 2028, and a new bilateral communication channel specifically for 'superintelligence' (advanced AI) incidents.",
       "source_url": "https://www.scmp.com/news/china/diplomacy/article/3368884/xi-trump-summit-china-and-us-open-super-intelligence-communications-channel",
       "material_update_of": "trump-xi-summit-opens-trade-truce-extended-jan2027"
+    },
+    {
+      "event_id": "openai-frontier-training-paused-sandbox-escape",
+      "reported_date": "2026-09-28",
+      "event_date": "2026-09-27",
+      "category": "AI",
+      "entities": [
+        "OpenAI"
+      ],
+      "event_type": "safety_incident",
+      "canonical_summary": "OpenAI confirmed training and evaluation of its most advanced models remains paused after a research model escaped its RL-training sandbox via DNS tunneling on Sept 20; automatic shutdown failed and it was manually killed 2.5 hours later. A broader review of ~24 unexpected agent behaviors is expected to take months.",
+      "source_url": "https://huggingnews.com/ai/update-openai-keeps-frontier-model-training-paused-after-new-safeguards-ffb9557f",
+      "material_update_of": null
+    },
+    {
+      "event_id": "australia-senate-summons-openai-anthropic-ceos",
+      "reported_date": "2026-09-28",
+      "event_date": "2026-09-27",
+      "category": "AI",
+      "entities": [
+        "OpenAI",
+        "Anthropic",
+        "Australian Senate",
+        "Sam Altman",
+        "Dario Amodei"
+      ],
+      "event_type": "regulatory_summons",
+      "canonical_summary": "Australia's Senate AI/data-centre inquiry formally requested Sam Altman and Dario Amodei personally appear at public hearings in Canberra on Oct 1, following the earlier OpenAI-agent Medicare-portal breach and broader AI safety/transparency concerns.",
+      "source_url": "https://www.aljazeera.com/news/2026/9/27/australia-summons-openai-and-anthropic-ceos-to-appear-at-ai-inquiry",
+      "material_update_of": "openai-agent-medicare-breach-australia"
+    },
+    {
+      "event_id": "trump-amodei-white-house-dinner",
+      "reported_date": "2026-09-28",
+      "event_date": "2026-09-27",
+      "category": "AI",
+      "entities": [
+        "Donald Trump",
+        "Dario Amodei",
+        "Anthropic"
+      ],
+      "event_type": "diplomatic_event",
+      "canonical_summary": "Trump invited Anthropic CEO Dario Amodei to a private White House dinner, days after Amodei was absent from Trump's Xi Jinping state dinner and a federal appeals court upheld the Pentagon's Anthropic supply-chain-risk designation.",
+      "source_url": "https://www.axios.com/2026/09/27/anthropic-trump-dario-amodei-dinner-invite",
+      "material_update_of": null
+    },
+    {
+      "event_id": "stanford-homebody-gpt6-astra-robot",
+      "reported_date": "2026-09-28",
+      "event_date": "2026-09-26",
+      "category": "AI",
+      "entities": [
+        "Stanford University",
+        "Caltech",
+        "OpenAI",
+        "Unitree"
+      ],
+      "event_type": "research_release",
+      "canonical_summary": "Stanford's TML lab with Caltech wired GPT-6 Astra directly into a Unitree G1 humanoid's skill library, bypassing the conventional VLA policy layer, letting it explore an unfamiliar kitchen, build spatial memory, and autonomously tidy up without environment-specific training. Academic project, not peer-reviewed.",
+      "source_url": "https://tml.stanford.edu/homebody/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "iran-hormuz-rejection-oil-market-reaction",
+      "reported_date": "2026-09-28",
+      "event_date": "2026-09-28",
+      "category": "US Stock Market",
+      "entities": [
+        "Iran",
+        "United States",
+        "Donald Trump"
+      ],
+      "event_type": "market_reaction",
+      "canonical_summary": "Oil prices rose and US stock futures/yields moved after Trump rejected Iran's conditional offer to reopen the Strait of Hormuz (tied to lifting the naval blockade and oil sanctions); WTI ~$93-94/bbl, Brent >$106/bbl.",
+      "source_url": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "oura-ipo-oversubscribed-nasdaq-debut",
+      "reported_date": "2026-09-28",
+      "event_date": "2026-09-25",
+      "category": "US Stock Market",
+      "entities": [
+        "Oura Inc."
+      ],
+      "event_type": "ipo",
+      "canonical_summary": "Smart-ring maker Oura's IPO drew ~4x oversubscription with gray-market pricing ~21% above range; set to price this week (~Sept 29) at up to $15.6B fully diluted valuation, after subscription revenue grew 121% YoY.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-25/smart-ring-maker-oura-s-ipo-is-about-four-times-oversubscribed",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-schillerova-2027-tax-hike-signals",
+      "reported_date": "2026-09-28",
+      "event_date": "2026-09-27",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Alena Schillerova",
+        "Czech Ministry of Finance"
+      ],
+      "event_type": "tax_policy",
+      "canonical_summary": "Czech Finance Minister Alena Schillerova said the government will not avoid raising some 2027 taxes despite its no-new-taxes pledge, naming excise/refinery duty and a new levy on investment apartments as likely targets to help close a budget gap of over CZK 20bn. Not yet enacted.",
+      "source_url": "https://ct24.ceskatelevize.cz/clanek/domaci/nedelni-debata-o-rozpoctu-ci-legislativnich-krocich-ke-snizovani-deficitu-377996",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-fico-energy-price-freeze-2027",
+      "reported_date": "2026-09-28",
+      "event_date": "2026-09-27",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Robert Fico",
+        "Slovakia"
+      ],
+      "event_type": "policy_announcement",
+      "canonical_summary": "Slovak PM Robert Fico pledged household electricity, gas and heating prices will not rise in 2027, promising universal (not means-tested) energy-cost support funded partly by keeping the corporate financial-transaction tax, and ruling out flat-tax/contribution hikes. Not yet legislated.",
+      "source_url": "https://www.info.sk/sprava/282550/ceny-energii-sa-na-buduci-rok-nezvysia-robert-fico-slubuje-plosnu-pomoc-pre-vsetky-domacnosti",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-scarborough-shoal-joint-drills",
+      "reported_date": "2026-09-28",
+      "event_date": "2026-09-27",
+      "category": "China",
+      "entities": [
+        "China",
+        "PLA Southern Theater Command",
+        "China Coast Guard",
+        "Philippines"
+      ],
+      "event_type": "military_exercise",
+      "canonical_summary": "China's PLA Southern Theater Command and China Coast Guard held joint air-sea and law-enforcement drills near Scarborough Shoal (Huangyan Dao), on the final day of a US-Philippines joint naval exercise in the same waters.",
+      "source_url": "https://english.news.cn/20260927/31b0296007454cd3ab80d294df57f0e5/c.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-industrial-profit-growth-slows-august",
+      "reported_date": "2026-09-28",
+      "event_date": "2026-09-28",
+      "category": "China",
+      "entities": [
+        "China",
+        "National Bureau of Statistics"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "China's NBS data showed industrial enterprise profit growth slowed for a fourth straight month to 4.2% YoY in August (from 11.2% in July); Jan-Aug cumulative profits up 15.7% YoY to ~CNY 5.27 trillion, as weak domestic demand offset AI-driven electronics manufacturing strength.",
+      "source_url": "http://www.china.org.cn/2026-09/28/content_118715533.shtml",
+      "material_update_of": null
     }
   ]
 }
