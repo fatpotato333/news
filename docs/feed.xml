@@ -12,6 +12,15 @@
     <itunes:explicit>false</itunes:explicit>
 
     <item>
+      <title>Daily News — 2026-09-28</title>
+      <description>Concise daily news briefing for 2026-09-28.</description>
+      <pubDate>Mon, 28 Sep 2026 08:14:43 +0200</pubDate>
+      <guid isPermaLink="false">daily-news-2026-09-28</guid>
+      <enclosure url="https://github.com/fatpotato333/news/releases/download/daily-podcast/daily-news-2026-09-28.mp3" length="2335149" type="audio/mpeg" />
+      <itunes:duration>00:03:15</itunes:duration>
+    </item>
+
+    <item>
       <title>Daily News — 2026-09-27</title>
       <description>Concise daily news briefing for 2026-09-27.</description>
       <pubDate>Sun, 27 Sep 2026 08:12:52 +0200</pubDate>
@@ -63,15 +72,6 @@
       <guid isPermaLink="false">daily-news-2026-09-21</guid>
       <enclosure url="https://github.com/fatpotato333/news/releases/download/daily-podcast/daily-news-2026-09-21.mp3" length="1382157" type="audio/mpeg" />
       <itunes:duration>00:01:55</itunes:duration>
-    </item>
-
-    <item>
-      <title>Daily News — 2026-09-20</title>
-      <description>Concise daily news briefing for 2026-09-20.</description>
-      <pubDate>Sun, 20 Sep 2026 08:12:18 +0200</pubDate>
-      <guid isPermaLink="false">daily-news-2026-09-20</guid>
-      <enclosure url="https://github.com/fatpotato333/news/releases/download/daily-podcast/daily-news-2026-09-20.mp3" length="1259757" type="audio/mpeg" />
-      <itunes:duration>00:01:45</itunes:duration>
     </item>
   </channel>
 </rss>
