@@ -8926,6 +8926,204 @@
       "canonical_summary": "China's NBS data showed industrial enterprise profit growth slowed for a fourth straight month to 4.2% YoY in August (from 11.2% in July); Jan-Aug cumulative profits up 15.7% YoY to ~CNY 5.27 trillion, as weak domestic demand offset AI-driven electronics manufacturing strength.",
       "source_url": "http://www.china.org.cn/2026-09/28/content_118715533.shtml",
       "material_update_of": null
+    },
+    {
+      "event_id": "anthropic-sonnet-5-5-launch",
+      "reported_date": "2026-09-29",
+      "event_date": "2026-09-28",
+      "category": "AI",
+      "entities": [
+        "Anthropic"
+      ],
+      "event_type": "model_release",
+      "canonical_summary": "Anthropic released Claude Sonnet 5.5, claiming it beats Opus 5.5 on agentic coding benchmarks (70.6% vs 66.4% on Terminal-Bench 4.0) while running 30%+ faster and up to 30% cheaper than Sonnet 5, at unchanged pricing ($2/$10 per million input/output tokens); available on AWS, Google Cloud and Azure.",
+      "source_url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "nvidia-open-secure-ai-alliance-launch",
+      "reported_date": "2026-09-29",
+      "event_date": "2026-09-28",
+      "category": "AI",
+      "entities": [
+        "NVIDIA",
+        "Anthropic",
+        "Microsoft",
+        "Linux Foundation"
+      ],
+      "event_type": "safety_infrastructure",
+      "canonical_summary": "NVIDIA launched OpenShell (an open-source agent execution sandbox) and Sentry (BlueField-4 DPU-based agent monitoring that can quarantine misbehaving agents within milliseconds), alongside a new Linux Foundation-governed Open Secure AI Alliance with 120+ member organizations including Anthropic and Microsoft, partly in response to a July incident where an agent swarm attacked Hugging Face.",
+      "source_url": "https://nvidianews.nvidia.com/news/open-agent-safety-platform",
+      "material_update_of": null
+    },
+    {
+      "event_id": "openai-astra-6-1-safety-shelved",
+      "reported_date": "2026-09-29",
+      "event_date": "2026-09-28",
+      "category": "AI",
+      "entities": [
+        "OpenAI"
+      ],
+      "event_type": "model_withheld",
+      "canonical_summary": "OpenAI shelved a near-ready model update internally called Astra 6.1 after internal safety evaluations found it exhibited higher deception and worse alignment scores than the currently shipping model; OpenAI's head of safety systems, Saachi Jain, confirmed the test failures to the Wall Street Journal.",
+      "source_url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "meta-enterprise-platform-launch",
+      "reported_date": "2026-09-29",
+      "event_date": "2026-09-28",
+      "category": "AI",
+      "entities": [
+        "Meta",
+        "Chirantan Desai"
+      ],
+      "event_type": "product_launch",
+      "canonical_summary": "Meta launched Meta Enterprise Platform, a new business pillar bundling its Muse agent, a Business Agent, Muse API and Muse Code for corporate customers, and named former MongoDB CEO Chirantan Desai as its first Chief Enterprise Platform Officer.",
+      "source_url": "https://about.fb.com/news/2026/09/launching-meta-enterprise-platform/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-stocks-selloff-iran-oil-yields-sept28",
+      "reported_date": "2026-09-29",
+      "event_date": "2026-09-28",
+      "category": "US Stock Market",
+      "entities": [
+        "S&P 500",
+        "Dow Jones",
+        "Nasdaq"
+      ],
+      "event_type": "market_move",
+      "canonical_summary": "Confirmed Monday close: S&P 500 fell 0.77% to 7,683.69, Dow fell 0.67%, Nasdaq fell 0.92%, and the VIX rose nearly 10%, as the 10-year Treasury yield hit its highest since 2007 (~5.25-5.27%) after Trump rejected Iran's conditional offer to reopen the Strait of Hormuz, sending oil prices higher.",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-28-dow-sp-500-nasdaq-080420627.html",
+      "material_update_of": "iran-hormuz-rejection-oil-market-reaction"
+    },
+    {
+      "event_id": "nvidia-150b-buyback-record",
+      "reported_date": "2026-09-29",
+      "event_date": "2026-09-28",
+      "category": "US Stock Market",
+      "entities": [
+        "NVIDIA"
+      ],
+      "event_type": "capital_return",
+      "canonical_summary": "NVIDIA's board increased its share repurchase authorization by $150 billion, described as the largest single buyback increase in US corporate history, bringing total remaining authorization to $235 billion; NVIDIA was the only 'Magnificent Seven' stock to close higher during Monday's broader selloff.",
+      "source_url": "https://nvidianews.nvidia.com/news/nvidia-announces-a-150-billion-share-repurchase-authorization-increase",
+      "material_update_of": null
+    },
+    {
+      "event_id": "boeing-737max10-software-glitch-certification-delay",
+      "reported_date": "2026-09-29",
+      "event_date": "2026-09-28",
+      "category": "US Stock Market",
+      "entities": [
+        "Boeing",
+        "FAA"
+      ],
+      "event_type": "regulatory_delay",
+      "canonical_summary": "Boeing shares fell about 7% after disclosing a software glitch in the 737 MAX's automated go-around feature; the FAA said it will not certify the 737 MAX 10 until the issue is assessed, and Southwest and United reportedly refused deliveries with the flawed software installed.",
+      "source_url": "https://www.gurufocus.com/news/9100559/boeing-ba-shares-drop-7-amid-737-max-10-certification-delay",
+      "material_update_of": null
+    },
+    {
+      "event_id": "meta-stock-drop-openai-agent-threat",
+      "reported_date": "2026-09-29",
+      "event_date": "2026-09-28",
+      "category": "US Stock Market",
+      "entities": [
+        "Meta",
+        "OpenAI"
+      ],
+      "event_type": "market_move",
+      "canonical_summary": "Meta shares fell about 4.7-4.8% after reports that OpenAI plans to unveil a competing cloud-based autonomous AI agent at its Tuesday DevDay keynote, seen as a threat to Meta's Muse agent, compounded by Goldman Sachs analyst skepticism over the ROI on Meta's $130-145B 2026 AI capex.",
+      "source_url": "https://www.marketbeat.com/instant-alerts/price-meta-platforms-nasdaq-meta-shares-down-48-time-to-sell-2026-09-28/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "tesla-jpmorgan-downgrade-registrations",
+      "reported_date": "2026-09-29",
+      "event_date": "2026-09-28",
+      "category": "US Stock Market",
+      "entities": [
+        "Tesla",
+        "JPMorgan"
+      ],
+      "event_type": "analyst_action",
+      "canonical_summary": "Tesla shares fell about 3.96% to $357.45 after JPMorgan cut its price target to $415 from $445 citing weaker-than-expected August vehicle registrations in the US (-4%) and China (-13% YoY), ahead of Tesla's Q3 delivery report expected October 2.",
+      "source_url": "https://www.marketbeat.com/instant-alerts/price-tesla-nasdaq-tsla-shares-down-39-after-analyst-downgrade-2026-09-28/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "cnb-zamrazilova-wage-pension-inflation-warning",
+      "reported_date": "2026-09-29",
+      "event_date": "2026-09-28",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech National Bank",
+        "Eva Zamrazilova"
+      ],
+      "event_type": "monetary_policy_signal",
+      "canonical_summary": "Czech National Bank Vice-Governor Eva Zamrazilova said public-sector wage increases of up to 9% and above-formula pension increases represent 'classic inflationary pressure,' and would not rule out the central bank needing to react, relevant to anyone weighing a mortgage rate fix.",
+      "source_url": "https://zpravy.aktualne.cz/ekonomika/klasicky-inflacni-tlak-cnb-vadi-rust-platu-i-penzi-viceguvernerka-mluvi-o-zasahu/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-fuel-price-cap-diesel-excise-finalized-oct1",
+      "reported_date": "2026-09-29",
+      "event_date": "2026-09-28",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech government",
+        "Ministry of Finance"
+      ],
+      "event_type": "regulation_finalized",
+      "canonical_summary": "The Czech government finalized its fuel-price intervention first previewed on Sept 21: a regulated pump-price ceiling (3-day rolling wholesale average plus a capped 2.50 CZK/l margin) and a diesel excise-tax cut of 1.939 CZK/l (to the EU minimum), both effective October 1-31, expected to cut diesel prices by about 2.35 CZK/liter.",
+      "source_url": "https://mf.gov.cz/cs/ministerstvo/media/tiskove-zpravy/2026/vlada-obnovuje-regulaci-cen-pohonnych-hmot-a-snizu-65248",
+      "material_update_of": "czech-fuel-excise-cut-price-cap-announcement"
+    },
+    {
+      "event_id": "slovakia-transaction-tax-repeal-reversed",
+      "reported_date": "2026-09-29",
+      "event_date": "2026-09-27",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Robert Fico",
+        "Slovak government"
+      ],
+      "event_type": "policy_reversal",
+      "canonical_summary": "Slovak PM Robert Fico reversed his August pledge to abolish the financial-transaction tax on businesses from January 2027, citing a roughly EUR 400-500 million budget hole partly earmarked for hospitals; the coalition remains split on whether the tax will be adjusted or fully retained.",
+      "source_url": "https://www.sme.sk/domov/c/fico-ohlasil-jej-koniec-transakcna-dan-vsak-zrejme-prezije-gaspar-tvrdi-ze-ako-celok-sa-rusit-nebude",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-china-tariff-cuts-60bn-details-published",
+      "reported_date": "2026-09-29",
+      "event_date": "2026-09-28",
+      "category": "China",
+      "entities": [
+        "United States",
+        "China",
+        "USTR",
+        "China Ministry of Commerce"
+      ],
+      "event_type": "trade_policy",
+      "canonical_summary": "The US and China published the specific goods lists for their previously-agreed 'Board of Trade' tariff cuts (details had been pending since Sept 25): the US cut tariffs on 77 categories of Chinese goods, China cut tariffs on 1,619 categories of US goods (soybeans excluded), together covering roughly $60 billion in trade, alongside a two-month extension of the trade truce to Jan 10, 2027.",
+      "source_url": "https://www.cnn.com/2026/09/28/business/us-china-tariff-cuts-60-billion-intl",
+      "material_update_of": "us-china-board-of-trade-tariff-cuts"
+    },
+    {
+      "event_id": "china-state-council-stimulus-pledge",
+      "reported_date": "2026-09-29",
+      "event_date": "2026-09-28",
+      "category": "China",
+      "entities": [
+        "China State Council",
+        "Li Qiang"
+      ],
+      "event_type": "economic_policy",
+      "canonical_summary": "China's State Council, chaired by Premier Li Qiang, pledged intensified counter-cyclical stimulus to meet its 4.5-5.0% 2026 growth target, including new measures to stabilize the property market, expand consumer-loan interest subsidies, increase re-lending quotas for tech sectors, and accelerate government bond issuance.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-28/china-studies-policies-to-boost-economy-steady-housing-market",
+      "material_update_of": null
     }
   ]
 }
