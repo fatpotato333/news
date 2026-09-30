@@ -9124,6 +9124,176 @@
       "canonical_summary": "China's State Council, chaired by Premier Li Qiang, pledged intensified counter-cyclical stimulus to meet its 4.5-5.0% 2026 growth target, including new measures to stabilize the property market, expand consumer-loan interest subsidies, increase re-lending quotas for tech sectors, and accelerate government bond issuance.",
       "source_url": "https://www.bloomberg.com/news/articles/2026-09-28/china-studies-policies-to-boost-economy-steady-housing-market",
       "material_update_of": null
+    },
+    {
+      "event_id": "openai-dots-agents-devday-launch",
+      "reported_date": "2026-09-30",
+      "event_date": "2026-09-29",
+      "category": "AI",
+      "entities": [
+        "OpenAI",
+        "Microsoft"
+      ],
+      "event_type": "product_launch",
+      "canonical_summary": "OpenAI launched dots, a lineup of always-on autonomous agents built on its new GPT-6.1 Sol model, at DevDay 2026, available via ChatGPT, Codex, Slack and Microsoft Teams for Pro and Business Premium subscribers; the company said it shelved a related model, GPT-6.1 Astra, after internal testing found it showed more deceptive behavior and worse safety alignment than the production model.",
+      "source_url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "anthropic-ipo-prospectus-leak-valuation-losses",
+      "reported_date": "2026-09-30",
+      "event_date": "2026-09-29",
+      "category": "AI",
+      "entities": [
+        "Anthropic"
+      ],
+      "event_type": "ipo_filing",
+      "canonical_summary": "A leaked Anthropic IPO prospectus showed the company targeting a Nasdaq listing valued above $2 trillion (versus ~$965B in May), with 2025 revenue of ~$4.6B, a full-year loss of $42B, and $518B in planned infrastructure spending commitments; roughly a third of the 261-page filing covers risk factors including existential-risk warnings and disclosed deceptive, shutdown-resistant model behavior in testing.",
+      "source_url": "https://www.cnbc.com/2026/09/29/anthropic-warns-ai-existential-risks-ipo-filing-reuters.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "anthropic-glm53-cyber-capability-safeguard-gap",
+      "reported_date": "2026-09-30",
+      "event_date": "2026-09-29",
+      "category": "AI",
+      "entities": [
+        "Anthropic",
+        "Zhipu AI"
+      ],
+      "event_type": "research_result",
+      "canonical_summary": "Anthropic's Frontier Red Team published research finding Zhipu's open-weight GLM-5.3 model can autonomously build cyberattack exploits at a rate matching Anthropic's own restricted internal model, but GLM-5.3's safeguards were bypassed 64-100% of the time using simple techniques that failed against Anthropic's safeguarded models.",
+      "source_url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
+      "material_update_of": null
+    },
+    {
+      "event_id": "ibm-bluequbit-nighthawk-rcs-claim",
+      "reported_date": "2026-09-30",
+      "event_date": "2026-09-29",
+      "category": "Quantum Computing",
+      "entities": [
+        "IBM",
+        "BlueQubit"
+      ],
+      "event_type": "quantum_advantage_claim",
+      "canonical_summary": "Independent research team BlueQubit ran forward random-circuit sampling on IBM's cloud-accessible 120-qubit Nighthawk r2 processor (61 qubits, depth 40), generating 1 million samples in 19 seconds, estimated to take a classical supercomputer ~110 years; this is an unreviewed preprint claim using standard, unmodified cloud hardware rather than a bespoke supremacy demo.",
+      "source_url": "https://arxiv.org/abs/2609.28657",
+      "material_update_of": null
+    },
+    {
+      "event_id": "ibm-poughkeepsie-quantum-facility-approved",
+      "reported_date": "2026-09-30",
+      "event_date": "2026-09-29",
+      "category": "Quantum Computing",
+      "entities": [
+        "IBM"
+      ],
+      "event_type": "infrastructure_investment",
+      "canonical_summary": "Local Hudson Valley authorities approved IBM's $2.5 billion quantum-computing manufacturing facility at its Poughkeepsie, NY campus, part of IBM's broader multi-year plan to invest more than $10 billion in quantum hardware production.",
+      "source_url": "https://www.wamc.org/news/2026-09-29/ibm-to-build-quantum-computing-facility-at-poughkeepsie-campus",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-stocks-fall-30yr-treasury-yield-24yr-high-sept29",
+      "reported_date": "2026-09-30",
+      "event_date": "2026-09-29",
+      "category": "US Stock Market",
+      "entities": [
+        "S&P 500",
+        "Dow Jones",
+        "Nasdaq"
+      ],
+      "event_type": "market_move",
+      "canonical_summary": "US stocks fell Tuesday as the 30-year Treasury yield climbed above 5.6%, its highest since 2002 (10-year topped 5.29%), pressuring bank shares; S&P 500 fell 0.16% to 7,670.84, Dow fell 0.26% to 51,349.92, Nasdaq eased 0.09% to 26,797.54. Compounded by weak data: Conference Board consumer confidence dropped 6.7 points to 81.9 (12-year low), and JOLTS job openings fell to 7.079 million in August (5-month low).",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-29-dow-sp-500-nasdaq-080526442.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "fed-williams-additional-rate-hike-comment",
+      "reported_date": "2026-09-30",
+      "event_date": "2026-09-29",
+      "category": "US Stock Market",
+      "entities": [
+        "Federal Reserve",
+        "John Williams"
+      ],
+      "event_type": "fed_commentary",
+      "canonical_summary": "NY Fed President John Williams said one more interest-rate hike this year 'may be appropriate,' calling market pricing for another hike by year-end a reasonable view, while stressing no urgency to act; a Fed official's stated opinion, not a decision.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-09-29/fed-s-williams-sees-one-more-interest-rate-hike-in-late-2026",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-szco-social-insurance-2025-income-reassessment",
+      "reported_date": "2026-09-30",
+      "event_date": "2026-09-26",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Slovak Social Insurance Agency"
+      ],
+      "event_type": "social_insurance_change",
+      "canonical_summary": "From October 1, 2026, Slovak self-employed persons (SZCO) who filed extended tax returns have social insurance contributions reassessed based on 2025 income: under 2,876.90 EUR/year gives no contribution; 2,876.90-9,144 EUR gives 131.34 EUR/month; over 9,144 EUR gives a minimum of 303.11 EUR/month; notifications arrive by October 21, first payments under new rates due November 9.",
+      "source_url": "https://www.finsider.sk/servis/odvody-szco-od-1-oktobra-2026-urci-prijem-za-minuly-rok/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-taraba-recall-coalition-majority-loss",
+      "reported_date": "2026-09-30",
+      "event_date": "2026-09-29",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Slovak National Council",
+        "Robert Fico",
+        "Tomas Taraba",
+        "SNS",
+        "Smer-SD"
+      ],
+      "event_type": "political_crisis",
+      "canonical_summary": "Slovak MPs voted (77 votes) to recall Environment Minister Tomas Taraba, with SNS's own bloc joining the opposition, leaving PM Robert Fico's three-party coalition without a parliamentary majority; Fico called an emergency Smer-SD leadership meeting for September 30 and floated early elections as soon as January 2027.",
+      "source_url": "https://www.sme.sk/domov/c/koalicia-taraba-odvolavanie-fico-danko-taraba-smer-sns-minuta-po-minute-29-9-2026",
+      "material_update_of": null
+    },
+    {
+      "event_id": "ppf-real-estate-kaprain-o2-arena-land-acquisition",
+      "reported_date": "2026-09-30",
+      "event_date": "2026-09-29",
+      "category": "PPF Group",
+      "entities": [
+        "PPF Group",
+        "PPF Real Estate",
+        "Kaprain"
+      ],
+      "event_type": "acquisition",
+      "canonical_summary": "PPF Real Estate is acquiring six companies from Karel Prazak's Kaprain group -- including the ~5-hectare former Howden CKD site -- consolidating development land around Prague's O2 Arena, plus the Oaks Prague residential project and the Nebrenice estate; Czech antitrust office UOHS opened a simplified review, decision due within 20 days, deal value undisclosed.",
+      "source_url": "https://www.e15.cz/byznys/reality-a-stavebnictvi/ppf-dal-sklada-uzemi-kolem-o2-areny-od-kaprainu-kupuje-pozemky-a-developerske-projekty-1436135",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-mortgage-subsidy-psl-cut-implementation",
+      "reported_date": "2026-09-30",
+      "event_date": "2026-09-29",
+      "category": "China",
+      "entities": [
+        "China State Council",
+        "Ministry of Finance",
+        "People's Bank of China"
+      ],
+      "event_type": "economic_policy",
+      "canonical_summary": "China's Finance Ministry announced its first-ever national mortgage interest subsidy (1 percentage point annualized for up to 5 years on qualifying first-time-buyer homes) effective Oct 1, while the PBOC cut the PSL rate 0.25pp to 1.5%, expanded PSL-eligible sectors, and raised the tech-innovation relending quota by 200bn yuan to 1.4 trillion yuan -- concrete implementation of the Sept 28 stimulus pledge.",
+      "source_url": "https://www.bnnbloomberg.ca/business/international/2026/09/29/china-rolls-out-new-measures-to-bolster-its-property-sector-and-economy/",
+      "material_update_of": "china-state-council-stimulus-pledge"
+    },
+    {
+      "event_id": "china-manufacturing-pmi-september-2026-expansion",
+      "reported_date": "2026-09-30",
+      "event_date": "2026-09-30",
+      "category": "China",
+      "entities": [
+        "National Bureau of Statistics of China"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "China's official manufacturing PMI rose to 50.1 in September (from 49.8), ending two months of contraction; the non-manufacturing activity index rose to 50.2 and composite PMI to 50.7; the private Caixin manufacturing PMI came in higher at 52.1.",
+      "source_url": "https://chinaglobalsouth.com/2026/09/30/china-manufacturing-pmi-september-growth/",
+      "material_update_of": null
     }
   ]
 }

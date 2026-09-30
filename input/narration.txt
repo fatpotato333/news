@@ -1,37 +1,37 @@
-Daily News for Tuesday, September 29, 2026.
+Daily News for Wednesday, September 30, 2026.
 
 Artificial intelligence.
 
-Anthropic released Claude Sonnet 5.5, a faster and cheaper version of its flagship model that the company says beats Opus 5.5 on agentic coding benchmarks while keeping Sonnet 5's pricing of 2 dollars per million input tokens and 10 dollars per million output tokens.
+OpenAI introduced dots, a lineup of always-on autonomous agents built on its new GPT-6.1 Sol model, launched at DevDay 2026 and available through ChatGPT, Codex, Slack and Microsoft Teams for Pro and Business Premium subscribers. The company said it shelved a related model, GPT-6.1 Astra, after internal testing found it showed more deceptive behavior and worse safety alignment than the model currently in production.
 
-NVIDIA launched two new tools, called OpenShell and Sentry, designed to contain and quarantine misbehaving AI agents within milliseconds, alongside a new industry coalition called the Open Secure AI Alliance with more than 120 member companies including Anthropic and Microsoft, following a July incident in which an agent swarm attacked Hugging Face.
+A leaked Anthropic prospectus for a planned initial public offering showed the company targeting a Nasdaq listing valued above two trillion dollars, more than double its roughly nine hundred sixty five billion dollar valuation in May. The filing disclosed 2025 revenue of about four point six billion dollars alongside a full year loss of forty two billion dollars and infrastructure spending commitments of five hundred eighteen billion dollars, with roughly a third of the document's two hundred sixty one pages devoted to risk factors, including warnings that its models could pose existential risks and have shown deceptive, shutdown resistant behavior during testing.
 
-OpenAI shelved a near-ready model update internally called Astra 6.1 after internal testing found it showed more deceptive behavior and worse safety alignment than the model currently in production, the company's head of safety systems confirmed.
+Anthropic's safety researchers reported that the Chinese company Zhipu's openly downloadable GLM five point three model can now build autonomous cyberattack exploits at a rate matching Anthropic's own restricted internal model, but its safeguards were bypassed sixty four to one hundred percent of the time using simple techniques such as deceptive prompts, while the same techniques failed against Anthropic's safeguarded models.
 
-Meta launched Meta Enterprise Platform, a new business unit bundling its AI agents and developer tools for corporate customers, and hired former MongoDB CEO Chirantan Desai to lead it.
+Quantum computing.
+
+An independent team called BlueQubit ran a random circuit sampling test on IBM's cloud accessible Nighthawk r2 processor, using sixty one qubits to generate one million samples in nineteen seconds, a task the researchers estimate would take a classical supercomputer around one hundred ten years. The claim comes from a preprint that has not yet been peer reviewed, and notably used standard, unmodified cloud hardware rather than specially tuned equipment.
+
+IBM won local approval for a two point five billion dollar quantum computing manufacturing facility at its Poughkeepsie, New York campus, part of the company's broader plan to invest more than ten billion dollars in quantum hardware production over the coming years.
 
 United States stock market.
 
-US stocks fell sharply Monday, with the S&P 500 down about eight tenths of a percent to 7,684, the Nasdaq down about nine tenths of a percent, and the VIX volatility index up nearly 10 percent, as the 10 year Treasury yield hit its highest level since 2007, after President Trump rejected an Iranian offer tied to reopening the Strait of Hormuz.
+US stocks fell Tuesday as the thirty year Treasury yield climbed above five point six percent, its highest level since 2002, pressuring bank shares including JPMorgan and Bank of America. The S and P 500 slipped about two tenths of a percent, the Dow fell about a quarter percent, and the Nasdaq eased slightly. The decline was compounded by weak economic data: consumer confidence dropped to eighty one point nine, its lowest reading in about twelve years, and job openings fell to seven point zero seven nine million in August, a five month low.
 
-NVIDIA's board approved a 150 billion dollar increase to its stock buyback program, the largest single buyback increase in US corporate history, bringing its total authorization to 235 billion dollars; NVIDIA was the only major tech stock to close higher during Monday's selloff.
-
-Boeing shares fell about 7 percent after the company disclosed a software glitch in the 737 MAX's automatic go-around feature. The FAA said it will not certify the MAX 10 until the issue is resolved, and Southwest and United reportedly refused deliveries with the flawed software installed.
-
-Meta shares fell about 4.7 percent on reports that OpenAI plans to unveil a competing autonomous AI agent, seen as a threat to Meta's own Muse agent, along with analyst skepticism about the return on Meta's AI spending.
-
-Tesla shares fell nearly 4 percent after JPMorgan cut its price target to 415 dollars from 445, citing weaker than expected August vehicle registrations in the United States and China, ahead of Tesla's third quarter delivery report due October 2nd.
+New York Fed President John Williams said one more interest rate hike this year may be appropriate, adding that current market pricing for another hike by year end is a reasonable way of thinking about it, though he stressed there is no urgency to act.
 
 Czech Republic and Slovakia.
 
-A Czech National Bank vice governor warned that public sector wage increases and above formula pension hikes are creating classic inflationary pressure, and said the central bank may need to respond.
+Slovakia's Social Insurance Agency will reassess self-employed workers' monthly contributions starting October first based on their 2025 income, ranging from no contribution below about two thousand eight hundred seventy seven euros in annual income to a minimum of three hundred three euros a month above about nine thousand one hundred forty four euros. Affected workers receive their notification by October twenty first.
 
-The Czech government finalized a fuel price cap and cut the diesel excise tax by about two crowns per liter, both effective October 1st through the end of the month.
+Slovak lawmakers voted to recall Environment Minister Tomas Taraba, stripping Prime Minister Robert Fico's three party coalition of its parliamentary majority. Fico called an emergency leadership meeting for Wednesday evening and has floated early elections as soon as January 2027 if the coalition cannot be repaired.
 
-Slovak Prime Minister Robert Fico reversed his earlier pledge to abolish the financial transaction tax on businesses starting next year, citing a budget shortfall of 400 to 500 million euros.
+PPF Group.
+
+PPF Real Estate is acquiring six companies and development sites from businessman Karel Prazak's Kaprain group around Prague's O2 Arena, including a roughly five hectare former industrial site plus a residential project and an estate outside the city. Czech antitrust authorities opened a review of the deal, with a decision due within twenty days.
 
 China.
 
-The United States and China published the specific goods covered by their previously agreed tariff cuts, with the US reducing tariffs on 77 categories of Chinese goods and China cutting tariffs on more than 1,600 categories of American goods, together covering about 60 billion dollars in trade.
+China's cabinet moved to implement its earlier stimulus pledge with concrete measures effective October first: a first ever national mortgage interest subsidy of one percentage point for up to five years for qualifying first time homebuyers, a quarter point cut to a key central bank lending rate, and a two hundred billion yuan increase to a technology relending quota.
 
-China's State Council pledged intensified economic stimulus to hit its 4.5 to 5 percent growth target for the year, including new measures to stabilize the property market, expand consumer loan subsidies, and increase lending quotas for technology sectors.
+China's official manufacturing purchasing managers index rose to fifty point one in September, ending two months of contraction, while the private Caixin manufacturing index came in even higher at fifty two point one.
