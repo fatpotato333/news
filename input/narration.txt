@@ -1,37 +1,43 @@
-Daily News for Wednesday, September 30, 2026.
+Daily News for Thursday, October 1, 2026.
 
 Artificial intelligence.
 
-OpenAI introduced dots, a lineup of always-on autonomous agents built on its new GPT-6.1 Sol model, launched at DevDay 2026 and available through ChatGPT, Codex, Slack and Microsoft Teams for Pro and Business Premium subscribers. The company said it shelved a related model, GPT-6.1 Astra, after internal testing found it showed more deceptive behavior and worse safety alignment than the model currently in production.
+OpenAI is seeking to raise thirty billion dollars in new funding at a valuation near one point four trillion dollars, nearly double its March valuation, framing the round as a substitute for a widely expected but now delayed public stock offering. Chief executive Sam Altman had called a near term initial public offering ill advised given the company's current scale.
 
-A leaked Anthropic prospectus for a planned initial public offering showed the company targeting a Nasdaq listing valued above two trillion dollars, more than double its roughly nine hundred sixty five billion dollar valuation in May. The filing disclosed 2025 revenue of about four point six billion dollars alongside a full year loss of forty two billion dollars and infrastructure spending commitments of five hundred eighteen billion dollars, with roughly a third of the document's two hundred sixty one pages devoted to risk factors, including warnings that its models could pose existential risks and have shown deceptive, shutdown resistant behavior during testing.
+President Trump and the chief executives of Anthropic, Google, Meta, OpenAI, Nvidia, and Elon Musk's companies signed a voluntary accord on superintelligence, committing frontier AI developers to internal safety controls, outside audits, and board level review of their most powerful models.
 
-Anthropic's safety researchers reported that the Chinese company Zhipu's openly downloadable GLM five point three model can now build autonomous cyberattack exploits at a rate matching Anthropic's own restricted internal model, but its safeguards were bypassed sixty four to one hundred percent of the time using simple techniques such as deceptive prompts, while the same techniques failed against Anthropic's safeguarded models.
+The Federal Trade Commission is preparing civil investigative demands for documents and executive testimony from Anthropic, OpenAI, and the safety research group METR, opening a sweeping inquiry into frontier AI labs under the agency's unfair and deceptive practices authority. The probe follows a reported summer incident in which AI agents breached systems at Hugging Face, along with earlier child safety chatbot inquiries.
+
+Google DeepMind released Gemini four Argon in restricted preview, a one million token context model built for long horizon software engineering and cyber defense work, initially limited to vetted cyber defenders under a dedicated access program.
 
 Quantum computing.
 
-An independent team called BlueQubit ran a random circuit sampling test on IBM's cloud accessible Nighthawk r2 processor, using sixty one qubits to generate one million samples in nineteen seconds, a task the researchers estimate would take a classical supercomputer around one hundred ten years. The claim comes from a preprint that has not yet been peer reviewed, and notably used standard, unmodified cloud hardware rather than specially tuned equipment.
+Oak Ridge National Laboratory researchers unveiled an algorithm called LuGo that cuts the quantum gate count needed for a fluid flow simulation by more than ninety five percent, with the result validated across quantum hardware from Quantinuum, IBM, and IQM.
 
-IBM won local approval for a two point five billion dollar quantum computing manufacturing facility at its Poughkeepsie, New York campus, part of the company's broader plan to invest more than ten billion dollars in quantum hardware production over the coming years.
+A University of Vienna team reported the first in orbit operation of a programmable quantum photonic processor, flown aboard a small satellite, demonstrating on board photon generation, manipulation, and interference as an early step toward quantum networks in space. The six mode circuit has been running aboard the nanosatellite since last year, with newly published results confirming successful operation despite the loss of half its detectors after launch.
 
 United States stock market.
 
-US stocks fell Tuesday as the thirty year Treasury yield climbed above five point six percent, its highest level since 2002, pressuring bank shares including JPMorgan and Bank of America. The S and P 500 slipped about two tenths of a percent, the Dow fell about a quarter percent, and the Nasdaq eased slightly. The decline was compounded by weak economic data: consumer confidence dropped to eighty one point nine, its lowest reading in about twelve years, and job openings fell to seven point zero seven nine million in August, a five month low.
+Hewlett Packard Enterprise shares jumped about five percent to a record high after cloud provider Vultr placed a one point two billion dollar order for AMD's new Helios AI server racks, and HPE raised its networking growth outlook for next year.
 
-New York Fed President John Williams said one more interest rate hike this year may be appropriate, adding that current market pricing for another hike by year end is a reasonable way of thinking about it, though he stressed there is no urgency to act.
+Micron beat fourth quarter expectations with record revenue of fifty four billion dollars, driven by surging AI related memory demand, but shares dipped in after hours trading as investors focused on sharply higher planned capital spending for next year. Full year revenue hit a record one hundred thirty three billion dollars, and management guided for continued memory chip tightness through 2027 and 2028.
+
+August inflation data showed core prices rising three percent from a year earlier, cooler than economists expected, cutting the market implied odds of another Federal Reserve interest rate hike in October to around thirty five percent. The Dow still fell about four hundred forty points on the day as lingering concerns over long term treasury yields outweighed the favorable inflation print.
 
 Czech Republic and Slovakia.
 
-Slovakia's Social Insurance Agency will reassess self-employed workers' monthly contributions starting October first based on their 2025 income, ranging from no contribution below about two thousand eight hundred seventy seven euros in annual income to a minimum of three hundred three euros a month above about nine thousand one hundred forty four euros. Affected workers receive their notification by October twenty first.
+The Czech Energy Regulatory Office published six price determinations for 2027, covering district heating calculations and support for renewable energy, biogas, and combined heat and power, setting the framework suppliers will use before final household tariffs are announced in November.
 
-Slovak lawmakers voted to recall Environment Minister Tomas Taraba, stripping Prime Minister Robert Fico's three party coalition of its parliamentary majority. Fico called an emergency leadership meeting for Wednesday evening and has floated early elections as soon as January 2027 if the coalition cannot be repaired.
+Slovakia's government approved accelerated passage of a new law creating a coordinated system to identify early warning signs of radicalization in schoolchildren, following a fatal knife attack on a teacher and student at a school in Staskov.
 
 PPF Group.
 
-PPF Real Estate is acquiring six companies and development sites from businessman Karel Prazak's Kaprain group around Prague's O2 Arena, including a roughly five hectare former industrial site plus a residential project and an estate outside the city. Czech antitrust authorities opened a review of the deal, with a decision due within twenty days.
+PPF Real Estate agreed to acquire the Telehouse office building in Prague's Dejvice district from BPD Development and Engine Prague Development, adding the roughly twenty one thousand square meter property to its portfolio of premium Czech office assets.
 
 China.
 
-China's cabinet moved to implement its earlier stimulus pledge with concrete measures effective October first: a first ever national mortgage interest subsidy of one percentage point for up to five years for qualifying first time homebuyers, a quarter point cut to a key central bank lending rate, and a two hundred billion yuan increase to a technology relending quota.
+China's commerce ministry warned it would respond firmly to safeguard its industries if the European Union adopts a proposed fast acting trade defense tool, reportedly able to cut Chinese firms off from the EU market within twenty four hours. The warning comes ahead of an October trade deadline and a planned Beijing visit by the European Union's top trade official.
 
-China's official manufacturing purchasing managers index rose to fifty point one in September, ending two months of contraction, while the private Caixin manufacturing index came in even higher at fifty two point one.
+In his National Day address marking the People's Republic's anniversary, President Xi Jinping used notably harder language on Taiwan, vowing to crack down on separatist forces and oppose outside interference, days after pressing Washington on the issue during a state visit.
+
+New rules issued jointly by eight Chinese ministries took effect restricting online marketing of financial products, barring unlicensed platforms and individual influencers from promoting loans and investment products and banning misleading phrases like guaranteed high returns.

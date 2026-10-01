@@ -9294,6 +9294,216 @@
       "canonical_summary": "China's official manufacturing PMI rose to 50.1 in September (from 49.8), ending two months of contraction; the non-manufacturing activity index rose to 50.2 and composite PMI to 50.7; the private Caixin manufacturing PMI came in higher at 52.1.",
       "source_url": "https://chinaglobalsouth.com/2026/09/30/china-manufacturing-pmi-september-growth/",
       "material_update_of": null
+    },
+    {
+      "event_id": "openai-30b-funding-1point4t-valuation",
+      "reported_date": "2026-10-01",
+      "event_date": "2026-09-29",
+      "category": "AI",
+      "entities": [
+        "OpenAI"
+      ],
+      "event_type": "funding_round",
+      "canonical_summary": "OpenAI is seeking a $30 billion funding round at a valuation near $1.4 trillion, nearly double its March valuation, as a substitute for a delayed IPO.",
+      "source_url": "https://www.bloomberg.com/news/newsletters/2026-09-30/openai-targets-30-billion-in-new-funding-round",
+      "material_update_of": null
+    },
+    {
+      "event_id": "white-house-ai-superintelligence-accord",
+      "reported_date": "2026-10-01",
+      "event_date": "2026-09-29",
+      "category": "AI",
+      "entities": [
+        "White House",
+        "Anthropic",
+        "Google",
+        "Meta",
+        "OpenAI",
+        "Nvidia",
+        "xAI"
+      ],
+      "event_type": "policy_agreement",
+      "canonical_summary": "Trump and the CEOs of Anthropic, Google, Meta, OpenAI, Nvidia, and xAI signed a voluntary 'Accord on Super Intelligence' requiring internal safety controls, outside audits, and board review of frontier AI models.",
+      "source_url": "https://www.aljazeera.com/news/2026/9/29/trump-top-tech-firms-sign-accord-to-self-police-ai-development",
+      "material_update_of": null
+    },
+    {
+      "event_id": "ftc-frontier-ai-labs-investigation",
+      "reported_date": "2026-10-01",
+      "event_date": "2026-09-30",
+      "category": "AI",
+      "entities": [
+        "FTC",
+        "Anthropic",
+        "OpenAI",
+        "METR"
+      ],
+      "event_type": "regulatory_investigation",
+      "canonical_summary": "The FTC is preparing civil investigative demands against Anthropic, OpenAI, and METR, opening a sweeping inquiry into frontier AI labs under its unfair/deceptive practices authority.",
+      "source_url": "https://dailyhodl.com/2026/09/30/ftc-opens-sweeping-probe-of-anthropic-openai-and-other-frontier-ai-labs/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "google-deepmind-gemini-4-argon-release",
+      "reported_date": "2026-10-01",
+      "event_date": "2026-09-30",
+      "category": "AI",
+      "entities": [
+        "Google DeepMind"
+      ],
+      "event_type": "model_release",
+      "canonical_summary": "Google DeepMind released Gemini 4 Argon in restricted preview, a 1M-token model for long-horizon coding and cyber defense, initially limited to vetted cyber defenders.",
+      "source_url": "https://www.martincid.com/technology-sv/gemini-4-argon-google-deepmind-cyber-defenders-access/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "ornl-lugo-quantum-algorithm-fluid-flow",
+      "reported_date": "2026-10-01",
+      "event_date": "2026-09-30",
+      "category": "Quantum Computing",
+      "entities": [
+        "Oak Ridge National Laboratory"
+      ],
+      "event_type": "algorithm_advance",
+      "canonical_summary": "ORNL researchers unveiled the LuGo algorithm, cutting quantum gate count for a fluid-flow simulation by over 95%, validated across Quantinuum, IBM, and IQM hardware.",
+      "source_url": "https://thequantuminsider.com/2026/09/30/new-quantum-algorithm-targets-bottleneck-in-fluid-flow-modeling/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "vienna-first-in-orbit-quantum-photonic-processor",
+      "reported_date": "2026-10-01",
+      "event_date": "2026-09-28",
+      "category": "Quantum Computing",
+      "entities": [
+        "University of Vienna",
+        "VCQ"
+      ],
+      "event_type": "scientific_result",
+      "canonical_summary": "University of Vienna researchers reported the first in-orbit operation of a programmable quantum photonic processor on a nanosatellite, demonstrating photon generation and interference in space.",
+      "source_url": "https://phys.org/news/2026-09-quantum-boldly-space.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "hpe-amd-helios-vultr-order-stock-jump",
+      "reported_date": "2026-10-01",
+      "event_date": "2026-09-30",
+      "category": "US Stock Market",
+      "entities": [
+        "Hewlett Packard Enterprise",
+        "AMD",
+        "Vultr"
+      ],
+      "event_type": "stock_move",
+      "canonical_summary": "HPE shares jumped about 5% to a record high after Vultr placed a $1.2 billion order for AMD Helios AI racks, and HPE raised its networking growth outlook.",
+      "source_url": "https://finance.yahoo.com/technology/ai/articles/hpe-stock-climbs-landing-1-143000700.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "micron-q4-earnings-beat-capex-selloff",
+      "reported_date": "2026-10-01",
+      "event_date": "2026-09-30",
+      "category": "US Stock Market",
+      "entities": [
+        "Micron"
+      ],
+      "event_type": "earnings",
+      "canonical_summary": "Micron beat Q4 FY2026 estimates with record $54.23B revenue on AI memory demand, but shares dipped after-hours as investors focused on sharply higher planned capex.",
+      "source_url": "https://www.cnbc.com/2026/09/30/micron-mu-q4-earnings-report-2026.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "august-pce-inflation-cools-fed-hike-odds",
+      "reported_date": "2026-10-01",
+      "event_date": "2026-09-30",
+      "category": "US Stock Market",
+      "entities": [
+        "Federal Reserve",
+        "PCE"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "August PCE inflation data (core +3.0% y/y) came in cooler than expected, cutting odds of an October Fed rate hike to around 35%, even as the Dow fell on lingering yield concerns.",
+      "source_url": "https://www.benzinga.com/markets/economic-data/26/09/62076994/august-pce-inflation-core-fed-preferred-gauge",
+      "material_update_of": null
+    },
+    {
+      "event_id": "cz-eru-2027-energy-price-determinations",
+      "reported_date": "2026-10-01",
+      "event_date": "2026-09-30",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Energy Regulatory Office (ERU)"
+      ],
+      "event_type": "regulatory_decision",
+      "canonical_summary": "The Czech ERU published six 2027 price determinations covering district heating and renewable/biogas/CHP support, the framework for next year's household heating tariffs.",
+      "source_url": "https://eru.gov.cz/eru-vydal-sest-novych-cenovych-vymeru-na-rok-2027",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-anti-radicalization-school-law-fasttrack",
+      "reported_date": "2026-10-01",
+      "event_date": "2026-09-30",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Slovak government"
+      ],
+      "event_type": "legislation",
+      "canonical_summary": "Slovakia's government fast-tracked a new law establishing a system to identify early radicalization warning signs in schools, after a fatal attack at a school in Staskov.",
+      "source_url": "https://www.teraz.sk/slovensko/vlada-schvalila-skratene-legislativ/996139-clanok.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "ppf-real-estate-telehouse-prague-acquisition",
+      "reported_date": "2026-10-01",
+      "event_date": "2026-09-30",
+      "category": "PPF Group",
+      "entities": [
+        "PPF Real Estate"
+      ],
+      "event_type": "acquisition",
+      "canonical_summary": "PPF Real Estate agreed to acquire the Telehouse office building in Prague's Dejvice district from BPD Development and Engine Prague Development.",
+      "source_url": "https://www.ppf.eu/en/press-release/ppf-real-estate-rozsiruje-sve-portfolio-o-kancelarskou-budovu-telehouse-v-praze",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-warns-eu-trade-defense-tool",
+      "reported_date": "2026-10-01",
+      "event_date": "2026-09-29",
+      "category": "China",
+      "entities": [
+        "China Ministry of Commerce",
+        "European Union"
+      ],
+      "event_type": "geopolitical_statement",
+      "canonical_summary": "China's commerce ministry warned of a firm response if the EU adopts a proposed fast-acting trade-defense tool able to cut Chinese firms from the EU market within 24 hours.",
+      "source_url": "https://www.usnews.com/news/world/articles/2026-09-29/china-vows-response-if-eu-introduces-moves-targeting-chinese-trade",
+      "material_update_of": null
+    },
+    {
+      "event_id": "xi-national-day-hardened-taiwan-language",
+      "reported_date": "2026-10-01",
+      "event_date": "2026-09-30",
+      "category": "China",
+      "entities": [
+        "Xi Jinping",
+        "Taiwan"
+      ],
+      "event_type": "geopolitical_statement",
+      "canonical_summary": "In his National Day address, Xi Jinping used notably harder language on Taiwan, vowing to crack down on separatist forces, days after pressing Washington on the issue.",
+      "source_url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/01/2003865216",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-financial-product-online-marketing-rules",
+      "reported_date": "2026-10-01",
+      "event_date": "2026-09-30",
+      "category": "China",
+      "entities": [
+        "China financial regulators"
+      ],
+      "event_type": "regulation",
+      "canonical_summary": "New rules from eight Chinese ministries took effect restricting online marketing of financial products, barring unlicensed platforms and influencers from promoting loans and investments.",
+      "source_url": "https://www.sznews.com/news/content/2026-09/30/content_32183340.htm",
+      "material_update_of": null
     }
   ]
 }
