@@ -9504,6 +9504,205 @@
       "canonical_summary": "New rules from eight Chinese ministries took effect restricting online marketing of financial products, barring unlicensed platforms and influencers from promoting loans and investments.",
       "source_url": "https://www.sznews.com/news/content/2026-09/30/content_32183340.htm",
       "material_update_of": null
+    },
+    {
+      "event_id": "anthropic-barclays-claude-expansion",
+      "reported_date": "2026-10-02",
+      "event_date": "2026-10-01",
+      "category": "AI",
+      "entities": [
+        "Anthropic",
+        "Barclays"
+      ],
+      "event_type": "enterprise_deployment",
+      "canonical_summary": "Barclays said it is scaling Anthropic's Claude bank-wide, targeting 50% of developers using Claude Code by end of 2026, building on existing internal usage.",
+      "source_url": "https://www.anthropic.com/news/barclays-scales-claude",
+      "material_update_of": null
+    },
+    {
+      "event_id": "openai-fires-safety-researchers-leak",
+      "reported_date": "2026-10-02",
+      "event_date": "2026-10-01",
+      "category": "AI",
+      "entities": [
+        "OpenAI"
+      ],
+      "event_type": "organizational",
+      "canonical_summary": "OpenAI confirmed it dismissed three safety researchers after finding they shared confidential company information with an outside AI safety organization.",
+      "source_url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "dwave-gate-model-simulator-beta",
+      "reported_date": "2026-10-02",
+      "event_date": "2026-10-01",
+      "category": "Quantum Computing",
+      "entities": [
+        "D-Wave Quantum",
+        "BBVA",
+        "Florida Atlantic University",
+        "Jülich Supercomputing Centre"
+      ],
+      "event_type": "hardware_milestone",
+      "canonical_summary": "D-Wave launched a beta program for a 21-qubit gate-model quantum simulator built on its cavity-qubit architecture with hardware-level error detection.",
+      "source_url": "https://www.dwavequantum.com/company/newsroom/press-release/d-wave-launches-gate-model-simulator-beta-program-advancing-error-aware-programming-capabilities",
+      "material_update_of": null
+    },
+    {
+      "event_id": "surrey-superfluid-helium-qubit-proposal",
+      "reported_date": "2026-10-02",
+      "event_date": "2026-10-01",
+      "category": "Quantum Computing",
+      "entities": [
+        "University of Surrey",
+        "Northwestern University"
+      ],
+      "event_type": "research_proposal",
+      "canonical_summary": "University of Surrey and Northwestern University researchers published a peer-reviewed design for a superfluid-helium qubit predicted to cut error rates ~100x versus superconducting qubits; no device built yet.",
+      "source_url": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-treasury-yields-24yr-high-oct2026",
+      "reported_date": "2026-10-02",
+      "event_date": "2026-10-01",
+      "category": "US Stock Market",
+      "entities": [
+        "US 10-Year Treasury",
+        "S&P 500",
+        "Nasdaq",
+        "Dow Jones"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "The 10-year Treasury yield hit a roughly 24-year high near 5.3% on inflation and debt concerns before easing as stocks closed mixed.",
+      "source_url": "https://www.fxstreet.com/news/us-treasury-yields-hit-24-year-highs-amid-energy-driven-inflation-concerns-202610010841",
+      "material_update_of": null
+    },
+    {
+      "event_id": "accenture-earnings-best-day-record",
+      "reported_date": "2026-10-02",
+      "event_date": "2026-10-01",
+      "category": "US Stock Market",
+      "entities": [
+        "Accenture"
+      ],
+      "event_type": "earnings",
+      "canonical_summary": "Accenture shares surged as much as 22%, their best single day on record, after beating Q4 earnings estimates and issuing a strong FY2027 outlook.",
+      "source_url": "https://www.cnbc.com/2026/10/01/accenture-rallies-more-than-20percent-after-earnings-beat-heads-for-best-day-ever.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "nike-earnings-multiyear-low-guidance",
+      "reported_date": "2026-10-02",
+      "event_date": "2026-10-01",
+      "category": "US Stock Market",
+      "entities": [
+        "Nike"
+      ],
+      "event_type": "earnings",
+      "canonical_summary": "Nike shares fell to their lowest level in over a decade despite an EPS beat, after the company guided for a high-single-digit revenue decline next year.",
+      "source_url": "https://www.cnbc.com/2026/10/01/nike-nke-q1-2027-earnings.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "nvidia-500b-ai-financing-skepticism",
+      "reported_date": "2026-10-02",
+      "event_date": "2026-10-01",
+      "category": "US Stock Market",
+      "entities": [
+        "Nvidia",
+        "Blackstone",
+        "Goldman Sachs",
+        "KKR"
+      ],
+      "event_type": "stock_move",
+      "canonical_summary": "Nvidia's plan to help arrange ~$500 billion in financing for AI data-center buildouts is drawing skepticism from banks over how long its chips retain collateral value.",
+      "source_url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/01/nvidias-bet-that-its-chips-can-finance-the-ai-boom-gets-a-wall-street-reality-check/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "cz-fuel-price-caps-diesel-tax-cut-oct2026",
+      "reported_date": "2026-10-02",
+      "event_date": "2026-10-01",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Ministry of Finance"
+      ],
+      "event_type": "price_regulation",
+      "canonical_summary": "The Czech government reimposed daily price caps on petrol and diesel and cut the diesel excise tax for October, expected to cost ~1.1 billion CZK/month in revenue.",
+      "source_url": "https://www.echo24.cz/a/HGUWu/zpravy-domaci-vraci-se-cenovy-strop-na-benzin-a-naftu-rijen",
+      "material_update_of": null
+    },
+    {
+      "event_id": "sk-fuel-margin-cap-transit-discounts-oct2026",
+      "reported_date": "2026-10-02",
+      "event_date": "2026-10-01",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Slovak government",
+        "ZSSK"
+      ],
+      "event_type": "price_regulation",
+      "canonical_summary": "Slovakia capped retail fuel margins at 0.10 euro/liter and cut 2nd-class train fares in half for October, with regional bus and city-transit discounts also planned.",
+      "source_url": "https://www.zssk.sk/aktuality/od-1-oktobra-bude-cestovne-zssk-v-2-triede-o-polovicu-nizsie/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "cz-superdavka-benefit-reform-oct2026",
+      "reported_date": "2026-10-02",
+      "event_date": "2026-10-01",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Ministry of Labour and Social Affairs"
+      ],
+      "event_type": "social_benefits_law",
+      "canonical_summary": "A reform to the Czech unified benefit system took effect, raising the living minimum for single adults and extending single-parent protections to children up to age 15, benefiting ~28,000 households.",
+      "source_url": "https://up.gov.cz/od-rijna-plati-zmeny-superdavky",
+      "material_update_of": null
+    },
+    {
+      "event_id": "g20-steel-overcapacity-deadlock-china-excluded",
+      "reported_date": "2026-10-02",
+      "event_date": "2026-10-01",
+      "category": "China",
+      "entities": [
+        "China",
+        "G20",
+        "USTR"
+      ],
+      "event_type": "trade_policy",
+      "canonical_summary": "G20 trade ministers failed to agree on steel/industrial overcapacity; the US defended a new 28-country framework on overcapacity that pointedly excludes China.",
+      "source_url": "https://www.france24.com/en/economy/20261002-g20-trade-ministers-overcapacity-impasse-greer",
+      "material_update_of": null
+    },
+    {
+      "event_id": "philippines-china-coast-guard-standoff-taiwan",
+      "reported_date": "2026-10-02",
+      "event_date": "2026-10-01",
+      "category": "China",
+      "entities": [
+        "Philippine Coast Guard",
+        "China Coast Guard"
+      ],
+      "event_type": "geopolitical",
+      "canonical_summary": "The Philippine coast guard sent its largest ship to challenge a Chinese survey vessel near Taiwan; China's Manila embassy accused the Philippines of harassment.",
+      "source_url": "https://www.usnews.com/news/world/articles/2026-10-01/philippines-sends-largest-ship-aircraft-to-drive-away-chinese-vessel-in-waters-near-taiwan",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-central-government-mortgage-interest-subsidy",
+      "reported_date": "2026-10-02",
+      "event_date": "2026-10-01",
+      "category": "China",
+      "entities": [
+        "China Ministry of Finance",
+        "People's Bank of China",
+        "National Financial Regulatory Administration"
+      ],
+      "event_type": "economic_policy",
+      "canonical_summary": "China began its first-ever central-government mortgage interest subsidy for first-time buyers of modest homes, effective October 1, to support the property market.",
+      "source_url": "https://english.news.cn/20260930/66423022fddf4af68508c4fe9c27c656/c.html",
+      "material_update_of": null
     }
   ]
 }

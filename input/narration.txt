@@ -1,43 +1,39 @@
-Daily News for Thursday, October 1, 2026.
+Daily News for Friday, October 2, 2026.
 
 Artificial intelligence.
 
-OpenAI is seeking to raise thirty billion dollars in new funding at a valuation near one point four trillion dollars, nearly double its March valuation, framing the round as a substitute for a widely expected but now delayed public stock offering. Chief executive Sam Altman had called a near term initial public offering ill advised given the company's current scale.
+Anthropic said Barclays is expanding its use of Claude across its global operations, aiming for half of its developer population to use Claude Code by the end of this year and a majority of engineers by twenty twenty seven, building on an internal assistant already used by more than sixteen thousand UK staff for over one million searches and models that now process some one hundred twenty thousand client emails a day in the bank's global markets unit.
 
-President Trump and the chief executives of Anthropic, Google, Meta, OpenAI, Nvidia, and Elon Musk's companies signed a voluntary accord on superintelligence, committing frontier AI developers to internal safety controls, outside audits, and board level review of their most powerful models.
-
-The Federal Trade Commission is preparing civil investigative demands for documents and executive testimony from Anthropic, OpenAI, and the safety research group METR, opening a sweeping inquiry into frontier AI labs under the agency's unfair and deceptive practices authority. The probe follows a reported summer incident in which AI agents breached systems at Hugging Face, along with earlier child safety chatbot inquiries.
-
-Google DeepMind released Gemini four Argon in restricted preview, a one million token context model built for long horizon software engineering and cyber defense work, initially limited to vetted cyber defenders under a dedicated access program.
+OpenAI confirmed it dismissed three safety researchers after an internal investigation found they shared confidential company information with an outside AI safety organization outside approved channels, according to a Wall Street Journal report that OpenAI did not dispute.
 
 Quantum computing.
 
-Oak Ridge National Laboratory researchers unveiled an algorithm called LuGo that cuts the quantum gate count needed for a fluid flow simulation by more than ninety five percent, with the result validated across quantum hardware from Quantinuum, IBM, and IQM.
+D-Wave opened a beta program for a twenty one qubit gate model quantum simulator built on its superconducting cavity qubit architecture with built in error detection, with early access partners including the bank BBVA, Florida Atlantic University, and Germany's Jülich Supercomputing Centre, as part of the company's push toward fault tolerant hardware.
 
-A University of Vienna team reported the first in orbit operation of a programmable quantum photonic processor, flown aboard a small satellite, demonstrating on board photon generation, manipulation, and interference as an early step toward quantum networks in space. The six mode circuit has been running aboard the nanosatellite since last year, with newly published results confirming successful operation despite the loss of half its detectors after launch.
+Researchers at the University of Surrey and Northwestern University published a peer reviewed design for a new type of qubit using superfluid helium to shield it from electromagnetic noise, predicting error rates roughly one hundred times lower than today's superconducting qubits, though the design remains theoretical and no working device has been built yet.
 
 United States stock market.
 
-Hewlett Packard Enterprise shares jumped about five percent to a record high after cloud provider Vultr placed a one point two billion dollar order for AMD's new Helios AI server racks, and HPE raised its networking growth outlook for next year.
+The ten year Treasury yield climbed to about five point three percent, its highest in roughly twenty four years, before easing slightly as stocks closed mixed, with the S&P five hundred edging up two tenths of a percent and the Nasdaq and Dow both little changed, as investors weighed inflation concerns tied to rising energy prices, strong growth data, and surging government debt.
 
-Micron beat fourth quarter expectations with record revenue of fifty four billion dollars, driven by surging AI related memory demand, but shares dipped in after hours trading as investors focused on sharply higher planned capital spending for next year. Full year revenue hit a record one hundred thirty three billion dollars, and management guided for continued memory chip tightness through 2027 and 2028.
+Accenture shares surged as much as twenty two percent, their best single trading day on record, after the company beat fourth quarter earnings and revenue estimates and issued a stronger than expected revenue outlook for next year, a sharp reversal after the stock had fallen roughly forty percent so far this year.
 
-August inflation data showed core prices rising three percent from a year earlier, cooler than economists expected, cutting the market implied odds of another Federal Reserve interest rate hike in October to around thirty five percent. The Dow still fell about four hundred forty points on the day as lingering concerns over long term treasury yields outweighed the favorable inflation print.
+Nike shares fell about four percent to their lowest level in more than a decade despite beating profit estimates, as the company guided for a high single digit percentage revenue decline next year amid continued sales weakness in China and Europe.
+
+Nvidia's plan to help arrange roughly five hundred billion dollars in financing for artificial intelligence data center buildouts, in talks with firms including Blackstone, Goldman Sachs, and KKR, is facing skepticism from banks and asset managers over how long its chips will retain enough value to serve as loan collateral.
 
 Czech Republic and Slovakia.
 
-The Czech Energy Regulatory Office published six price determinations for 2027, covering district heating calculations and support for renewable energy, biogas, and combined heat and power, setting the framework suppliers will use before final household tariffs are announced in November.
+The Czech government reimposed daily price caps on petrol and diesel and cut the diesel excise tax starting October first, a month long measure meant to ease pump prices that is expected to cost the state budget roughly one point one billion crowns in lost tax revenue, partly offset by a new special tax on refinery margins.
 
-Slovakia's government approved accelerated passage of a new law creating a coordinated system to identify early warning signs of radicalization in schoolchildren, following a fatal knife attack on a teacher and student at a school in Staskov.
+Slovakia capped retail fuel margins at ten euro cents per liter and cut second class train fares in half starting October first, with discounts of thirty percent on regional buses and fifty percent on city transit also planned for the month to ease living costs.
 
-PPF Group.
-
-PPF Real Estate agreed to acquire the Telehouse office building in Prague's Dejvice district from BPD Development and Engine Prague Development, adding the roughly twenty one thousand square meter property to its portfolio of premium Czech office assets.
+A reform of the Czech unified benefit system took effect October first, raising the living minimum for single adults from four thousand eight hundred sixty to five thousand five hundred crowns a month and extending extra housing and income protections for single parents to those with children up to age fifteen, benefiting an estimated twenty eight thousand households with an average gain of over two thousand crowns a month.
 
 China.
 
-China's commerce ministry warned it would respond firmly to safeguard its industries if the European Union adopts a proposed fast acting trade defense tool, reportedly able to cut Chinese firms off from the EU market within twenty four hours. The warning comes ahead of an October trade deadline and a planned Beijing visit by the European Union's top trade official.
+Group of twenty trade ministers meeting in Milwaukee failed to reach agreement on steel and industrial overcapacity, with the United States defending a new framework grouping twenty eight countries against overcapacity while pointedly excluding China, the world's largest steel producer, days after a state visit by Chinese leader Xi Jinping.
 
-In his National Day address marking the People's Republic's anniversary, President Xi Jinping used notably harder language on Taiwan, vowing to crack down on separatist forces and oppose outside interference, days after pressing Washington on the issue during a state visit.
+The Philippine coast guard sent its largest ship and an aircraft to challenge a Chinese survey vessel operating near Taiwan, prompting a Chinese coast guard vessel to intervene and Beijing's embassy in Manila to accuse the Philippines of harassing what it called routine scientific research.
 
-New rules issued jointly by eight Chinese ministries took effect restricting online marketing of financial products, barring unlicensed platforms and individual influencers from promoting loans and investment products and banning misleading phrases like guaranteed high returns.
+China's finance ministry, central bank, and financial regulator began directly subsidizing mortgage interest for first time buyers of modest homes starting October first, offering one percentage point off loan rates for up to five years, the central government's first ever direct subsidy of commercial home loan interest, aimed at supporting a weak property market and consumer spending.
