@@ -9703,6 +9703,202 @@
       "canonical_summary": "China began its first-ever central-government mortgage interest subsidy for first-time buyers of modest homes, effective October 1, to support the property market.",
       "source_url": "https://english.news.cn/20260930/66423022fddf4af68508c4fe9c27c656/c.html",
       "material_update_of": null
+    },
+    {
+      "event_id": "amazon-nvidia-chip-securitization-spv",
+      "reported_date": "2026-10-03",
+      "event_date": "2026-10-02",
+      "category": "AI",
+      "entities": [
+        "Amazon",
+        "AWS",
+        "Nvidia"
+      ],
+      "event_type": "financing",
+      "canonical_summary": "Amazon in talks to move roughly $8B of Nvidia Grace Blackwell GPUs into a special-purpose financing vehicle and lease them back from outside investors.",
+      "source_url": "https://techstartups.com/2026/10/02/amazon-seeks-to-offload-8-billion-in-nvidia-ai-chips-to-investors-as-big-tech-turns-to-wall-street-for-ai-compute-financing/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "bis-ai-investment-circularity-report",
+      "reported_date": "2026-10-03",
+      "event_date": "2026-10-01",
+      "category": "AI",
+      "entities": [
+        "Bank for International Settlements"
+      ],
+      "event_type": "research_report",
+      "canonical_summary": "BIS Bulletin No. 137 finds 55% of AI-firm funding since 2021 came from other AI firms, flagging circular financing as a potential systemic risk.",
+      "source_url": "https://www.bis.org/publ/work1367.pdf",
+      "material_update_of": null
+    },
+    {
+      "event_id": "nvidia-chip-smuggling-china-earthmade-charges",
+      "reported_date": "2026-10-03",
+      "event_date": "2026-10-01",
+      "category": "AI",
+      "entities": [
+        "US DOJ",
+        "Nvidia",
+        "Earthmade Computer Inc."
+      ],
+      "event_type": "legal_enforcement",
+      "canonical_summary": "US charged a California business owner (Earthmade Computer Inc.) with smuggling $300M of Nvidia chips to China via Malaysia/Singapore using falsified export documents.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-02/man-charged-by-us-with-illegally-shipping-nvidia-chips-to-china",
+      "material_update_of": null
+    },
+    {
+      "event_id": "openai-safety-lead-robinson-resignation",
+      "reported_date": "2026-10-03",
+      "event_date": "2026-10-02",
+      "category": "AI",
+      "entities": [
+        "OpenAI",
+        "David Robinson"
+      ],
+      "event_type": "executive_departure",
+      "canonical_summary": "OpenAI safety-transparency lead David Robinson resigned, at least the 7th senior safety departure in two years, days after OpenAI fired three researchers.",
+      "source_url": "https://www.benzinga.com/markets/tech/26/10/62150902/openai-safety-leader-david-robinson-resigns",
+      "material_update_of": "openai-fires-safety-researchers-leak"
+    },
+    {
+      "event_id": "doe-quantum-national-roadmap-2028",
+      "reported_date": "2026-10-03",
+      "event_date": "2026-10-02",
+      "category": "Quantum Computing",
+      "entities": [
+        "US Department of Energy"
+      ],
+      "event_type": "policy_roadmap",
+      "canonical_summary": "DOE published a national quantum roadmap targeting scientifically-relevant, fault-tolerant quantum computing by 2028, built around its $215M Quantum Genesis competition.",
+      "source_url": "https://quantumcomputingreport.com/us-department-of-energy-releases-national-quantum-roadmap-establishing-2028-fault-tolerance-milestones/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "fermilab-sqms-qubit-variance-study",
+      "reported_date": "2026-10-03",
+      "event_date": "2026-10-02",
+      "category": "Quantum Computing",
+      "entities": [
+        "Fermilab",
+        "Rigetti",
+        "NIST"
+      ],
+      "event_type": "research_publication",
+      "canonical_summary": "Fermilab-led study identified nanoscale surface features causing qubit coherence variance in superconducting transmons, published in Applied Physics Reviews.",
+      "source_url": "https://quantumcomputingreport.com/fermilab-sqms-center-identifies-microscopic-origins-of-qubit-performance-variance-across-superconducting-transmons/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "basel-paderborn-quantum-dot-photon-indistinguishability",
+      "reported_date": "2026-10-03",
+      "event_date": "2026-10-02",
+      "category": "Quantum Computing",
+      "entities": [
+        "University of Basel",
+        "Paderborn University",
+        "Ruhr University Bochum"
+      ],
+      "event_type": "research_publication",
+      "canonical_summary": "Researchers raised quantum-dot single-photon indistinguishability from ~60% to ~90% using an optical cavity, aiding scalable quantum networking.",
+      "source_url": "https://thequantuminsider.com/2026/10/02/new-method-generates-photons-that-are-virtually-indistinguishable/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "sqc-schneider-electric-quantum-energy-forecasting",
+      "reported_date": "2026-10-03",
+      "event_date": "2026-10-02",
+      "category": "Quantum Computing",
+      "entities": [
+        "Silicon Quantum Computing",
+        "Schneider Electric"
+      ],
+      "event_type": "commercial_application",
+      "canonical_summary": "SQC and Schneider Electric secured A$3.6M to scale a quantum-enhanced energy forecasting trial showing up to 41% accuracy improvement.",
+      "source_url": "https://thequantuminsider.com/2026/10/02/sqc-schneider-electric-quantum-energy-forecasting/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-september-jobs-report-fed-hike-odds-drop",
+      "reported_date": "2026-10-03",
+      "event_date": "2026-10-02",
+      "category": "US Stock Market",
+      "entities": [
+        "Federal Reserve",
+        "BLS"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "Weak September jobs report (+29K vs ~85K forecast) sent S&P 500 and Nasdaq higher as October Fed rate-hike odds fell below 20%.",
+      "source_url": "https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "tesla-q3-2026-deliveries-beat",
+      "reported_date": "2026-10-03",
+      "event_date": "2026-10-02",
+      "category": "US Stock Market",
+      "entities": [
+        "Tesla"
+      ],
+      "event_type": "earnings_data",
+      "canonical_summary": "Tesla shares rose ~5% after Q3 2026 deliveries of 486,532 vehicles beat analyst estimates of ~461,974 by about 5%.",
+      "source_url": "https://www.fool.com/coverage/stock-market-today/2026/10/02/stock-market-today-oct-2-tesla-rises-on-q3-delivery-beat/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-new-civil-code-approved",
+      "reported_date": "2026-10-03",
+      "event_date": "2026-10-01",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Slovak National Council"
+      ],
+      "event_type": "legislation",
+      "canonical_summary": "Slovak parliament approved a complete rewrite of its 1964 civil code overhauling inheritance, marital property and contract law, effective July 2027.",
+      "source_url": "https://spravy.stvr.sk/2026/10/parlament-schvalil-novy-obciansky-zakonnik-obsiahne-najvacsiu-upravu-sukromneho-prava/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-2027-budget-transaction-tax-pension-floor",
+      "reported_date": "2026-10-03",
+      "event_date": "2026-10-02",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Slovak coalition government"
+      ],
+      "event_type": "fiscal_policy",
+      "canonical_summary": "Slovak coalition agreed 2027 budget framework: transaction tax abolition pushed to Jan 2028; new ~€700/month minimum pension for those over 85.",
+      "source_url": "https://www.noviny.sk/slovensko/1267349-koalicia-sa-dohodla-na-rozpocte-transakcna-dan-sa-ma-zrusit-od-januara-2028",
+      "material_update_of": "slovakia-transaction-tax-repeal-reversed"
+    },
+    {
+      "event_id": "hong-kong-stocks-selloff-stimulus-disappointment",
+      "reported_date": "2026-10-03",
+      "event_date": "2026-10-02",
+      "category": "China",
+      "entities": [
+        "Hang Seng Index",
+        "HSBC",
+        "Alibaba",
+        "Tencent"
+      ],
+      "event_type": "market_event",
+      "canonical_summary": "Hong Kong stocks posted worst sell-off since March as investors judged Beijing's stimulus package insufficient to revive growth; HSBC fell 5.7%.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-02/hong-kong-stocks-slump-most-since-march-leading-losses-in-asia",
+      "material_update_of": null
+    },
+    {
+      "event_id": "taiwan-coast-guard-water-cannon-chinese-fishing-boat",
+      "reported_date": "2026-10-03",
+      "event_date": "2026-10-01",
+      "category": "China",
+      "entities": [
+        "Taiwan Coast Guard Administration"
+      ],
+      "event_type": "geopolitical_incident",
+      "canonical_summary": "Taiwan's coast guard used water cannon to drive off a mainland Chinese fishing vessel near the Dongsha Islands after it ignored warnings.",
+      "source_url": "https://www.scmp.com/news/china/politics/article/3369634/taiwan-coastguard-uses-water-cannons-warn-mainland-chinese-fishing-vessel",
+      "material_update_of": null
     }
   ]
 }
