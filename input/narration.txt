@@ -1,39 +1,23 @@
-Daily News for Saturday, October 3, 2026.
+Daily News for Sunday, October 4, 2026.
 
 Artificial intelligence.
 
-Amazon is reportedly in talks to move about 8 billion dollars of its Nvidia Grace Blackwell chips, installed across more than a dozen data centers, into a separate financing vehicle and lease the hardware back from outside investors. The move is aimed at offloading some of the cost of Amazon's roughly 220 billion dollar capital spending plan for 2026, and could become a model other large technology companies copy as AI infrastructure costs keep climbing.
+Meta said its Muse Spark AI model helped mathematicians crack five long unsolved problems, but a reviewer checking the work says roughly half of those problems had already been solved independently months earlier.
 
-A new Bank for International Settlements report finds that 55 percent of all funding raised by artificial intelligence companies since 2021 has come from other AI companies, often chipmakers and cloud providers taking equity stakes in exchange for multi year compute commitments. The bank says this circular financing pattern, combined with over a trillion dollars in hyperscaler spending, is becoming a possible source of systemic financial risk.
-
-United States prosecutors charged a California business owner with smuggling 300 million dollars worth of Nvidia chips to China through Malaysia and Singapore, using falsified end use documents between 2023 and 2024. The case comes as Nvidia faces pressure from US officials over its export controls and says it has already cut its authorized Asian buyer list by more than half.
-
-OpenAI's safety transparency lead, David Robinson, resigned this week, becoming at least the seventh senior safety staffer to leave the company in two years. His departure follows OpenAI's firing of three researchers on October first for allegedly sharing sensitive internal information externally, and comes as the company prepares for a fourth quarter public listing.
+Tesla cut memory capacity on its upcoming AI5 and AI6 chips by as much as half, freeing up scarce memory supply to prioritize mass production of its Optimus humanoid robot, according to Elon Musk.
 
 Quantum computing.
 
-The United States Department of Energy released a national roadmap targeting a scientifically useful, error corrected quantum computer by 2028, built around its existing 215 million dollar Quantum Genesis competition. The plan sets a science based benchmark of up to 200 logical qubits rather than focusing on raw qubit counts, and lays out a path toward a dedicated quantum computing user facility.
-
-Fermilab researchers, working with Rigetti, NIST and several other national and industry labs, identified nanoscale surface features, including etch angles and oxide thickness measured in single nanometers, that explain large swings in qubit performance on superconducting chips. The findings give chipmakers a predictive framework for building more uniform, longer lasting qubits as they try to scale up fault tolerant processors.
-
-Physicists in Basel, Paderborn and Bochum used an optical cavity to control the decay of excited states in semiconductor quantum dots, raising the indistinguishability of the single photons they emit from about 60 percent to roughly 90 percent. Highly indistinguishable photons are a key requirement for scalable quantum networking, and quantum dot sources are seen as easier to mass produce than other photon sources.
-
-Silicon Quantum Computing and Schneider Electric secured 3.6 million Australian dollars to expand their quantum enhanced energy forecasting partnership with the University of New South Wales. An earlier trial using the companies' quantum AI chip improved next day energy demand forecasting accuracy by an average of 20 percent, and by as much as 41 percent, compared with a classical benchmark.
-
-United States stock market.
-
-A much weaker than expected September jobs report showed just 29,000 jobs added, far below forecasts near 85,000, while the unemployment rate ticked up to 4.2 percent. The soft data sent the S&P 500 and Nasdaq higher on Friday as traders cut the odds of an October Federal Reserve rate hike to below 20 percent, even as a separate manufacturing survey showed factory input costs still rising sharply.
-
-Tesla shares jumped about 5 percent after the company delivered close to 487,000 vehicles in the third quarter, beating analyst estimates of roughly 462,000. It was the second straight quarter Tesla has topped delivery expectations, though investors are now watching its October earnings report for signs of how margins held up.
+India's IT ministry said researchers at QNu Labs, BISAG-N, and IIT Gandhinagar successfully tested a free space quantum key distribution link spanning five and a half kilometers, generating secure encryption keys that were then combined with post quantum cryptography software.
 
 Czech Republic and Slovakia.
 
-Slovakia's parliament approved a complete rewrite of its civil code, the first in more than 60 years, with the new rules taking effect in July 2027. The overhaul reworks inheritance and marital property law, introduces formal care contracts between elderly owners and caregivers, and merges business and consumer contract law into a single unified system.
+The Czech Energy Regulatory Office's indicative energy prices jumped fourteen percent for electricity and twenty percent for gas in October compared with September, mainly affecting households whose fixed price contracts are expiring or who are signing new energy deals.
 
-Slovakia's governing coalition agreed to delay abolishing its financial transaction tax until January 2028, meaning businesses and self employed workers will keep paying the bank transaction levy throughout next year. The same budget deal guarantees pensioners over the age of 85 a minimum monthly pension of roughly 700 euros, regardless of their prior contributions.
+The Czech Finance Ministry ordered internet providers to block the American prediction market platform Kalshi, adding it to the list of unauthorized gambling services after already blocking Polymarket earlier this year.
+
+A new survey found fifty six percent of Czech workers now use AI on the job, up from a third two years ago, though nearly half worry AI could replace their work, with the sharpest anxiety among those aged eighteen to thirty.
 
 China.
 
-Hong Kong stocks suffered their worst drop since March, with the Hang Seng index falling more than 2.6 percent and HSBC down nearly 6 percent, as investors judged Beijing's latest stimulus measures enough only to maintain growth rather than spark a recovery. Alibaba and Tencent also weighed on the index, with mainland exchanges closed for a national holiday removing a usual source of buying support.
-
-Taiwan's coast guard fired water cannon to drive off a mainland Chinese fishing vessel that had anchored in restricted waters near the Dongsha Islands and ignored repeated radio warnings. The boat lost engine power during the encounter, and Taiwanese officers provided food before towing it out of the area, the latest in a series of incidents around the disputed waters.
+Huawei said its homegrown Kirin Tau chip, built to work around US restrictions on advanced chipmaking tools, is on track to power more than one million Mate XT2 foldable phone sales.

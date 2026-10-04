@@ -9899,6 +9899,111 @@
       "canonical_summary": "Taiwan's coast guard used water cannon to drive off a mainland Chinese fishing vessel near the Dongsha Islands after it ignored warnings.",
       "source_url": "https://www.scmp.com/news/china/politics/article/3369634/taiwan-coastguard-uses-water-cannons-warn-mainland-chinese-fishing-vessel",
       "material_update_of": null
+    },
+    {
+      "event_id": "meta-muse-spark-math-claim-disputed",
+      "reported_date": "2026-10-04",
+      "event_date": "2026-10-03",
+      "category": "AI",
+      "entities": [
+        "Meta",
+        "Muse Spark",
+        "Jason Dean Lee"
+      ],
+      "event_type": "claim_dispute",
+      "canonical_summary": "A day after Meta said its Muse Spark model helped mathematicians crack five long-unsolved problems, reviewer Jason Dean Lee countered that roughly half of the results had already been independently solved by other researchers months earlier; moderate-confidence sourcing from a smaller outlet.",
+      "source_url": "https://huggingnews.com/ai/reviewer-claims-meta-solved-only-3-of-6-open-math-problems-ee36952c",
+      "material_update_of": null
+    },
+    {
+      "event_id": "tesla-ai5-ai6-chip-memory-cut-optimus",
+      "reported_date": "2026-10-04",
+      "event_date": "2026-10-02",
+      "category": "AI",
+      "entities": [
+        "Tesla",
+        "Elon Musk",
+        "Optimus",
+        "AI5 chip",
+        "AI6 chip"
+      ],
+      "event_type": "hardware_decision",
+      "canonical_summary": "Elon Musk said Tesla cut memory capacity on its upcoming AI5 and AI6 inference chips by up to half to free constrained global memory supply for mass-producing Optimus humanoid robots, calling the performance impact negligible.",
+      "source_url": "https://www.digitimes.com/news/a20261002PD222/tesla-optimus-production-ceo-elon-musk.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "india-qkd-5-56km-free-space-link",
+      "reported_date": "2026-10-04",
+      "event_date": "2026-09-28",
+      "category": "Quantum Computing",
+      "entities": [
+        "QNu Labs",
+        "BISAG-N",
+        "IIT Gandhinagar",
+        "India Ministry of Electronics and Information Technology"
+      ],
+      "event_type": "quantum_networking_demo",
+      "canonical_summary": "India's IT ministry disclosed that QNu Labs, BISAG-N and IIT Gandhinagar successfully tested a free-space quantum key distribution link over 5.56 kilometers, achieving a QBER below 5% and generating secure encryption keys later combined with post-quantum cryptography software for end-to-end encrypted test messages; field trial conducted Sept 27-28, publicly disclosed Oct 3.",
+      "source_url": "https://www.dqindia.com/government-policy/india-5-56-km-free-space-quantum-communication-link-12620730",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-energy-indicative-prices-october-jump",
+      "reported_date": "2026-10-04",
+      "event_date": "2026-10-01",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Energy Regulatory Office (ERU)",
+        "Czech households"
+      ],
+      "event_type": "energy_prices",
+      "canonical_summary": "Czech indicative wholesale-linked energy prices rose 14% for electricity and 20% for gas in October versus September, mainly affecting households whose fixed-price contracts are expiring or who are signing new energy deals; existing fixed-rate contract holders unaffected. Distinct from ERU's separate Sept 30 publication of six 2027 district-heating price determinations.",
+      "source_url": "https://www.moneyspot.cz/eru-zvedl-indikativni-ceny-energii/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-kalshi-isp-block",
+      "reported_date": "2026-10-04",
+      "event_date": "2026-09-30",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Ministry of Finance",
+        "Kalshi",
+        "Czech internet service providers"
+      ],
+      "event_type": "regulation",
+      "canonical_summary": "The Czech Ministry of Finance added US prediction-market platform Kalshi to its list of unauthorized online gambling, following Polymarket earlier in 2026, forcing Czech ISPs including Vodafone to block the site for all users.",
+      "source_url": "https://www.lupa.cz/aktuality/stat-opet-zasahuje-znama-internetova-sluzba-dostala-v-cesku-stopku-operatori-uz-ji-blokuji/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "csob-czech-ai-workplace-survey-56-percent",
+      "reported_date": "2026-10-04",
+      "event_date": "2026-10-03",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "CSOB Innovation Index survey",
+        "Czech workforce"
+      ],
+      "event_type": "survey",
+      "canonical_summary": "A CSOB Innovation Index survey found 56% of Czech workers now use AI on the job, up from a third two years ago, while nearly half worry AI could replace their work, with the sharpest anxiety among workers aged 18-30.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/pruzkum-ai-v-praci-vyuziva-uz-56-procent-lidi-pred-dvema-lety-to-byla-tretina/2882445",
+      "material_update_of": null
+    },
+    {
+      "event_id": "huawei-tau-chip-million-sales-milestone",
+      "reported_date": "2026-10-04",
+      "event_date": "2026-10-03",
+      "category": "China",
+      "entities": [
+        "Huawei",
+        "Kirin 9050 Pro Tau chip"
+      ],
+      "event_type": "export_control_evasion_milestone",
+      "canonical_summary": "Huawei said its homegrown Kirin 9050 Pro 'Tau' chip, designed to bypass US restrictions on advanced lithography tools, is on track to power over a million Mate XT2 foldable phone sales, underscoring China's progress circumventing Western semiconductor export controls.",
+      "source_url": "https://www.scmp.com/tech/big-tech/article/3369400/huawei-steps-tau-chip-roll-out-mate-xt-2-track-1-million-sales",
+      "material_update_of": null
     }
   ]
 }
