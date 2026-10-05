@@ -10004,6 +10004,125 @@
       "canonical_summary": "Huawei said its homegrown Kirin 9050 Pro 'Tau' chip, designed to bypass US restrictions on advanced lithography tools, is on track to power over a million Mate XT2 foldable phone sales, underscoring China's progress circumventing Western semiconductor export controls.",
       "source_url": "https://www.scmp.com/tech/big-tech/article/3369400/huawei-steps-tau-chip-roll-out-mate-xt-2-track-1-million-sales",
       "material_update_of": null
+    },
+    {
+      "event_id": "trump-super-intelligence-force-leadership-named",
+      "reported_date": "2026-10-05",
+      "event_date": "2026-10-04",
+      "category": "AI",
+      "entities": [
+        "Donald Trump",
+        "Jay Clayton",
+        "White House"
+      ],
+      "event_type": "government_policy_announcement",
+      "canonical_summary": "Trump named Director of National Intelligence Jay Clayton to chair the newly created Super Intelligence Force, with three vice chairs, and ordered the panel to deliver a report on AI risks and opportunities within 120 days.",
+      "source_url": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
+      "material_update_of": "trump-ai-force-rename-announcement"
+    },
+    {
+      "event_id": "houthi-aramco-riyadh-khurais-strike-oil-reaction",
+      "reported_date": "2026-10-05",
+      "event_date": "2026-10-04",
+      "category": "US Stock Market",
+      "entities": [
+        "Houthi movement",
+        "Saudi Aramco",
+        "Brent crude",
+        "WTI crude"
+      ],
+      "event_type": "geopolitical_market_event",
+      "canonical_summary": "Yemen's Houthi movement claimed missile and drone strikes on Saudi Aramco facilities in Riyadh and Khurais; oil prices initially spiked but Brent and WTI both eased Monday as rising Middle East exports and a planned G7 reserve release offset supply-disruption fears.",
+      "source_url": "https://www.nbcnews.com/world/middle-east/fire-smoke-seen-aramco-facility-riyadh-rcna601278",
+      "material_update_of": null
+    },
+    {
+      "event_id": "seagate-western-digital-selloff-toshiba-hdd-capacity",
+      "reported_date": "2026-10-05",
+      "event_date": "2026-10-05",
+      "category": "US Stock Market",
+      "entities": [
+        "Seagate",
+        "Western Digital",
+        "Toshiba"
+      ],
+      "event_type": "stock_move",
+      "canonical_summary": "Seagate and Western Digital shares fell sharply in Monday premarket trading after a Nikkei report that Toshiba plans a roughly $380 million expansion to double its AI-data-center hard-disk-drive production capacity by fiscal 2027, threatening the tight HDD supply that had driven both stocks up sharply in 2026.",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/seagate-western-digital-shares-fall-121819634.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovenska-sporitelna-mortgage-rate-hike-oct2026",
+      "reported_date": "2026-10-05",
+      "event_date": "2026-10-05",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Slovenska sporitelna"
+      ],
+      "event_type": "financial_policy_change",
+      "canonical_summary": "Slovenska sporitelna, Slovakia's largest bank, raised mortgage interest rates by 0.2 to 0.3 percentage points across all fixation periods effective October 5, 2026, the fourth Slovak bank to raise mortgage rates within about a month.",
+      "source_url": "https://www.financnykompas.sk/clanok/slovenska-sporitelna-meni-uroky-hypotek-sadzby-od-5.-oktobra-2026-porastu",
+      "material_update_of": null
+    },
+    {
+      "event_id": "philippines-china-scarborough-thitu-harassment-incidents",
+      "reported_date": "2026-10-05",
+      "event_date": "2026-10-04",
+      "category": "China",
+      "entities": [
+        "Philippines",
+        "China Coast Guard",
+        "PLA Navy"
+      ],
+      "event_type": "geopolitical_incident",
+      "canonical_summary": "The Philippines accused China of harassing its forces twice within 24 hours in the South China Sea: a Chinese fighter jet buzzed a Philippine surveillance plane near Scarborough Shoal, while Chinese coast guard ships and a navy helicopter blocked a Philippine anti-illegal-fishing patrol near Thitu Island.",
+      "source_url": "https://www.malaymail.com/news/world/2026/10/04/philippines-says-china-harassed-its-forces-twice-in-24-hours-at-south-china-sea-flashpoints/237695",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-survey-vessel-ais-spoofing-bashi-channel-cables",
+      "reported_date": "2026-10-05",
+      "event_date": "2026-10-04",
+      "category": "China",
+      "entities": [
+        "China Coast Guard",
+        "Jia Hai Ke 7",
+        "Taiwan Coast Guard Administration",
+        "Philippine Coast Guard"
+      ],
+      "event_type": "geopolitical_incident",
+      "canonical_summary": "A Chinese survey ship escorted by China Coast Guard vessels spoofed its AIS tracking signal while surveying the seabed near undersea cable routes in the Bashi Channel between Taiwan and the Philippines, prompting both countries to shadow it independently.",
+      "source_url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/04/2003865370",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-fm-rejects-starbucks-xinjiang-criticism",
+      "reported_date": "2026-10-05",
+      "event_date": "2026-10-04",
+      "category": "China",
+      "entities": [
+        "China Foreign Ministry",
+        "Starbucks",
+        "John Moolenaar"
+      ],
+      "event_type": "diplomatic_statement",
+      "canonical_summary": "China's foreign ministry publicly rejected US Rep. John Moolenaar's demand that Starbucks close its newly opened stores in Xinjiang over Uyghur forced-labor concerns, calling the underlying allegations a lie.",
+      "source_url": "https://hongkongfp.com/2026/10/04/china-slams-us-lie-over-starbucks-stores-in-xinjiang/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "dicp-seawater-hydrogen-uranium-extraction-plant",
+      "reported_date": "2026-10-05",
+      "event_date": "2026-10-05",
+      "category": "China",
+      "entities": [
+        "Dalian Institute of Chemical Physics",
+        "Chinese Academy of Sciences"
+      ],
+      "event_type": "scientific_publication",
+      "canonical_summary": "Chinese researchers at the Dalian Institute of Chemical Physics published a Nature Energy design for a 250-kilowatt pilot plant that simultaneously extracts hydrogen, fresh water, uranium feedstock and bromine from seawater, improving electrical efficiency by about 15 percent.",
+      "source_url": "https://www.scmp.com/news/china/science/article/3369704/china-develops-plant-extract-hydrogen-fresh-water-and-uranium-sea",
+      "material_update_of": null
     }
   ]
 }

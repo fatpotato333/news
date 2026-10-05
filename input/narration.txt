@@ -1,23 +1,25 @@
-Daily News for Sunday, October 4, 2026.
+Daily News for Monday, October 5, 2026.
 
 Artificial intelligence.
 
-Meta said its Muse Spark AI model helped mathematicians crack five long unsolved problems, but a reviewer checking the work says roughly half of those problems had already been solved independently months earlier.
+President Trump named Director of National Intelligence Jay Clayton to chair a newly created Super Intelligence Force, ordering a four person panel to deliver a report on AI risks and opportunities within 120 days.
 
-Tesla cut memory capacity on its upcoming AI5 and AI6 chips by as much as half, freeing up scarce memory supply to prioritize mass production of its Optimus humanoid robot, according to Elon Musk.
+United States stock market.
 
-Quantum computing.
+Yemen's Houthi movement claimed missile and drone strikes on Saudi Aramco facilities in Riyadh and Khurais, briefly spiking oil prices before Brent and West Texas Intermediate both eased on Monday as rising Middle East exports and a planned G7 reserve release calmed supply fears.
 
-India's IT ministry said researchers at QNu Labs, BISAG-N, and IIT Gandhinagar successfully tested a free space quantum key distribution link spanning five and a half kilometers, generating secure encryption keys that were then combined with post quantum cryptography software.
+Seagate and Western Digital shares fell sharply in Monday premarket trading after a report that Toshiba plans to roughly double its hard disk drive production capacity for AI data centers by 2027, threatening the tight supply that had driven both stocks up sharply this year.
 
 Czech Republic and Slovakia.
 
-The Czech Energy Regulatory Office's indicative energy prices jumped fourteen percent for electricity and twenty percent for gas in October compared with September, mainly affecting households whose fixed price contracts are expiring or who are signing new energy deals.
-
-The Czech Finance Ministry ordered internet providers to block the American prediction market platform Kalshi, adding it to the list of unauthorized gambling services after already blocking Polymarket earlier this year.
-
-A new survey found fifty six percent of Czech workers now use AI on the job, up from a third two years ago, though nearly half worry AI could replace their work, with the sharpest anxiety among those aged eighteen to thirty.
+Slovenska sporitelna, Slovakia's largest bank, raised mortgage rates across all fixation periods effective today, the fourth Slovak bank to hike in about a month, pushing most rates further above four percent.
 
 China.
 
-Huawei said its homegrown Kirin Tau chip, built to work around US restrictions on advanced chipmaking tools, is on track to power more than one million Mate XT2 foldable phone sales.
+The Philippines accused China of harassing its forces twice within 24 hours in the South China Sea. A Chinese fighter jet buzzed a Philippine surveillance plane near Scarborough Shoal, while Chinese coast guard ships and a navy helicopter blocked a Philippine patrol targeting illegal fishing near Thitu Island.
+
+A Chinese survey ship escorted by coast guard vessels spoofed its tracking signal while surveying the seabed near undersea cable routes in the Bashi Channel between Taiwan and the Philippines, prompting both countries to shadow the vessel.
+
+China's foreign ministry rejected an American lawmaker's demand that Starbucks close its newly opened stores in Xinjiang over forced labor concerns, calling the underlying allegations a lie.
+
+Chinese researchers unveiled a pilot plant that extracts hydrogen, fresh water, uranium, and bromine from seawater in one integrated system, a potential efficiency gain for future energy and mineral supply.
