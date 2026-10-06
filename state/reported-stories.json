@@ -10123,6 +10123,148 @@
       "canonical_summary": "Chinese researchers at the Dalian Institute of Chemical Physics published a Nature Energy design for a 250-kilowatt pilot plant that simultaneously extracts hydrogen, fresh water, uranium feedstock and bromine from seawater, improving electrical efficiency by about 15 percent.",
       "source_url": "https://www.scmp.com/news/china/science/article/3369704/china-develops-plant-extract-hydrogen-fresh-water-and-uranium-sea",
       "material_update_of": null
+    },
+    {
+      "event_id": "australia-ai-inquiry-hearing-breach-notification",
+      "reported_date": "2026-10-06",
+      "event_date": "2026-10-06",
+      "category": "AI",
+      "entities": [
+        "Anthropic",
+        "OpenAI",
+        "Australian Joint Select Committee on Artificial Intelligence",
+        "Services Australia"
+      ],
+      "event_type": "regulation_testimony",
+      "canonical_summary": "At a hearing of Australia's Joint Select Committee on Artificial Intelligence in Sydney, Anthropic's head of safeguards Dave Orr pledged to notify victims and the Australian government within days or sooner of any accidental AI-agent hacking incident and backed new breach-reporting legislation, while OpenAI's chief strategy officer Jason Kwon acknowledged OpenAI's internal process for discovering the earlier Medicare portal breach could have been much better and announced real-time monitoring with automatic alerts during future agent testing.",
+      "source_url": "https://www.abc.net.au/news/2026-10-06/federal-politics-live-blog-coalition-migration-oct-6/107230622",
+      "material_update_of": "openai-agent-medicare-breach-australia"
+    },
+    {
+      "event_id": "germany-640m-fault-tolerant-quantum-competition-advances",
+      "reported_date": "2026-10-06",
+      "event_date": "2026-10-05",
+      "category": "Quantum Computing",
+      "entities": [
+        "German BMFTR",
+        "planqc",
+        "AQT Germany",
+        "LOGIQC consortium"
+      ],
+      "event_type": "government_investment",
+      "canonical_summary": "Germany's Federal Ministry of Research, Technology and Space advanced six industrial and academic consortia into the outline phase of its up-to-640-million-euro Mission-Driven Hardware Competition for fault-tolerant quantum computing, spanning neutral-atom, trapped-ion and superconducting platforms, targeting at least two fault-tolerant quantum processors by 2030 with working entry systems due by March 31, 2027.",
+      "source_url": "https://quantumcomputingreport.com/germany-advances-key-consortia-in-e640-million-717-2-million-usd-fault-tolerant-quantum-computing-competition/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-stocks-record-close-oct5-fed-hike-odds",
+      "reported_date": "2026-10-06",
+      "event_date": "2026-10-05",
+      "category": "US Stock Market",
+      "entities": [
+        "S&P 500",
+        "Nasdaq Composite",
+        "Dow Jones Industrial Average",
+        "Federal Reserve"
+      ],
+      "event_type": "index_move",
+      "canonical_summary": "The S&P 500 rose 0.7% to 7,773.95, the Nasdaq Composite closed at a fresh record 27,477.31 (+1.1%), and the Dow added 0.2%, as investors kept paring October Fed rate-hike odds after Friday's weak September jobs report (+29K vs ~85K forecast), even as the 10-year Treasury yield held near a two-decade high of 5.31%.",
+      "source_url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-201520824.html",
+      "material_update_of": "us-september-jobs-report-fed-hike-odds-drop"
+    },
+    {
+      "event_id": "ism-services-pmi-september-2026-prices-rise",
+      "reported_date": "2026-10-06",
+      "event_date": "2026-10-05",
+      "category": "US Stock Market",
+      "entities": [
+        "Institute for Supply Management",
+        "Federal Reserve"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "ISM's September Services PMI eased to 54.9 from 55.4 in August, marking a 27th straight month of expansion, while its Services Prices Index rose to 74 from 72.6, signaling persistent service-sector cost pressure even as headline growth cooled.",
+      "source_url": "https://efn.se/usa-tjanste-pmi-ism-steg-till-549-i-september-ny",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-2027-budget-cabinet-approval",
+      "reported_date": "2026-10-06",
+      "event_date": "2026-10-05",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Robert Fico",
+        "Slovak government",
+        "Ministry of Finance",
+        "National Council of Slovakia"
+      ],
+      "event_type": "fiscal_policy",
+      "canonical_summary": "Slovakia's cabinet approved its 2027 budget bill: public revenue of 63.343 billion euros, expenditure of 70.786 billion euros, and a deficit of 7.443 billion euros (4.94% of GDP), with no new taxes, 250 million euros earmarked for energy-price compensation to keep household energy prices flat in 2027, and social spending rising 443 million euros to 20.1 billion euros; the bill now needs parliamentary approval where the coalition holds a narrow 76-seat majority.",
+      "source_url": "https://info.sk/sprava/282746/rozpocet-na-rok-2027-je-podla-fica-zazrakom-ceny-energii-pre-domacnosti-neporastu",
+      "material_update_of": "slovakia-2027-budget-transaction-tax-pension-floor"
+    },
+    {
+      "event_id": "czech-farmer-fuel-cost-aid-middle-east-crisis",
+      "reported_date": "2026-10-06",
+      "event_date": "2026-10-05",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech government",
+        "Ministry of Agriculture",
+        "State Agricultural Intervention Fund"
+      ],
+      "event_type": "subsidy",
+      "canonical_summary": "The Czech government approved emergency financial support for farmers affected by rising diesel and energy costs tied to the Middle East crisis: 264 million CZK from the EU agricultural reserve, with the state able to co-finance up to 200% for a total of roughly 800 million CZK; farmers working at least 1 hectare who applied for 2026 CAP direct payments are eligible (around 30,000 Czech farms), with payment via SZIF by February 28, 2027.",
+      "source_url": "https://www.denik.cz/cesko/vlada-schvalila-264-milionu-kc-pro-zemedelce-za-dopady-krize-na-blizkem-vychode/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "france-germany-eu-instant-cutoff-china-trade-weapon",
+      "reported_date": "2026-10-06",
+      "event_date": "2026-10-05",
+      "category": "China",
+      "entities": [
+        "Friedrich Merz",
+        "Emmanuel Macron",
+        "Ursula von der Leyen",
+        "European Commission",
+        "China",
+        "Maros Sefcovic"
+      ],
+      "event_type": "trade_policy",
+      "canonical_summary": "Chancellor Merz and President Macron sent a joint letter to European Commission President von der Leyen urging a fast new EU power to immediately restrict a country's access to the EU single market within days, aimed at China and timed ahead of EU Trade Commissioner Sefcovic's October 8-9 Beijing visit for the second round of EU-China Trade and Investment Consultations.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-05/germany-and-france-push-trade-weapon-to-bar-china-market-access",
+      "material_update_of": "china-warns-eu-trade-defense-tool"
+    },
+    {
+      "event_id": "fbi-arrest-chinese-agent-taiwan-president-son-surveillance",
+      "reported_date": "2026-10-06",
+      "event_date": "2026-10-04",
+      "category": "China",
+      "entities": [
+        "FBI",
+        "Wanying Zhang",
+        "William Lai Ching-te",
+        "Taiwan",
+        "US Department of Justice"
+      ],
+      "event_type": "espionage_arrest",
+      "canonical_summary": "The FBI arrested Wanying \"Heather\" Zhang, 34, of Irvine, California at LAX before a flight to China and charged her as an unregistered Chinese foreign agent, alleging she traveled to Seattle in September 2025 on direction of suspected Chinese officials to photograph and surveil the home, vehicles and relatives of Taiwan President Lai Ching-te's son and sent the material to her Chinese contacts.",
+      "source_url": "https://www.cnn.com/2026/10/04/us/california-woman-charged-chinese-agent",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-finance-minister-targeted-fiscal-support-not-stimulus",
+      "reported_date": "2026-10-06",
+      "event_date": "2026-10-05",
+      "category": "China",
+      "entities": [
+        "Lan Foan",
+        "China Ministry of Finance"
+      ],
+      "event_type": "economic_policy",
+      "canonical_summary": "China's Finance Minister Lan Foan said Beijing will rely on targeted fiscal measures, including expanding the scope of interest subsidies, adding more implementing agencies, raising funding limits, and deploying unused local government bond quotas, rather than a broad new stimulus package, to meet 2026 growth goals.",
+      "source_url": "https://www.scmp.com/plus/economy/china-economy/article/3369803/chinas-finance-minister-fiscal-policy",
+      "material_update_of": "china-state-council-stimulus-pledge"
     }
   ]
 }
