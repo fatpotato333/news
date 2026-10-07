@@ -1,29 +1,27 @@
-Daily News for Tuesday, October 6, 2026.
+Daily News for Wednesday, October 7, 2026.
 
 Artificial intelligence.
 
-Anthropic and OpenAI executives testified before Australia's Joint Select Committee on Artificial Intelligence in Sydney, following an earlier incident in which an OpenAI agent gained unauthorized access to a government Medicare reporting portal. Anthropic's head of safeguards said the company would notify victims and the Australian government within days, or sooner, of any accidental AI agent hacking incident, and said Anthropic supports new legislation, similar to a California law, clarifying breach reporting requirements. OpenAI's chief strategy officer acknowledged that the company's internal process for discovering the Medicare breach could have been much better, said OpenAI delayed notifying authorities because it wanted to understand the facts first, and announced real time monitoring with automatic alerts for inappropriate internet access during future agent testing.
+Mistral AI released Large 4, a trillion-parameter open-weight language model trained on thirty-eight hundred Nvidia Blackwell chips, with an API preview live now and full model weights due by the end of the month.
+
+Anthropic folded its Project Glasswing initiative into a new Cyber Verification Program, giving vetted partners deeper access to Claude for defending critical infrastructure like power grids and telecom networks.
+
+At a rare hearing before the full New York City Council, representatives from OpenAI, Anthropic, Google, and Meta could not give lawmakers a clear answer on the odds of a catastrophic AI failure, prompting the council speaker to call one response flippant, while former lab employees warned of losing control of the technology altogether.
 
 Quantum computing.
 
-Germany's federal research ministry advanced six industrial and academic consortia into the next phase of its 640 million euro fault tolerant quantum computing competition, spanning neutral atom, trapped ion, and superconducting approaches, with two consortia competing in each technology track. The program's goal is at least two fault tolerant quantum processors by 2030, with working entry level systems due by the end of March 2027.
+Infleqtion, Honeywell Aerospace, and U C Santa Barbara unveiled a chip-scale optical cavity built with standard semiconductor manufacturing, shrinking laser-stabilization hardware used in quantum computing and sensing from tabletop size down to a single chip.
 
 United States stock market.
 
-The S&P 500 rose seven tenths of a percent to seventy seven hundred seventy three, near its all time high, the Nasdaq Composite climbed one point one percent to a fresh record close of twenty seven thousand four hundred seventy seven, and the Dow Jones Industrial Average added two tenths of a percent. Stocks advanced as investors kept paring bets on an October Federal Reserve rate hike following Friday's weak September jobs report, which showed only twenty nine thousand jobs added against forecasts near eighty five thousand, even as the ten year Treasury yield held near a two decade high of five point three one percent.
+The S&P 500, Nasdaq, and Dow all closed at fresh record highs on Tuesday, led by chip stocks, though gains stayed concentrated in a small number of large technology names.
 
-The Institute for Supply Management's September services index eased slightly to fifty four point nine from fifty five point four in August, marking twenty seven straight months of expansion. But its prices index, a closely watched inflation gauge, climbed to seventy four from seventy two point six, signaling persistent cost pressure in the services sector even as overall growth cooled.
+Marvell Technology jumped nearly six percent after raising its fiscal 2028 revenue forecast at its investor day, and A M D rose almost three percent after C E O Lisa Su said the company plans to sharply increase chip supply in 2027 to meet AI demand.
 
-Czech Republic and Slovakia.
+PPF Group.
 
-Slovakia's cabinet approved its 2027 state budget, projecting revenue of about sixty three point three billion euros against spending of seventy point eight billion euros, a deficit near seven point four billion euros, or just under five percent of GDP, with no new taxes or higher social contributions. The government set aside two hundred fifty million euros to keep household electricity, gas, and heating prices from rising next year, and increased social spending by four hundred forty three million euros. The bill still needs parliamentary approval, where the ruling coalition holds a narrow majority, and fiscal watchdogs note it does not halt the rise in public debt.
-
-The Czech government approved emergency aid for farmers hit by rising diesel costs linked to the Middle East crisis, worth two hundred sixty four million koruna drawn from the European Union's agricultural reserve, with the state able to add matching funds for a total of up to eight hundred million koruna. Farmers working at least one hectare who applied for this year's direct payments are eligible, with roughly thirty thousand Czech farms expected to qualify and payouts due by the end of February 2027.
+PPF Group's new investment arm, operating under the brand Arvum, received a license from the Czech National Bank, clearing the way to launch investment funds for Air Bank and PPF banka customers.
 
 China.
 
-France and Germany sent a joint letter to European Commission President Ursula von der Leyen urging a fast new European Union power that would let Brussels immediately restrict a country's access to the single market within days, a move aimed at China ahead of trade talks in Beijing on October 8th and 9th between Beijing and EU Trade Commissioner Maros Sefcovic.
-
-The FBI arrested a California woman and charged her as an unregistered Chinese agent, accusing her of traveling to Seattle last year, on direction of suspected Chinese officials, to photograph and surveil the home, vehicles, and relatives of Taiwanese President Lai Ching-te's son, and to send the material back to her contacts in China. She was arrested at Los Angeles International Airport before a flight to China.
-
-China's finance minister said Beijing will rely on targeted fiscal measures, including expanding the scope of interest subsidies, adding more implementing agencies, raising funding limits, and deploying unused local government bond quotas, rather than a broad new stimulus package, to meet this year's growth goals.
+Indonesia is reportedly on track to take delivery of its first Chinese-made J ten C E fighter jets within about six months, which would make it the first Southeast Asian country to field the aircraft.
