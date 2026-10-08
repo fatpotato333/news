@@ -10383,6 +10383,150 @@
       "canonical_summary": "Indonesia is reported to be on track to take delivery of its first Chinese-made J-10CE fighter jets within roughly six months, which would make it the first Southeast Asian country to field the aircraft, following Jakarta's 2025 decision to acquire Chengdu J-10 jets.",
       "source_url": "https://www.scmp.com/news/china/military/article/3369910/indonesia-take-delivery-first-chinese-j-10ce-fighter-jets-6-months-report-says",
       "material_update_of": null
+    },
+    {
+      "event_id": "anthropic-haiku-5-5-launch",
+      "reported_date": "2026-10-08",
+      "event_date": "2026-10-07",
+      "category": "AI",
+      "entities": [
+        "Anthropic"
+      ],
+      "event_type": "model_release",
+      "canonical_summary": "Anthropic released Claude Haiku 5.5, a cheaper and faster small model with an adjustable effort setting, priced at $0.10/$0.50 per million input tokens, claiming it beats OpenAI's GPT-6 Luna on stated benchmarks while cutting cost roughly 75% versus Haiku 4.5.",
+      "source_url": "https://www.anthropic.com/claude-haiku-5-5",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-stocks-pullback-treasury-yield-2002-high-oct7",
+      "reported_date": "2026-10-08",
+      "event_date": "2026-10-07",
+      "category": "US Stock Market",
+      "entities": [
+        "US stock market",
+        "US Treasury",
+        "Federal Reserve"
+      ],
+      "event_type": "market_move",
+      "canonical_summary": "US stocks fell from record highs (Dow -0.66%, S&P 500 -0.22%, Nasdaq -0.22%) as the 10-year Treasury yield hit 5.36%, highest since April 2002, after hawkish FOMC September minutes and rising oil prices on Middle East tensions.",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-7-dow-sp-500-nasdaq-080241833.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "bitcoin-selloff-83k-oct7",
+      "reported_date": "2026-10-08",
+      "event_date": "2026-10-07",
+      "category": "US Stock Market",
+      "entities": [
+        "Bitcoin",
+        "Coinbase",
+        "Robinhood",
+        "Strategy"
+      ],
+      "event_type": "market_move",
+      "canonical_summary": "Bitcoin fell more than 3% to about $83,000 with roughly $696 million in forced liquidations over 24 hours, dragging down crypto-linked stocks Coinbase, Robinhood and Strategy.",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-7-dow-sp-500-nasdaq-080241833.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "levi-strauss-q3-fy2026-earnings-beat-raise",
+      "reported_date": "2026-10-08",
+      "event_date": "2026-10-07",
+      "category": "US Stock Market",
+      "entities": [
+        "Levi Strauss"
+      ],
+      "event_type": "earnings",
+      "canonical_summary": "Levi Strauss reported Q3 FY2026 revenue of $1.6 billion (+4%) and raised full-year adjusted EPS guidance to $1.54-$1.56, aided partly by a one-time $78.6 million tariff-refund benefit.",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000094845/000009484526000048/exhibit991-3q2026pressrele.htm",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-mortgage-rates-seventh-rise-oct2026",
+      "reported_date": "2026-10-08",
+      "event_date": "2026-10-07",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Republic",
+        "Swiss Life Hypoindex"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "Czech average offered mortgage rate rose to 5.79% in October, a seventh consecutive monthly increase and the highest level since January 2024, raising monthly payments on a typical loan by about 1,855 CZK since March.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/2883879",
+      "material_update_of": "czech-mortgage-rates-sixth-rise-5-51pct"
+    },
+    {
+      "event_id": "slovakia-public-sector-pay-rise-proposal-2027",
+      "reported_date": "2026-10-08",
+      "event_date": "2026-10-07",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Slovakia",
+        "Smer-SD"
+      ],
+      "event_type": "legislation",
+      "canonical_summary": "A Smer-SD-backed amendment to Slovakia's 2027 state budget proposes an 8.4% pay rise for state and public administration employees effective July 2027, still pending parliamentary approval amid a planned 4.94%-of-GDP deficit.",
+      "source_url": "https://www.teraz.sk/ekonomika/platy-v-statnej-a-verejnej-sprave-maj/997957-clanok.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "eu-china-trade-talks-beijing-october-deadline",
+      "reported_date": "2026-10-08",
+      "event_date": "2026-10-08",
+      "category": "China",
+      "entities": [
+        "European Union",
+        "China",
+        "Maros Sefcovic",
+        "Wang Wentao"
+      ],
+      "event_type": "diplomatic_talks",
+      "canonical_summary": "EU Trade Commissioner Maros Sefcovic and China's Commerce Minister Wang Wentao opened a two-day round of trade talks in Beijing on October 8, described as a last chance to reach a deal before the EU's October deadline on rare earths and market access.",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3369992/last-chance-saloon-eu-presses-china-sign-prove-trade-talks-can-work",
+      "material_update_of": "eu-china-sefcovic-wang-call-credible-outcome-ultimatum"
+    },
+    {
+      "event_id": "european-parliament-china-trade-defense-stance",
+      "reported_date": "2026-10-08",
+      "event_date": "2026-10-07",
+      "category": "China",
+      "entities": [
+        "European Parliament",
+        "China"
+      ],
+      "event_type": "legislative_resolution",
+      "canonical_summary": "The European Parliament adopted a tougher stance on China covering trade dumping and espionage concerns, backing stronger anti-dumping duties and tighter screening of outbound investment into China.",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3370075/no-more-dumping-no-more-spying-european-parliament-hardens-line-china",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-first-outbound-investment-fine-china-robotics",
+      "reported_date": "2026-10-08",
+      "event_date": "2026-10-08",
+      "category": "China",
+      "entities": [
+        "United States",
+        "Plug and Play Tech Center"
+      ],
+      "event_type": "regulatory_enforcement",
+      "canonical_summary": "The US government issued its first-ever fine, $200,000, under its outbound investment security rules, penalizing Plug and Play Tech Center's parent for failing to report a roughly $92,000 investment in a Shanghai robotics and AI company.",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3370101/us-issues-first-outbound-investment-fine-over-chinese-robotics-ai-deal",
+      "material_update_of": null
+    },
+    {
+      "event_id": "trump-xi-japan-export-curbs-rebuff",
+      "reported_date": "2026-10-08",
+      "event_date": "2026-10-08",
+      "category": "China",
+      "entities": [
+        "Donald Trump",
+        "Xi Jinping",
+        "Japan"
+      ],
+      "event_type": "diplomatic_development",
+      "canonical_summary": "Trump reportedly asked Xi to ease China's export curbs targeting Japan, but Xi declined and repeated warnings about Japanese militarism, according to sources cited by SCMP.",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3370064/trump-urged-xi-talk-takaichi-and-lift-export-curbs-japan-sources-say",
+      "material_update_of": null
     }
   ]
 }

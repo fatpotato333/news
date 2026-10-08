@@ -1,27 +1,29 @@
-Daily News for Wednesday, October 7, 2026.
+Daily News for Thursday, October 8, 2026.
 
 Artificial intelligence.
 
-Mistral AI released Large 4, a trillion-parameter open-weight language model trained on thirty-eight hundred Nvidia Blackwell chips, with an API preview live now and full model weights due by the end of the month.
-
-Anthropic folded its Project Glasswing initiative into a new Cyber Verification Program, giving vetted partners deeper access to Claude for defending critical infrastructure like power grids and telecom networks.
-
-At a rare hearing before the full New York City Council, representatives from OpenAI, Anthropic, Google, and Meta could not give lawmakers a clear answer on the odds of a catastrophic AI failure, prompting the council speaker to call one response flippant, while former lab employees warned of losing control of the technology altogether.
-
-Quantum computing.
-
-Infleqtion, Honeywell Aerospace, and U C Santa Barbara unveiled a chip-scale optical cavity built with standard semiconductor manufacturing, shrinking laser-stabilization hardware used in quantum computing and sensing from tabletop size down to a single chip.
+Anthropic launched Claude Haiku 5.5, a smaller and faster model it calls the cheapest it has ever released, with an adjustable effort setting and pricing cut by roughly seventy-five percent compared to the previous Haiku model; the company says it beats OpenAI's GPT-6 Luna on several published benchmarks.
 
 United States stock market.
 
-The S&P 500, Nasdaq, and Dow all closed at fresh record highs on Tuesday, led by chip stocks, though gains stayed concentrated in a small number of large technology names.
+Stocks pulled back from record highs as the ten-year Treasury yield jumped to five point three six percent, its highest since April 2002, following hawkish Federal Reserve minutes and rising oil prices tied to Middle East tensions. The Dow fell about two-thirds of one percent, while the S&P 500 and Nasdaq each slipped roughly a fifth of one percent.
 
-Marvell Technology jumped nearly six percent after raising its fiscal 2028 revenue forecast at its investor day, and A M D rose almost three percent after C E O Lisa Su said the company plans to sharply increase chip supply in 2027 to meet AI demand.
+Bitcoin dropped more than three percent to about eighty-three thousand dollars, triggering nearly seven hundred million dollars in forced liquidations and dragging down crypto-linked stocks including Coinbase, Robinhood, and Strategy.
 
-PPF Group.
+Levi Strauss beat third-quarter expectations, with revenue up four percent to one point six billion dollars, and raised its full-year profit guidance, though part of the gain came from a one-time tariff refund.
 
-PPF Group's new investment arm, operating under the brand Arvum, received a license from the Czech National Bank, clearing the way to launch investment funds for Air Bank and PPF banka customers.
+Czech Republic and Slovakia.
+
+The average Czech mortgage rate climbed to five point seven nine percent in October, a seventh straight monthly increase and the highest level since January 2024, adding roughly eighteen hundred crowns a month to payments on a typical loan since March.
+
+In Slovakia, lawmakers from the Smer-SD party proposed an eight point four percent pay rise for state and public administration employees starting in July 2027, as part of ongoing debate over next year's budget.
 
 China.
 
-Indonesia is reportedly on track to take delivery of its first Chinese-made J ten C E fighter jets within about six months, which would make it the first Southeast Asian country to field the aircraft.
+The European Union and China opened a two-day round of trade talks in Beijing described as a last chance to reach a deal on rare earths and market access before Brussels' self-imposed October deadline.
+
+Separately, the European Parliament adopted a tougher stance on China covering trade dumping and espionage concerns, backing stronger anti-dumping duties and tighter screening of outbound investment into China.
+
+The United States issued its first-ever fine under new outbound investment security rules, penalizing a venture firm two hundred thousand dollars for failing to report an investment in a Shanghai-based robotics and AI company.
+
+Donald Trump reportedly asked Xi Jinping to ease China's export curbs on Japan, but Xi declined and repeated warnings about Japanese militarism, according to sources.
