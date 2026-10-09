@@ -10527,6 +10527,149 @@
       "canonical_summary": "Trump reportedly asked Xi to ease China's export curbs targeting Japan, but Xi declined and repeated warnings about Japanese militarism, according to sources cited by SCMP.",
       "source_url": "https://www.scmp.com/news/china/diplomacy/article/3370064/trump-urged-xi-talk-takaichi-and-lift-export-curbs-japan-sources-say",
       "material_update_of": null
+    },
+    {
+      "event_id": "google-gemini-enterprise-agentic-launch",
+      "reported_date": "2026-10-09",
+      "event_date": "2026-10-08",
+      "category": "AI",
+      "entities": [
+        "Google",
+        "Google Cloud",
+        "Anthropic",
+        "PayPal",
+        "Shopify",
+        "BNP Paribas"
+      ],
+      "event_type": "product_launch",
+      "canonical_summary": "Google unveiled an agentic version of Gemini Enterprise that can plan multi-step work, delegate to subagents, and connect to business tools (Slack, Jira, Salesforce, MCP servers); it can also route tasks to third-party models including Anthropic's Claude.",
+      "source_url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "anthropic-cyber-mission-launch",
+      "reported_date": "2026-10-09",
+      "event_date": "2026-10-08",
+      "category": "AI",
+      "entities": [
+        "Anthropic",
+        "CrowdStrike",
+        "Palo Alto Networks",
+        "Accenture",
+        "Python Software Foundation",
+        "OpenSSF",
+        "Apache Software Foundation"
+      ],
+      "event_type": "partnership",
+      "canonical_summary": "Anthropic launched the Anthropic Cyber Mission: a Critical Infrastructure Defense Program pairing Claude models with cybersecurity partners, plus a free automated open-source vulnerability scanner funded via a Defender Advantage Fund to the Python, Apache and OpenSSF foundations.",
+      "source_url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+      "material_update_of": null
+    },
+    {
+      "event_id": "anthropic-genesis-mission-150m-commitment",
+      "reported_date": "2026-10-09",
+      "event_date": "2026-10-08",
+      "category": "AI",
+      "entities": [
+        "Anthropic",
+        "US Department of Energy",
+        "Genesis Mission",
+        "NASA",
+        "NIH",
+        "NSF"
+      ],
+      "event_type": "funding",
+      "canonical_summary": "Anthropic committed $150 million over three years to the US government's Genesis Mission, providing Claude and API credits to several hundred federally funded research projects across 15+ agencies, prioritizing areas like fusion energy and quantum computing.",
+      "source_url": "https://www.anthropic.com/news/genesis-mission-commitment",
+      "material_update_of": null
+    },
+    {
+      "event_id": "quantum-source-qs-link-interconnect",
+      "reported_date": "2026-10-09",
+      "event_date": "2026-10-08",
+      "category": "Quantum Computing",
+      "entities": [
+        "Quantum Source",
+        "Weizmann Institute of Science"
+      ],
+      "event_type": "quantum_networking",
+      "canonical_summary": "Israeli startup Quantum Source published technical details of QS-LINK, a single-atom-based asynchronous photonic interconnect design projecting roughly 60x fewer photon-emission attempts to link quantum processors; simulation/analytical result, hardware demonstration still pending.",
+      "source_url": "https://thequantuminsider.com/2026/10/08/quantum-sources-qs-link-uses-a-single-atom-to-help-quantum-processors-connect",
+      "material_update_of": null
+    },
+    {
+      "event_id": "julich-qec-benchmark-quantinuum-helios",
+      "reported_date": "2026-10-09",
+      "event_date": "2026-10-08",
+      "category": "Quantum Computing",
+      "entities": [
+        "Julich Supercomputing Centre",
+        "Quantinuum",
+        "IBM",
+        "IQM"
+      ],
+      "event_type": "research_result",
+      "canonical_summary": "A new (non-peer-reviewed) arXiv preprint from Julich Supercomputing Centre introduced a QAOA-based benchmark for error-correction readiness, finding Quantinuum's Helios-1 outperformed comparable IBM and IQM hardware, though larger-scale tests did not demonstrate successful error correction.",
+      "source_url": "https://thequantuminsider.com/2026/10/08/quantinuum-processors-stand-out-in-study-of-quantum-error-correction-operations",
+      "material_update_of": null
+    },
+    {
+      "event_id": "openai-revenue-shortfall-ai-stock-selloff",
+      "reported_date": "2026-10-09",
+      "event_date": "2026-10-08",
+      "category": "US Stock Market",
+      "entities": [
+        "OpenAI",
+        "Nvidia",
+        "Oracle",
+        "AMD",
+        "Intel",
+        "Nasdaq Composite",
+        "S&P 500"
+      ],
+      "event_type": "ai_stock_move",
+      "canonical_summary": "AI-related stocks sold off after the Financial Times reported OpenAI's annualized revenue is approaching $50 billion, about $20 billion below a previously reported figure; Nasdaq fell 1.25% (worst day since mid-August), with Oracle, Intel and AMD among hardest hit.",
+      "source_url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-unemployment-5percent-september-2026",
+      "reported_date": "2026-10-09",
+      "event_date": "2026-10-08",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Labour Office"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "Czech unemployment held at 5.0% in September 2026 for a third straight month (368,377 registered jobseekers, down 5,514), while vacancies rose to 104,359, a slightly better reading than analysts expected.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/nezamestnanost-v-cesku-zustala-v-zari-na-peti-procentech/2884375",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-osvc-tax-insurance-advance-2027",
+      "reported_date": "2026-10-09",
+      "event_date": "2026-10-08",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech self-employed (OSVC)"
+      ],
+      "event_type": "taxation",
+      "canonical_summary": "From January 2027, Czech self-employed workers' minimum monthly social and health insurance advances rise to 8,769 CZK (from 8,311), and the income threshold before the higher 23% personal income tax rate rises to about 1.86 million CZK/year.",
+      "source_url": "https://feedit.cz/2026/10/08/dane-v-roce-2027-zivnostnikum-vzrostou-zalohy-posune-se-hranice-vyssiho-zdaneni/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-pension-income-splitting-spouses-2027",
+      "reported_date": "2026-10-09",
+      "event_date": "2026-10-08",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech pension system"
+      ],
+      "event_type": "pension_reform",
+      "canonical_summary": "From January 2027, married Czech couples can voluntarily split pension-assessment income bases for shared years of marriage (new old-age pensions only), which can meaningfully raise combined pensions for couples with very unequal lifetime earnings.",
+      "source_url": "https://zpravy.kurzy.cz/877616-novinka-od-roku-2027-manzele-si-mohou-rozdelit-prijmy-na-duchodech-mohou-dostat-vic/",
+      "material_update_of": null
     }
   ]
 }
