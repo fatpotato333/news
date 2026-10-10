@@ -1,27 +1,17 @@
-Daily News for Friday, October 9, 2026.
-
-Artificial intelligence.
-
-Google unveiled an agentic version of Gemini Enterprise that can plan multi-step work, delegate tasks to other AI agents, and connect to business tools like Slack, Jira, and Salesforce; early customers include PayPal, Shopify, and BNP Paribas, and the system can also route work to Anthropic's Claude.
-
-Anthropic launched a cybersecurity initiative pairing frontier Claude models with partners including CrowdStrike, Palo Alto Networks, and Accenture to help defend critical infrastructure, alongside a free automated scanner offering open source projects vulnerability checks, backed by funding to the Python, Apache, and OpenSSF foundations.
-
-Anthropic also committed one hundred fifty million dollars over three years to the US government's Genesis Mission, giving Claude access and technical support to hundreds of federally funded research projects across NASA, NIH, and other agencies, with priorities including fusion energy and quantum computing.
+Daily News for Saturday, October 10, 2026.
 
 Quantum computing.
 
-Israeli startup Quantum Source published a new interconnect design called QS-LINK that uses a single trapped atom as quantum memory to link separate quantum processors, with simulations projecting roughly sixty times fewer wasted photon attempts than current methods; a full hardware demonstration is still to come.
-
-A new academic benchmark from Germany's Julich Supercomputing Centre found Quantinuum's Helios-1 processor outperformed comparable hardware from IBM and IQM on tasks central to quantum error correction, though researchers stressed the tests did not yet demonstrate full error correction at larger scales.
+IonQ reported entangling a trapped ion qubit with a solid state quantum memory over a photonic link at more than 1,000 entanglement events per second, over four times the previous trapped ion record set by a collaborating Duke University team. The underlying numbers come from a company release and an unreviewed preprint tied to a DARPA research program.
 
 United States stock market.
 
-AI-related stocks sold off sharply after the Financial Times reported OpenAI's annualized revenue is around fifty billion dollars, about twenty billion less than previously signaled; the Nasdaq fell one and a quarter percent, its worst day in weeks, with Oracle, Intel, and AMD among the hardest hit.
+Wall Street closed higher Friday, with the Dow up 0.83%, the S and P 500 up 0.59%, and the Nasdaq up 0.64%, posting weekly gains as AI related stocks rebounded on a Bloomberg report that OpenAI's annualized revenue could reach 70 billion dollars by year end, partly reversing Thursday's selloff triggered by a lower Financial Times estimate.
 
-Czech Republic and Slovakia.
+Delta Air Lines cut its full year earnings guidance to between 5 dollars 10 cents and 5 dollars 60 cents per share, down from 6 50 to 7 50, after third quarter profit missed expectations on roughly 6 billion dollars in added fuel costs.
 
-Czech unemployment held at five percent in September for a third straight month, with registered jobseekers falling slightly while job vacancies rose to just over one hundred four thousand, a better reading than analysts had expected.
+The University of Michigan's preliminary October consumer sentiment index fell to 46.3 from September's 48.1, while year ahead inflation expectations rose to 4.7%.
 
-Starting in January 2027, Czech self-employed workers face higher minimum monthly social and health insurance advances, rising to about eight thousand seven hundred seventy crowns, while the income threshold before the higher twenty-three percent tax rate kicks in also moves up.
+China.
 
-From January 2027, married Czech couples will be able to voluntarily split their pension-assessment income between spouses for shared years of marriage, a change that can meaningfully raise combined pensions for couples with very unequal lifetime earnings, particularly where one partner reduced work for childcare.
+China's Ministry of Finance released 550 billion yuan, about 82 billion dollars, in unused local government debt quotas, with 300 billion earmarked for county and district government operating costs and the rest for infrastructure, as Beijing follows through on its fiscal support pledges amid soft economic data.

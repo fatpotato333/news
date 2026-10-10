@@ -10670,6 +10670,80 @@
       "canonical_summary": "From January 2027, married Czech couples can voluntarily split pension-assessment income bases for shared years of marriage (new old-age pensions only), which can meaningfully raise combined pensions for couples with very unequal lifetime earnings.",
       "source_url": "https://zpravy.kurzy.cz/877616-novinka-od-roku-2027-manzele-si-mohou-rozdelit-prijmy-na-duchodech-mohou-dostat-vic/",
       "material_update_of": null
+    },
+    {
+      "event_id": "ionq-trapped-ion-quantum-memory-interconnect-record",
+      "reported_date": "2026-10-10",
+      "event_date": "2026-10-09",
+      "category": "Quantum Computing",
+      "entities": [
+        "IonQ",
+        "Duke University",
+        "DARPA"
+      ],
+      "event_type": "quantum_networking_demo",
+      "canonical_summary": "IonQ reported entangling a trapped-ion qubit with a silicon-vacancy solid-state quantum memory via a photonic interconnect at over 1,000 entanglement events per second, which it says is more than 4x the previous trapped-ion record held by a Duke University team that collaborated on the work; the underlying technical claims rest on an unreviewed arXiv preprint and are linked to DARPA's HARQ program.",
+      "source_url": "https://finance.yahoo.com/technology/ai/articles/ionq-demonstrates-world-first-quantum-130000584.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-stocks-friday-close-ai-rebound-oct9",
+      "reported_date": "2026-10-10",
+      "event_date": "2026-10-09",
+      "category": "US Stock Market",
+      "entities": [
+        "S&P 500",
+        "Nasdaq Composite",
+        "Dow Jones Industrial Average",
+        "OpenAI",
+        "Nvidia",
+        "Oracle",
+        "AMD"
+      ],
+      "event_type": "market_close_sector_rebound",
+      "canonical_summary": "US stocks closed higher Friday October 9 (Dow +0.83% to 51,654.95, S&P 500 +0.59% to 7,811.54, Nasdaq +0.64% to 27,366.17), posting weekly gains as AI-related stocks rebounded on a Bloomberg report that OpenAI's annualized revenue could reach $70 billion by year-end, partially reversing Thursday's selloff triggered by a lower Financial Times revenue estimate.",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-9-dow-sp-500-nasdaq-080148117.html",
+      "material_update_of": "openai-revenue-shortfall-ai-stock-selloff"
+    },
+    {
+      "event_id": "delta-air-lines-q3-2026-guidance-cut",
+      "reported_date": "2026-10-10",
+      "event_date": "2026-10-09",
+      "category": "US Stock Market",
+      "entities": [
+        "Delta Air Lines"
+      ],
+      "event_type": "earnings_guidance_cut",
+      "canonical_summary": "Delta Air Lines reported Q3 2026 adjusted EPS of $1.72 (GAAP $1.15) on $17.6 billion adjusted operating revenue and cut full-year 2026 adjusted EPS guidance to $5.10-$5.60 from a prior $6.50-$7.50, citing roughly $6 billion in added full-year fuel costs.",
+      "source_url": "https://news.delta.com/delta-air-lines-announces-september-quarter-2026-financial-results",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-michigan-consumer-sentiment-october-2026-preliminary",
+      "reported_date": "2026-10-10",
+      "event_date": "2026-10-09",
+      "category": "US Stock Market",
+      "entities": [
+        "University of Michigan Surveys of Consumers"
+      ],
+      "event_type": "economic_data_release",
+      "canonical_summary": "The University of Michigan's preliminary October 2026 consumer sentiment index fell to 46.3 from September's final 48.1, while year-ahead inflation expectations rose to 4.7% from 4.6% and long-run expectations rose to 3.5% from 3.4%.",
+      "source_url": "http://www.sca.isr.umich.edu/",
+      "material_update_of": "us-michigan-consumer-sentiment-september-2026"
+    },
+    {
+      "event_id": "china-finance-ministry-550bn-yuan-debt-quota-release",
+      "reported_date": "2026-10-10",
+      "event_date": "2026-10-09",
+      "category": "China",
+      "entities": [
+        "China Ministry of Finance",
+        "State Council"
+      ],
+      "event_type": "economic_policy",
+      "canonical_summary": "China's Ministry of Finance released CNY 550 billion (about $82 billion) in unused local-government debt quotas, with CNY 300 billion earmarked for county/district government operating costs and the remainder for infrastructure, as concrete follow-through on Beijing's fiscal-support pledges amid soft economic data.",
+      "source_url": "https://finance.yahoo.com/economy/policy/articles/china-ramps-fiscal-push-meet-091626804.html",
+      "material_update_of": "china-finance-minister-targeted-fiscal-support-not-stimulus"
     }
   ]
 }
