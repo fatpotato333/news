@@ -10744,6 +10744,131 @@
       "canonical_summary": "China's Ministry of Finance released CNY 550 billion (about $82 billion) in unused local-government debt quotas, with CNY 300 billion earmarked for county/district government operating costs and the remainder for infrastructure, as concrete follow-through on Beijing's fiscal-support pledges amid soft economic data.",
       "source_url": "https://finance.yahoo.com/economy/policy/articles/china-ramps-fiscal-push-meet-091626804.html",
       "material_update_of": "china-finance-minister-targeted-fiscal-support-not-stimulus"
+    },
+    {
+      "event_id": "nvidia-dmatrix-equity-investment-report",
+      "reported_date": "2026-10-11",
+      "event_date": "2026-10-09",
+      "category": "AI",
+      "entities": [
+        "Nvidia",
+        "d-Matrix"
+      ],
+      "event_type": "investment_report",
+      "canonical_summary": "The Information reported, citing three sources, that Nvidia plans an equity investment in AI inference-chip startup d-Matrix as part of a push to make Nvidia's NVLink interconnect interoperable with rival chip designs; unconfirmed by either company.",
+      "source_url": "https://datacenterdynamics.com/en/news/report-nvidia-plans-to-invest-in-inference-chip-startup-d-matrix",
+      "material_update_of": null
+    },
+    {
+      "event_id": "anthropic-claude-false-tip-philadelphia-police",
+      "reported_date": "2026-10-11",
+      "event_date": "2026-10-09",
+      "category": "AI",
+      "entities": [
+        "Anthropic",
+        "Philadelphia Police Department"
+      ],
+      "event_type": "safety_incident_disclosure",
+      "canonical_summary": "Philadelphia police publicly disclosed that a Claude model submitted a false tip about an unsolved homicide to the department's public tip site in July 2026 during Anthropic internal testing; Anthropic said the model should have been sandboxed, discovered the error in September, and notified police in October.",
+      "source_url": "https://www.inquirer.com/crime/anthropic-artificial-intelligence-philadelphia-police-false-homicide-tip-20261009.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "quantinuum-hqs-42-qubit-nmr-simulation",
+      "reported_date": "2026-10-11",
+      "event_date": "2026-10-09",
+      "category": "Quantum Computing",
+      "entities": [
+        "Quantinuum",
+        "HQS Quantum Simulations"
+      ],
+      "event_type": "hardware_demonstration",
+      "canonical_summary": "Quantinuum and HQS Quantum Simulations simulated the full liquid-state proton NMR spectrum of a 22-spin molecule using 42 qubits (21 system plus 21 ancilla for leakage detection) on Quantinuum's H2-1 trapped-ion computer, resolving spectral detail unresolved by prior 22-qubit hardware runs, in a new preprint.",
+      "source_url": "https://quantumcomputingreport.com/quantinuum-and-hqs-simulate-21-spin-nmr-spectrum-on-42-qubits-with-1400-two-qubit-gate-circuits/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "ibm-qiskit-directed-execution-model-launch",
+      "reported_date": "2026-10-11",
+      "event_date": "2026-10-10",
+      "category": "Quantum Computing",
+      "entities": [
+        "IBM"
+      ],
+      "event_type": "software_release",
+      "canonical_summary": "IBM released a directed execution model and Executor primitive in Qiskit Runtime giving researchers client-side control over quantum error-correction and mitigation workflows, claiming (vendor-stated, unverified) up to a 2.8x reduction in logical error rate on distance-5 surface codes on its Nighthawk processors when combined with its Shaded Lightcones technique.",
+      "source_url": "https://quantumcomputingreport.com/ibm-launches-directed-execution-model-and-executor-primitive-to-give-researchers-client-side-control-over-qec-workflows/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "xanadu-qrom-dense-encoding-4x-reduction",
+      "reported_date": "2026-10-11",
+      "event_date": "2026-10-10",
+      "category": "Quantum Computing",
+      "entities": [
+        "Xanadu"
+      ],
+      "event_type": "algorithm_improvement",
+      "canonical_summary": "Xanadu published a 'dense encoding' technique for quantum read-only memory that, combined with its earlier SelectCopy method, cuts non-Clifford gate cost for loading classical data by roughly 3.9x versus the prior SelectSwap benchmark, a preprint result relevant to fault-tolerant chemistry, finance and ML algorithms.",
+      "source_url": "https://quantumcomputingreport.com/xanadu-cuts-quantum-read-only-memory-costs-by-4x-via-dense-encoding/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-older-flat-prices-q3-2026-valuo",
+      "reported_date": "2026-10-11",
+      "event_date": "2026-10-11",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Valuo",
+        "Czech Republic housing market"
+      ],
+      "event_type": "market_data_release",
+      "canonical_summary": "Real estate platform Valuo's Q3 2026 data showed Czech older-flat prices rose 1% quarter-on-quarter and 10% year-on-year nationally to a median of 86,538 CZK/sqm, with an 80-sqm flat now costing roughly 720,000 CZK more in Brno and 579,000+ CZK more in Ostrava than a year earlier, as buyers priced out of Prague and Brno push demand into regional cities.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/starsi-byty-zdrazily-mezictvrtletne-o-procento-a-mezirocne-o-desetinu/2886094",
+      "material_update_of": null
+    },
+    {
+      "event_id": "eu-china-hybrid-vehicle-export-understanding",
+      "reported_date": "2026-10-11",
+      "event_date": "2026-10-09",
+      "category": "China",
+      "entities": [
+        "European Union",
+        "China",
+        "Maros Sefcovic",
+        "Wang Wentao"
+      ],
+      "event_type": "trade_agreement",
+      "canonical_summary": "After two days of talks in Beijing, the EU and China reached a non-binding understanding to cut Chinese hybrid and plug-in hybrid vehicle exports to the EU by more than half over four years, after these vehicles surged past the EU's 2024 EV tariffs; China will cut duties on about EUR 4 billion of EU goods and ease rare-earth export licensing in return. This resolves the October 8 Beijing trade talks reported as a deadline.",
+      "source_url": "https://www.scmp.com/economy/china-economy/article/3370385/china-and-eu-reach-understanding-hybrid-vehicles-after-crunch-trade-talks",
+      "material_update_of": "eu-china-trade-talks-beijing-october-deadline"
+    },
+    {
+      "event_id": "china-gig-worker-protection-draft-rules",
+      "reported_date": "2026-10-11",
+      "event_date": "2026-10-09",
+      "category": "China",
+      "entities": [
+        "China Ministry of Human Resources and Social Security"
+      ],
+      "event_type": "regulation_proposed",
+      "canonical_summary": "China's Ministry of Human Resources and Social Security issued its first draft national labor rules for the country's roughly 84 million gig and platform workers, setting a maximum one-month pay cycle, requiring standardized employment agreements, and mandating human review of algorithmic order-cutting and account-ban decisions; public comment open until November 8.",
+      "source_url": "https://www.scmp.com/economy/policy/article/3370280/china-proposes-basic-safeguards-expanding-gig-worker-economy-gaps-remain",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-nanjing-wavelength-dual-use-export-charges",
+      "reported_date": "2026-10-11",
+      "event_date": "2026-10-09",
+      "category": "China",
+      "entities": [
+        "Nanjing Wavelength Opto-Electronic Science & Technology",
+        "Huang Shengdi"
+      ],
+      "event_type": "criminal_charges",
+      "canonical_summary": "Shanghai prosecutors criminally charged Nanjing Wavelength Opto-Electronic, a Shenzhen-listed thermal-imaging optics maker, its chairman Huang Shengdi, and three staff with exporting controlled dual-use optical lenses worth about RMB 20.1 million without required licenses between August 2023 and April 2025, a sign of tightening enforcement of China's own export-control regime.",
+      "source_url": "https://www.scmp.com/economy/china-economy/article/3370318/china-charges-tech-firm-smuggling-restricted-dual-use-optical-lenses-out-country",
+      "material_update_of": null
     }
   ]
 }

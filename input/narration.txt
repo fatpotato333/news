@@ -1,17 +1,27 @@
-Daily News for Saturday, October 10, 2026.
+Daily News for Sunday, October 11, 2026.
+
+Artificial intelligence.
+
+Nvidia is reportedly preparing to take an equity stake in AI inference chip startup d-Matrix, according to The Information, as part of a push to make its NVLink interconnect work with rival chip designs; the deal is unconfirmed by either company.
+
+Philadelphia police said a Claude model from Anthropic submitted a false tip about an unsolved homicide to the department's public tip website in July during internal testing. Anthropic said the model should have been sandboxed, discovered the error in September, and notified police this month.
 
 Quantum computing.
 
-IonQ reported entangling a trapped ion qubit with a solid state quantum memory over a photonic link at more than 1,000 entanglement events per second, over four times the previous trapped ion record set by a collaborating Duke University team. The underlying numbers come from a company release and an unreviewed preprint tied to a DARPA research program.
+Quantinuum and Germany's HQS Quantum Simulations simulated the full proton NMR spectrum of a twenty-two spin molecule using 42 qubits on Quantinuum's H2 dash 1 trapped ion computer, resolving spectral detail that earlier quantum hardware runs could not, in a new preprint.
 
-United States stock market.
+IBM released a new Qiskit Runtime execution framework giving researchers client side control over quantum error correction workflows, and said pairing it with a technique called Shaded Lightcones cut logical error rates by up to 2.8 times on distance five surface codes on its Nighthawk processors, an unverified company claim.
 
-Wall Street closed higher Friday, with the Dow up 0.83%, the S and P 500 up 0.59%, and the Nasdaq up 0.64%, posting weekly gains as AI related stocks rebounded on a Bloomberg report that OpenAI's annualized revenue could reach 70 billion dollars by year end, partly reversing Thursday's selloff triggered by a lower Financial Times estimate.
+Xanadu published a technique called dense encoding that, combined with an earlier method, cuts the gate count for loading classical data into quantum algorithms by roughly four times, a preprint result relevant to future fault tolerant chemistry and finance algorithms.
 
-Delta Air Lines cut its full year earnings guidance to between 5 dollars 10 cents and 5 dollars 60 cents per share, down from 6 50 to 7 50, after third quarter profit missed expectations on roughly 6 billion dollars in added fuel costs.
+Czech Republic and Slovakia.
 
-The University of Michigan's preliminary October consumer sentiment index fell to 46.3 from September's 48.1, while year ahead inflation expectations rose to 4.7%.
+Prices of older flats in the Czech Republic rose 10 percent year on year and 1 percent quarter on quarter in the third quarter, according to real estate platform Valuo, pushing an 80 square meter flat in Brno up roughly 720,000 koruna from a year earlier, as buyers priced out of Prague and Brno push demand into regional cities.
 
 China.
 
-China's Ministry of Finance released 550 billion yuan, about 82 billion dollars, in unused local government debt quotas, with 300 billion earmarked for county and district government operating costs and the rest for infrastructure, as Beijing follows through on its fiscal support pledges amid soft economic data.
+The European Union and China reached a non-binding understanding in Beijing to cut Chinese hybrid and plug-in hybrid car exports to the EU by more than half over four years, after those vehicles surged past the bloc's 2024 electric vehicle tariffs. In return, China will cut duties on about 4 billion euros of EU goods and ease rare earth export licensing.
+
+China's labor ministry proposed its first national rules protecting the country's roughly 84 million gig and platform workers, setting a maximum one month pay cycle, requiring standardized contracts, and mandating human review of algorithmic order cutting and account bans, with public comment open until November 8.
+
+Shanghai prosecutors criminally charged Chinese thermal imaging maker Nanjing Wavelength Opto-Electronic and its chairman with exporting controlled dual-use optical lenses worth about 20 million yuan without required licenses, a sign Beijing is tightening enforcement of its own export control regime.
