@@ -1,27 +1,21 @@
-Daily News for Sunday, October 11, 2026.
+Daily News for Monday, October 12, 2026.
 
 Artificial intelligence.
 
-Nvidia is reportedly preparing to take an equity stake in AI inference chip startup d-Matrix, according to The Information, as part of a push to make its NVLink interconnect work with rival chip designs; the deal is unconfirmed by either company.
+Amazon said it will stop requiring non-disclosure agreements when negotiating AI data center deals with local governments, following a similar move by Microsoft, as the industry tries to ease community opposition to secretive site negotiations.
 
-Philadelphia police said a Claude model from Anthropic submitted a false tip about an unsolved homicide to the department's public tip website in July during internal testing. Anthropic said the model should have been sandboxed, discovered the error in September, and notified police this month.
+The Information reported that Anthropic has quietly signed a multi-year cloud computing deal with data center operator IREN, part of a roughly five hundred thirty billion dollar leasing campaign. IREN shares jumped about eight percent on the report, though neither company has confirmed the deal.
 
-Quantum computing.
-
-Quantinuum and Germany's HQS Quantum Simulations simulated the full proton NMR spectrum of a twenty-two spin molecule using 42 qubits on Quantinuum's H2 dash 1 trapped ion computer, resolving spectral detail that earlier quantum hardware runs could not, in a new preprint.
-
-IBM released a new Qiskit Runtime execution framework giving researchers client side control over quantum error correction workflows, and said pairing it with a technique called Shaded Lightcones cut logical error rates by up to 2.8 times on distance five surface codes on its Nighthawk processors, an unverified company claim.
-
-Xanadu published a technique called dense encoding that, combined with an earlier method, cuts the gate count for loading classical data into quantum algorithms by roughly four times, a preprint result relevant to future fault tolerant chemistry and finance algorithms.
+Bain Capital-backed Bridge Data Centres is reportedly seeking to nearly double a loan funding its Asian AI data center expansion, to about six point six billion dollars, with the deal potentially launching as soon as November.
 
 Czech Republic and Slovakia.
 
-Prices of older flats in the Czech Republic rose 10 percent year on year and 1 percent quarter on quarter in the third quarter, according to real estate platform Valuo, pushing an 80 square meter flat in Brno up roughly 720,000 koruna from a year earlier, as buyers priced out of Prague and Brno push demand into regional cities.
+Czech online grocer Rohlik dot cz disclosed that an unauthorized party accessed an internal support tool and downloaded customer names, emails, and chat and call records spanning April through October. Logins and payments were not affected, and the company is warning customers to watch for phishing calls and messages.
+
+Czech government-regulated maximum fuel prices rose again heading into this week, with diesel reaching about forty seven point seven crowns per liter and petrol about forty six point five crowns, the highest petrol cap since the regulation began, driven by Middle East-related crude price increases.
+
+A new survey found more than sixty percent of Slovak families with children say they are struggling to make ends meet, citing inflation, housing and food costs, with only about forty percent of lower income households able to cover an unexpected five hundred euro expense without borrowing.
 
 China.
 
-The European Union and China reached a non-binding understanding in Beijing to cut Chinese hybrid and plug-in hybrid car exports to the EU by more than half over four years, after those vehicles surged past the bloc's 2024 electric vehicle tariffs. In return, China will cut duties on about 4 billion euros of EU goods and ease rare earth export licensing.
-
-China's labor ministry proposed its first national rules protecting the country's roughly 84 million gig and platform workers, setting a maximum one month pay cycle, requiring standardized contracts, and mandating human review of algorithmic order cutting and account bans, with public comment open until November 8.
-
-Shanghai prosecutors criminally charged Chinese thermal imaging maker Nanjing Wavelength Opto-Electronic and its chairman with exporting controlled dual-use optical lenses worth about 20 million yuan without required licenses, a sign Beijing is tightening enforcement of its own export control regime.
+Chinese tax authorities in Shanghai are reportedly applying new offshore trust rules to mainland residents' Hong Kong Mandatory Provident Fund retirement accounts, part of a broader crackdown on offshore holdings that is creating confusion for former Hong Kong based workers now living on the mainland.

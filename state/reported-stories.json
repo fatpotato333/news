@@ -10869,6 +10869,106 @@
       "canonical_summary": "Shanghai prosecutors criminally charged Nanjing Wavelength Opto-Electronic, a Shenzhen-listed thermal-imaging optics maker, its chairman Huang Shengdi, and three staff with exporting controlled dual-use optical lenses worth about RMB 20.1 million without required licenses between August 2023 and April 2025, a sign of tightening enforcement of China's own export-control regime.",
       "source_url": "https://www.scmp.com/economy/china-economy/article/3370318/china-charges-tech-firm-smuggling-restricted-dual-use-optical-lenses-out-country",
       "material_update_of": null
+    },
+    {
+      "event_id": "amazon-ends-datacenter-ndas",
+      "reported_date": "2026-10-12",
+      "event_date": "2026-10-11",
+      "category": "AI",
+      "entities": [
+        "Amazon",
+        "Microsoft"
+      ],
+      "event_type": "policy_change",
+      "canonical_summary": "Amazon said it will stop requiring NDAs when negotiating AI data-center deals with local governments, following a similar move by Microsoft earlier in 2026, as the industry tries to address community backlash over secretive dealmaking.",
+      "source_url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas",
+      "material_update_of": null
+    },
+    {
+      "event_id": "anthropic-iren-cloud-deal-report",
+      "reported_date": "2026-10-12",
+      "event_date": "2026-10-11",
+      "category": "AI",
+      "entities": [
+        "Anthropic",
+        "IREN"
+      ],
+      "event_type": "infrastructure_deal_reported",
+      "canonical_summary": "The Information reported that Anthropic has quietly signed an unannounced multiyear cloud-computing deal with former bitcoin miner turned AI-infrastructure provider IREN, part of a roughly $530 billion data-center leasing campaign; IREN shares jumped about 8% on the report, though neither company has confirmed the deal.",
+      "source_url": "https://www.theinformation.com/articles/attractive-economics-behind-anthropic-data-center-sprint",
+      "material_update_of": null
+    },
+    {
+      "event_id": "bridge-data-centres-6-6b-loan",
+      "reported_date": "2026-10-12",
+      "event_date": "2026-10-12",
+      "category": "AI",
+      "entities": [
+        "Bain Capital",
+        "Bridge Data Centres"
+      ],
+      "event_type": "infrastructure_financing",
+      "canonical_summary": "Bain Capital-backed Asian data-center operator Bridge Data Centres is reportedly in talks to upsize a loan to about $6.6 billion to fund AI data-center capacity expansion, with the deal potentially launching as soon as November.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-12/bain-s-bridge-data-centres-seeks-to-upsize-loan-to-6-6-billion",
+      "material_update_of": null
+    },
+    {
+      "event_id": "rohlik-cz-customer-data-breach-oct2026",
+      "reported_date": "2026-10-12",
+      "event_date": "2026-10-11",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Rohlik.cz",
+        "VELKA PECKA s.r.o.",
+        "UOOU",
+        "NUKIB"
+      ],
+      "event_type": "data_breach",
+      "canonical_summary": "Czech online grocer Rohlik.cz disclosed that an unauthorized party accessed an internal support tool and downloaded customer names, emails, and chat/call/email contents from April-October 2026; logins and payments were unaffected. The company reported the incident to the Czech data protection office and national cyber agency and is warning customers about phishing attempts impersonating Rohlik.",
+      "source_url": "https://www.novinky.cz/clanek/internet-a-pc-pozor-na-zpravy-a-telefonaty-od-rohlik-cz-firma-oznamila-unik-osobnich-dat-zakazniku-40602172",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-fuel-price-cap-record-high-oct2026",
+      "reported_date": "2026-10-12",
+      "event_date": "2026-10-12",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Ministerstvo financi CR"
+      ],
+      "event_type": "regulatory_update",
+      "canonical_summary": "Czech government-regulated maximum pump fuel prices rose again heading into the week of October 12: diesel to 47.67 CZK/l and petrol to 46.48 CZK/l, the highest petrol cap since the regulation began in early October, amid Middle East-driven crude price increases; the cap runs through end of October.",
+      "source_url": "https://zpravy.aktualne.cz/ekonomika/maximalni-ceny-pohonnych-hmot-o-vikendu-a-v-pondeli-vzrostou/r~aaa2985dea8547637c767370f427a694/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-household-finance-strain-survey-oct2026",
+      "reported_date": "2026-10-12",
+      "event_date": "2026-10-11",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "CSOB",
+        "agentura 2muse"
+      ],
+      "event_type": "survey_release",
+      "canonical_summary": "A CSOB-commissioned survey found 62% of Slovak households with children struggle on their income and 42% say they are worse off than a year ago, with only about 40% of lower-income households able to cover an unexpected EUR 500 expense without borrowing, citing inflation, housing and food costs.",
+      "source_url": "https://www.teraz.sk/ekonomika/prieskum-cez-60-slovenskych-rodin-v/998854-clanok.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-shanghai-tax-hk-mpf-offshore-trust",
+      "reported_date": "2026-10-12",
+      "event_date": "2026-10-11",
+      "category": "China",
+      "entities": [
+        "Shanghai tax authorities",
+        "State Taxation Administration",
+        "Hong Kong Mandatory Provident Fund"
+      ],
+      "event_type": "tax_enforcement",
+      "canonical_summary": "Shanghai tax officials, applying rules on offshore trusts, contacted mainland residents about their Hong Kong Mandatory Provident Fund retirement accounts, treating them as offshore trusts subject to tax scrutiny, widening a crackdown on offshore structures to ordinary former Hong Kong-based workers.",
+      "source_url": "https://www.scmp.com/economy/china-economy/article/3370354/why-are-mainland-chinas-tax-officials-suddenly-so-interested-my-hong-kong-mpf",
+      "material_update_of": null
     }
   ]
 }
