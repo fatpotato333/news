@@ -1,21 +1,27 @@
-Daily News for Monday, October 12, 2026.
+Daily News for Tuesday, October 13, 2026.
 
 Artificial intelligence.
 
-Amazon said it will stop requiring non-disclosure agreements when negotiating AI data center deals with local governments, following a similar move by Microsoft, as the industry tries to ease community opposition to secretive site negotiations.
+Meta released Muse Wonder and Muse Wonder Full, its first frontier-level AI models since last year's reorganization of its AI division, claiming they match rivals' top models on general tasks and beat them on long-term memory benchmarks. The models power Meta's Muse agent, with Wonder priced at four dollars per million input tokens through Meta's API.
 
-The Information reported that Anthropic has quietly signed a multi-year cloud computing deal with data center operator IREN, part of a roughly five hundred thirty billion dollar leasing campaign. IREN shares jumped about eight percent on the report, though neither company has confirmed the deal.
+Microsoft president Brad Smith called for binding global AI safety rules, including mandatory kill switches and outside approval before releasing major models, as Britain's AI Security Institute confirmed it still has pre-release access to frontier models from OpenAI and Anthropic, pushing back on reports that the Trump administration asked the companies to withhold that access.
 
-Bain Capital-backed Bridge Data Centres is reportedly seeking to nearly double a loan funding its Asian AI data center expansion, to about six point six billion dollars, with the deal potentially launching as soon as November.
+Quantum computing.
+
+Google's Quantum AI team unveiled a new error-cancellation technique that, in simulations, suppressed logical errors in general fault-tolerant quantum circuits by more than a thousandfold, though it has not yet been tested on real hardware.
+
+Researchers at the University of Pennsylvania showed that a topological light pattern called a quantum skyrmion can survive even after entanglement between photons is destroyed by noise, an early step toward more robust quantum networks.
+
+United States stock market.
+
+The Dow Jones Industrial Average closed at a record high Monday, up about four tenths of a percent, while the Nasdaq fell nearly half a percent as chip stocks dragged on sentiment.
+
+Semiconductor and memory stocks sold off sharply, with Lumentum and Semtech each losing about ten percent and SanDisk falling more than six percent, as investors grew wary of stretched AI valuations and renewed competition from Chinese memory maker C X M T.
 
 Czech Republic and Slovakia.
 
-Czech online grocer Rohlik dot cz disclosed that an unauthorized party accessed an internal support tool and downloaded customer names, emails, and chat and call records spanning April through October. Logins and payments were not affected, and the company is warning customers to watch for phishing calls and messages.
+The International Monetary Fund cut its growth forecast for the Czech economy to one point eight percent for this year and one point nine percent for next year, citing Middle East driven fuel prices, while projecting inflation will rise back to two point eight percent in 2027.
 
-Czech government-regulated maximum fuel prices rose again heading into this week, with diesel reaching about forty seven point seven crowns per liter and petrol about forty six point five crowns, the highest petrol cap since the regulation began, driven by Middle East-related crude price increases.
+A Czech parliamentary committee recommended approving the government's 2027 budget, which carries a record deficit of three hundred eighty six billion crowns, clearing the way for a first vote in the full chamber on October twenty first.
 
-A new survey found more than sixty percent of Slovak families with children say they are struggling to make ends meet, citing inflation, housing and food costs, with only about forty percent of lower income households able to cover an unexpected five hundred euro expense without borrowing.
-
-China.
-
-Chinese tax authorities in Shanghai are reportedly applying new offshore trust rules to mainland residents' Hong Kong Mandatory Provident Fund retirement accounts, part of a broader crackdown on offshore holdings that is creating confusion for former Hong Kong based workers now living on the mainland.
+Czech police officers and firefighters will get an additional two thousand four hundred crowns added to their base pay tariffs next year, part of a government push toward a fifty thousand crown starting salary for new police officers.

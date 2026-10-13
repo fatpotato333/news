@@ -10969,6 +10969,129 @@
       "canonical_summary": "Shanghai tax officials, applying rules on offshore trusts, contacted mainland residents about their Hong Kong Mandatory Provident Fund retirement accounts, treating them as offshore trusts subject to tax scrutiny, widening a crackdown on offshore structures to ordinary former Hong Kong-based workers.",
       "source_url": "https://www.scmp.com/economy/china-economy/article/3370354/why-are-mainland-chinas-tax-officials-suddenly-so-interested-my-hong-kong-mpf",
       "material_update_of": null
+    },
+    {
+      "event_id": "meta-muse-wonder-frontier-model-release",
+      "reported_date": "2026-10-13",
+      "event_date": "2026-10-12",
+      "category": "AI",
+      "entities": [
+        "Meta"
+      ],
+      "event_type": "model_release",
+      "canonical_summary": "Meta's Superintelligence Lab released Muse Wonder and Muse Wonder Full, its first frontier-caliber AI models since the August 2025 reorganization of its AI division, emphasizing active memory and coding performance; Meta claims benchmark parity with top rivals on general tasks and an edge on its own long-term memory benchmark (company-claimed, not independently verified). Wonder is priced at $4 per million input tokens via Meta's API; Wonder Full is restricted to Muse Code subscribers.",
+      "source_url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "microsoft-brad-smith-ai-safety-rules-uk-aisi-access",
+      "reported_date": "2026-10-13",
+      "event_date": "2026-10-12",
+      "category": "AI",
+      "entities": [
+        "Microsoft",
+        "UK AI Security Institute"
+      ],
+      "event_type": "policy_statement",
+      "canonical_summary": "Microsoft president Brad Smith called for binding global AI safety rules including mandatory kill switches and outside-evaluator approval before releasing major models; the UK's AI Security Institute separately confirmed on the same day that it still has pre-release access to frontier models from OpenAI and Anthropic, pushing back on reports that the Trump administration had asked the companies to withhold that access.",
+      "source_url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "google-quantum-ai-virtual-error-cancellation",
+      "reported_date": "2026-10-13",
+      "event_date": "2026-10-08",
+      "category": "Quantum Computing",
+      "entities": [
+        "Google Quantum AI"
+      ],
+      "event_type": "research_preprint",
+      "canonical_summary": "Google Quantum AI proposed a 'virtual error cancellation' post-processing technique that, in numerical simulations of a distance-7 surface code, suppressed logical error rates in universal (non-Clifford) fault-tolerant circuits by over 1,600x versus unmitigated results, with lower sampling overhead than prior postselection methods; this is a simulation-only result, not yet validated on real hardware or peer reviewed.",
+      "source_url": "https://quantumcomputingreport.com/google-quantum-ai-introduces-virtual-error-cancellation-for-universal-logical-circuits/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "penn-quantum-skyrmion-entanglement-survival",
+      "reported_date": "2026-10-13",
+      "event_date": "2026-10-12",
+      "category": "Quantum Computing",
+      "entities": [
+        "University of Pennsylvania"
+      ],
+      "event_type": "research_publication",
+      "canonical_summary": "University of Pennsylvania-led researchers used a silicon nitride photonic chip to show a topological 'quantum skyrmion' light pattern transferred into a two-photon entangled state retained its winding number even after standard entanglement measures dropped to zero, an early-stage platform result relevant to more robust quantum networking, published in Nature Physics.",
+      "source_url": "https://thequantuminsider.com/2026/10/12/in-step-toward-quantum-networking-penn-study-finds-quantum-light-pattern-can-survive-loss-of-entanglement/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-stocks-dow-record-nasdaq-chip-selloff-oct12",
+      "reported_date": "2026-10-13",
+      "event_date": "2026-10-12",
+      "category": "US Stock Market",
+      "entities": [
+        "Dow Jones Industrial Average",
+        "Nasdaq Composite",
+        "S&P 500"
+      ],
+      "event_type": "market_move",
+      "canonical_summary": "The Dow Jones Industrial Average closed at a record 51,850.55 on October 12, up 0.38%, while the S&P 500 slipped 0.06% to 7,807.24 and the Nasdaq Composite fell 0.44% to 27,245.90 as the Philadelphia Semiconductor Index dropped as much as 2.7% intraday to a three-week low.",
+      "source_url": "https://www.fool.com/coverage/stock-market-today/2026/10/12/stock-market-today-oct-12-dow-gains-as-memory-stocks-weigh-on-nasdaq/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "semiconductor-memory-stocks-selloff-ai-valuation-oct12",
+      "reported_date": "2026-10-13",
+      "event_date": "2026-10-12",
+      "category": "US Stock Market",
+      "entities": [
+        "Lumentum",
+        "Semtech",
+        "SanDisk",
+        "Marvell Technology"
+      ],
+      "event_type": "stock_move",
+      "canonical_summary": "Semiconductor and memory stocks sold off sharply on October 12: Lumentum fell almost 10%, Semtech dropped about 10%, SanDisk fell more than 6% on renewed competition fears tied to China's CXMT, and Marvell fell roughly 3.4% on skepticism about its long-term revenue targets, as investors grew wary of stretched AI-related valuations.",
+      "source_url": "https://www.fool.com/coverage/stock-market-today/2026/10/12/stock-market-today-oct-12-dow-gains-as-memory-stocks-weigh-on-nasdaq/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "imf-czech-gdp-forecast-cut-oct2026",
+      "reported_date": "2026-10-13",
+      "event_date": "2026-10-13",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "International Monetary Fund"
+      ],
+      "event_type": "economic_forecast",
+      "canonical_summary": "The IMF's October World Economic Outlook cut its Czech GDP growth forecast to 1.8% for 2026 (from 2.2%) and 1.9% for 2027 (from 2.2%), citing Middle East conflict-driven fuel prices, while projecting inflation falling to 2.1% in 2026 before rising to 2.8% in 2027.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/mmf-zhorsil-vyhled-ceske-ekonomiky-letosni-rust-odhaduje-na-18-/2887027",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-2027-budget-committee-first-reading-recommendation",
+      "reported_date": "2026-10-13",
+      "event_date": "2026-10-12",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Chamber of Deputies Budget Committee"
+      ],
+      "event_type": "legislation_stage",
+      "canonical_summary": "The Chamber of Deputies budget committee voted 9-16 to recommend approving the 2027 state budget's basic parameters (386bn CZK deficit, already set at cabinet approval in September) in first reading, over opposition objections; the plenary first-reading vote, which locks the deficit figure, is scheduled for October 21, 2026.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/vybor-doporucil-schvalit-zakladni-udaje-rozpoctu-se-schodkem-386-mld-kc/2886949",
+      "material_update_of": "czech-2027-budget-cabinet-approval"
+    },
+    {
+      "event_id": "czech-security-corps-pay-raise-2027",
+      "reported_date": "2026-10-13",
+      "event_date": "2026-10-12",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Ministry of Interior"
+      ],
+      "event_type": "wages",
+      "canonical_summary": "Following talks between unions and the government, Czech police officers and firefighters agreed on a 2027 pay deal adding 2,400 CZK to base tariffs plus 500 CZK for overtime/standby, part of a multi-year push toward a 50,000 CZK starting salary for newly graduated police officers.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/bezpecnostni-sbory-dostanou-pristi-rok-pridano-2400-kc-do-tarifu-rekl-metnar/2880363",
+      "material_update_of": null
     }
   ]
 }
