@@ -11092,6 +11092,215 @@
       "canonical_summary": "Following talks between unions and the government, Czech police officers and firefighters agreed on a 2027 pay deal adding 2,400 CZK to base tariffs plus 500 CZK for overtime/standby, part of a multi-year push toward a 50,000 CZK starting salary for newly graduated police officers.",
       "source_url": "https://www.ceskenoviny.cz/zpravy/bezpecnostni-sbory-dostanou-pristi-rok-pridano-2400-kc-do-tarifu-rekl-metnar/2880363",
       "material_update_of": null
+    },
+    {
+      "event_id": "ntt-anthropic-japan-datacenter-osaka",
+      "reported_date": "2026-10-14",
+      "event_date": "2026-10-13",
+      "category": "AI",
+      "entities": [
+        "NTT Data",
+        "Anthropic"
+      ],
+      "event_type": "infrastructure_deal",
+      "canonical_summary": "NTT Data is reportedly in final talks to build a $6.3 billion data center for Anthropic in Osaka, Japan, targeting partial operations by 2028 as Anthropic's first dedicated facility in Japan.",
+      "source_url": "https://asia.nikkei.com/business/technology/artificial-intelligence/ntt-to-build-first-data-center-for-anthropic-in-japan",
+      "material_update_of": null
+    },
+    {
+      "event_id": "anthropic-scion-replaces-git",
+      "reported_date": "2026-10-14",
+      "event_date": "2026-10-13",
+      "category": "AI",
+      "entities": [
+        "Anthropic"
+      ],
+      "event_type": "engineering_milestone",
+      "canonical_summary": "Anthropic built and deployed its own in-house version control system, Scion, replacing Git after Claude-driven coding pushed daily monorepo merges from ~2,500 to over 30,000, cutting infrastructure footprint ~200x and freeing 25% of CI compute capacity.",
+      "source_url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "material_update_of": null
+    },
+    {
+      "event_id": "hinton-bengio-ai-containment-regulator-letter",
+      "reported_date": "2026-10-14",
+      "event_date": "2026-10-13",
+      "category": "AI",
+      "entities": [
+        "Geoffrey Hinton",
+        "Yoshua Bengio",
+        "400+ scientists"
+      ],
+      "event_type": "open_letter",
+      "canonical_summary": "Over 400 scientists including Geoffrey Hinton and Yoshua Bengio signed an open letter calling for an international AI regulator to standardize containment practices and mandate reporting of containment failures.",
+      "source_url": "https://betakit.com/geoffrey-hinton-yoshua-bengio-join-400-scientists-calling-for-international-ai-regulator/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "skywater-dwave-chip-manufacturing-agreement",
+      "reported_date": "2026-10-14",
+      "event_date": "2026-10-13",
+      "category": "Quantum Computing",
+      "entities": [
+        "D-Wave",
+        "SkyWater Technology"
+      ],
+      "event_type": "manufacturing_agreement",
+      "canonical_summary": "D-Wave and foundry partner SkyWater signed a new multi-year agreement to manufacture D-Wave's superconducting quantum processors in Minnesota; a pilot used a D-Wave quantum annealer to optimize fab maintenance scheduling, cutting lot delays up to 30%.",
+      "source_url": "https://thequantuminsider.com/2026/10/13/skywater-d-wave-manufacturing-agreement/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "uk-quantum-sensing-networking-funding-78m",
+      "reported_date": "2026-10-14",
+      "event_date": "2026-10-13",
+      "category": "Quantum Computing",
+      "entities": [
+        "UK Research and Innovation"
+      ],
+      "event_type": "government_funding",
+      "canonical_summary": "UK Research and Innovation committed £78 million to British quantum firms, £50 million for sensing/positioning/timing and £20 million for commercial quantum networking, targeting rail fault detection and NHS-focused sensing products.",
+      "source_url": "https://thequantuminsider.com/2026/10/13/quantum-firms-backed-to-keep-uk-railways-running-and-cut-waiting-lists/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-banks-q3-earnings-stocks-fall-oct13",
+      "reported_date": "2026-10-14",
+      "event_date": "2026-10-13",
+      "category": "US Stock Market",
+      "entities": [
+        "JPMorgan Chase",
+        "Citigroup",
+        "Wells Fargo",
+        "Goldman Sachs"
+      ],
+      "event_type": "earnings",
+      "canonical_summary": "JPMorgan, Citigroup, Wells Fargo and Goldman Sachs reported Q3 2026 earnings; JPMorgan missed EPS estimates despite 8% revenue growth and all four banks' shares fell on net interest income concerns despite mostly beating profit estimates.",
+      "source_url": "https://gvwire.com/2026/10/13/wall-street-edges-lower-as-chips-fall-markets-assess-big-bank-earnings/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "chip-memory-stocks-selloff-broadcom-ceo-cxmt-oct13",
+      "reported_date": "2026-10-14",
+      "event_date": "2026-10-13",
+      "category": "US Stock Market",
+      "entities": [
+        "Applied Materials",
+        "Broadcom",
+        "Micron",
+        "CXMT"
+      ],
+      "event_type": "market_move",
+      "canonical_summary": "Chip and memory stocks fell for a second straight session, led by Applied Materials (-6%), after Broadcom's CEO likened some AI investor behavior to casino gambling and Chinese memory maker CXMT claimed a manufacturing breakthrough.",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-futures-mixed-104049191.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "unitedhealth-q3-beat-raise-guidance",
+      "reported_date": "2026-10-14",
+      "event_date": "2026-10-13",
+      "category": "US Stock Market",
+      "entities": [
+        "UnitedHealth"
+      ],
+      "event_type": "earnings",
+      "canonical_summary": "UnitedHealth beat Q3 2026 profit estimates with adjusted EPS of $4.69 versus ~$4.15 consensus and raised full-year guidance to at least $20.50 adjusted EPS, signaling a turnaround after prior medical-cost pressure.",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000731766/000073176626000255/earningsrelease3q26unh.htm",
+      "material_update_of": null
+    },
+    {
+      "event_id": "jnj-q3-talc-charge-stock-drop",
+      "reported_date": "2026-10-14",
+      "event_date": "2026-10-13",
+      "category": "US Stock Market",
+      "entities": [
+        "Johnson & Johnson"
+      ],
+      "event_type": "earnings",
+      "canonical_summary": "Johnson & Johnson beat Q3 2026 estimates and raised guidance, but shares fell ~6% after a ~$5 billion one-time charge tied to a proposed talc litigation settlement cut reported GAAP EPS to $0.09.",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000200406/000020040626000189/a2026q3exhibit991.htm",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-september-inflation-2-5-percent-rate-hike-outlook",
+      "reported_date": "2026-10-14",
+      "event_date": "2026-10-13",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Statistical Office",
+        "Czech National Bank"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "Czech inflation accelerated to 2.5% year-on-year in September (from 1.9% in August), its third straight monthly rise, driven by a 37.5% jump in fuel prices; core inflation at 3.1% raises the likelihood of a November rate hike.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/inflace-v-cr-v-zari-zrychlila-na-25-podle-analytiku-cnb-asi-zvysi-sazby/2883404",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-fuel-price-cap-record-petrol-oct14",
+      "reported_date": "2026-10-14",
+      "event_date": "2026-10-14",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Ministry of Finance"
+      ],
+      "event_type": "price_record",
+      "canonical_summary": "The Czech Finance Ministry's daily fuel price cap hit a new record for petrol on Wednesday, October 14, with the maximum allowed price rising to 47.21 CZK/liter, the highest since the cap regulation began, amid Middle East-driven oil pressure.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/maximalni-prodejni-ceny-pohonnych-hmot-ve-stredu-dal-vzrostou-/2886743",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-transaction-tax-repeal-2028",
+      "reported_date": "2026-10-14",
+      "event_date": "2026-10-13",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Slovak coalition",
+        "SNS",
+        "Smer",
+        "Hlas"
+      ],
+      "event_type": "legislation",
+      "canonical_summary": "Slovakia's ruling coalition announced it will abolish the financial transaction tax effective 2028, via an amendment to a pending SNS income-tax bill in its second reading, co-signed by all three governing coalition parties.",
+      "source_url": "https://www.teraz.sk/ekonomika/a-danko-transakcnu-dan-zrusime-po/999331-clanok.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-september-exports-surge-36-3-percent",
+      "reported_date": "2026-10-14",
+      "event_date": "2026-10-14",
+      "category": "China",
+      "entities": [
+        "China General Administration of Customs"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "China's September exports surged 36.3% year-on-year, pushing the monthly trade surplus to $133.5 billion and the year-to-date surplus toward a new record, with semiconductor exports up over 100% year-to-date, intensifying EU/US rebalancing pressure.",
+      "source_url": "https://www.investing.com/news/economy-news/chinas-exports-surge-363-yy-in-september-imports-up-31-4947903",
+      "material_update_of": null
+    },
+    {
+      "event_id": "imf-china-2026-growth-forecast-cut-4-5",
+      "reported_date": "2026-10-14",
+      "event_date": "2026-10-13",
+      "category": "China",
+      "entities": [
+        "International Monetary Fund"
+      ],
+      "event_type": "economic_forecast",
+      "canonical_summary": "The IMF's October World Economic Outlook cut China's growth forecast to 4.5% for 2026 and 4% for 2027, below its July projections, citing higher oil prices from the Middle East conflict and weak domestic consumer demand.",
+      "source_url": "https://www.caixinglobal.com/2026-10-13/imf-cuts-china-growth-forecasts-for-2026-and-2027-102492957.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-september-ppi-fastest-since-2022-cpi-soft",
+      "reported_date": "2026-10-14",
+      "event_date": "2026-10-14",
+      "category": "China",
+      "entities": [
+        "China National Bureau of Statistics"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "China's producer price index rose 5% year-on-year in September, the fastest pace since June 2022, driven by higher fuel and commodity costs, while consumer inflation (CPI) rose a softer-than-expected 0.9% with core inflation flat at 1%.",
+      "source_url": "https://www.cnbc.com/2026/10/14/producer-prices-in-china-rise-fastest-since-june-2022-on-fuel-costs.html",
+      "material_update_of": null
     }
   ]
 }

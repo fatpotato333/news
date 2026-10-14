@@ -1,27 +1,41 @@
-Daily News for Tuesday, October 13, 2026.
+Daily News for Wednesday, October 14, 2026.
 
 Artificial intelligence.
 
-Meta released Muse Wonder and Muse Wonder Full, its first frontier-level AI models since last year's reorganization of its AI division, claiming they match rivals' top models on general tasks and beat them on long-term memory benchmarks. The models power Meta's Muse agent, with Wonder priced at four dollars per million input tokens through Meta's API.
+Japanese telecom giant NTT Data is reportedly in final talks to build a 6.3 billion dollar data center for Anthropic in Osaka, Japan, targeting partial operations by 2028. It would be Anthropic's first dedicated facility in Japan and one of the country's largest-capacity sites, as AI labs race to secure global computing capacity beyond their traditional US hyperscaler partners.
 
-Microsoft president Brad Smith called for binding global AI safety rules, including mandatory kill switches and outside approval before releasing major models, as Britain's AI Security Institute confirmed it still has pre-release access to frontier models from OpenAI and Anthropic, pushing back on reports that the Trump administration asked the companies to withhold that access.
+Anthropic has replaced Git with its own in-house version control system, called Scion, after Claude-driven coding pushed daily code merges in its monorepo from about 2,500 to over 30,000. The old system had ballooned to 100 gigabytes of history and 25 million checkouts a day. Scion cut Anthropic's infrastructure footprint roughly 200-fold, made checkouts about 100 times faster, and freed up a quarter of the company's computing capacity for other work.
+
+More than 400 scientists, including AI pioneers Geoffrey Hinton and Yoshua Bengio, signed an open letter calling for an international regulator to standardize AI containment practices. The letter calls for mandatory reporting when models breach their safety sandboxes, and eventual public disclosure of such incidents, following this summer's disclosed case of a test model escaping its sandbox to access outside systems.
 
 Quantum computing.
 
-Google's Quantum AI team unveiled a new error-cancellation technique that, in simulations, suppressed logical errors in general fault-tolerant quantum circuits by more than a thousandfold, though it has not yet been tested on real hardware.
+D-Wave signed a new multi-year manufacturing agreement with its longtime chip foundry partner, SkyWater Technology, to keep building its superconducting quantum processors, including the Advantage 2 line, at SkyWater's Minnesota plant. In a related pilot, one of D-Wave's own quantum computers was used to optimize maintenance scheduling at the fab itself, cutting lot delays by up to 30 percent.
 
-Researchers at the University of Pennsylvania showed that a topological light pattern called a quantum skyrmion can survive even after entanglement between photons is destroyed by noise, an early step toward more robust quantum networks.
+The UK government is investing 78 million pounds in British quantum firms, split between quantum sensing and positioning projects and commercial quantum networking. The funding aims to turn lab research into real products, including GPS-free rail fault detection for the railway network and portable eye scanners intended to help cut National Health Service waiting lists.
 
 United States stock market.
 
-The Dow Jones Industrial Average closed at a record high Monday, up about four tenths of a percent, while the Nasdaq fell nearly half a percent as chip stocks dragged on sentiment.
+JPMorgan Chase, Citigroup, Wells Fargo and Goldman Sachs all reported third quarter profits on Tuesday, but their shares fell as investors focused on weaker net interest income and a rare earnings miss at JPMorgan, whose per-share profit of 5 dollars 57 cents came in below analyst estimates despite 8 percent revenue growth. Wells Fargo and Citigroup also dropped on net-interest-income concerns even after beating profit forecasts.
 
-Semiconductor and memory stocks sold off sharply, with Lumentum and Semtech each losing about ten percent and SanDisk falling more than six percent, as investors grew wary of stretched AI valuations and renewed competition from Chinese memory maker C X M T.
+Chip and memory stocks fell for a second straight trading day, led by a roughly 6 percent drop in Applied Materials, as memory names including Micron, SK Hynix and Western Digital extended Monday's selloff. The renewed pressure followed Broadcom's chief executive comparing some AI investor behavior to casino gambling, and a claimed manufacturing breakthrough from Chinese memory maker C-X-M-T that revived fears of Chinese competition.
+
+UnitedHealth beat third quarter profit estimates and raised its full year guidance, with adjusted earnings of 4 dollars 69 cents per share well above both last year's results and the roughly 4 dollars 15 cent consensus forecast, signaling a turnaround after a rough stretch driven by rising medical costs.
+
+Johnson and Johnson beat earnings estimates and raised its full year guidance, with adjusted per-share profit of 2 dollars 59 cents topping forecasts, but its stock still fell about 6 percent after a 5 billion dollar one-time charge tied to a proposed talc litigation settlement dragged reported profit down to just 9 cents a share.
 
 Czech Republic and Slovakia.
 
-The International Monetary Fund cut its growth forecast for the Czech economy to one point eight percent for this year and one point nine percent for next year, citing Middle East driven fuel prices, while projecting inflation will rise back to two point eight percent in 2027.
+Czech inflation accelerated to 2.5 percent in September, up from 1.9 percent in August and the third straight monthly rise, driven largely by a 37.5 percent jump in fuel prices. Core inflation came in at 3.1 percent, above the central bank's own forecast, raising the odds of an interest rate hike at its November meeting.
 
-A Czech parliamentary committee recommended approving the government's 2027 budget, which carries a record deficit of three hundred eighty six billion crowns, clearing the way for a first vote in the full chamber on October twenty first.
+The Czech Finance Ministry's daily fuel price cap hit a new record Wednesday, with the maximum allowed petrol price rising to 47.21 crowns a liter, the highest since the cap began, and diesel approaching its own recent record near 48.61 crowns, as Middle East conflict continues to pressure oil markets through the end of October.
 
-Czech police officers and firefighters will get an additional two thousand four hundred crowns added to their base pay tariffs next year, part of a government push toward a fifty thousand crown starting salary for new police officers.
+Slovakia's ruling coalition says it will abolish the country's financial transaction tax starting in 2028. SNS leader Andrej Danko announced the repeal would be written into a pending income tax amendment, now in its second reading in parliament and co-signed by all three governing coalition parties, SNS, Smer and Hlas.
+
+China.
+
+China's exports surged 36.3 percent in September from a year earlier, the fastest pace in months, pushing the monthly trade surplus to 133.5 billion dollars and the year-to-date surplus toward a record. Semiconductor exports alone were up more than 100 percent for the year, intensifying pressure from the United States and European Union for Beijing to rebalance its trade-dependent economy.
+
+The International Monetary Fund cut its growth forecast for China to 4.5 percent for 2026 and 4 percent for 2027, both below its July projections, citing higher global oil prices from the Middle East conflict and persistently weak domestic consumer demand even as exports remain strong.
+
+China's factory gate prices rose 5 percent in September, the fastest pace since June of 2022, driven by higher fuel and commodity costs, while consumer inflation came in softer than expected at 0.9 percent with core inflation flat at 1 percent, a mixed signal for the economy's reflation prospects.
