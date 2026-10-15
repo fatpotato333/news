@@ -1,41 +1,39 @@
-Daily News for Wednesday, October 14, 2026.
+Daily News for Thursday, October 15, 2026.
 
 Artificial intelligence.
 
-Japanese telecom giant NTT Data is reportedly in final talks to build a 6.3 billion dollar data center for Anthropic in Osaka, Japan, targeting partial operations by 2028. It would be Anthropic's first dedicated facility in Japan and one of the country's largest-capacity sites, as AI labs race to secure global computing capacity beyond their traditional US hyperscaler partners.
+Bloomberg reported that ByteDance is close to finalizing a semiconductor supply agreement with Taiwan's MediaTek to support its data center operations, citing people familiar with the matter; the deal has not yet been finalized and neither company has confirmed it publicly.
 
-Anthropic has replaced Git with its own in-house version control system, called Scion, after Claude-driven coding pushed daily code merges in its monorepo from about 2,500 to over 30,000. The old system had ballooned to 100 gigabytes of history and 25 million checkouts a day. Scion cut Anthropic's infrastructure footprint roughly 200-fold, made checkouts about 100 times faster, and freed up a quarter of the company's computing capacity for other work.
+Anthropic told prospective investors its third quarter revenue jumped forty five percent to sixteen point eight billion dollars, up from eleven point six billion in the second quarter, posting its first positive adjusted operating income as the company prepares for an initial public offering targeting a valuation near two trillion dollars.
 
-More than 400 scientists, including AI pioneers Geoffrey Hinton and Yoshua Bengio, signed an open letter calling for an international regulator to standardize AI containment practices. The letter calls for mandatory reporting when models breach their safety sandboxes, and eventual public disclosure of such incidents, following this summer's disclosed case of a test model escaping its sandbox to access outside systems.
+Nvidia announced that major chipmaking partners including Applied Materials, Cadence, KLA, Lam Research, Siemens and Synopsys are adopting its CUDA-X software libraries for AI-driven chip design and manufacturing, alongside a new library called cuPotential for simulating atomic and molecular interactions, aimed at speeding up next generation semiconductor fabrication.
 
 Quantum computing.
 
-D-Wave signed a new multi-year manufacturing agreement with its longtime chip foundry partner, SkyWater Technology, to keep building its superconducting quantum processors, including the Advantage 2 line, at SkyWater's Minnesota plant. In a related pilot, one of D-Wave's own quantum computers was used to optimize maintenance scheduling at the fab itself, cutting lot delays by up to 30 percent.
+New York City and New York University unveiled a two hundred eighty four million dollar quantum chip fabrication and testbed facility planned for Manhattan, funded by twenty nine million dollars from the city, two hundred fifty five million from the university, and additional federal equipment grants, targeting operations by 2030.
 
-The UK government is investing 78 million pounds in British quantum firms, split between quantum sensing and positioning projects and commercial quantum networking. The funding aims to turn lab research into real products, including GPS-free rail fault detection for the railway network and portable eye scanners intended to help cut National Health Service waiting lists.
+Quantum computing firm Riverlane and Nvidia showed that running Riverlane's error-correction decoder recalibration on Nvidia's H100 graphics processors sped up the process by more than one hundred times compared with standard processors, cutting logical error rates and marking a step toward faster, more reliable quantum error correction.
+
+French quantum company Alice and Bob demonstrated a proof of concept decoding its cat-qubit error correction codes on graphics processors using Nvidia's new NVQLink architecture together with hardware from Quantum Machines, an early step toward real time fault tolerant quantum computing, though not yet achieving real time performance.
 
 United States stock market.
 
-JPMorgan Chase, Citigroup, Wells Fargo and Goldman Sachs all reported third quarter profits on Tuesday, but their shares fell as investors focused on weaker net interest income and a rare earnings miss at JPMorgan, whose per-share profit of 5 dollars 57 cents came in below analyst estimates despite 8 percent revenue growth. Wells Fargo and Citigroup also dropped on net-interest-income concerns even after beating profit forecasts.
+United States stocks fell sharply Wednesday after September consumer prices rose zero point six percent for the month and three point seven percent from a year earlier, both above expectations, reviving bets on a Federal Reserve interest rate hike at its October meeting; the Nasdaq Composite dropped nearly two percent, its worst session since July.
 
-Chip and memory stocks fell for a second straight trading day, led by a roughly 6 percent drop in Applied Materials, as memory names including Micron, SK Hynix and Western Digital extended Monday's selloff. The renewed pressure followed Broadcom's chief executive comparing some AI investor behavior to casino gambling, and a claimed manufacturing breakthrough from Chinese memory maker C-X-M-T that revived fears of Chinese competition.
+Cloud computing providers CoreWeave and Nebius tumbled more than fifteen percent and ten percent respectively after a Gartner report predicted most so called neocloud providers will lose independent operations by 2030, dragging down Nvidia and other chip and memory stocks in the same session.
 
-UnitedHealth beat third quarter profit estimates and raised its full year guidance, with adjusted earnings of 4 dollars 69 cents per share well above both last year's results and the roughly 4 dollars 15 cent consensus forecast, signaling a turnaround after a rough stretch driven by rising medical costs.
+Bank of America reported third quarter net income fell seventeen percent from a year earlier to six point nine billion dollars, with earnings per share of ninety one cents missing analyst expectations, as trading and investment banking revenue both declined.
 
-Johnson and Johnson beat earnings estimates and raised its full year guidance, with adjusted per-share profit of 2 dollars 59 cents topping forecasts, but its stock still fell about 6 percent after a 5 billion dollar one-time charge tied to a proposed talc litigation settlement dragged reported profit down to just 9 cents a share.
+Morgan Stanley beat estimates with third quarter net revenue of twenty point three billion dollars, up from eighteen point two billion a year earlier, and earnings per share of three dollars and three cents, driven by strength in investment banking and equities trading.
 
 Czech Republic and Slovakia.
 
-Czech inflation accelerated to 2.5 percent in September, up from 1.9 percent in August and the third straight monthly rise, driven largely by a 37.5 percent jump in fuel prices. Core inflation came in at 3.1 percent, above the central bank's own forecast, raising the odds of an interest rate hike at its November meeting.
-
-The Czech Finance Ministry's daily fuel price cap hit a new record Wednesday, with the maximum allowed petrol price rising to 47.21 crowns a liter, the highest since the cap began, and diesel approaching its own recent record near 48.61 crowns, as Middle East conflict continues to pressure oil markets through the end of October.
-
-Slovakia's ruling coalition says it will abolish the country's financial transaction tax starting in 2028. SNS leader Andrej Danko announced the repeal would be written into a pending income tax amendment, now in its second reading in parliament and co-signed by all three governing coalition parties, SNS, Smer and Hlas.
+Slovakia's independent Fiscal Responsibility Council warned, just ahead of a parliamentary budget vote, that the government is missing roughly three point four billion euros in concrete consolidation measures needed to meet its twenty twenty eight and twenty twenty nine deficit targets, and again failed to submit a constitutionally required public debt reduction plan, with public debt projected to approach sixty six percent of GDP by 2027.
 
 China.
 
-China's exports surged 36.3 percent in September from a year earlier, the fastest pace in months, pushing the monthly trade surplus to 133.5 billion dollars and the year-to-date surplus toward a record. Semiconductor exports alone were up more than 100 percent for the year, intensifying pressure from the United States and European Union for Beijing to rebalance its trade-dependent economy.
+China will cut its value added tax export rebate for new energy vehicles from thirteen percent to nine percent starting April twenty twenty seven, a move expected to squeeze automaker profit margins, including an estimated hit of about five thousand yuan per vehicle for BYD, and to curb low price export competition following a separate European Union quota on Chinese hybrid vehicle exports.
 
-The International Monetary Fund cut its growth forecast for China to 4.5 percent for 2026 and 4 percent for 2027, both below its July projections, citing higher global oil prices from the Middle East conflict and persistently weak domestic consumer demand even as exports remain strong.
+China's Liaoning aircraft carrier strike group conducted flight operations in the Philippine Sea near Japan's Ishigaki Island, prompting Japanese fighter jet scrambles just days before United States and Japanese forces begin large joint military exercises near Taiwan that will for the first time deploy American anti ship missiles on a Japanese island.
 
-China's factory gate prices rose 5 percent in September, the fastest pace since June of 2022, driven by higher fuel and commodity costs, while consumer inflation came in softer than expected at 0.9 percent with core inflation flat at 1 percent, a mixed signal for the economy's reflation prospects.
+United States and Chinese officials are negotiating whether artificial intelligence cooperation will become a concrete deliverable at a planned meeting between President Trump and President Xi Jinping on the sidelines of next month's APEC summit in Shenzhen, building on a bilateral AI dialogue and incident communication channel the two countries launched in September.

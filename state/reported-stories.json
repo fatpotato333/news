@@ -11301,6 +11301,216 @@
       "canonical_summary": "China's producer price index rose 5% year-on-year in September, the fastest pace since June 2022, driven by higher fuel and commodity costs, while consumer inflation (CPI) rose a softer-than-expected 0.9% with core inflation flat at 1%.",
       "source_url": "https://www.cnbc.com/2026/10/14/producer-prices-in-china-rise-fastest-since-june-2022-on-fuel-costs.html",
       "material_update_of": null
+    },
+    {
+      "event_id": "bytedance-mediatek-chip-supply-deal",
+      "reported_date": "2026-10-15",
+      "event_date": "2026-10-14",
+      "category": "AI",
+      "entities": [
+        "ByteDance",
+        "MediaTek"
+      ],
+      "event_type": "chip_supply_deal",
+      "canonical_summary": "Bloomberg reported, citing sources, that ByteDance is close to finalizing a semiconductor supply agreement with Taiwan's MediaTek for its data-center operations; the deal is not yet finalized and neither company has confirmed it publicly.",
+      "source_url": "https://www.investing.com/news/stock-market-news/bytedance-nears-chip-supply-deal-with-mediatek-for-data-centres-bloomberg-news-reports-4950432",
+      "material_update_of": null
+    },
+    {
+      "event_id": "anthropic-q3-2026-revenue-16-8b",
+      "reported_date": "2026-10-15",
+      "event_date": "2026-10-14",
+      "category": "AI",
+      "entities": [
+        "Anthropic"
+      ],
+      "event_type": "financial_disclosure",
+      "canonical_summary": "Anthropic told prospective investors its Q3 2026 revenue reached $16.8 billion, up 45% from $11.6 billion in Q2, with its first positive adjusted operating income, as it prepares for an IPO targeting a valuation near $1.8-2 trillion; figures are company-reported and preliminary.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-14/anthropic-revenue-jumps-to-16-8-billion-in-quarter-before-ipo",
+      "material_update_of": null
+    },
+    {
+      "event_id": "nvidia-cupotential-semiconductor-fabs-2026-10-14",
+      "reported_date": "2026-10-15",
+      "event_date": "2026-10-14",
+      "category": "AI",
+      "entities": [
+        "Nvidia",
+        "Applied Materials",
+        "Cadence",
+        "KLA",
+        "Lam Research",
+        "Siemens",
+        "Synopsys"
+      ],
+      "event_type": "capability_announcement",
+      "canonical_summary": "Nvidia announced that semiconductor leaders Applied Materials, Cadence, KLA, Lam Research, Siemens and Synopsys are adopting its CUDA-X libraries for AI-driven chip design and manufacturing, and introduced cuPotential, a new CUDA-X library for simulating atomic and molecular interactions with a 2-3x speedup in early testing.",
+      "source_url": "https://nvidianews.nvidia.com/news/nvidia-and-semiconductor-leaders-advance-ai-across-chip-design-and-manufacturing-for-ai-defined-labs",
+      "material_update_of": null
+    },
+    {
+      "event_id": "nyc-nyu-quantum-fabrication-facility-284m",
+      "reported_date": "2026-10-15",
+      "event_date": "2026-10-14",
+      "category": "Quantum Computing",
+      "entities": [
+        "New York City",
+        "NYU",
+        "NYCEDC"
+      ],
+      "event_type": "funding_infrastructure",
+      "canonical_summary": "New York City and NYU announced a $284 million, 23,000-square-foot quantum chip fabrication and testbed facility (QFab) planned for Manhattan, funded by $29.2 million from NYCEDC and $255 million from NYU plus federal equipment grants, targeting opening by 2030.",
+      "source_url": "https://www.nyu.edu/about/news-publications/news/2026/october/mayor-mamdani-announces-new-nyu-quantum-fabrication-facility--fi.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "riverlane-nvidia-gpu-qec-decoder-calibration",
+      "reported_date": "2026-10-15",
+      "event_date": "2026-10-14",
+      "category": "Quantum Computing",
+      "entities": [
+        "Riverlane",
+        "Nvidia"
+      ],
+      "event_type": "error_correction_advance",
+      "canonical_summary": "Riverlane and Nvidia demonstrated that running an AI calibration loop for Riverlane's Local Clustering Decoder on Nvidia H100 GPUs recalibrates up to roughly 121x faster than on CPUs, cutting logical error rates for quantum error correction.",
+      "source_url": "https://riverlane.com/news/faster-decoder-recalibration-for-quantum-error-correction",
+      "material_update_of": null
+    },
+    {
+      "event_id": "alice-bob-nvqlink-ldpc-cat-gpu-decoding",
+      "reported_date": "2026-10-15",
+      "event_date": "2026-10-14",
+      "category": "Quantum Computing",
+      "entities": [
+        "Alice & Bob",
+        "Nvidia",
+        "Quantum Machines"
+      ],
+      "event_type": "error_correction_demonstration",
+      "canonical_summary": "Alice & Bob presented a proof-of-concept decoding its LDPC cat-qubit error-correction codes on GPUs using Nvidia's NVQLink architecture and Quantum Machines' OPX1000 controller, a step toward real-time fault-tolerant decoding, though not yet achieving real-time performance.",
+      "source_url": "https://alice-bob.com/newsroom/alice-bob-decodes/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-stocks-nasdaq-slide-hot-cpi-oct14",
+      "reported_date": "2026-10-15",
+      "event_date": "2026-10-14",
+      "category": "US Stock Market",
+      "entities": [
+        "Dow Jones",
+        "S&P 500",
+        "Nasdaq Composite",
+        "Federal Reserve"
+      ],
+      "event_type": "market_index_close",
+      "canonical_summary": "US stocks fell sharply after September CPI rose 0.6% month-on-month and 3.7% year-on-year, both above expectations, reviving Fed rate-hike bets for October; Dow closed 51,621.48 (-0.09%), S&P 500 7,718.94 (-1.11%), Nasdaq Composite 26,692.87 (-1.88%), its worst day since July 23.",
+      "source_url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-14-2026",
+      "material_update_of": null
+    },
+    {
+      "event_id": "coreweave-nebius-ai-infra-selloff-gartner-oct14",
+      "reported_date": "2026-10-15",
+      "event_date": "2026-10-14",
+      "category": "US Stock Market",
+      "entities": [
+        "CoreWeave",
+        "Nebius Group",
+        "Nvidia",
+        "Micron",
+        "AMD"
+      ],
+      "event_type": "sector_selloff",
+      "canonical_summary": "CoreWeave fell over 15% and Nebius fell over 10% after a Gartner report predicted most 'neocloud' providers will lose independent operations by 2030; Nvidia fell over 3% and the broader chip complex (Micron, AMD, SOXX, SMH) also sold off.",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-decline-031656491.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "bofa-q3-2026-earnings-miss-oct14",
+      "reported_date": "2026-10-15",
+      "event_date": "2026-10-14",
+      "category": "US Stock Market",
+      "entities": [
+        "Bank of America"
+      ],
+      "event_type": "earnings",
+      "canonical_summary": "Bank of America reported Q3 2026 net income fell 17% y/y to $6.93 billion from $8.33 billion; diluted EPS $0.91 versus ~$1.04 a year ago and below the roughly $1.11-1.17 analysts expected; investment banking fees fell 11% and trading revenue fell 26%.",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000070858/000007085826000481/bac-09302026ex993.htm",
+      "material_update_of": null
+    },
+    {
+      "event_id": "morgan-stanley-q3-2026-earnings-beat-oct14",
+      "reported_date": "2026-10-15",
+      "event_date": "2026-10-14",
+      "category": "US Stock Market",
+      "entities": [
+        "Morgan Stanley"
+      ],
+      "event_type": "earnings",
+      "canonical_summary": "Morgan Stanley reported Q3 2026 net revenues of $20.3 billion, up from $18.2 billion y/y and above the ~$19.9 billion consensus; diluted EPS $3.03 versus $2.80 a year earlier, driven by investment banking and equities trading strength.",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000895421/000089542126000288/a3q26msearningsrelease.htm",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-2027-budget-rrz-consolidation-warning-oct2026",
+      "reported_date": "2026-10-15",
+      "event_date": "2026-10-13",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Rada pre rozpoctovu zodpovednost (RRZ)",
+        "Slovak Ministry of Finance",
+        "Narodna rada SR"
+      ],
+      "event_type": "fiscal_policy",
+      "canonical_summary": "Slovakia's independent Fiscal Responsibility Council warned, ahead of parliament's budget vote, that the government is missing about EUR 3.4 billion (2.1% of GDP) in concrete consolidation measures needed for its 2028-2029 deficit targets, and again failed to submit the constitutionally required public debt reduction plan; public debt is projected near 66% of GDP by 2027.",
+      "source_url": "https://www.noviny.sk/slovensko/1272060-predseda-rady-pre-rozpoctovu-zodpovednost-vlade-chybaju-opatrenia-za-3-4-miliardy-eur",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-nev-export-tax-rebate-cut",
+      "reported_date": "2026-10-15",
+      "event_date": "2026-10-12",
+      "category": "China",
+      "entities": [
+        "China Ministry of Finance",
+        "State Taxation Administration",
+        "BYD"
+      ],
+      "event_type": "trade_economic_policy",
+      "canonical_summary": "China's Ministry of Finance and State Taxation Administration announced the VAT export rebate for new-energy vehicles drops from 13% to 9% effective April 1, 2027, while combustion-car rebates stay unchanged, pressuring thin-margin exporters like BYD (estimated ~5,000 yuan/vehicle profit hit) and compounding pressure from the EU's new hybrid-vehicle export quota.",
+      "source_url": "https://www.caixinglobal.com/2026-10-12/china-to-cut-export-tax-rebate-for-new-energy-vehicles-102492667.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-liaoning-carrier-pacific-drills",
+      "reported_date": "2026-10-15",
+      "event_date": "2026-10-14",
+      "category": "China",
+      "entities": [
+        "PLA Navy",
+        "Japan Self-Defense Forces",
+        "US military"
+      ],
+      "event_type": "international_relations_security",
+      "canonical_summary": "China's Liaoning carrier strike group was tracked conducting flight operations roughly 155 miles south of Japan's Ishigaki Island, prompting JASDF fighter scrambles, days before the US-Japan Keen Sword 27 exercise (Oct 19-29, ~45,000 Japanese plus ~12,000 US personnel) that will for the first time deploy US NMESIS anti-ship missiles on Yonaguni Island near Taiwan.",
+      "source_url": "https://www.scmp.com/news/china/military/article/3370859/chinas-liaoning-carrier-heads-pacific-us-japan-prepare-missile-drills",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-us-ai-dialogue-apec-shenzhen",
+      "reported_date": "2026-10-15",
+      "event_date": "2026-10-14",
+      "category": "China",
+      "entities": [
+        "Xi Jinping",
+        "Donald Trump",
+        "Chinese Foreign Ministry",
+        "APEC"
+      ],
+      "event_type": "tech_geopolitics",
+      "canonical_summary": "US and Chinese technical teams are negotiating whether AI cooperation becomes a concrete deliverable at the Xi-Trump meeting on the sidelines of the Shenzhen APEC summit (Nov 18-19), building on September's agreement to launch a bilateral China-US AI Dialogue and an AI-incident communication channel.",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3370926/us-and-china-race-shape-ai-agenda-ahead-xi-trump-talks-shenzhen-sources-say",
+      "material_update_of": null
     }
   ]
 }
