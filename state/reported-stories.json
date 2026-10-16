@@ -11511,6 +11511,139 @@
       "canonical_summary": "US and Chinese technical teams are negotiating whether AI cooperation becomes a concrete deliverable at the Xi-Trump meeting on the sidelines of the Shenzhen APEC summit (Nov 18-19), building on September's agreement to launch a bilateral China-US AI Dialogue and an AI-incident communication channel.",
       "source_url": "https://www.scmp.com/news/china/diplomacy/article/3370926/us-and-china-race-shape-ai-agenda-ahead-xi-trump-talks-shenzhen-sources-say",
       "material_update_of": null
+    },
+    {
+      "event_id": "ftc-subpoenas-openai-anthropic-ai-safety",
+      "reported_date": "2026-10-16",
+      "event_date": "2026-10-15",
+      "category": "AI",
+      "entities": [
+        "Federal Trade Commission",
+        "OpenAI",
+        "Anthropic"
+      ],
+      "event_type": "regulation",
+      "canonical_summary": "The FTC sent formal civil investigative demands (functionally subpoenas) to OpenAI and Anthropic seeking records on AI safety incidents, security safeguards and marketing/privacy practices, and plans to question senior executives under oath and send similar demands to third parties like METR; this escalates from the agency's earlier informal probe and is not itself a finding of wrongdoing.",
+      "source_url": "https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation",
+      "material_update_of": null
+    },
+    {
+      "event_id": "microsoft-mai-base-2-foundation-model",
+      "reported_date": "2026-10-16",
+      "event_date": "2026-10-15",
+      "category": "AI",
+      "entities": [
+        "Microsoft AI",
+        "DeepSeek"
+      ],
+      "event_type": "model_release",
+      "canonical_summary": "Microsoft AI announced MAI-Base-2, a mixture-of-experts foundation model (~80B active/~2.8T total parameters) trained on 16,000 GB200 GPUs over 38 days, which Microsoft claims (via its own benchmarking, not independently verified) is 4-12x more FLOPs-efficient at pretraining than DeepSeek-V4-Pro-Base; weights are planned for licensing via Microsoft Foundry.",
+      "source_url": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "meta-muse-spark-open-release",
+      "reported_date": "2026-10-16",
+      "event_date": "2026-10-15",
+      "category": "AI",
+      "entities": [
+        "Meta"
+      ],
+      "event_type": "model_release",
+      "canonical_summary": "Meta released Muse Spark Open, a natively multimodal mixture-of-experts model (816B total/42B active parameters, 1M-token context) aimed at coding and long-horizon agentic tasks, released under Meta's limited-commercial Muse Model License; Meta says it is the first model of its class able to run locally on two Apple M5 Ultra Mac Studios via MLX.",
+      "source_url": "https://research.meta.ai/blog/muse-spark-open",
+      "material_update_of": null
+    },
+    {
+      "event_id": "accenture-claude-spend-cap",
+      "reported_date": "2026-10-16",
+      "event_date": "2026-10-15",
+      "category": "AI",
+      "entities": [
+        "Accenture",
+        "Anthropic"
+      ],
+      "event_type": "ai_implementation_cost_control",
+      "canonical_summary": "Accenture capped centrally-funded employee spending on Anthropic's Claude at $29/month per employee (effective Oct 1, 2026, disclosed via internal memo seen by 404 Media), after some employees had been spending up to $1,000/month; overages must now be charged to a specific project budget, illustrating rising enterprise AI token-cost pressure.",
+      "source_url": "https://www.404media.co/accenture-tells-employees-they-can-now-spend-only-29-on-claude-per-month/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "ionq-cambridge-quantum-innovation-centre",
+      "reported_date": "2026-10-16",
+      "event_date": "2026-10-15",
+      "category": "Quantum Computing",
+      "entities": [
+        "IonQ",
+        "University of Cambridge",
+        "Innovate UK/NQCC"
+      ],
+      "event_type": "infrastructure_opening",
+      "canonical_summary": "IonQ and the University of Cambridge formally opened the IonQ Quantum Innovation Centre in Cambridge's Ray Dolby Centre, IonQ's first university-based research centre, deploying a 256-qubit Superion quantum computer and an on-campus quantum network (2 data centres, 3 networking nodes) to support nine joint research projects including ion-trap optical interconnects, quantum algorithms for optimization, and engineering applications.",
+      "source_url": "https://thequantuminsider.com/2026/10/15/ionq-cambridge-quantum-innovation-centre-2/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "eu-summit-ets2-delay-push-v4",
+      "reported_date": "2026-10-16",
+      "event_date": "2026-10-15",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Andrej Babis",
+        "Robert Fico",
+        "European Council",
+        "V4 countries",
+        "Germany"
+      ],
+      "event_type": "eu_policy_negotiation",
+      "canonical_summary": "At an EU summit in Brussels, the Visegrad Group (Czechia, Slovakia, Poland, Hungary) plus Italy and Greece pushed to delay ETS2 - the new carbon-pricing system covering transport fuel and building heating, already pushed from 2027 to 2028 - until at least 2030, citing cost impacts of roughly CZK 2-4.5 per liter on fuel; Germany and others opposed, and no agreement was reached in the summit's energy conclusions as of its first day.",
+      "source_url": "https://ceskenoviny.cz/zpravy/summit-eu-resi-drahe-energie-cesko-prosazuje-zmeny-systemu-ets/2888307",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-civil-service-act-veto-override",
+      "reported_date": "2026-10-16",
+      "event_date": "2026-10-14",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Chamber of Deputies",
+        "President Petr Pavel",
+        "PM Andrej Babis"
+      ],
+      "event_type": "legislation",
+      "canonical_summary": "The Czech Chamber of Deputies overrode President Petr Pavel's veto (104 votes vs 101 needed) to pass a new State Employees Act replacing the 2015 civil service law; it moves state employment closer to standard Labour Code rules, abolishes the paid 'bazen' redeployment pool for displaced officials in favor of direct severance, allows immediate dismissal when a post is abolished in restructuring, and lowers education requirements for officials.",
+      "source_url": "https://advokatnidenik.cz/2026/10/15/snemovna-po-vetu-opet-schvalila-navrh-noveho-zakona-o-statnich-zamestnancich/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-2027-budget-approved",
+      "reported_date": "2026-10-16",
+      "event_date": "2026-10-14",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Narodna rada SR",
+        "PM Robert Fico",
+        "Finance Minister Ladislav Kamenicky"
+      ],
+      "event_type": "fiscal_policy",
+      "canonical_summary": "Slovakia's parliament approved the 2027 state budget (76 votes in favor) with revenues of EUR 63.343bn, expenditures of EUR 70.786bn, and a deficit of 4.94% of GDP (up from 4.37% in 2026); PM Fico said it contains no new taxes, and it includes an 8.4% public-sector pay rise from July 2027 and a projected pension valorization of about 3.5%, addressing the consolidation gap the Fiscal Responsibility Council had flagged days earlier.",
+      "source_url": "https://www.teraz.sk/ekonomika/nr-sr-schvalila-rozpocet-na-buduci-ro/999651-clanok.html",
+      "material_update_of": "slovakia-2027-budget-rrz-consolidation-warning-oct2026"
+    },
+    {
+      "event_id": "china-offshore-trust-tax-oct22-deadline",
+      "reported_date": "2026-10-16",
+      "event_date": "2026-10-16",
+      "category": "China",
+      "entities": [
+        "Chinese State Taxation Administration",
+        "Ministry of Finance",
+        "Hurun Report"
+      ],
+      "event_type": "tax_enforcement",
+      "canonical_summary": "China's wealthy are rushing to unwind offshore trusts and raise cash ahead of an October 22, 2026 declaration deadline under a new 20% tax on offshore trust income (MOF/State Taxation Administration Announcement No. 21, issued late July 2026) - the first comprehensive tax framework for offshore trusts in China; tax officials are using Hurun rich-list data to identify targets, with individual tax bills reportedly ranging from millions to billions of yuan, widening the enforcement campaign beyond the Hong Kong MPF accounts targeted in early October.",
+      "source_url": "https://www.freemalaysiatoday.com/category/business/2026/10/16/china-s-super-rich-scramble-to-exit-offshore-trusts-raise-cash-as-taxman-knocks",
+      "material_update_of": "china-shanghai-tax-hk-mpf-offshore-trust"
     }
   ]
 }

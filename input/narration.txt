@@ -1,39 +1,27 @@
-Daily News for Thursday, October 15, 2026.
+Daily News for Friday, October 16, 2026.
 
 Artificial intelligence.
 
-Bloomberg reported that ByteDance is close to finalizing a semiconductor supply agreement with Taiwan's MediaTek to support its data center operations, citing people familiar with the matter; the deal has not yet been finalized and neither company has confirmed it publicly.
+The Federal Trade Commission sent formal civil investigative demands to OpenAI and Anthropic, seeking records on AI safety incidents, security safeguards and marketing claims, and plans to question senior executives under oath; the agency says the demands are not themselves a finding of wrongdoing.
 
-Anthropic told prospective investors its third quarter revenue jumped forty five percent to sixteen point eight billion dollars, up from eleven point six billion in the second quarter, posting its first positive adjusted operating income as the company prepares for an initial public offering targeting a valuation near two trillion dollars.
+Microsoft AI announced a new foundation model called MAI-Base-2, trained on sixteen thousand Nvidia GB200 chips over thirty eight days, which it says pretrains several times more efficiently than a comparable DeepSeek model; Microsoft plans to license it to partners through its Foundry platform.
 
-Nvidia announced that major chipmaking partners including Applied Materials, Cadence, KLA, Lam Research, Siemens and Synopsys are adopting its CUDA-X software libraries for AI-driven chip design and manufacturing, alongside a new library called cuPotential for simulating atomic and molecular interactions, aimed at speeding up next generation semiconductor fabrication.
+Meta released an open-weight model called Muse Spark Open, an eight hundred sixteen billion parameter multimodal system built for coding and long agentic tasks, which Meta says can run locally on two Apple Mac Studio computers, a first for a model of its scale on desktop hardware.
+
+Consulting firm Accenture capped employee spending on Anthropic's Claude at twenty nine dollars a month after internal token costs surged, with some staff previously spending up to a thousand dollars monthly, according to an internal memo reported by 404 Media.
 
 Quantum computing.
 
-New York City and New York University unveiled a two hundred eighty four million dollar quantum chip fabrication and testbed facility planned for Manhattan, funded by twenty nine million dollars from the city, two hundred fifty five million from the university, and additional federal equipment grants, targeting operations by 2030.
-
-Quantum computing firm Riverlane and Nvidia showed that running Riverlane's error-correction decoder recalibration on Nvidia's H100 graphics processors sped up the process by more than one hundred times compared with standard processors, cutting logical error rates and marking a step toward faster, more reliable quantum error correction.
-
-French quantum company Alice and Bob demonstrated a proof of concept decoding its cat-qubit error correction codes on graphics processors using Nvidia's new NVQLink architecture together with hardware from Quantum Machines, an early step toward real time fault tolerant quantum computing, though not yet achieving real time performance.
-
-United States stock market.
-
-United States stocks fell sharply Wednesday after September consumer prices rose zero point six percent for the month and three point seven percent from a year earlier, both above expectations, reviving bets on a Federal Reserve interest rate hike at its October meeting; the Nasdaq Composite dropped nearly two percent, its worst session since July.
-
-Cloud computing providers CoreWeave and Nebius tumbled more than fifteen percent and ten percent respectively after a Gartner report predicted most so called neocloud providers will lose independent operations by 2030, dragging down Nvidia and other chip and memory stocks in the same session.
-
-Bank of America reported third quarter net income fell seventeen percent from a year earlier to six point nine billion dollars, with earnings per share of ninety one cents missing analyst expectations, as trading and investment banking revenue both declined.
-
-Morgan Stanley beat estimates with third quarter net revenue of twenty point three billion dollars, up from eighteen point two billion a year earlier, and earnings per share of three dollars and three cents, driven by strength in investment banking and equities trading.
+IonQ opened its first university-based research center, at the University of Cambridge, installing a two hundred fifty six qubit quantum computer and a campus quantum network to support nine joint projects spanning optical interconnects, portfolio optimization, structural engineering and cancer target identification.
 
 Czech Republic and Slovakia.
 
-Slovakia's independent Fiscal Responsibility Council warned, just ahead of a parliamentary budget vote, that the government is missing roughly three point four billion euros in concrete consolidation measures needed to meet its twenty twenty eight and twenty twenty nine deficit targets, and again failed to submit a constitutionally required public debt reduction plan, with public debt projected to approach sixty six percent of GDP by 2027.
+At an EU summit in Brussels, Czechia led Slovakia, Poland and Hungary in pushing to delay a new carbon price on transport fuel and home heating until twenty thirty, which would postpone added costs at the pump and on heating bills for households; no agreement was reached on the first day.
+
+The Czech Chamber of Deputies overrode a presidential veto to pass a new civil service law that makes it easier to dismiss state employees during restructuring and replaces a paid redeployment pool for displaced officials with direct severance pay.
+
+Slovakia's parliament approved the twenty twenty seven state budget, with a deficit of close to five percent of GDP and no new taxes, including an eight point four percent public sector pay rise and a pension increase of roughly three and a half percent.
 
 China.
 
-China will cut its value added tax export rebate for new energy vehicles from thirteen percent to nine percent starting April twenty twenty seven, a move expected to squeeze automaker profit margins, including an estimated hit of about five thousand yuan per vehicle for BYD, and to curb low price export competition following a separate European Union quota on Chinese hybrid vehicle exports.
-
-China's Liaoning aircraft carrier strike group conducted flight operations in the Philippine Sea near Japan's Ishigaki Island, prompting Japanese fighter jet scrambles just days before United States and Japanese forces begin large joint military exercises near Taiwan that will for the first time deploy American anti ship missiles on a Japanese island.
-
-United States and Chinese officials are negotiating whether artificial intelligence cooperation will become a concrete deliverable at a planned meeting between President Trump and President Xi Jinping on the sidelines of next month's APEC summit in Shenzhen, building on a bilateral AI dialogue and incident communication channel the two countries launched in September.
+Wealthy mainland Chinese individuals are rushing to unwind offshore trusts and raise cash ahead of an October twenty second deadline under a new twenty percent tax on offshore trust income, with tax officials using rich list data to identify targets and some facing bills in the hundreds of millions of yuan.
