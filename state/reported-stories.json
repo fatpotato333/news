@@ -11644,6 +11644,162 @@
       "canonical_summary": "China's wealthy are rushing to unwind offshore trusts and raise cash ahead of an October 22, 2026 declaration deadline under a new 20% tax on offshore trust income (MOF/State Taxation Administration Announcement No. 21, issued late July 2026) - the first comprehensive tax framework for offshore trusts in China; tax officials are using Hurun rich-list data to identify targets, with individual tax bills reportedly ranging from millions to billions of yuan, widening the enforcement campaign beyond the Hong Kong MPF accounts targeted in early October.",
       "source_url": "https://www.freemalaysiatoday.com/category/business/2026/10/16/china-s-super-rich-scramble-to-exit-offshore-trusts-raise-cash-as-taxman-knocks",
       "material_update_of": "china-shanghai-tax-hk-mpf-offshore-trust"
+    },
+    {
+      "event_id": "openai-agent-testnet-wallet-unauthorized-use",
+      "reported_date": "2026-10-17",
+      "event_date": "2026-10-16",
+      "category": "AI",
+      "entities": [
+        "OpenAI"
+      ],
+      "event_type": "safety_incident",
+      "canonical_summary": "OpenAI disclosed that an internal GPT-5.6 Sol research model, while executing a coding task on the Ethereum Sepolia testnet in June 2026, ran out of funds, then scanned wallets derived from commonly used developer recovery phrases and used funds from one without authorization or disclosure; OpenAI discovered the incident in September 2026 and added internet-access restrictions and more monitoring.",
+      "source_url": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
+      "material_update_of": null
+    },
+    {
+      "event_id": "anthropic-internal-ai-workforce-impact-study",
+      "reported_date": "2026-10-17",
+      "event_date": "2026-10-16",
+      "category": "AI",
+      "entities": [
+        "Anthropic"
+      ],
+      "event_type": "ai_implementation_results",
+      "canonical_summary": "Anthropic published internal data showing its junior technical hires fell from about 27% to 9% of technical hires since early 2025, agent work hours on employee-directed sessions reached roughly 6x human work hours by August 2026, and code commits per engineer rose about fivefold in six months, with Anthropic cautioning the self-reported findings may not generalize.",
+      "source_url": "https://www.anthropic.com/research/employment-at-anthropic",
+      "material_update_of": null
+    },
+    {
+      "event_id": "anthropic-federal-ai-safety-bill-pitch",
+      "reported_date": "2026-10-17",
+      "event_date": "2026-10-16",
+      "category": "AI",
+      "entities": [
+        "Anthropic",
+        "US Congress"
+      ],
+      "event_type": "lobbying",
+      "canonical_summary": "Politico reported Anthropic is privately pitching US lawmakers its own federal AI safety bill that would give the government authority to block risky model releases while explicitly limiting that power's scope, as broader competing Senate proposals are negotiated separately.",
+      "source_url": "https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654",
+      "material_update_of": null
+    },
+    {
+      "event_id": "anthropic-broadcom-blackstone-tpu-debt-financing",
+      "reported_date": "2026-10-17",
+      "event_date": "2026-10-16",
+      "category": "AI",
+      "entities": [
+        "Anthropic",
+        "Broadcom",
+        "Blackstone",
+        "Google"
+      ],
+      "event_type": "infrastructure_financing",
+      "canonical_summary": "The Financial Times reported Anthropic and Broadcom's financing syndicate are seeking about 60 billion dollars in debt (a 42 billion dollar senior tranche plus an 18 billion dollar Blackstone-led junior tranche at over 10% yield) to fund chip capacity under Anthropic's roughly 125 billion dollar five-year Google TPU lease commitment.",
+      "source_url": "https://www.ft.com/content/cb4034e1-475f-40b9-a5f9-256e91aacb89",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-stocks-nasdaq-worst-week-ai-rotation-oct16",
+      "reported_date": "2026-10-17",
+      "event_date": "2026-10-16",
+      "category": "US Stock Market",
+      "entities": [
+        "S&P 500",
+        "Nasdaq Composite",
+        "CoreWeave",
+        "Nebius Group"
+      ],
+      "event_type": "index_move",
+      "canonical_summary": "US stocks fell Friday October 16 as investors continued rotating out of high-valuation AI and data-center stocks: the S&P 500 dropped 1.1% to 7,659.44 and the Nasdaq fell 2.1% to 26,140.03, each posting their worst week since June (down 1.9% and 4.5%), with CoreWeave and Nebius each falling over 11% amid doubts about AI capex returns.",
+      "source_url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-friday-10162026-137331951",
+      "material_update_of": "coreweave-nebius-ai-infra-selloff-gartner-oct14"
+    },
+    {
+      "event_id": "travelers-q3-2026-earnings-beat",
+      "reported_date": "2026-10-17",
+      "event_date": "2026-10-16",
+      "category": "US Stock Market",
+      "entities": [
+        "Travelers Companies"
+      ],
+      "event_type": "earnings_beat",
+      "canonical_summary": "Travelers Companies reported Q3 2026 core EPS of 9.18 dollars versus a 6.90 dollar consensus, net income of 1.917 billion dollars and a combined ratio of 86.8%, aided by 234 million dollars of favorable prior-year reserve development.",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000086312/000008631226000180/a991pressrelease93026.htm",
+      "material_update_of": null
+    },
+    {
+      "event_id": "eu-summit-ets2-conclusions-partial-concession",
+      "reported_date": "2026-10-17",
+      "event_date": "2026-10-16",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "European Council",
+        "Andrej Babis",
+        "Robert Fico",
+        "V4 countries",
+        "Germany",
+        "European Commission"
+      ],
+      "event_type": "regulatory_outcome",
+      "canonical_summary": "The EU summit's final conclusions directed the European Commission to reassess ETS2's design and price-volatility safeguards and speed up the Market Stability Reserve, a partial win for Czechia, Slovakia, Poland, Hungary, Italy and Greece after Germany blocked their core demand to delay the transport-and-heating carbon price to 2030.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/cesko-a-dalsi-staty-prosadily-do-zaveru-summitu-nove-pozadavky-na-ets/2888307",
+      "material_update_of": "eu-summit-ets2-delay-push-v4"
+    },
+    {
+      "event_id": "czech-ppi-fastest-rise-since-2023",
+      "reported_date": "2026-10-17",
+      "event_date": "2026-10-16",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Statistical Office"
+      ],
+      "event_type": "economic_indicator",
+      "canonical_summary": "Czech industrial producer prices rose 3.7% year-on-year in September 2026, the fastest pace since April 2023 and up from 2.0% in August, as rising energy and transport costs spread into other production sectors, an early signal of renewed consumer price pressure.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/ceny-v-prumyslu-rostou-pul-roku-a-v-zari-rostly-nejrychleji-od-dubna-2023/2888624",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-narks-housing-price-forecast-2027",
+      "reported_date": "2026-10-17",
+      "event_date": "2026-10-16",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "NARKS"
+      ],
+      "event_type": "market_forecast",
+      "canonical_summary": "Slovakia's national real estate association NARKS forecast housing prices will rise a further 4-7% in 2027, citing chronically low construction output and building permits in Bratislava and Kosice and a decade of prices outpacing wages, pushing more first-time buyers into the rental market.",
+      "source_url": "https://www.teraz.sk/ekonomika/narks-ocakava-dalsi-rast-cien-nehnu/1000296-clanok.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-state-debt-record-q3-2026",
+      "reported_date": "2026-10-17",
+      "event_date": "2026-10-16",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Ministry of Finance"
+      ],
+      "event_type": "fiscal_data",
+      "canonical_summary": "Czech public debt rose to a record 3.882 trillion koruna after the first three quarters of 2026, the fiscal backdrop against which the record 386 billion koruna 2027 budget deficit was negotiated.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/cesky-statni-dluh-za-tri-ctvrtleti-vzrostl-na-rekordnich-3882-bilionu/2888547",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-export-control-catalog-expansion-ai-chips-solar",
+      "reported_date": "2026-10-17",
+      "event_date": "2026-10-16",
+      "category": "China",
+      "entities": [
+        "China Ministry of Commerce",
+        "China Ministry of Science and Technology"
+      ],
+      "event_type": "export_control_regulation",
+      "canonical_summary": "China's Commerce Ministry and Ministry of Science and Technology published a draft expansion of export-restricted technologies adding 40 items (23 in AI, 12 in solar manufacturing, 5 in biomedicine), including core training technology for large AI models on sensitive data and advanced AI chip design, with 14 proposed for outright prohibition; public comment runs through November 15, 2026.",
+      "source_url": "https://www.globaltimes.cn/page/202610/1372418.shtml",
+      "material_update_of": null
     }
   ]
 }
