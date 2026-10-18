@@ -11800,6 +11800,61 @@
       "canonical_summary": "China's Commerce Ministry and Ministry of Science and Technology published a draft expansion of export-restricted technologies adding 40 items (23 in AI, 12 in solar manufacturing, 5 in biomedicine), including core training technology for large AI models on sensitive data and advanced AI chip design, with 14 proposed for outright prohibition; public comment runs through November 15, 2026.",
       "source_url": "https://www.globaltimes.cn/page/202610/1372418.shtml",
       "material_update_of": null
+    },
+    {
+      "event_id": "deepseek-v4-1-flash-1017-release",
+      "reported_date": "2026-10-18",
+      "event_date": "2026-10-17",
+      "category": "AI",
+      "entities": [
+        "DeepSeek"
+      ],
+      "event_type": "model_release",
+      "canonical_summary": "DeepSeek released V4.1-Flash-1017, a dated point-release update to its V4.1-Flash model, which the company claims is faster and benchmarks stronger than its predecessor; the capability claims are company-reported and not independently verified.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-17/deepseek-pushes-out-updated-ai-model-it-says-is-faster-leaner",
+      "material_update_of": null
+    },
+    {
+      "event_id": "coreweave-bond-yields-cds-spike-debt-distress",
+      "reported_date": "2026-10-18",
+      "event_date": "2026-10-16",
+      "category": "US Stock Market",
+      "entities": [
+        "CoreWeave",
+        "Nvidia"
+      ],
+      "event_type": "credit_market_distress",
+      "canonical_summary": "CoreWeave shares fell roughly 12% on October 16 (its second sharp drop in three days), as yields on its 2031 and 2032 bonds spiked above 15-16% and the cost of insuring its debt via credit-default swaps jumped to roughly 1,000 basis points, signaling escalating credit-market concern over its approximately $50 billion debt load tied to AI infrastructure spending.",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/markets-news-oct-16-2026-103800633.html",
+      "material_update_of": "coreweave-nebius-ai-infra-selloff-gartner-oct14"
+    },
+    {
+      "event_id": "czech-gas-plant-capacity-auction-rules-revised",
+      "reported_date": "2026-10-18",
+      "event_date": "2026-10-17",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Ministry of Industry and Trade"
+      ],
+      "event_type": "energy_policy_regulatory_decision",
+      "canonical_summary": "The Czech Ministry of Industry and Trade published revised rules for its capacity-auction support scheme for new gas-fired backup power plants, delaying the launch from late 2026 to 2027; the scheme is intended to distribute roughly CZK 75-150 billion to investors building capacity to replace retiring coal plants, affecting long-term electricity supply security and prices.",
+      "source_url": "https://byznys.hn.cz/c1-67946480-stat-opravil-pravidla-podpory-pro-nove-plynove-elektrarny-kdy-se-zacne-az-150-miliard-rozdelovat-vsak-stale-neni-jasne",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-pboc-imf-fiscal-surveillance-oct26",
+      "reported_date": "2026-10-18",
+      "event_date": "2026-10-17",
+      "category": "China",
+      "entities": [
+        "People's Bank of China",
+        "Pan Gongsheng",
+        "IMF"
+      ],
+      "event_type": "international_economic_policy",
+      "canonical_summary": "PBOC Governor Pan Gongsheng told the IMF's International Monetary and Financial Committee meeting in Bangkok that China supports closer IMF surveillance of fiscal risks and spillover effects in major advanced economies, urged more weight on capital-flow and financial factors in analyzing global imbalances, and reaffirmed China's support for the multilateral trading system against protectionism.",
+      "source_url": "https://www.devdiscourse.com/article/international/3994176-china-central-bank-chief-supports-closer-imf-surveillance-of-fiscal-spillover-risks",
+      "material_update_of": null
     }
   ]
 }
