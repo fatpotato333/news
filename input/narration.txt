@@ -1,17 +1,23 @@
-Daily News for Sunday, October 18, 2026.
+Daily News for Monday, October 19, 2026.
 
 Artificial intelligence.
 
-DeepSeek released an updated version of its V4.1 Flash model, which the company says is faster and performs better on benchmarks than its predecessor. The improvements are based on company claims and have not been independently verified.
+Anthropic announced it will commit five percent of its company shares to a new public benefit fund, with additional contributions tied to future valuation gains, to support large-scale philanthropic and societal programs ahead of its planned public listing.
 
 United States stock market.
 
-AI cloud provider CoreWeave's bonds and stock fell again Friday, with yields on its 2031 and 2032 notes spiking above fifteen percent and the cost of insuring its debt near one thousand basis points, reflecting growing worry about its fifty billion dollar debt load.
+US stock futures rose Monday, with Nasdaq-100 futures up about one point three percent, as investors looked to a heavy earnings week including Tesla, Netflix, and Meta to confirm whether last week's steep Nasdaq slide was a buying opportunity or the start of a deeper pullback.
+
+Oil prices pulled back from five-month highs, with Brent crude down nearly two percent, as markets weighed weekend tanker attacks near Saudi Arabia and a Ukrainian drone strike on a Russian oil export terminal against signs of returning supply.
 
 Czech Republic and Slovakia.
 
-The Czech Ministry of Industry revised the rules for its planned capacity auction supporting new gas fired backup power plants, pushing the launch from late this year into 2027. The program is meant to distribute up to roughly one hundred fifty billion crowns to replace retiring coal capacity.
+The Czech government postponed its promised cut of the corporate tax rate from twenty-one to nineteen percent, citing a thirty billion crown annual cost, and will instead offer faster tax depreciation for selected investments starting in January twenty twenty-seven.
+
+Czech mortgage rates climbed for a seventh straight month to five point seven nine percent, the highest level since January twenty twenty-four, driven by rising property prices and market rates, even though the central bank's key rate has not changed.
+
+Czech electricity and gas suppliers are raising prices for newly signed contracts, by about five percent for electricity and nine percent for gas, prompting a record number of households to switch suppliers this year in search of better fixed-price deals.
 
 China.
 
-People's Bank of China governor Pan Gongsheng told the International Monetary Fund's steering committee in Bangkok that China supports closer IMF monitoring of fiscal risks in major advanced economies, and renewed Beijing's call for stronger backing of the multilateral trading system.
+China's economy grew four point five percent in the third quarter, beating forecasts and accelerating from the prior quarter, as industrial output and retail sales posted their fastest growth in six months ahead of this week's economic planning discussions.
