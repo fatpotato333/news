@@ -11952,6 +11952,216 @@
       "canonical_summary": "China's National Bureau of Statistics reported Q3 2026 GDP grew 4.5% year-on-year (up from 4.3% in Q2, above the roughly 4.4% consensus) and 1.2% quarter-on-quarter, with September industrial output and retail sales posting their fastest growth in six months, ahead of this week's five-year economic planning discussions.",
       "source_url": "https://tradingeconomics.com/china/gdp-growth-annual/news/592939",
       "material_update_of": null
+    },
+    {
+      "event_id": "microsoft-withdraws-nscale-uk-datacenter",
+      "reported_date": "2026-10-20",
+      "event_date": "2026-10-19",
+      "category": "AI",
+      "entities": [
+        "Microsoft",
+        "Nscale"
+      ],
+      "event_type": "infrastructure_announcement",
+      "canonical_summary": "Microsoft withdrew as anchor tenant from Nscale's planned Loughton, Essex site, billed as the UK's largest AI data centre, after UK Power Networks said the grid connection would miss the 2026 target; Nscale had pledged GBP 2bn for the site, part of the UK's 2025 AI strategy, and Microsoft says it remains committed to its broader Nscale partnership elsewhere.",
+      "source_url": "https://cityam.com/microsoft-pulls-out-of-nscale-deal-for-uks-largest-ai-data-centre",
+      "material_update_of": null
+    },
+    {
+      "event_id": "tenstorrent-series-e-6-2b-valuation",
+      "reported_date": "2026-10-20",
+      "event_date": "2026-10-19",
+      "category": "AI",
+      "entities": [
+        "Tenstorrent"
+      ],
+      "event_type": "funding_round",
+      "canonical_summary": "AI chip and RISC-V startup Tenstorrent closed a $1.5 billion Series E, more than doubling its valuation to $6.2 billion, led by Trace Capital and Innovation X with ARK Invest, Fidelity, Morgan Stanley, T. Rowe Price and others participating, to fund volume manufacturing of its Galaxy AI server systems and expand chip-IP licensing.",
+      "source_url": "https://techstartups.com/2026/10/19/startup-funding-news-today-october-19-2026-tenstorrent-nouscom-even-healthcare-vessla-more/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "quantinuum-helios-10x-logical-error-reduction",
+      "reported_date": "2026-10-20",
+      "event_date": "2026-10-19",
+      "category": "Quantum Computing",
+      "entities": [
+        "Quantinuum"
+      ],
+      "event_type": "error_correction_milestone",
+      "canonical_summary": "Quantinuum reported a tenfold reduction in logical error rate on its Helios trapped-ion system, reaching 99.9995% logical fidelity (about 5 errors per million operations) using a color code, with each increase in code distance cutting remaining errors roughly 12x; the company says accuracy is now within the target range for its planned 2029 fault-tolerant 'Apollo' system.",
+      "source_url": "https://thequantuminsider.com/2026/10/19/quantinuum-reports-a-10x-reduction-in-logical-error-rate-on-helios/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "nvidia-julich-104-qubit-fault-tolerant-simulation",
+      "reported_date": "2026-10-20",
+      "event_date": "2026-10-19",
+      "category": "Quantum Computing",
+      "entities": [
+        "NVIDIA",
+        "Juelich Supercomputing Centre"
+      ],
+      "event_type": "simulation_milestone",
+      "canonical_summary": "NVIDIA and the Juelich Supercomputing Centre ran the largest simulation yet of a fault-tolerant quantum processor, modeling 104 qubits performing magic-state cultivation under realistic noise using 8,192 GPUs on the JUPITER exascale supercomputer; the modeled method needs 90% fewer qubits than prior approaches, versus earlier Juelich simulations that only reached 50 qubits under ideal noiseless conditions.",
+      "source_url": "https://thequantuminsider.com/2026/10/19/nvidia-runs-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "edinburgh-classical-algorithm-photonic-quantum-advantage",
+      "reported_date": "2026-10-20",
+      "event_date": "2026-10-19",
+      "category": "Quantum Computing",
+      "entities": [
+        "University of Edinburgh",
+        "EPCC",
+        "Polytechnique Montreal"
+      ],
+      "event_type": "research_result",
+      "canonical_summary": "University of Edinburgh and EPCC researchers, with Polytechnique Montreal, developed a classical algorithm running Gaussian boson sampling using only about 5% of the compute previously required, with classical runs matching or outperforming some current photonic quantum devices on the benchmark; published in Science Advances, relevant to skepticism about photonic quantum-advantage claims.",
+      "source_url": "https://thequantuminsider.com/2026/10/19/advance-could-lead-to-bigger-more-reliable-quantum-computers-university-of-edinburgh-scientists-say/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "riken-silicon-spin-qubit-parallel-control",
+      "reported_date": "2026-10-20",
+      "event_date": "2026-10-19",
+      "category": "Quantum Computing",
+      "entities": [
+        "RIKEN"
+      ],
+      "event_type": "research_result",
+      "canonical_summary": "RIKEN demonstrated high-fidelity parallel control of a 5-qubit silicon spin-qubit array driven through a single shared microwave line, identifying AC Stark shift cross-talk as the main error source and fixing it with a pairwise phase-calibration protocol; single-qubit gate fidelities exceeded 99.99% and stayed above 99.9% with all 5 qubits operating in parallel. Published in Nature Physics.",
+      "source_url": "https://thequantuminsider.com/2026/10/19/riken-team-improves-parallel-control-of-silicon-spin-qubits/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-stocks-ai-chip-rebound-sox-streak-ends-oct19",
+      "reported_date": "2026-10-20",
+      "event_date": "2026-10-19",
+      "category": "US Stock Market",
+      "entities": [
+        "Nasdaq",
+        "S&P 500",
+        "Dow Jones",
+        "Philadelphia Semiconductor Index"
+      ],
+      "event_type": "market_move",
+      "canonical_summary": "US stocks were mixed Monday as AI and chip stocks rebounded: Nasdaq Composite +1.11% to 26,430.89, S&P 500 +0.41% to 7,690.73, Dow -0.07% dragged by JPMorgan Chase (-1.82%); the Philadelphia Semiconductor Index jumped 1.61%, snapping an eight-session losing streak, its longest since 2008, ahead of a heavy earnings week (Tesla, Netflix, Meta, IBM).",
+      "source_url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-202016557.html",
+      "material_update_of": "us-futures-rebound-ai-trade-earnings-week-oct19"
+    },
+    {
+      "event_id": "cleveland-cliffs-q3-2026-earnings-beat",
+      "reported_date": "2026-10-20",
+      "event_date": "2026-10-19",
+      "category": "US Stock Market",
+      "entities": [
+        "Cleveland-Cliffs"
+      ],
+      "event_type": "earnings_report",
+      "canonical_summary": "Cleveland-Cliffs shares jumped 16.3% after Q3 2026 results beat prior guidance: adjusted EBITDA of $612 million, revenue of $5.6 billion, and adjusted EPS of $0.28, above analyst estimates; the company issued 2027 adjusted EBITDA guidance above $4 billion and said it expects a major debt reduction in Q4.",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000764065/000076406526000112/clf-202609308xkex991.htm",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-public-sector-pay-tables-2027",
+      "reported_date": "2026-10-20",
+      "event_date": "2026-10-19",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech government",
+        "Czech public-sector unions"
+      ],
+      "event_type": "fiscal_policy_decision",
+      "canonical_summary": "The Czech government, unions and employers agreed on new public-sector salary tables effective 1 January 2027: raises of CZK 0-9,000/month (avg ~CZK 4,000), costing ~CZK 34 billion; the lowest tariff is pegged to the 2027 minimum wage, steps cut from 12 to 8; teachers, nurses and doctors negotiated separately; a Labour Code amendment is still needed, final tables go to government in December.",
+      "source_url": "https://www.expats.cz/czech-news/article/czech-public-sector-salaries-could-rise-by-up-to-czk-9-000-in-2027",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-2027-household-electricity-price-79eur",
+      "reported_date": "2026-10-20",
+      "event_date": "2026-10-19",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Slovakia government",
+        "Slovenske elektrarne",
+        "Denisa Sakova"
+      ],
+      "event_type": "energy_price_decision",
+      "canonical_summary": "Slovak Economy Minister Denisa Sakova said households will pay roughly EUR 79/MWh for electricity in 2027 under the state's memorandum with Slovenske elektrarne; the government still wants further concessions from SE and negotiations continue, while SE's CEO confirmed it will honor the memorandum and keep supplying households.",
+      "source_url": "https://www.pravda.sk/spravy/ekonomika/clanok/2062073-kolko-zaplatia-slovaci-za-elektrinu-v-roku-2027-sakova-prezradila-cenu-vlada-chce-este-vyjednavat",
+      "material_update_of": "slovakia-2027-budget-cabinet-approval"
+    },
+    {
+      "event_id": "volkswagen-wage-freeze-2030-slovak-plants",
+      "reported_date": "2026-10-20",
+      "event_date": "2026-10-19",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Volkswagen Group",
+        "Volkswagen Slovakia"
+      ],
+      "event_type": "labor_policy",
+      "canonical_summary": "Volkswagen management told HR departments worldwide not to plan wage increases or inflation compensation through end-2030 under its 'Zukunftsplan 2030' cost-cutting strategy, affecting ~660,000 employees group-wide; Volkswagen's Bratislava and Martin plants in Slovakia are flagged as potentially affected, though local wage talks remain separate and no plant-level freeze has been announced; unions warn of a 10%+ real-wage cut by 2030.",
+      "source_url": "https://www.pravda.sk/auto/magazin/clanok/2061783-pozor-v-ohrozeni-aj-slovenske-zavody-volkswagen-ide-zmrazit-mzdy-660-tisic-zamestnancom",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-deepseek-federal-civilian-system-removal-order",
+      "reported_date": "2026-10-20",
+      "event_date": "2026-10-19",
+      "category": "China",
+      "entities": [
+        "DeepSeek",
+        "US Department of Homeland Security"
+      ],
+      "event_type": "regulatory_action",
+      "canonical_summary": "DHS issued Exclusion and Removal Order #2026-01 under the Federal Acquisition Supply Chain Security Act, directing all federal civilian agencies to remove DeepSeek-developed AI products from IT systems and barring further procurement; the ban explicitly extends to third-party tools/services built on DeepSeek models, not just the DeepSeek app itself.",
+      "source_url": "https://www.scmp.com/news/us/article/3371431/us-orders-deepseek-removed-federal-systems-citing-national-security-risks",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-sanctions-china-entities-google-ai-trade-secret-theft",
+      "reported_date": "2026-10-20",
+      "event_date": "2026-10-19",
+      "category": "China",
+      "entities": [
+        "US State Department",
+        "Shanghai Zhisuan Technology",
+        "Beijing MiraclePlus"
+      ],
+      "event_type": "sanctions",
+      "canonical_summary": "The US State Department sanctioned five China-based entities, including Shanghai Zhisuan Technology (founded by convicted ex-Google engineer Linwei Ding) and Beijing MiraclePlus Investment Management, under the Protecting American Intellectual Property Act, for knowingly benefiting from the theft of Google's AI and supercomputing infrastructure trade secrets.",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-to-protect-americans-from-intellectual-property-theft-fact-sheet",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-protests-uk-border-searches-phone-seizures",
+      "reported_date": "2026-10-20",
+      "event_date": "2026-10-19",
+      "category": "China",
+      "entities": [
+        "China embassy London",
+        "UK Border Force"
+      ],
+      "event_type": "diplomatic_protest",
+      "canonical_summary": "China's embassy in London lodged a formal protest after UK border authorities subjected Chinese citizens, including trade delegates, tourists and relatives' visitors, to extended questioning and seizure/search of personal electronic devices under the Counterterrorism and Border Security Act 2019, amid rising UK-China espionage tensions.",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3371459/china-protests-uk-border-searches-phone-seizures-amid-growing-espionage-tensions",
+      "material_update_of": null
+    },
+    {
+      "event_id": "ciqtek-tem-f200-electron-microscope-launch",
+      "reported_date": "2026-10-20",
+      "event_date": "2026-10-19",
+      "category": "China",
+      "entities": [
+        "CIQTEK"
+      ],
+      "event_type": "product_launch",
+      "canonical_summary": "Hefei-based CIQTEK launched its 200kV field-emission transmission electron microscope (TEM-F200), claiming a 0.25nm point resolution and 0.1nm information limit and stating mass production/delivery has begun; state media frames it as reducing China's import dependence on high-end imaging tools for semiconductor defect analysis, challenging US and Japanese incumbents (Thermo Fisher, JEOL, Hitachi). Figures are company/state-media claims, not independently verified.",
+      "source_url": "https://www.scmp.com/news/china/science/article/3371401/chinas-new-01-nanometre-electron-microscope-ready-challenge-us-and-japan",
+      "material_update_of": null
     }
   ]
 }
