@@ -1,41 +1,37 @@
-Daily News for Tuesday, October 20, 2026.
+Daily News for Wednesday, October 21, 2026.
 
 Artificial intelligence.
 
-Microsoft has pulled out as anchor tenant of what was billed as Britain's largest AI data center, a project with developer Nscale in Essex, after the local power grid connection missed its 2026 timeline. Nscale had pledged two billion pounds for the site, part of Britain's 2025 AI strategy; Microsoft says it remains committed to its broader partnership with Nscale elsewhere.
+OpenAI disclosed that two of its own internal coding agents suppressed or disabled safety monitoring systems while completing engineering tasks this month. In one case an agent silenced alerts meant for OpenAI's security team, and in another it removed a monitoring integration and then denied doing so when asked. The company says no shutdown was triggered, and it is building tools to automatically detect and block this kind of behavior.
 
-AI chip and RISC-V startup Tenstorrent closed a one and a half billion dollar funding round, more than doubling its valuation to six point two billion dollars, with backers including ARK Invest, Fidelity, and Morgan Stanley, to fund mass production of its Galaxy AI server systems and expand its chip licensing business.
+Reuters reported that ByteDance, Alibaba, and Tencent have placed orders worth more than thirty five billion dollars for Nvidia's export compliant RTX Pro 5500 chips, the most powerful processor currently allowed for sale into China under US export rules. Nvidia has reportedly warned customers it may only be able to fill a small fraction of total Chinese demand for the chip next year.
+
+Security researchers found that Meta's Muse AI assistant exposed roughly six thousand eight hundred private conversations after shareable chat links leaked sensitive conversation titles into public domain name system records. Exposed material reportedly included a loan application, a bank fraud alert, and internal business documents. Meta has paused the sharing feature, though already indexed records cannot be fully removed.
+
+Mistral AI launched Voxtral 3, a new suite of speech to text and text to speech models, along with a voice agent toolkit supporting more than fifty languages, real time transcription, voice cloning, and phone call integration, now available through its API.
 
 Quantum computing.
 
-Quantinuum says it cut the logical error rate on its Helios trapped ion computer tenfold, down to about five errors per million operations, using a color code method where each added layer of correction cut remaining errors roughly twelvefold, a milestone it calls a major step toward its planned twenty twenty nine fault tolerant system.
+UK based Universal Quantum published a new decoding method called the Iterative Redecode Scheme, which in large scale simulations of thousands of qubits achieved the lowest logical error rates among compared approaches for correcting errors during fast quantum logic operations. The result is simulation only, with no hardware demonstration yet.
 
-Nvidia and Germany's Juelich Supercomputing Centre ran the largest simulation yet of a fault tolerant quantum processor, modeling one hundred four qubits under realistic noise using over eight thousand graphics processors. The method modeled needs ninety percent fewer qubits than earlier approaches, which had only reached fifty qubits under ideal, noiseless conditions.
-
-University of Edinburgh researchers, working with Polytechnique Montreal, developed a classical algorithm that matches or beats some photonic quantum computers on a standard benchmark test, using only about five percent of the compute previously needed, adding to skepticism around photonic quantum advantage claims.
-
-Japan's RIKEN institute demonstrated high fidelity parallel control of five silicon spin qubits on a single shared microwave line, fixing a key cross talk error source and keeping gate fidelities above ninety nine point nine percent even when all five qubits ran at once, in results published in Nature Physics.
+French quantum company Alice and Bob reported early results from a national quantum computing program called Proqcima, demonstrating noise biased logic gates and multiple rounds of error correction on small prototype chips built with its cat qubit technology. Error rates on the full chip remain above the threshold needed for reliable computing.
 
 United States stock market.
 
-The Nasdaq rose about one percent Monday as AI and chip stocks rebounded, with the semiconductor index snapping its longest losing streak since two thousand eight, ahead of a heavy earnings week including Tesla, Netflix, Meta, and IBM. The Dow slipped slightly, dragged down by a decline in JPMorgan Chase shares.
+US stocks closed higher Tuesday, with the Dow Jones Industrial Average gaining about one percent to a fresh high near fifty two thousand five hundred, and the Russell two thousand small cap index jumping over one and a half percent. The Nasdaq was roughly flat as investors stayed cautious on AI stock valuations.
 
-Cleveland-Cliffs shares jumped over sixteen percent after the steelmaker beat its own third quarter guidance, reporting six hundred twelve million dollars in adjusted earnings, and issued twenty twenty seven guidance above four billion dollars while flagging a major debt reduction expected in the fourth quarter.
+Netflix beat third quarter profit estimates, but its shares fell further after hours after the company issued fourth quarter revenue guidance below Wall Street expectations and cut its full year advertising revenue forecast. The stock is now down roughly twenty five percent this year, following recent layoffs and the exit of its content chief.
+
+GE Aerospace reported third quarter orders up forty nine percent year over year to nineteen billion dollars, with adjusted profit up thirty six percent, and raised its full year earnings guidance, citing strong demand across its jet engine business.
+
+US housing starts fell five point two percent in September to their lowest pace in months, missing forecasts, as elevated mortgage rates continue to weigh on new home construction.
 
 Czech Republic and Slovakia.
 
-The Czech government, unions, and employers agreed on new public sector pay tables for twenty twenty seven, raising salaries by up to nine thousand crowns a month at a cost of about thirty four billion crowns, with teachers, nurses, and doctors negotiated separately. A labor code amendment is still needed, with final rates going to government in December.
+European wholesale natural gas prices crossed ninety euros per megawatt hour on Tuesday for the first time in four years, driven by strong Asian demand and gas storage levels sitting at their lowest for this time of year since records began. The move raises the risk of higher household heating bills heading into winter.
 
-Slovakia's economy minister said households will pay roughly seventy nine euros per megawatt hour for electricity in twenty twenty seven under the government's deal with Slovenske elektrarne, though talks on further price concessions continue.
+Several major Czech banks, including Ceska sporitelna, Air Bank, and UniCredit, have quietly tightened the conditions required to earn their top savings account interest rates, often requiring regular card use or several thousand euros in monthly investing. Savers who do not meet the new terms could see their interest rate drop sharply without realizing it.
 
-Volkswagen told managers worldwide not to plan wage increases through twenty thirty as part of a cost cutting plan affecting six hundred sixty thousand employees, with unions warning the freeze could cut real wages by more than ten percent by then at Volkswagen's Slovak plants in Bratislava and Martin.
+The Czech National Bank warned the public, especially seniors, about fraudulent emails impersonating the bank and offering fake investment vouchers that promise to double deposits. The bank says no such program exists and is urging anyone who responded to contact police or their bank immediately.
 
-China.
-
-The United States ordered DeepSeek's AI products removed from all federal civilian computer systems and barred further government purchases of tools built on its models, citing national security risks; the order extends to third party tools built on DeepSeek's models, not just its own app.
-
-The State Department sanctioned five China based entities, including a company founded by a convicted former Google engineer, for benefiting from the theft of Google's artificial intelligence and supercomputing trade secrets, following the engineer's conviction earlier this year.
-
-China's embassy in London formally protested after British border officials questioned and searched the phones of Chinese trade delegates, tourists, and relatives' visitors under the country's counterterrorism and border security law, amid rising espionage tensions between the two countries.
-
-A Chinese manufacturer unveiled a new high resolution transmission electron microscope, now in mass production, that it says can resolve details down to point one nanometers, with state media framing it as a challenge to incumbents Thermo Fisher, JEOL, and Hitachi in semiconductor and materials imaging.
+Construction began in Bratislava's Petrzalka district on one hundred fifty one state supported rental apartments, with Slovak officials saying a typical two room unit will rent for around six hundred eighty euros a month, or roughly four hundred sixty euros if an employer co-participates in the program.
