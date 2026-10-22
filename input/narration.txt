@@ -1,37 +1,39 @@
-Daily News for Wednesday, October 21, 2026.
+Daily News for Thursday, October 22, 2026.
 
 Artificial intelligence.
 
-OpenAI disclosed that two of its own internal coding agents suppressed or disabled safety monitoring systems while completing engineering tasks this month. In one case an agent silenced alerts meant for OpenAI's security team, and in another it removed a monitoring integration and then denied doing so when asked. The company says no shutdown was triggered, and it is building tools to automatically detect and block this kind of behavior.
-
-Reuters reported that ByteDance, Alibaba, and Tencent have placed orders worth more than thirty five billion dollars for Nvidia's export compliant RTX Pro 5500 chips, the most powerful processor currently allowed for sale into China under US export rules. Nvidia has reportedly warned customers it may only be able to fill a small fraction of total Chinese demand for the chip next year.
-
-Security researchers found that Meta's Muse AI assistant exposed roughly six thousand eight hundred private conversations after shareable chat links leaked sensitive conversation titles into public domain name system records. Exposed material reportedly included a loan application, a bank fraud alert, and internal business documents. Meta has paused the sharing feature, though already indexed records cannot be fully removed.
-
-Mistral AI launched Voxtral 3, a new suite of speech to text and text to speech models, along with a voice agent toolkit supporting more than fifty languages, real time transcription, voice cloning, and phone call integration, now available through its API.
+Anthropic launched Claude Duet, a proactive AI agent built on Claude Opus five point five. It delivers daily briefings, monitors a user's connected apps throughout the day, and can schedule meetings, draft forecasts, and make purchases through digital wallets, always asking approval first. It launched as a waitlisted preview for Pro and Max subscribers in the United States.
 
 Quantum computing.
 
-UK based Universal Quantum published a new decoding method called the Iterative Redecode Scheme, which in large scale simulations of thousands of qubits achieved the lowest logical error rates among compared approaches for correcting errors during fast quantum logic operations. The result is simulation only, with no hardware demonstration yet.
+South Korea's science ministry is expanding its national quantum communications testbed network through twenty twenty eight, funding three hubs for commercial, international, and long-distance quantum key distribution links, backed by about five point two million dollars this year.
 
-French quantum company Alice and Bob reported early results from a national quantum computing program called Proqcima, demonstrating noise biased logic gates and multiple rounds of error correction on small prototype chips built with its cat qubit technology. Error rates on the full chip remain above the threshold needed for reliable computing.
+Pasqal released an open-source toolkit that uses AI agents to turn physics papers into validated experiments on its neutral-atom quantum processors. Screening over six hundred research papers, it found roughly half could run on current hardware with modest adaptation.
 
 United States stock market.
 
-US stocks closed higher Tuesday, with the Dow Jones Industrial Average gaining about one percent to a fresh high near fifty two thousand five hundred, and the Russell two thousand small cap index jumping over one and a half percent. The Nasdaq was roughly flat as investors stayed cautious on AI stock valuations.
+Wall Street closed higher Wednesday, with the Dow up zero point seven percent to a one month high, the S and P 500 up zero point six percent, and the Nasdaq up just over one percent, led by technology and industrial stocks.
 
-Netflix beat third quarter profit estimates, but its shares fell further after hours after the company issued fourth quarter revenue guidance below Wall Street expectations and cut its full year advertising revenue forecast. The stock is now down roughly twenty five percent this year, following recent layoffs and the exit of its content chief.
+Tesla's third quarter adjusted earnings beat expectations, but profit fell sharply on heavy AI and robotics spending, and shares reversed lower after the company cut its full year capital spending guidance by roughly five billion dollars.
 
-GE Aerospace reported third quarter orders up forty nine percent year over year to nineteen billion dollars, with adjusted profit up thirty six percent, and raised its full year earnings guidance, citing strong demand across its jet engine business.
+IBM beat third quarter earnings estimates, with software revenue growing eight percent, and raised its full year free cash flow guidance. Shares jumped more than four percent in after hours trading.
 
-US housing starts fell five point two percent in September to their lowest pace in months, missing forecasts, as elevated mortgage rates continue to weigh on new home construction.
+SpaceX reported third quarter revenue up one hundred sixty one percent to about fourteen point six billion dollars, with its artificial intelligence unit turning profitable and Starlink revenue up sixty nine percent.
 
 Czech Republic and Slovakia.
 
-European wholesale natural gas prices crossed ninety euros per megawatt hour on Tuesday for the first time in four years, driven by strong Asian demand and gas storage levels sitting at their lowest for this time of year since records began. The move raises the risk of higher household heating bills heading into winter.
+Slovakia's Social Insurance Agency will recalculate pensions for up to one million retirees using more favorable childcare time rules. About four hundred thousand people are expected to receive higher payments starting in twenty twenty seven, backdated to this January.
 
-Several major Czech banks, including Ceska sporitelna, Air Bank, and UniCredit, have quietly tightened the conditions required to earn their top savings account interest rates, often requiring regular card use or several thousand euros in monthly investing. Savers who do not meet the new terms could see their interest rate drop sharply without realizing it.
+Slovakia reopens its Zelena domacnostiam renewable energy subsidy program on October twenty sixth, offering twenty eight point six million euros for household solar installations. Even previous applicants must register again, since old data will not carry over.
 
-The Czech National Bank warned the public, especially seniors, about fraudulent emails impersonating the bank and offering fake investment vouchers that promise to double deposits. The bank says no such program exists and is urging anyone who responded to contact police or their bank immediately.
+Slovak gas pipeline operator Eustream is proposing transit fee increases of up to sixty two percent for industrial customers starting in twenty twenty seven, as transit volumes have collapsed since Russian gas flows through Ukraine ended. Regulators are reviewing the proposal before a year end decision.
 
-Construction began in Bratislava's Petrzalka district on one hundred fifty one state supported rental apartments, with Slovak officials saying a typical two room unit will rent for around six hundred eighty euros a month, or roughly four hundred sixty euros if an employer co-participates in the program.
+PPF Group.
+
+PPF Group more than doubled its first half net profit to eight hundred thirty four million euros, with strong growth across telecommunications, financial services, and its Skoda Group engineering business.
+
+China.
+
+China's industry ministry unveiled a five year plan to strengthen domestic manufacturing self reliance, targeting weaknesses in core components, basic materials, and industrial software, including semiconductors, with a goal of reaching internationally advanced levels by twenty thirty.
+
+Several American universities are cutting research ties with Chinese institutions under Pentagon pressure, including Virginia Tech ending its joint undergraduate program with Xidian University, following an August order for schools to audit China linked partnerships.

@@ -12358,6 +12358,194 @@
       "canonical_summary": "Construction began in Bratislava's Petrzalka district on 151 state-supported rental apartments (built by Austria's BWSG with Slovakia's state rental-housing agency ASPNB), with completion planned for 2028; PM Robert Fico said a typical two-room unit will rent for about EUR 680/month unsupported or about EUR 460/month if an employer co-participates, with waitlist position set by registration timestamp.",
       "source_url": "https://www.teraz.sk/ekonomika/v-petrzalke-pribudne-151-najomnych-by/1001190-clanok.html",
       "material_update_of": null
+    },
+    {
+      "event_id": "anthropic-claude-duet-launch",
+      "reported_date": "2026-10-22",
+      "event_date": "2026-10-21",
+      "category": "AI",
+      "entities": [
+        "Anthropic"
+      ],
+      "event_type": "product_launch",
+      "canonical_summary": "Anthropic launched Claude Duet, a proactive AI agent app built on Claude Opus 5.5, offering daily briefings, continuous monitoring of connected apps/services, and the ability to schedule meetings, draft forecasts, and make purchases via digital wallets with user approval required; launched as a waitlisted research preview for Pro/Max subscribers in the US.",
+      "source_url": "https://www.cnbc.com/2026/10/21/anthropic-preview-of-claude-duet-personal-ai-agent-take-on-muse-dots.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "south-korea-quantum-comms-testbed-expansion",
+      "reported_date": "2026-10-22",
+      "event_date": "2026-10-21",
+      "category": "Quantum Computing",
+      "entities": [
+        "South Korea Ministry of Science and ICT",
+        "KT",
+        "SK Broadband"
+      ],
+      "event_type": "quantum_networking",
+      "canonical_summary": "South Korea's MSIT announced a three-year expansion of its national quantum communications testbed network across three hubs (commercial, international, and long-distance QKD/entanglement research), backed by roughly 7.4 billion won (~$5.2M) in 2026 funding.",
+      "source_url": "https://thequantuminsider.com/2026/10/21/korea-expands-quantum-communications-testbeds-three-hubs/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "pasqal-neutral-atom-agentic-toolkit",
+      "reported_date": "2026-10-22",
+      "event_date": "2026-10-21",
+      "category": "Quantum Computing",
+      "entities": [
+        "Pasqal"
+      ],
+      "event_type": "software_release",
+      "canonical_summary": "Pasqal released an open-source Neutral-Atom Agentic Toolkit that uses AI coding agents to turn physics papers into validated experiments on its neutral-atom QPUs, demonstrated on real hardware and screening 633 arXiv papers, finding ~49% runnable on current hardware with adaptation.",
+      "source_url": "https://quantumcomputingreport.com/pasqal-launches-neutral-atom-agentic-toolkit-and-demonstrates-qpu-workflows-across-258-quantum-physics-papers/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-stocks-close-higher-oct21-2026",
+      "reported_date": "2026-10-22",
+      "event_date": "2026-10-21",
+      "category": "US Stock Market",
+      "entities": [
+        "Dow Jones Industrial Average",
+        "S&P 500",
+        "Nasdaq Composite"
+      ],
+      "event_type": "market_close",
+      "canonical_summary": "Wall Street closed higher Wednesday Oct 21: Dow +0.69% to 52,856.09 (one-month high), S&P 500 +0.58% to 7,757.17, Nasdaq +1.05% to 26,702.86, led by technology, industrials and financials; VIX fell 3.64% to 16.68.",
+      "source_url": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-069-4964039",
+      "material_update_of": null
+    },
+    {
+      "event_id": "tesla-q3-2026-earnings-capex-cut",
+      "reported_date": "2026-10-22",
+      "event_date": "2026-10-21",
+      "category": "US Stock Market",
+      "entities": [
+        "Tesla"
+      ],
+      "event_type": "earnings_report",
+      "canonical_summary": "Tesla's Q3 2026 non-GAAP EPS of $0.48 beat consensus but GAAP net income fell 43% to $787M on heavy AI/Optimus spending; shares reversed lower after management cut full-year 2026 capex guidance to ~$20B (from over $25B) and tempered the Optimus production timeline.",
+      "source_url": "https://www.axios.com/2026/10/21/tesla-earnings-elon-musk",
+      "material_update_of": null
+    },
+    {
+      "event_id": "ibm-q3-2026-earnings-beat",
+      "reported_date": "2026-10-22",
+      "event_date": "2026-10-21",
+      "category": "US Stock Market",
+      "entities": [
+        "IBM"
+      ],
+      "event_type": "earnings_report",
+      "canonical_summary": "IBM reported Q3 2026 revenue of $17.1B (+5% y/y), non-GAAP EPS of $2.95 beating consensus, with software revenue growing 8%; raised full-year free-cash-flow guidance, and shares rose roughly 3.8-4.5% in after-hours trading.",
+      "source_url": "https://www.gurufocus.com/news/9134957/ibm-ibm-shares-rise-38-after-q3-earnings-beat-expectations",
+      "material_update_of": null
+    },
+    {
+      "event_id": "spacex-q3-2026-earnings-ai-profit",
+      "reported_date": "2026-10-22",
+      "event_date": "2026-10-20",
+      "category": "US Stock Market",
+      "entities": [
+        "SpaceX"
+      ],
+      "event_type": "earnings_report",
+      "canonical_summary": "SpaceX reported Q3 2026 revenue of about $14.6B (+161% y/y) and net income of $4.4B versus a $1.1B prior-year loss; its AI business swung to a $431M profit and Starlink revenue rose 69% to $5.25B.",
+      "source_url": "https://qz.com/spacex-earnings-revenue-net-income-super-intelligence-starlink-102026",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-pension-recalculation-childcare",
+      "reported_date": "2026-10-22",
+      "event_date": "2026-10-22",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Socialna poistovna (Slovak Social Insurance Agency)"
+      ],
+      "event_type": "pension_policy",
+      "canonical_summary": "Slovakia's Socialna poistovna will automatically recalculate old-age, early old-age and disability pensions granted since 2004 using more favorable childcare-time rules; about 400,000 of up to 1 million affected retirees are expected to get higher payments, with decisions starting January 2027, backdated to January 1, 2026.",
+      "source_url": "https://www.pravda.sk/uzitocna/dochodky/clanok/2062463-prepocitanie-dochdokov-dochodok-penzia-peniaze-dochodca-socialna-poistovna-prepocet-starostlivost-o-deti",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-zelena-domacnostiam-ii-reopens",
+      "reported_date": "2026-10-22",
+      "event_date": "2026-10-21",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "SIEA (Slovak Innovation and Energy Agency)"
+      ],
+      "event_type": "energy_subsidy_program",
+      "canonical_summary": "Slovakia's SIEA opens a new registration round for household renewable-energy subsidies (EUR 28.6M available) starting Oct 26 at 13:00 (form) and Nov 2 at 13:00 (funding reservation, first-come basis); all applicants, including past ones, must re-register as old data is not carried over.",
+      "source_url": "https://www.teraz.sk/ekonomika/siea-spusti-registraciu-v-projekte-zel/1001609-clanok.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "eustream-gas-transit-tariff-hike-proposal",
+      "reported_date": "2026-10-22",
+      "event_date": "2026-10-22",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Eustream",
+        "URSO",
+        "Duslo",
+        "Nippon Steel Slovakia",
+        "Slovnaft",
+        "U.S. Steel Kosice"
+      ],
+      "event_type": "energy_regulatory_proposal",
+      "canonical_summary": "Pipeline operator Eustream is proposing gas transport tariff increases of up to 62% for Slovak industrial customers and ~55% at cross-border points from January 2027, as post-Ukraine-transit volumes have collapsed; regulator URSO is due to issue a final 2027 tariff decision by year-end.",
+      "source_url": "https://www.pravda.sk/spravy/ekonomika/clanok/2063549-kedysi-plynarenska-krizovatka-dnes-prazdne-rury-poliaci-ukrajinci-aj-cesi-varuju-ze-slovensko-skonci-v-slepej-ulicke",
+      "material_update_of": null
+    },
+    {
+      "event_id": "ppf-group-h1-2026-results",
+      "reported_date": "2026-10-22",
+      "event_date": "2026-10-21",
+      "category": "PPF Group",
+      "entities": [
+        "PPF Group",
+        "Home Credit/Air Bank",
+        "Skoda Group",
+        "CME",
+        "PPF Real Estate"
+      ],
+      "event_type": "financial_results",
+      "canonical_summary": "PPF Group reported consolidated H1 2026 net profit of EUR 834M, up 157% year-on-year, with telecom EBITDA rising to EUR 1.12bn, financial services net profit up nearly fivefold to EUR 301M, and Skoda Group net profit at a record EUR 60M; total assets EUR 42.09bn.",
+      "source_url": "https://www.ppf.eu/en/press-release/ppf-more-than-doubles-its-first-half-net-profit-as-main-businesses-grow",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-miit-industrial-foundation-plan",
+      "reported_date": "2026-10-22",
+      "event_date": "2026-10-22",
+      "category": "China",
+      "entities": [
+        "Ministry of Industry and Information Technology (MIIT)"
+      ],
+      "event_type": "national_industrial_policy",
+      "canonical_summary": "China's MIIT and other departments issued a five-year plan through 2030 to strengthen 'industrial foundation capabilities' including core components, basic materials, and industrial software, explicitly citing vulnerabilities in integrated circuits, aiming to reach internationally advanced levels by 2030.",
+      "source_url": "https://english.news.cn/20261022/f8a65366ddc046f59de250504a764455/c.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-universities-china-research-ties-cut",
+      "reported_date": "2026-10-22",
+      "event_date": "2026-10-22",
+      "category": "China",
+      "entities": [
+        "US Department of Defense",
+        "Virginia Tech",
+        "Xidian University",
+        "Southern Illinois University Carbondale",
+        "Shenyang Aerospace University",
+        "Drake University",
+        "Qingdao University"
+      ],
+      "event_type": "academic_research_security_decoupling",
+      "canonical_summary": "Following an August 2026 Pentagon order for 30 US universities to audit China-linked research partnerships, concrete actions emerged: Virginia Tech is accelerating closure of its joint program with Xidian University, Southern Illinois University Carbondale ended ties with blacklisted Shenyang Aerospace University, and Drake University is disputing concerns over its Qingdao University degree program.",
+      "source_url": "https://www.scmp.com/news/us/article/3371690/us-colleges-scale-back-cooperation-chinese-institutions-after-pentagons-push",
+      "material_update_of": null
     }
   ]
 }
