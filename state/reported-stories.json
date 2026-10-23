@@ -12546,6 +12546,177 @@
       "canonical_summary": "Following an August 2026 Pentagon order for 30 US universities to audit China-linked research partnerships, concrete actions emerged: Virginia Tech is accelerating closure of its joint program with Xidian University, Southern Illinois University Carbondale ended ties with blacklisted Shenyang Aerospace University, and Drake University is disputing concerns over its Qingdao University degree program.",
       "source_url": "https://www.scmp.com/news/us/article/3371690/us-colleges-scale-back-cooperation-chinese-institutions-after-pentagons-push",
       "material_update_of": null
+    },
+    {
+      "event_id": "microsoft-maidxo-diagnostic-ai-science-study",
+      "reported_date": "2026-10-23",
+      "event_date": "2026-10-22",
+      "category": "AI",
+      "entities": [
+        "Microsoft AI"
+      ],
+      "event_type": "scientific_publication",
+      "canonical_summary": "Microsoft published a peer-reviewed study in Science on its multi-agent Diagnostic Orchestrator (MAI-DxO), which correctly diagnosed 83% of complex simulated NEJM cases versus 36% for primary-care doctors working alone; using GPT-5.5 as the base model raised accuracy from 72% to about 87% while cutting estimated per-case cost by roughly $3,000. Benchmark study on simulated cases, not a clinical trial.",
+      "source_url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "php2shell-vulnerability-ai-discovered-aws-exploitation",
+      "reported_date": "2026-10-23",
+      "event_date": "2026-10-21",
+      "category": "AI",
+      "entities": [
+        "OpenAI",
+        "Google",
+        "PHP Foundation",
+        "Amazon Web Services"
+      ],
+      "event_type": "security_disclosure",
+      "canonical_summary": "A critical PHP vulnerability found with help from OpenAI's GPT-5.6 Sol and Google's Gemini 4 Argon was formally disclosed on Oct 21 with a PHP Foundation patch; AWS said exploitation attempts (reaching into the millions) began Oct 17, before public disclosure. OpenAI said its Daybreak defensive-security program saw participant-found flaws rise from 858 to 1,885 in the two weeks prior.",
+      "source_url": "https://fortune.com/2026/10/22/php-security-flaw-ai-powered-attacks-hackers-openai-daybreak/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "warp-sciences-kevin-weil-launch",
+      "reported_date": "2026-10-23",
+      "event_date": "2026-10-22",
+      "category": "AI",
+      "entities": [
+        "Warp Sciences",
+        "Kevin Weil"
+      ],
+      "event_type": "funding",
+      "canonical_summary": "Former OpenAI Chief Science Officer Kevin Weil launched a new AI startup, Warp Sciences, with $215 million in funding.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-22/ex-openai-science-head-kevin-weil-launches-startup-with-215-million",
+      "material_update_of": null
+    },
+    {
+      "event_id": "anthropic-agent-skills-donated-agentic-ai-foundation",
+      "reported_date": "2026-10-23",
+      "event_date": "2026-10-22",
+      "category": "AI",
+      "entities": [
+        "Anthropic",
+        "Agentic AI Foundation",
+        "OpenAI",
+        "Google",
+        "Block"
+      ],
+      "event_type": "open_standard_donation",
+      "canonical_summary": "Anthropic donated its Agent Skills open standard (name, trademark, GitHub org, agentskills.io domain) to the Agentic AI Foundation under the Linux Foundation, which it co-founded with Block and OpenAI. Over 70 platforms (ChatGPT, Cursor, GitHub Copilot, VS Code) have integrated it, with 1 million+ skills published and nearly 280 million installs.",
+      "source_url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+      "material_update_of": null
+    },
+    {
+      "event_id": "openai-funding-valuation-cut-1point25t",
+      "reported_date": "2026-10-23",
+      "event_date": "2026-10-22",
+      "category": "AI",
+      "entities": [
+        "OpenAI",
+        "UAE investors",
+        "Coatue"
+      ],
+      "event_type": "funding_update",
+      "canonical_summary": "OpenAI's pending ~$30 billion funding round, led by UAE investors and Coatue, is reportedly being finalized at a cut pre-money valuation of $1.25 trillion, down from the $1.4 trillion figure first reported October 1, after investor pushback.",
+      "source_url": "https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html",
+      "material_update_of": "openai-30b-funding-1point4t-valuation"
+    },
+    {
+      "event_id": "openai-fires-researchers-alleged-leaks",
+      "reported_date": "2026-10-23",
+      "event_date": "2026-10-22",
+      "category": "AI",
+      "entities": [
+        "OpenAI"
+      ],
+      "event_type": "personnel_security",
+      "canonical_summary": "OpenAI fired three safety researchers it suspected of leaking internal model-design information to an outside AI-safety organization, reportedly including via disappearing Signal chats; OpenAI said the employees mishandled sensitive information outside established procedures.",
+      "source_url": "https://www.wsj.com/tech/ai/the-signal-chats-that-cost-openai-researchers-their-jobs-594c5853",
+      "material_update_of": null
+    },
+    {
+      "event_id": "seeqc-nvidia-qec-decoder-architecture",
+      "reported_date": "2026-10-23",
+      "event_date": "2026-10-22",
+      "category": "Quantum Computing",
+      "entities": [
+        "SEEQC",
+        "NVIDIA"
+      ],
+      "event_type": "error_correction_demo",
+      "canonical_summary": "SEEQC combined its chip-based superconducting pre-decoder with NVIDIA's open-source Ising AI decoder models in a simulated fault-tolerant processor stack, reporting roughly 50% reductions in both QEC decoding latency and logical error rate versus NVIDIA's decoder alone. Simulation-based, vendor-reported result, not yet demonstrated on physical hardware.",
+      "source_url": "https://thequantuminsider.com/2026/10/22/seeqc-combines-chip-based-processing-with-nvidia-ai-to-improve-quantum-error-correction/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-stocks-ai-capex-selloff-oct22",
+      "reported_date": "2026-10-23",
+      "event_date": "2026-10-22",
+      "category": "US Stock Market",
+      "entities": [
+        "Nasdaq",
+        "S&P 500",
+        "Dow Jones"
+      ],
+      "event_type": "market_selloff",
+      "canonical_summary": "US stocks fell sharply Thursday Oct 22 as renewed worries about AI capital-spending scale triggered a tech-led selloff: Nasdaq Composite -2.60% (worst day in weeks), S&P 500 -1.22%, Dow roughly flat; semiconductor stocks led losses after Meta's and Tesla's earnings showed aggressive AI capex plans and CoreWeave's debt troubles deepened.",
+      "source_url": "https://finance.yahoo.com/markets/article/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "meta-q3-2026-earnings-legal-charge-capex",
+      "reported_date": "2026-10-23",
+      "event_date": "2026-10-21",
+      "category": "US Stock Market",
+      "entities": [
+        "Meta Platforms"
+      ],
+      "event_type": "earnings",
+      "canonical_summary": "Meta reported Q3 2026 revenue of $64.60B (+26% YoY, beat consensus), but net income fell after a $9.89B legal charge tied to an August settlement with 48 state AGs over teen mental health; shares fell ~7% as Meta raised FY2026 capex guidance to $135-145B. Also announced a 2-for-1 non-voting Class C share split.",
+      "source_url": "https://siliconangle.com/2026/10/21/meta-beats-on-revenue-and-splits-its-stock-two-for-one-with-non-voting-class-c-shares/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "coreweave-debt-distress-deepens-oct22",
+      "reported_date": "2026-10-23",
+      "event_date": "2026-10-22",
+      "category": "US Stock Market",
+      "entities": [
+        "CoreWeave"
+      ],
+      "event_type": "credit_distress",
+      "canonical_summary": "CoreWeave shares fell roughly 10% further on Oct 22 as AI-datacenter debt concerns intensified; credit-default-swap pricing now implies about a 63% five-year probability of default, extending the bond/stock slide first reported in mid-October.",
+      "source_url": "https://letsdatascience.com/news/coreweave-shares-and-bonds-slide-as-debt-fears-grip-ai-build-b082a38e",
+      "material_update_of": "coreweave-bond-yields-cds-spike-debt-distress"
+    },
+    {
+      "event_id": "us-jobless-claims-194k-three-month-low",
+      "reported_date": "2026-10-23",
+      "event_date": "2026-10-22",
+      "category": "US Stock Market",
+      "entities": [
+        "US Department of Labor"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "US initial jobless claims came in at 194,000 for the week, the lowest reading in three months, extending a run of figures near or below 200,000.",
+      "source_url": "https://www.fool.com/coverage/stock-market-today/2026/10/22/stock-market-today-oct-22-moderna-stock-plummets-18-on-melanoma-vaccine-data-leak-reports/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-deepseek-minimax-ai-export-registration-cleared",
+      "reported_date": "2026-10-23",
+      "event_date": "2026-10-22",
+      "category": "China",
+      "entities": [
+        "DeepSeek",
+        "MiniMax",
+        "China Ministry of Commerce"
+      ],
+      "event_type": "regulatory_approval",
+      "canonical_summary": "Chinese state media reported that DeepSeek and MiniMax completed registration under China's new pre-export filing rules for AI technology and proceeded with open-source releases and overseas licensing of their models, among the first cleared under a regime whose expanded export catalogue (23 AI technologies) opened for public comment Oct 16, running through Nov 15.",
+      "source_url": "https://www.scmp.com/tech/policy/article/3371880/deepseek-minimax-secure-open-source-licenses-days-after-new-china-export-rules-state-media",
+      "material_update_of": null
     }
   ]
 }
