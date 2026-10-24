@@ -1,33 +1,13 @@
-Daily News for Friday, October 23, 2026.
-
-Artificial intelligence.
-
-Microsoft published a peer reviewed study in the journal Science on its multi agent diagnostic system, called the Diagnostic Orchestrator. On a set of complex, simulated medical cases drawn from the New England Journal of Medicine, the system reached a correct diagnosis eighty three percent of the time, compared with thirty six percent for primary care doctors working alone. Using OpenAI's GPT five point five as its base model raised accuracy from seventy two to about eighty seven percent while lowering the estimated cost per case by roughly three thousand dollars.
-
-A critical vulnerability in PHP, the programming language that runs an estimated seventy percent of websites, was patched this week after security researchers using AI models from OpenAI and Google helped uncover it. Amazon Web Services said attackers began exploiting the flaw on October seventeenth, days before the public disclosure, with exploitation attempts reaching into the millions. OpenAI said its Daybreak defensive security program saw participant discovered flaws rise from eight hundred fifty eight to nearly nineteen hundred in the two weeks beforehand.
-
-Former OpenAI chief science officer Kevin Weil launched a new artificial intelligence startup called Warp Sciences with two hundred fifteen million dollars in funding.
-
-Anthropic donated its Agent Skills standard to the Agentic AI Foundation, a Linux Foundation project it co-founded with the payments company Block and with OpenAI. More than seventy platforms, including ChatGPT, Cursor, and GitHub Copilot, have adopted the standard, with over one million skills published and nearly two hundred eighty million installs.
-
-OpenAI's pending thirty billion dollar funding round, led by investors from the United Arab Emirates and the firm Coatue, is reportedly being finalized at a valuation of one point two five trillion dollars. That is down from the one point four trillion dollar figure first reported earlier this month, after some investors pushed back on the higher price.
-
-OpenAI fired three safety researchers after suspecting them of leaking internal model design details to an outside AI safety organization, reportedly including through disappearing messages. The company said the employees mishandled sensitive information outside established procedures.
+Daily News for Saturday, October 24, 2026.
 
 Quantum computing.
 
-Quantum computing company SEEQC and NVIDIA reported a simulated demonstration combining a chip based pre decoder with NVIDIA's open source AI decoder software. In the simulation, the combined system cut both quantum error correction latency and the logical error rate by roughly fifty percent compared with NVIDIA's decoder running alone. The result has not yet been demonstrated on physical quantum hardware.
+Quantum computing company IQM and telecom operator Telefónica will install the Madrid region's first quantum computer, an IQM Spark system, at the Technical University of Madrid before the end of this year, giving researchers, students, and startups direct access to the hardware. Google Quantum AI launched a one hundred fifty thousand dollar competition on Kaggle challenging teams to shrink the number of qubits and logic gates needed to run quantum algorithms for chemistry, optimization, and other tasks, aiming to cut the hardware burden that quantum error correction imposes.
 
 United States stock market.
 
-Wall Street fell sharply on Thursday as renewed worries about the scale of artificial intelligence spending triggered a tech led selloff. The Nasdaq Composite dropped two point six percent, its worst day in weeks, led lower by semiconductor stocks. The S and P five hundred fell one point two percent, while the Dow Jones Industrial Average was roughly flat.
-
-Meta Platforms beat revenue expectations, reporting sixty four point six billion dollars for the third quarter, up twenty six percent from a year earlier. But net income fell sharply after a nine point nine billion dollar legal charge tied to an August settlement with forty eight state attorneys general over teen mental health. Shares fell about seven percent after Meta also raised its full year capital spending guidance to as much as one hundred forty five billion dollars.
-
-CoreWeave shares fell roughly ten percent further as concerns about its AI data center debt load deepened. Pricing in the credit default swap market now implies about a sixty three percent chance the company defaults within five years, extending a slide that began earlier this month.
-
-New US jobless claims came in at one hundred ninety four thousand for the week, the lowest reading in three months, extending a run of figures near or below two hundred thousand.
+US stocks fell Friday, with the Dow down one point two percent and the S&P 500 off about half a percent, as investors grew uneasy about the pace of artificial intelligence data center spending while oil prices jumped nearly four percent on rising Middle East tensions. Lockheed Martin beat third quarter expectations, posting revenue of twenty point seven billion dollars, up eleven percent from a year earlier, and raised its full year profit guidance. Kering, the parent company of Gucci, saw its shares drop about twelve percent after reporting weaker than expected third quarter results.
 
 China.
 
-Chinese state media reported that the AI companies DeepSeek and MiniMax completed registration under Beijing's new pre export filing rules for artificial intelligence technology, and proceeded with open source releases and overseas licensing of their models. They are among the first companies cleared under a new export control regime whose expanded technology catalogue, covering large AI models, computing clusters, and related software, opened for public comment on October sixteenth and runs through mid November.
+China's National Development and Reform Commission finalized new outbound investment rules taking effect December first, requiring Chinese companies to report more quickly when foreign governments pressure them to hand over technology, data, or force the sale of overseas assets.

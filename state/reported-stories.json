@@ -12717,6 +12717,89 @@
       "canonical_summary": "Chinese state media reported that DeepSeek and MiniMax completed registration under China's new pre-export filing rules for AI technology and proceeded with open-source releases and overseas licensing of their models, among the first cleared under a regime whose expanded export catalogue (23 AI technologies) opened for public comment Oct 16, running through Nov 15.",
       "source_url": "https://www.scmp.com/tech/policy/article/3371880/deepseek-minimax-secure-open-source-licenses-days-after-new-china-export-rules-state-media",
       "material_update_of": null
+    },
+    {
+      "event_id": "iqm-telefonica-madrid-quantum-computer",
+      "reported_date": "2026-10-24",
+      "event_date": "2026-10-23",
+      "category": "Quantum Computing",
+      "entities": [
+        "IQM",
+        "Telefónica",
+        "Technical University of Madrid"
+      ],
+      "event_type": "infrastructure_deployment",
+      "canonical_summary": "IQM and Telefónica announced they will deploy an IQM Spark quantum computer at the Technical University of Madrid (UPM) before the end of 2026, becoming the Madrid region's first quantum computer, for research, education and startup access.",
+      "source_url": "https://thequantuminsider.com/2026/10/23/madrid-first-quantum-computer-telefonica-iqm/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "google-kaggle-quantum-circuit-reduction-contest",
+      "reported_date": "2026-10-24",
+      "event_date": "2026-10-23",
+      "category": "Quantum Computing",
+      "entities": [
+        "Google Quantum AI"
+      ],
+      "event_type": "competition_launch",
+      "canonical_summary": "Google Quantum AI launched a $150,000 Kaggle competition rewarding teams that reduce the qubit and gate counts needed to run quantum algorithms for chemistry, optimization and fusion tasks while preserving accuracy, aiming to lower hardware and error-correction overhead.",
+      "source_url": "https://thequantuminsider.com/2026/10/23/google-launches-150000-ai-competition-to-reduce-quantum-computing-demands/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-stocks-selloff-oct23-capex-oil",
+      "reported_date": "2026-10-24",
+      "event_date": "2026-10-23",
+      "category": "US Stock Market",
+      "entities": [
+        "S&P 500",
+        "Dow Jones Industrial Average",
+        "Nasdaq"
+      ],
+      "event_type": "market_move",
+      "canonical_summary": "US stocks fell on October 23, 2026 (S&P 500 -0.52% to 7,623.68, Dow -1.23% to 52,215.16, Nasdaq -0.21% to 25,955.34) amid investor concern over AI data-center capex sustainability, while oil rose 3.8% to $103.27/bbl on Middle East tensions and the 10-year Treasury yield rose to 4.988%.",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-23-134445147.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "lockheed-martin-q3-2026-earnings-beat",
+      "reported_date": "2026-10-24",
+      "event_date": "2026-10-22",
+      "category": "US Stock Market",
+      "entities": [
+        "Lockheed Martin"
+      ],
+      "event_type": "earnings_beat",
+      "canonical_summary": "Lockheed Martin reported Q3 2026 revenue of $20.7 billion (+11% YoY) and GAAP diluted EPS of $7.97 (vs $6.95 a year earlier), and raised FY2026 guidance to roughly $80-82B in sales and $30.35-30.75 diluted EPS.",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000936468/000162828026066780/ex991q32026.htm",
+      "material_update_of": null
+    },
+    {
+      "event_id": "kering-q3-2026-earnings-miss",
+      "reported_date": "2026-10-24",
+      "event_date": "2026-10-23",
+      "category": "US Stock Market",
+      "entities": [
+        "Kering",
+        "Gucci"
+      ],
+      "event_type": "earnings_miss",
+      "canonical_summary": "Kering shares fell about 12.4% after the company reported disappointing third-quarter 2026 results.",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-23-134445147.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-ndrc-outbound-investment-rules-revised",
+      "reported_date": "2026-10-24",
+      "event_date": "2026-10-22",
+      "category": "China",
+      "entities": [
+        "National Development and Reform Commission"
+      ],
+      "event_type": "regulation_finalized",
+      "canonical_summary": "China's NDRC finalized a revised 76-article Measures for the Administration of Outbound Investment, replacing 2017 rules, effective December 1, 2026, tightening reporting requirements including faster disclosure when foreign parties pressure Chinese investors to transfer technology or data or divest overseas assets.",
+      "source_url": "https://www.kucoin.com/news/flash/china-tightens-outbound-investment-rules-to-protect-overseas-assets",
+      "material_update_of": null
     }
   ]
 }
