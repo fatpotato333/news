@@ -1,13 +1,21 @@
-Daily News for Saturday, October 24, 2026.
-
-Quantum computing.
-
-Quantum computing company IQM and telecom operator Telefónica will install the Madrid region's first quantum computer, an IQM Spark system, at the Technical University of Madrid before the end of this year, giving researchers, students, and startups direct access to the hardware. Google Quantum AI launched a one hundred fifty thousand dollar competition on Kaggle challenging teams to shrink the number of qubits and logic gates needed to run quantum algorithms for chemistry, optimization, and other tasks, aiming to cut the hardware burden that quantum error correction imposes.
+Daily News for Sunday, October 25, 2026.
 
 United States stock market.
 
-US stocks fell Friday, with the Dow down one point two percent and the S&P 500 off about half a percent, as investors grew uneasy about the pace of artificial intelligence data center spending while oil prices jumped nearly four percent on rising Middle East tensions. Lockheed Martin beat third quarter expectations, posting revenue of twenty point seven billion dollars, up eleven percent from a year earlier, and raised its full year profit guidance. Kering, the parent company of Gucci, saw its shares drop about twelve percent after reporting weaker than expected third quarter results.
+American Express posted record third quarter revenue of twenty point one billion dollars, up nine percent, and raised its full year profit guidance, though the stock lagged behind in Friday's broader market pullback.
+
+Oilfield services company SLB beat estimates for the third quarter, reporting nine point four five billion dollars in revenue as energy stocks benefited from rising oil prices.
+
+Czech Republic and Slovakia.
+
+Czech lawmakers advanced a bill in an overnight vote early Saturday to scrap the television and radio license fee and fund public broadcasting directly from the state budget instead, over opposition objections that it could weaken media independence.
+
+The Czech parliament locked in a record three hundred eighty six billion koruna budget deficit for next year after a marathon overnight debate, with the opposition's bid to shrink it voted down.
+
+Trade unions at Skoda Auto pushed back against Volkswagen's push to freeze pay through 2030 under its cost cutting plan, insisting the existing labor agreement, not group headquarters in Germany, governs their wages.
 
 China.
 
-China's National Development and Reform Commission finalized new outbound investment rules taking effect December first, requiring Chinese companies to report more quickly when foreign governments pressure them to hand over technology, data, or force the sale of overseas assets.
+Typhoon Champi, the world's strongest storm so far this year, skirted China's east coast, grounding more than a hundred flights and forcing tens of thousands of evacuations in Zhejiang and Fujian provinces.
+
+The Pentagon added Beijing backed Confucius Institutes on American university campuses to its list of national security threats, escalating Washington's broader crackdown on Chinese academic ties that began earlier this year.

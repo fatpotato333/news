@@ -12800,6 +12800,111 @@
       "canonical_summary": "China's NDRC finalized a revised 76-article Measures for the Administration of Outbound Investment, replacing 2017 rules, effective December 1, 2026, tightening reporting requirements including faster disclosure when foreign parties pressure Chinese investors to transfer technology or data or divest overseas assets.",
       "source_url": "https://www.kucoin.com/news/flash/china-tightens-outbound-investment-rules-to-protect-overseas-assets",
       "material_update_of": null
+    },
+    {
+      "event_id": "us-amex-q3-2026-beat-raise",
+      "reported_date": "2026-10-25",
+      "event_date": "2026-10-23",
+      "category": "US Stock Market",
+      "entities": [
+        "American Express"
+      ],
+      "event_type": "earnings",
+      "canonical_summary": "American Express reported record Q3 2026 revenue of $20.1 billion (+9% year-on-year), GAAP EPS of $5.42 (+31%) and adjusted EPS of $4.68 (+13%), beating estimates and raising full-year guidance, though the stock was among the Dow's worst performers in Friday Oct 23's broader market selloff.",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000004962/000000496226000405/q326exhibit991.htm",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slb-schlumberger-q3-2026-earnings-beat",
+      "reported_date": "2026-10-25",
+      "event_date": "2026-10-23",
+      "category": "US Stock Market",
+      "entities": [
+        "SLB (Schlumberger)"
+      ],
+      "event_type": "earnings",
+      "canonical_summary": "Oilfield services giant SLB reported Q3 2026 revenue of $9.45 billion (+6% year-on-year, +5% sequentially) and adjusted EPS of $0.64, beating the roughly $0.62 consensus estimate, with free cash flow of $828 million and a $0.295 quarterly dividend approved.",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0000087347/000119312526429435/d151271dex99.htm",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-tv-radio-fee-abolition-first-reading",
+      "reported_date": "2026-10-25",
+      "event_date": "2026-10-24",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Chamber of Deputies",
+        "Czech Television (CT)",
+        "Czech Radio (CRo)",
+        "Ministry of Culture",
+        "PM Andrej Babis"
+      ],
+      "event_type": "legislation",
+      "canonical_summary": "In a session running past 4:36am on Saturday Oct 24, the Czech Chamber of Deputies passed the first reading of a bill abolishing the monthly licence fee households and firms pay for Czech Television and Czech Radio, replacing it with direct state-budget funding; the opposition's motion to reject or return the bill failed (81 of 177 votes), and the bill now goes to committee (media committee meets Oct 29) ahead of a second/third reading.",
+      "source_url": "https://www.irozhlas.cz/zpravy-domov/otazky-a-odpovedi-co-znamena-schvaleni-navrhu-o-koncesionarskych-poplatcich-a-co_2610241447_pik",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-2027-budget-first-reading-deficit-locked",
+      "reported_date": "2026-10-25",
+      "event_date": "2026-10-22",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Chamber of Deputies",
+        "Alena Schillerova",
+        "Czech Ministry of Finance"
+      ],
+      "event_type": "fiscal_policy",
+      "canonical_summary": "After a 19.5-hour debate, the Chamber of Deputies approved the 2027 state budget's basic parameters in first reading on Thursday Oct 22 by 93 coalition votes, formally locking the deficit at CZK 386 billion (up from CZK 310 billion this year) and total spending at about CZK 2.585 trillion; MPs can no longer change the overall deficit figure, only reallocate within it in the next reading.",
+      "source_url": "https://www.irozhlas.cz/zpravy-domov/opozice-neuspela-snemovna-schvalila-zakladni-parametry-rozpoctu-na-pristi-rok-ve_2610222242_med",
+      "material_update_of": "czech-2027-budget-committee-first-reading-recommendation"
+    },
+    {
+      "event_id": "skoda-auto-unions-reject-vw-wage-freeze",
+      "reported_date": "2026-10-25",
+      "event_date": "2026-10-22",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Skoda Auto",
+        "Czech trade unions",
+        "Volkswagen Group"
+      ],
+      "event_type": "labor",
+      "canonical_summary": "Czech trade unions at Skoda Auto publicly rejected Volkswagen Group's push to freeze wages through 2030 under its 'Zukunftsplan 2030' cost-cutting plan, with the company saying any pay decisions remain governed by the existing collective agreement rather than the group-wide directive.",
+      "source_url": "https://ct24.ceskatelevize.cz/clanek/ekonomika/odbory-odmitaji-zmrazeni-mezd-ve-skode-auto-firma-odkazala-na-kolektivni-smlouvu-378905",
+      "material_update_of": "volkswagen-wage-freeze-2030-slovak-plants"
+    },
+    {
+      "event_id": "typhoon-champi-eastern-china-disruption",
+      "reported_date": "2026-10-25",
+      "event_date": "2026-10-24",
+      "category": "China",
+      "entities": [
+        "China Meteorological Administration",
+        "Zhejiang province",
+        "Fujian province",
+        "Shanghai"
+      ],
+      "event_type": "natural_disaster",
+      "canonical_summary": "Typhoon Champi, the world's strongest storm of 2026, grazed northeastern Taiwan without landfall and then tracked along China's eastern seaboard, grounding over a hundred flights at Shanghai, Fujian and Zhejiang airports, prompting relocation of tens of thousands of residents, return of 3,800+ fishing vessels to port in Taizhou, and suspension of ferry routes; China issued a blue (lowest-tier) national typhoon warning with orange alerts in parts of Fujian.",
+      "source_url": "https://www.scmp.com/news/china/politics/article/3372015/thousands-evacuated-and-flights-grounded-typhoon-champi-hits-eastern-china",
+      "material_update_of": null
+    },
+    {
+      "event_id": "pentagon-confucius-institutes-security-threat-list",
+      "reported_date": "2026-10-25",
+      "event_date": "2026-10-24",
+      "category": "China",
+      "entities": [
+        "US Department of Defense",
+        "Pete Hegseth",
+        "Confucius Institutes",
+        "China"
+      ],
+      "event_type": "diplomatic",
+      "canonical_summary": "US Defense Secretary Pete Hegseth's Pentagon added Beijing-backed Confucius Institutes and successor organizations on US university campuses to a Defense Department list of national-security threats, escalating the US campaign against Chinese academic influence that began with an August 2026 order for 30 universities to audit China-linked research ties.",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3371970/us-war-chief-pete-hegseths-new-offensive-against-chinas-confucius-institutes",
+      "material_update_of": "us-universities-china-research-ties-cut"
     }
   ]
 }
