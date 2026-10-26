@@ -12905,6 +12905,114 @@
       "canonical_summary": "US Defense Secretary Pete Hegseth's Pentagon added Beijing-backed Confucius Institutes and successor organizations on US university campuses to a Defense Department list of national-security threats, escalating the US campaign against Chinese academic influence that began with an August 2026 order for 30 universities to audit China-linked research ties.",
       "source_url": "https://www.scmp.com/news/china/diplomacy/article/3371970/us-war-chief-pete-hegseths-new-offensive-against-chinas-confucius-institutes",
       "material_update_of": "us-universities-china-research-ties-cut"
+    },
+    {
+      "event_id": "spacex-nvidia-40b-gpu-debt-financing",
+      "reported_date": "2026-10-26",
+      "event_date": "2026-10-25",
+      "category": "AI",
+      "entities": [
+        "SpaceX",
+        "Elon Musk",
+        "NVIDIA",
+        "Apollo Global Management",
+        "Goldman Sachs"
+      ],
+      "event_type": "hardware_deployment",
+      "canonical_summary": "Elon Musk said on October 25, 2026 that SpaceX has closed $40 billion in debt financing to buy Nvidia GPUs for its Colossus 2 data center, with chips expected to arrive in Q1-Q2 2027 (secondary reporting describes roughly $10B bank loans plus $30B investment-grade debt led by Apollo Global Management and Goldman Sachs, not independently confirmed); Musk separately warned that over 200 AI 'neocloud' infrastructure firms without substantial non-AI revenue face severe consolidation as debt markets tighten, and ruled out SpaceX acquiring any of them.",
+      "source_url": "https://businesstoday.in/technology/news/story/elon-musk-warns-over-200-ai-cloud-firms-could-fail-as-credit-tightens-says-only-a-few-may-survive-563571-2026-10-26",
+      "material_update_of": null
+    },
+    {
+      "event_id": "apollo-slok-ai-zero-payoff-sp493",
+      "reported_date": "2026-10-26",
+      "event_date": "2026-10-25",
+      "category": "AI",
+      "entities": [
+        "Apollo Global Management",
+        "Torsten Slok"
+      ],
+      "event_type": "measurable_ai_implementation_results",
+      "canonical_summary": "Apollo Global Management chief economist Torsten Slok published analysis on October 25, 2026 finding no measurable change in profit margins or output-per-employee among the 'S&P 493' (S&P 500 excluding the seven largest AI-exposed tech firms), concluding AI has so far delivered no financial payoff for most non-tech companies because business performance depends on judgment, accountability and culture that AI cannot replicate; this is one economist's analysis, not an independently audited cross-company study.",
+      "source_url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-tv-fee-voluntary-payment-option",
+      "reported_date": "2026-10-26",
+      "event_date": "2026-10-26",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Andrej Babiš",
+        "Czech Television",
+        "Czech Radio",
+        "Chamber of Deputies"
+      ],
+      "event_type": "legislation_update",
+      "canonical_summary": "Czech PM Andrej Babiš confirmed on October 26, 2026 that the coalition will not withdraw its bill abolishing Czech Television and Czech Radio license fees, but is still negotiating the replacement funding mechanism; a voluntary-payment option is now planned to be introduced during the bill's second reading (no date yet set), as an alternative to funding the broadcasters (CT ~CZK 5.74bn, CRo ~CZK 2.06bn) purely from the state budget.",
+      "source_url": "https://www.seznamzpravy.cz/clanek/domaci-politika-o-podobe-navrhu-na-zruseni-poplatku-budeme-jeste-jednat-uvedl-babis-318756",
+      "material_update_of": "czech-tv-radio-fee-abolition-first-reading"
+    },
+    {
+      "event_id": "slovakia-sp-a-rating-reaffirmed",
+      "reported_date": "2026-10-26",
+      "event_date": "2026-10-24",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "S&P Global Ratings",
+        "Slovak Ministry of Finance"
+      ],
+      "event_type": "sovereign_credit_rating",
+      "canonical_summary": "S&P Global Ratings reaffirmed Slovakia's sovereign credit rating at 'A' with a stable outlook on October 24, 2026 (full report due the evening of October 26), following the National Council's October 14 approval of a 2027 budget projecting a 4.94%-of-GDP deficit, up from 4.37% in 2026, which opposition figures have criticized as unsustainable debt growth.",
+      "source_url": "https://www.teraz.sk/ekonomika/agentura-sp-potvrdila-sr-rating-na-ur/1002249-clanok.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-fifth-plenum-opens",
+      "reported_date": "2026-10-26",
+      "event_date": "2026-10-26",
+      "category": "China",
+      "entities": [
+        "Chinese Communist Party",
+        "Xi Jinping",
+        "20th Central Committee"
+      ],
+      "event_type": "national_policy",
+      "canonical_summary": "The Fifth Plenary Session of the Chinese Communist Party's 20th Central Committee opened in Beijing on October 26, 2026 and runs through October 29, centered on a draft decision to strengthen Party discipline and anti-corruption enforcement; the session is expected to formalize one of the most extensive personnel turnovers in recent Chinese political history ahead of the 21st Party Congress in 2027, with 35 of 205 full Central Committee members already investigated or removed under Xi's anti-corruption campaign.",
+      "source_url": "https://www.scmp.com/news/china/politics/article/3371932/what-will-chinas-fifth-plenum-mean-root-and-branch-corruption-drive",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-liaoning-carrier-philippine-sea-convergence",
+      "reported_date": "2026-10-26",
+      "event_date": "2026-10-25",
+      "category": "China",
+      "entities": [
+        "PLA Navy",
+        "Liaoning carrier group",
+        "US 7th Fleet",
+        "USS Theodore Roosevelt",
+        "Philippines"
+      ],
+      "event_type": "military_geopolitical",
+      "canonical_summary": "China's Liaoning aircraft carrier strike group, deployed since October 14, transited the Basilan Strait and passed near the Philippines' Balut Island around October 23-25, 2026, putting it in the Philippine Sea at the same time as the US carrier USS Theodore Roosevelt, which is operating there with Japanese, Australian, Canadian and French warships as part of the Japan-based Keen Sword exercise (October 19-29); the Philippine Navy shadowed the Chinese group, while China's defense ministry said the Liaoning was conducting routine training in 'relevant waters.'",
+      "source_url": "https://www.scmp.com/news/china/military/article/3372078/chinas-liaoning-aircraft-carrier-and-uss-theodore-roosevelt-converge-philippine-sea",
+      "material_update_of": "china-liaoning-carrier-pacific-drills"
+    },
+    {
+      "event_id": "kim-jong-un-dandong-visit",
+      "reported_date": "2026-10-26",
+      "event_date": "2026-10-25",
+      "category": "China",
+      "entities": [
+        "Kim Jong-un",
+        "Wang Huning",
+        "Dandong"
+      ],
+      "event_type": "diplomacy",
+      "canonical_summary": "North Korean leader Kim Jong-un made an unannounced visit to the Chinese border city of Dandong around October 24-25, 2026, accompanied by China's fourth-ranked official, CPPCC Chairman Wang Huning, with state media showing Kim touring a bus factory, underscoring continued China-North Korea economic and diplomatic engagement.",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3372026/north-korean-leader-kim-jong-un-visits-chinese-border-city-dandong",
+      "material_update_of": null
     }
   ]
 }
