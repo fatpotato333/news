@@ -13013,6 +13013,210 @@
       "canonical_summary": "North Korean leader Kim Jong-un made an unannounced visit to the Chinese border city of Dandong around October 24-25, 2026, accompanied by China's fourth-ranked official, CPPCC Chairman Wang Huning, with state media showing Kim touring a bus factory, underscoring continued China-North Korea economic and diplomatic engagement.",
       "source_url": "https://www.scmp.com/news/china/diplomacy/article/3372026/north-korean-leader-kim-jong-un-visits-chinese-border-city-dandong",
       "material_update_of": null
+    },
+    {
+      "event_id": "meta-95bn-equity-raise-ai-infrastructure",
+      "reported_date": "2026-10-27",
+      "event_date": "2026-10-26",
+      "category": "AI",
+      "entities": [
+        "Meta",
+        "Nvidia",
+        "AMD",
+        "Broadcom"
+      ],
+      "event_type": "funding",
+      "canonical_summary": "Meta launched a $95 billion stock offering (a $35 billion underwritten public equity sale plus a $60 billion at-the-market program) to fund AI infrastructure spending, with Nvidia, AMD and Broadcom as cornerstone investors; Meta projects up to $145 billion capex this year and says it will need hundreds of billions more over several years.",
+      "source_url": "https://www.irishtimes.com/business/2026/10/26/meta-plans-95bn-stock-offering-to-bankroll-ai-expansion/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "microsoft-60000-employee-buyout-ai-restructuring",
+      "reported_date": "2026-10-27",
+      "event_date": "2026-10-26",
+      "category": "AI",
+      "entities": [
+        "Microsoft"
+      ],
+      "event_type": "organizational_change",
+      "canonical_summary": "Microsoft confirmed a voluntary exit offer to roughly 60,000 employees at VP-level and below across Xbox, Windows, Copilot and Finance teams in the US, Canada, India and UK (data center, sales and marketing excluded), framed as restructuring for the AI era; total headcount was 223,000 as of June.",
+      "source_url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "cadence-nvidia-maestro-chip-design-ai",
+      "reported_date": "2026-10-27",
+      "event_date": "2026-10-26",
+      "category": "AI",
+      "entities": [
+        "Cadence",
+        "Nvidia"
+      ],
+      "event_type": "model_release",
+      "canonical_summary": "Cadence announced CadenceMaestro, a suite of AI models built on Nvidia's open-weight Nemotron model and secured with Nvidia's OpenShell safety technology, letting chip designers run AI agents on EDA workflows in-house, on Cadence cloud, or public cloud; Cadence claims up to 30% higher quality and 5x better cost-efficiency versus general-purpose models, with early access in Q4. Performance claims are the company's own.",
+      "source_url": "https://www.thestar.com.my/tech/tech-news/2026/10/26/cadence-unveils-nvidia-backed-ai-models-that-chipmakers-can-run-in-house",
+      "material_update_of": null
+    },
+    {
+      "event_id": "openai-eth-kakeya-yangmills-unverified-claims",
+      "reported_date": "2026-10-27",
+      "event_date": "2026-10-26",
+      "category": "AI",
+      "entities": [
+        "OpenAI"
+      ],
+      "event_type": "research_claim",
+      "canonical_summary": "OpenAI said its models produced a disproof of the Exponential Time Hypothesis (checked via the Lean proof-verification language), a proof of local smoothing in all dimensions that would settle the Kakeya conjecture and Stein's restriction conjecture, and a proof that pure Yang-Mills theory exists in four dimensions (physics write-up not yet released). These are company claims, not peer-reviewed; independent mathematicians reviewing the ETH claim stressed their involvement is not certification.",
+      "source_url": "https://thenextweb.com/news/openai-exponential-time-hypothesis-false-kakeya-yang-mills",
+      "material_update_of": null
+    },
+    {
+      "event_id": "uk-nqcc-quantum-testbed-phase1-report",
+      "reported_date": "2026-10-27",
+      "event_date": "2026-10-26",
+      "category": "Quantum Computing",
+      "entities": [
+        "UK National Quantum Computing Centre",
+        "Rigetti",
+        "QuEra",
+        "Infleqtion",
+        "ORCA Computing",
+        "Quantum Motion",
+        "Aegiq",
+        "Riverlane"
+      ],
+      "event_type": "program_report",
+      "canonical_summary": "The UK's National Quantum Computing Centre released a report on its GBP 30 million Quantum Computing Testbed Initiative: seven hardware suppliers across five modalities delivered systems to Harwell Campus for external-user evaluation, Rigetti upgraded its testbed from 24 to 36 qubits with Riverlane's Deltaflow error-correction integrated, and GBP 4.6 million in follow-on funding was awarded; Phase 2 evaluation runs through Q2 2027. Most underlying hardware progress occurred earlier in 2025; the report's publication is the new event.",
+      "source_url": "https://thequantuminsider.com/2026/10/26/report-uks-30-million-quantum-testbed-program-helps-suppliers-advance-toward-commercial-deployment/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "anthropic-s1-public-filing-h1-2026-financials",
+      "reported_date": "2026-10-27",
+      "event_date": "2026-10-26",
+      "category": "US Stock Market",
+      "entities": [
+        "Anthropic",
+        "S&P 500",
+        "Nasdaq Composite",
+        "Dow Jones Industrial Average"
+      ],
+      "event_type": "ipo_filing",
+      "canonical_summary": "Anthropic's IPO registration (S-1) became publicly available, showing H1 2026 revenue of $16.3 billion (versus $4.6 billion for all of 2025) split roughly $4.7B in Q1 and $11.5B in Q2, an H1 2026 net loss of $80.7 billion driven mostly by non-cash charges tied to convertible-instrument valuation, about 25% of revenue concentrated in two customers without long-term contracts, and a target valuation near $2 trillion (Goldman Sachs and Morgan Stanley leading, possible November listing). The filing's publication (versus the leaked prospectus reported in September) drove a broad US market rally: S&P 500 +0.7% to 7,676.77, Nasdaq +0.82% to 26,169.38, Dow +0.28% to 52,361.58, snapping a two-week S&P/Nasdaq losing streak ahead of Microsoft, Alphabet and Amazon earnings and the Fed's policy meeting.",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rally-as-investors-parse-anthropic-ipo-filing-busy-week-of-tech-earnings-153428995.html",
+      "material_update_of": "anthropic-ipo-prospectus-leak-valuation-losses"
+    },
+    {
+      "event_id": "czech-koruna-constitutional-amendment",
+      "reported_date": "2026-10-27",
+      "event_date": "2026-10-26",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech cabinet",
+        "Motoriste",
+        "SPD",
+        "ODS"
+      ],
+      "event_type": "legislation",
+      "canonical_summary": "The Czech cabinet backed a constitutional amendment (sponsored by Motoriste and SPD) entrenching the koruna as the national currency, requiring three-fifths majorities of all deputies and of present senators to ever adopt the euro -- a much higher bar than ordinary legislation; the coalition lacks the needed votes alone and would need roughly 12 ODS votes.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/vlada-podporila-navrh-na-ustavni-zakotveni-koruny/2892762",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-cmkos-platform-work-campaign",
+      "reported_date": "2026-10-27",
+      "event_date": "2026-10-26",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "CMKOS",
+        "Czech Labour Ministry",
+        "PAQ Research"
+      ],
+      "event_type": "legislation_opposition",
+      "canonical_summary": "Czech trade union confederation CMKOS launched a 'Nechci ICO!' campaign against a Labour Code change accompanying the platform-work bill, which would require ALL of several criteria (including employer-set working hours) to count as dependent employment; PAQ Research estimates it could let employers reclassify 50,000-80,000 workers as self-employed, and CMKOS projects CZK 2.4 billion in lost state revenue per 10,000 workers shifted. Builds on the draft law first reviewed by cabinet in August 2026.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/odbory-zahajily-kampan-proti-zmene-definice-zamestnani-zadaji-stazeni-navrhu/2893233",
+      "material_update_of": "czech-platform-work-law-january-2027"
+    },
+    {
+      "event_id": "czech-fuel-price-cap-extended-november",
+      "reported_date": "2026-10-27",
+      "event_date": "2026-10-27",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Ministry of Finance"
+      ],
+      "event_type": "regulation_extension",
+      "canonical_summary": "The Czech government extended its fuel price cap regulation regime through the end of November. From Tuesday Oct 27, the maximum diesel price rose 0.27 CZK to 48.96 CZK/liter while the maximum petrol price fell 0.08 CZK to 44.47 CZK/liter, amid continued Middle East-linked oil market pressure; diesel excise tax was already cut in early October.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/maximalni-cena-nafty-v-utery-vzroste-na-4896-kcl-benzin-naopak-mirne-zlevni/2893299",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-d35-motorway-concession-contract",
+      "reported_date": "2026-10-27",
+      "event_date": "2026-10-26",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech cabinet",
+        "ViAlliance35",
+        "Cintra Global",
+        "Strabag Motorway",
+        "Budimex",
+        "Invesis"
+      ],
+      "event_type": "infrastructure_investment",
+      "canonical_summary": "The Czech cabinet approved a CZK 71.32 billion public-private-partnership concession contract with consortium ViAlliance35 (Cintra Global, Strabag Motorway, Budimex, Invesis) to complete the 35.4 km Opatovec-Mohelnice section of the D35 motorway; the contract still needs Chamber of Deputies approval, with financial close targeted Q1 2027 and roughly a six-year build.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/vlada-schvalila-koncesionarskou-smlouvu-na-dostavbu-dalnice-d35/2893213",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-star50-ai-stock-rout-480bn",
+      "reported_date": "2026-10-27",
+      "event_date": "2026-10-26",
+      "category": "China",
+      "entities": [
+        "STAR50 index",
+        "CSI300",
+        "Unitree",
+        "CXMT",
+        "MetaX",
+        "Moore Threads",
+        "Zhongji Innolight",
+        "Eoptolink"
+      ],
+      "event_type": "market_decline",
+      "canonical_summary": "Shanghai's STAR50 index of AI and semiconductor leaders has fallen roughly 40% in under four months, erasing about $480 billion in market value (still near 100x trailing earnings, down from ~250x peak); CSI300 is down ~20% from June highs. Drivers: stretched valuations, AI-demand doubts, threatened US bans on Chinese-made data-center optical components (Innolight, Eoptolink), tax bills, and a state crackdown on leverage and high-frequency trading. AI stocks are 42% of China's market cap and 57% of A/H-share turnover per Goldman Sachs.",
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/analysis-china-ai-bubble-already-120038616.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "eu-parliament-trade-delegation-china-visit-oct2026",
+      "reported_date": "2026-10-27",
+      "event_date": "2026-10-27",
+      "category": "China",
+      "entities": [
+        "European Parliament INTA committee",
+        "Bernd Lange",
+        "China Commerce Ministry",
+        "Unitree",
+        "BrainCo"
+      ],
+      "event_type": "diplomatic_visit",
+      "canonical_summary": "A European Parliament Committee on International Trade delegation led by chair Bernd Lange began its first China visit in eight years (Oct 27-29, Beijing/Hangzhou/Shanghai), covering critical raw materials, industrial overcapacity, EU market-access barriers, the EU's Industrial Accelerator Act, and the planned EU safeguard capping Chinese hybrid-vehicle imports at 350,000/year; visits planned to Unitree and BrainCo.",
+      "source_url": "https://news.europawire.eu/european-parliament-trade-delegation-to-discuss-market-access-and-industrial-challenges-during-china-visit/eu-press-release/2026/10/23/10/37/05/184032/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-september-industrial-profits-14-4-percent",
+      "reported_date": "2026-10-27",
+      "event_date": "2026-10-27",
+      "category": "China",
+      "entities": [
+        "China National Bureau of Statistics"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "China's National Bureau of Statistics reported September industrial profits up 14.4% year-on-year, the fastest growth in three months (versus 4.2% in August), lifting January-September cumulative growth to 15.5%; growth was attributed to AI-related equipment and robotics demand plus higher commodity prices, while consumer-facing manufacturers lagged.",
+      "source_url": "https://in.investing.com/news/economic-indicators/china-industrial-profits-rise-144-in-september-on-ai-demand-5655572",
+      "material_update_of": null
     }
   ]
 }

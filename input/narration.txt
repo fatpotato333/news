@@ -1,21 +1,37 @@
-Daily News for Monday, October 26, 2026.
+Daily News for Tuesday, October 27, 2026.
 
 Artificial intelligence.
 
-Elon Musk said SpaceX has closed forty billion dollars in debt financing to buy Nvidia chips for its Colossus two data center, with delivery expected in the first half of 2027. He also warned that debt markets are tightening for AI cloud providers, predicting many of the more than two hundred smaller players will fail or consolidate.
+Meta launched a 95 billion dollar stock offering, split between a 35 billion dollar public share sale and a 60 billion dollar ongoing program, to fund its AI infrastructure buildout, with Nvidia, AMD and Broadcom acting as cornerstone investors. Meta said it may need hundreds of billions of dollars more over the next several years.
 
-Apollo Global Management's chief economist found no measurable profit or productivity gains from artificial intelligence among S and P five hundred companies outside the seven largest tech firms, arguing most businesses still can't convert cheaper AI tools into higher margins.
+Microsoft confirmed it is offering buyouts to about 60,000 employees, mostly in Xbox, Windows, Copilot and finance roles, as part of a restructuring for the AI era; the company employed roughly 223,000 people as of June.
+
+Chip design software maker Cadence unveiled a new suite of AI models, built on Nvidia's open Nemotron technology, that let chipmakers run design agents in-house instead of in the public cloud, with early access planned for the fourth quarter.
+
+OpenAI says its models produced a proof disproving a longstanding computer science conjecture called the Exponential Time Hypothesis, plus progress toward two major math problems, the Kakeya conjecture and a Yang-Mills existence proof; these are company claims, not yet peer-reviewed or independently confirmed.
+
+Quantum computing.
+
+Britain's National Quantum Computing Centre reported progress under its 30 million pound quantum testbed program, with seven hardware makers, including Rigetti, QuEra and Quantum Motion, advancing systems evaluated at the Harwell campus; Rigetti upgraded its machine from 24 to 36 qubits, and regulators awarded 4.6 million pounds in follow-on funding.
+
+United States stock market.
+
+Anthropic's IPO filing went public Monday, showing 16.3 billion dollars in revenue for the first half of 2026, up from 4.6 billion for all of last year, and an 80.7 billion dollar net loss driven mostly by non-cash accounting charges, as the company targets a valuation near 2 trillion dollars. The news drove a broad market rally, with the S and P 500 and Nasdaq both closing higher, snapping a two-week losing streak ahead of this week's Federal Reserve meeting and Big Tech earnings.
 
 Czech Republic and Slovakia.
 
-Prime Minister Andrej Babiš confirmed the government will not withdraw its bill scrapping Czech Television and Czech Radio license fees, but is still negotiating how to replace the funding; a voluntary payment option is now planned for the bill's second reading.
+The Czech government backed a constitutional amendment that would entrench the koruna as the national currency, requiring three-fifths majorities in both chambers of Parliament to ever adopt the euro, a much higher bar than ordinary legislation.
 
-S and P Global Ratings reaffirmed Slovakia's sovereign credit rating at A with a stable outlook, days after parliament approved a 2027 budget with a deficit of nearly five percent of GDP.
+Czech trade unions launched a campaign against a labor code change in the platform-work bill, warning a narrower employment test could let employers reclassify tens of thousands of workers as self-employed contractors, costing the state budget billions of crowns in lost revenue.
+
+The Czech government extended its fuel price cap regulation through the end of November. Tuesday's maximum price for diesel rose to just under 49 crowns per liter, while petrol's cap eased slightly to about 44 and a half crowns, as Middle East-linked oil market pressure continues.
+
+The Czech cabinet approved a 71.3 billion crown concession contract for the final stretch of the D35 highway between Opatovec and Mohelnice, a public-private partnership that still needs parliamentary approval, with financial close targeted for early 2027.
 
 China.
 
-The Chinese Communist Party opened its Fifth Plenum in Beijing, a four day session focused on party discipline and anti-corruption that's expected to formalize sweeping leadership changes ahead of next year's party congress.
+The Shanghai STAR50 index of AI and chip stocks has fallen about 40 percent over four months, wiping out roughly 480 billion dollars in value, as investors weigh stretched valuations, doubts about AI demand, and the threat of new US export curbs on Chinese data center components.
 
-China's Liaoning aircraft carrier group passed near the Philippines and into the Philippine Sea around the same time as the US carrier Theodore Roosevelt, which is operating there during a joint exercise with Japan, Australia, Canada and France; the Philippine Navy shadowed the Chinese ships.
+A European Parliament trade delegation began its first visit to China in eight years, with talks through Wednesday covering critical raw materials, industrial overcapacity, and the European Union's planned cap on Chinese hybrid vehicle imports.
 
-North Korean leader Kim Jong Un made an unannounced visit to the Chinese border city of Dandong, accompanied by senior Chinese official Wang Huning, underscoring continuing economic ties between the two countries.
+China's industrial profits jumped 14.4 percent in September from a year earlier, the fastest pace in three months, driven by demand for AI equipment and robotics along with higher commodity prices.
