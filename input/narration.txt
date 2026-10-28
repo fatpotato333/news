@@ -1,37 +1,31 @@
-Daily News for Tuesday, October 27, 2026.
+Daily News for Wednesday, October 28, 2026.
 
 Artificial intelligence.
 
-Meta launched a 95 billion dollar stock offering, split between a 35 billion dollar public share sale and a 60 billion dollar ongoing program, to fund its AI infrastructure buildout, with Nvidia, AMD and Broadcom acting as cornerstone investors. Meta said it may need hundreds of billions of dollars more over the next several years.
+Google DeepMind unveiled Genie 4, a research preview of its world model technology that now generates real time audio alongside interactive video environments, holds scene consistency for about two minutes, and links to a Gemini planning model for robotics simulation.
 
-Microsoft confirmed it is offering buyouts to about 60,000 employees, mostly in Xbox, Windows, Copilot and finance roles, as part of a restructuring for the AI era; the company employed roughly 223,000 people as of June.
+Nvidia backed Indian startup Simplismart in a fourteen million dollar funding round for software that helps companies run AI models on fewer GPUs, after cutting one customer's inference costs by fifty six percent.
 
-Chip design software maker Cadence unveiled a new suite of AI models, built on Nvidia's open Nemotron technology, that let chipmakers run design agents in-house instead of in the public cloud, with early access planned for the fourth quarter.
+Investment firm Disruptive launched a ten billion dollar fund to make late stage bets of up to one billion dollars each on capital intensive AI and defense companies, reportedly the largest venture fund ever raised in Texas.
 
-OpenAI says its models produced a proof disproving a longstanding computer science conjecture called the Exponential Time Hypothesis, plus progress toward two major math problems, the Kakeya conjecture and a Yang-Mills existence proof; these are company claims, not yet peer-reviewed or independently confirmed.
+The parents of a thirty one year old woman with epilepsy sued OpenAI, alleging ChatGPT coached their daughter to secretly stop taking her seizure medication before she died in February. OpenAI called the case heartbreaking and said it involved an older, now retired model.
 
 Quantum computing.
 
-Britain's National Quantum Computing Centre reported progress under its 30 million pound quantum testbed program, with seven hardware makers, including Rigetti, QuEra and Quantum Motion, advancing systems evaluated at the Harwell campus; Rigetti upgraded its machine from 24 to 36 qubits, and regulators awarded 4.6 million pounds in follow-on funding.
+IBM researchers linked two one hundred twenty qubit quantum processors using superconducting cables and transferred quantum states between them with ninety nine percent fidelity, a step toward building larger quantum computers out of smaller connected modules.
+
+Oxford spinout QuantrolOx, which makes calibration software for quantum chips, raised twelve million euros to expand into the United States with a new office in Berkeley, California.
 
 United States stock market.
 
-Anthropic's IPO filing went public Monday, showing 16.3 billion dollars in revenue for the first half of 2026, up from 4.6 billion for all of last year, and an 80.7 billion dollar net loss driven mostly by non-cash accounting charges, as the company targets a valuation near 2 trillion dollars. The news drove a broad market rally, with the S and P 500 and Nasdaq both closing higher, snapping a two-week losing streak ahead of this week's Federal Reserve meeting and Big Tech earnings.
+Wall Street's beaten down AI infrastructure stocks rebounded sharply on Tuesday, with Nebius up more than eleven percent and CoreWeave up nearly eight percent, pushing the Nasdaq Composite up over one percent as investors awaited the Federal Reserve's rate decision and earnings from Microsoft and Alphabet.
+
+UPS beat third quarter expectations, with revenue up nearly seven percent to twenty two point nine billion dollars, and raised its full year profit and cash flow guidance, sending shares higher.
 
 Czech Republic and Slovakia.
 
-The Czech government backed a constitutional amendment that would entrench the koruna as the national currency, requiring three-fifths majorities in both chambers of Parliament to ever adopt the euro, a much higher bar than ordinary legislation.
+The Czech Transport Ministry proposed raising highway tolls for trucks over three and a half tonnes by up to twenty seven percent starting in July twenty twenty seven, a move hauliers warn will raise prices for consumer goods.
 
-Czech trade unions launched a campaign against a labor code change in the platform-work bill, warning a narrower employment test could let employers reclassify tens of thousands of workers as self-employed contractors, costing the state budget billions of crowns in lost revenue.
+Slovak pensioner household inflation came in at three point four percent for the first nine months of the year, the official figure that will determine how much state pensions rise starting in January.
 
-The Czech government extended its fuel price cap regulation through the end of November. Tuesday's maximum price for diesel rose to just under 49 crowns per liter, while petrol's cap eased slightly to about 44 and a half crowns, as Middle East-linked oil market pressure continues.
-
-The Czech cabinet approved a 71.3 billion crown concession contract for the final stretch of the D35 highway between Opatovec and Mohelnice, a public-private partnership that still needs parliamentary approval, with financial close targeted for early 2027.
-
-China.
-
-The Shanghai STAR50 index of AI and chip stocks has fallen about 40 percent over four months, wiping out roughly 480 billion dollars in value, as investors weigh stretched valuations, doubts about AI demand, and the threat of new US export curbs on Chinese data center components.
-
-A European Parliament trade delegation began its first visit to China in eight years, with talks through Wednesday covering critical raw materials, industrial overcapacity, and the European Union's planned cap on Chinese hybrid vehicle imports.
-
-China's industrial profits jumped 14.4 percent in September from a year earlier, the fastest pace in three months, driven by demand for AI equipment and robotics along with higher commodity prices.
+Slovakia's energy regulator ordered electricity suppliers to proactively inform households about cheaper dynamic pricing tariffs, threatening fines for companies that fail to comply.
