@@ -13370,6 +13370,181 @@
       "canonical_summary": "Slovakia's energy regulator URSO amended rules to make it easier for households to switch to dynamic hourly or 15-minute electricity tariffs and imposed a new duty on electricity suppliers to proactively inform customers about dynamic-tariff options, with fines threatened for non-compliant suppliers.",
       "source_url": "https://www.teraz.sk/ekonomika/urso-urychluje-dynamicke-tarify-elek/1003112-clanok.html",
       "material_update_of": null
+    },
+    {
+      "event_id": "fed-holds-rates-3p75-4p00-split-vote",
+      "reported_date": "2026-10-29",
+      "event_date": "2026-10-28",
+      "category": "US Stock Market",
+      "entities": [
+        "Federal Reserve",
+        "FOMC",
+        "Kevin Warsh"
+      ],
+      "event_type": "fed_decision",
+      "canonical_summary": "The Federal Reserve held its benchmark rate at 3.75%-4.00% at the conclusion of its Oct 27-28 FOMC meeting in a 10-2 vote, with Cleveland Fed President Beth Hammack and Governor Lisa Cook dissenting in favor of a hike; Chair Kevin Warsh said a 2027 meeting will be devoted solely to policy-strategy review, and markets priced an ~83-85% chance of a December rate cut as the 10-year Treasury yield rose above 5%.",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rise-as-fed-holds-rates-steady-in-split-vote-185837696.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "microsoft-q1-fy2027-earnings-azure-48-percent",
+      "reported_date": "2026-10-29",
+      "event_date": "2026-10-28",
+      "category": "US Stock Market",
+      "entities": [
+        "Microsoft",
+        "Azure"
+      ],
+      "event_type": "earnings",
+      "canonical_summary": "Microsoft reported fiscal Q1 2027 revenue of $92.3 billion (+19% year-on-year) and adjusted EPS of $4.89/$4.92, beating estimates, with Azure cloud revenue up 48% to $33.17 billion though free cash flow fell about 27% on $39.4 billion in capital spending; shares rose about 2.7-2.9% after hours.",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526436122/msft-ex99_1.htm",
+      "material_update_of": null
+    },
+    {
+      "event_id": "alphabet-q3-2026-cloud-103-percent-stock-falls",
+      "reported_date": "2026-10-29",
+      "event_date": "2026-10-28",
+      "category": "US Stock Market",
+      "entities": [
+        "Alphabet",
+        "Google Cloud",
+        "Google DeepMind"
+      ],
+      "event_type": "earnings",
+      "canonical_summary": "Alphabet reported Q3 2026 revenue of $127.6 billion (+25%) with Google Cloud revenue up 103% to $30.7 billion on TPU and AI-infrastructure demand, but diluted EPS fell to $2.12 on an $8.7 billion equity-securities loss and capex nearly doubled to $51.4 billion, pushing free cash flow negative $9.1 billion for the quarter; shares fell about 10% after hours.",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000080/googexhibit991q32026.htm",
+      "material_update_of": null
+    },
+    {
+      "event_id": "oracle-investor-day-225b-fy2030-target",
+      "reported_date": "2026-10-29",
+      "event_date": "2026-10-28",
+      "category": "US Stock Market",
+      "entities": [
+        "Oracle"
+      ],
+      "event_type": "guidance",
+      "canonical_summary": "Oracle set FY2030 targets at its investor day of more than $225 billion in total revenue, a 40%+ operating margin, and over $21 non-GAAP EPS, while capping new capital raises at $20 billion through FY2030 to ease AI-buildout funding concerns; shares jumped about 11-12%.",
+      "source_url": "https://www.fool.com/coverage/stock-market-today/2026/10/28/stock-market-today-oct-28-markets-edge-higher-as-fed-holds-rates-steady/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "sydney-ibm-nighthawk-logical-entanglement-170-rounds",
+      "reported_date": "2026-10-29",
+      "event_date": "2026-10-28",
+      "category": "Quantum Computing",
+      "entities": [
+        "University of Sydney",
+        "IBM Quantum"
+      ],
+      "event_type": "hardware_demonstration",
+      "canonical_summary": "University of Sydney researchers working with IBM Quantum demonstrated logical Bell-state preparation and three-logical-qubit teleportation on IBM's 120-qubit Nighthawk r2 processor (ibm_phoenix), reporting memory error below 1% per round and stable error suppression across 170 rounds; published as an arXiv preprint (2610.32347), not yet peer-reviewed.",
+      "source_url": "https://quantumcomputingreport.com/university-of-sydney-demonstrates-multi-qubit-logical-entanglement-and-170-round-stability-on-ibm-square-lattice-nighthawk-r2-processor/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "nvision-molecular-spin-photon-qubit-nature",
+      "reported_date": "2026-10-29",
+      "event_date": "2026-10-28",
+      "category": "Quantum Computing",
+      "entities": [
+        "NVision Imaging Technologies",
+        "Ulm University",
+        "Hebrew University of Jerusalem",
+        "HyperLight"
+      ],
+      "event_type": "research_finding",
+      "canonical_summary": "NVision Imaging Technologies and university partners published a peer-reviewed Nature paper demonstrating a single synthetic carbene molecule as an individually addressable, optically controlled spin-photon qubit with millisecond-scale coherence at 4.5 Kelvin, and announced a partnership with HyperLight to integrate the molecules onto photonic chips, targeting an on-chip prototype by end of 2026.",
+      "source_url": "https://quantumcomputingreport.com/nvision-demonstrates-addressable-molecular-spin-photon-interface-and-partners-with-hyperlight-for-integrated-photonic-hardware/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "epb-ionq-trapped-ion-power-grid-optimization",
+      "reported_date": "2026-10-29",
+      "event_date": "2026-10-28",
+      "category": "Quantum Computing",
+      "entities": [
+        "EPB (Chattanooga)",
+        "IonQ",
+        "NIST"
+      ],
+      "event_type": "application_demonstration",
+      "canonical_summary": "Chattanooga utility EPB and IonQ published preprints on hybrid quantum-classical algorithms run on IonQ's Forte Enterprise trapped-ion system to optimize power-grid topology, reporting a quantum-enhanced approach that cut classical solver runtime on a 417-bus network from about 1,415 seconds to 34.7 seconds; work is preprint-stage, partly hardware-validated under a $4 million NIST grant.",
+      "source_url": "https://quantumcomputingreport.com/epb-and-ionq-deploy-hybrid-trapped-ion-algorithms-on-forte-enterprise-to-optimize-power-grid-topology/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-cnb-rate-hike-expected-nov5-mortgage-jump",
+      "reported_date": "2026-10-29",
+      "event_date": "2026-10-28",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Ceska narodni banka",
+        "Jakub Seidler"
+      ],
+      "event_type": "monetary_policy",
+      "canonical_summary": "CNB board member Jakub Seidler signaled the central bank is likely to raise its rate from 3.75% to 4% at its November 5 meeting due to persistent energy-driven inflation; average Czech mortgage offer rates have already climbed to 5.79%, pushing monthly payments on a typical 4-million-crown, 25-year mortgage up roughly 2,200 crowns since March, with further hikes possible.",
+      "source_url": "https://zpravy.kurzy.cz/879735-cnb-chysta-dalsi-zvyseni-uroku-domacnosti-pritom-uz-dnes-celi-skokovemu-narustu-splatek-hypotek/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "european-gas-price-100eur-hormuz-tensions",
+      "reported_date": "2026-10-29",
+      "event_date": "2026-10-28",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "URSO",
+        "TTF exchange",
+        "SPP"
+      ],
+      "event_type": "energy_price",
+      "canonical_summary": "Dutch TTF gas prices briefly topped 100 euros per megawatt-hour, the highest since December 2022, as Gulf tensions curbed Qatari LNG exports; Slovakia's regulator says the spike won't change fixed 2027 household energy prices, but industrial users on market contracts face immediate cost pressure, and Slovak gas storage sits at just 55% versus the EU's 75%.",
+      "source_url": "https://www.pravda.sk/spravy/ekonomika/clanok/2068487-trump-posiela-europe-pozdrav-uzavrety-hormuz-tlaci-nahor-ceny-plynu-dockame-sa-vyssich-uctov",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-2027-budget-signed-4p94-percent-deficit",
+      "reported_date": "2026-10-29",
+      "event_date": "2026-10-28",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "President Peter Pellegrini",
+        "Slovak Ministry of Finance"
+      ],
+      "event_type": "fiscal_policy",
+      "canonical_summary": "Slovak President Peter Pellegrini signed the 2027 state budget into law, locking in a general government deficit of 7.443 billion euros, or 4.94% of GDP, up from 4.37% in 2026; the Finance Ministry says further consolidation measures will be needed to bring the deficit down to 4% in subsequent years.",
+      "source_url": "https://www.pravda.sk/spravy/domace/clanok/2068159-prezident-podpisal-rozpocet-na-rok-2027-schodok-atakuje-7-5-miliardu-eur",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-pension-85plus-minimum-710eur",
+      "reported_date": "2026-10-29",
+      "event_date": "2026-10-28",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "President Peter Pellegrini",
+        "Socialna poistovna"
+      ],
+      "event_type": "pension_policy",
+      "canonical_summary": "Slovak President Pellegrini signed an amendment guaranteeing pensioners aged 85 and older with at least 30 years of insurance a minimum pension of 710 euros a month from January 2027; the Social Insurance Agency must finalize eligible amounts by the end of March 2027, applied retroactively for those who qualify before March 1.",
+      "source_url": "https://www.topky.sk/cl/10/9541403/Pellegrini-podpisal-dalsie-novely--Dochodcom-nad-85-rokov-stupne-penzia--zmeny-cakaju-aj-chranene-uzemia-a-chov-zvierat",
+      "material_update_of": null
+    },
+    {
+      "event_id": "eu-china-trade-delegation-beijing-visit-2026",
+      "reported_date": "2026-10-29",
+      "event_date": "2026-10-28",
+      "category": "China",
+      "entities": [
+        "European Parliament INTA Committee",
+        "Bernd Lange",
+        "Wang Wentao",
+        "Chinese Ministry of Commerce"
+      ],
+      "event_type": "diplomatic_trade_relations",
+      "canonical_summary": "A European Parliament trade delegation led by Bernd Lange met China's commerce minister Wang Wentao in Beijing, raising the EU's roughly 1 billion euro daily trade deficit with China, market access, industrial overcapacity and rare-earth supply, while Wang called China a partner rather than a problem; no new agreement was reached, with the next formal contacts set for early 2027.",
+      "source_url": "https://www.brusselstimes.com/2374945/eu-trade-delegation-to-confront-e1-billion-daily-deficit-in-china-meetings",
+      "material_update_of": null
     }
   ]
 }
