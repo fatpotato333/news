@@ -1,33 +1,25 @@
-Daily News for Thursday, October 29, 2026.
-
-Quantum computing.
-
-University of Sydney researchers working with IBM linked three logical qubits on IBM's new Nighthawk processor, preparing entangled logical states and holding error suppression steady across 170 rounds of error correction. The result is a preprint, not yet peer reviewed, but a genuine hardware demonstration.
-
-A team including NVision Imaging Technologies showed in a peer reviewed Nature paper that a single engineered molecule can serve as an individually controllable quantum bit using light, with millisecond-scale memory at just above four Kelvin. NVision is now partnering with HyperLight to put the molecules onto photonic chips.
-
-Utility company EPB in Chattanooga and IonQ used a trapped-ion quantum computer to help optimize power grid routing, cutting a classical solver's runtime on a large network from about 24 minutes to under 35 seconds in early testing, under a National Institute of Standards and Technology grant.
-
-United States stock market.
-
-The Federal Reserve held interest rates steady at 3.75 to 4 percent in a 10 to 2 vote, with two officials pushing for a hike instead. The 10-year Treasury yield rose above 5 percent, and markets now expect a possible rate cut in December.
-
-Microsoft beat earnings expectations for its first fiscal quarter, with revenue up 19 percent and Azure cloud growth of 48 percent, though free cash flow fell as capital spending nearly doubled. Shares rose about 3 percent after hours.
-
-Alphabet's quarterly revenue rose 25 percent and Google Cloud revenue more than doubled on surging demand for its AI chips, but profit was dented by an investment loss and capital spending nearly doubled, pushing free cash flow negative. Shares fell about 10 percent.
-
-Oracle shares jumped about 12 percent after the company set a target of more than 225 billion dollars in annual revenue by 2030 and capped new borrowing, easing investor worries about the cost of its AI data center buildout.
-
-Czech Republic and Slovakia.
-
-A Czech National Bank board member signaled the bank will likely raise its key rate to 4 percent on November 5th to fight energy-driven inflation. Average mortgage rates have already climbed to 5.79 percent, adding thousands of crowns a year to typical payments.
-
-European wholesale gas prices briefly topped 100 euros per megawatt hour, the highest since 2022, after Gulf tensions curbed Qatari exports. Slovakia's regulator says fixed 2027 household prices won't change, but industrial users on market contracts face immediate higher costs.
-
-Slovak President Peter Pellegrini signed the 2027 state budget into law, locking in a deficit of nearly 4.9 percent of gross domestic product. The finance ministry says further austerity measures will be needed to bring it down in later years.
-
-Pellegrini also signed a law guaranteeing Slovaks aged 85 and older with at least 30 years of pension contributions a minimum pension of 710 euros a month starting in January, with back pay for those who qualify.
+Daily News for Friday, October 30, 2026.
 
 China.
 
-A European Parliament trade delegation met China's commerce minister in Beijing to press concerns over the European Union's roughly one billion euro a day trade deficit with China, market access, and rare earth supplies. No new agreement was reached, with further talks set for early next year.
+The U.S. Federal Communications Commission voted to bar all Chinese test and certification labs from certifying electronics sold in the United States, citing national security concerns. The ban takes effect in December 2028, with existing device certifications unaffected until then.
+
+The Chinese Communist Party's Fifth Plenum concluded in Beijing after four days, adopting a resolution on party discipline and elevating military anti-corruption chief Zhang Shengmin to the Politburo, with no successor to Xi Jinping signaled ahead of the 2027 Party Congress.
+
+Chinese insurers Ping An and China Pacific Insurance reported third quarter net profit plunging 94 percent and 68 percent respectively, as a slide in Chinese stock markets hit their investment returns.
+
+Quantum computing.
+
+Finnish quantum company IQM entangled all 54 qubits of its cloud-accessible Emerald processor simultaneously for the first time, a milestone it credits to about a year of calibration work and roughly halved gate error rates. The processor is now available to cloud users.
+
+United States stock market.
+
+Amazon's cloud unit AWS grew 39 percent in the third quarter, its fastest pace in about five years, and operating income hit a record 13.9 percent margin. Shares still fell as much as 10 percent in after-hours trading as investors extended worries from Alphabet's results about returns on heavy AI spending.
+
+Czech Republic and Slovakia.
+
+The European Commission approved the final payment of about 23 billion koruna to Czechia under the EU's post-pandemic recovery plan, closing out funding for affordable rental housing, a new cancer institute at Motol, university campuses, and public transport electrification.
+
+The European Central Bank held its deposit rate at 2.5 percent, with some policymakers flagging energy-driven inflation risks that markets read as raising the odds of a rate increase in December, a move that would feed directly into Slovak mortgage and loan costs.
+
+Slovakia's financial administration reminded consumers that a new European Union customs handling fee of 2 euros per item on parcels ordered from outside the EU, aimed at platforms like Temu, Shein and AliExpress, takes effect on November 1st, on top of an existing 3 euro duty on orders under 150 euros.

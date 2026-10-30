@@ -13545,6 +13545,117 @@
       "canonical_summary": "A European Parliament trade delegation led by Bernd Lange met China's commerce minister Wang Wentao in Beijing, raising the EU's roughly 1 billion euro daily trade deficit with China, market access, industrial overcapacity and rare-earth supply, while Wang called China a partner rather than a problem; no new agreement was reached, with the next formal contacts set for early 2027.",
       "source_url": "https://www.brusselstimes.com/2374945/eu-trade-delegation-to-confront-e1-billion-daily-deficit-in-china-meetings",
       "material_update_of": null
+    },
+    {
+      "event_id": "fcc-bans-chinese-test-labs",
+      "reported_date": "2026-10-30",
+      "event_date": "2026-10-29",
+      "category": "China",
+      "entities": [
+        "Federal Communications Commission",
+        "China"
+      ],
+      "event_type": "regulation_decision",
+      "canonical_summary": "The FCC voted to bar all Chinese test and certification labs, including those outside China that deny reciprocal treatment to US labs, from certifying electronic devices sold in the United States; the prohibition takes effect in December 2028, with existing equipment grants unaffected in the interim.",
+      "source_url": "https://sg.news.yahoo.com/fcc-votes-ban-chinese-labs-152828939.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "ccp-fifth-plenum-zhang-shengmin-politburo",
+      "reported_date": "2026-10-30",
+      "event_date": "2026-10-29",
+      "category": "China",
+      "entities": [
+        "Chinese Communist Party",
+        "Zhang Shengmin",
+        "Xi Jinping"
+      ],
+      "event_type": "political_event",
+      "canonical_summary": "The Fifth Plenary Session of the CCP's 20th Central Committee concluded in Beijing, adopting a resolution on party self-governance and discipline, and electing PLA anti-corruption chief Zhang Shengmin to the Politburo, ahead of the 21st Party Congress in 2027.",
+      "source_url": "https://english.news.cn/20261029/2eb3bfd7e50d44868dfbd48b525964a5/c.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "ping-an-cpic-q3-profit-plunge",
+      "reported_date": "2026-10-30",
+      "event_date": "2026-10-29",
+      "category": "China",
+      "entities": [
+        "Ping An Insurance",
+        "China Pacific Insurance"
+      ],
+      "event_type": "earnings_decline",
+      "canonical_summary": "Shanghai-listed Ping An Insurance and China Pacific Insurance reported Q3 2026 net profit falling 93.7% and 68.4% respectively, attributed to a stock-market downturn hitting investment returns; both insurers said they plan to reduce equity exposure going forward.",
+      "source_url": "https://caixinglobal.com/2026-10-29/chinese-insurers-profits-plunge-as-stock-market-slides-102498510.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "iqm-54-qubit-full-chip-entanglement",
+      "reported_date": "2026-10-30",
+      "event_date": "2026-10-29",
+      "category": "Quantum Computing",
+      "entities": [
+        "IQM"
+      ],
+      "event_type": "hardware_milestone",
+      "canonical_summary": "IQM entangled all 54 qubits of its cloud-accessible Emerald superconducting processor simultaneously in a GHZ-state circuit, up from a prior reliable ceiling of about 30 qubits, following roughly a year of calibration work and about a 50% error-rate reduction; now live for cloud users.",
+      "source_url": "https://iqm.tech/press-releases/iqm-demonstrates-entanglement-across-a-complete-54-qubit-processor-bringing-full-chip-performance-to-cloud-users/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "amazon-q3-2026-aws-39pct-growth-stock-drop",
+      "reported_date": "2026-10-30",
+      "event_date": "2026-10-29",
+      "category": "US Stock Market",
+      "entities": [
+        "Amazon",
+        "AWS"
+      ],
+      "event_type": "earnings_release",
+      "canonical_summary": "Amazon reported Q3 2026 net sales of $201.9B (+12%) and record operating margin of 13.9%, with AWS net sales up 39.3% YoY to $46.0B, its fastest growth in about five years; shares nonetheless fell as much as 10% in after-hours trading on investor concern about AI capital spending returns, echoing the reaction to Alphabet's results reported the same week.",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001018724/000101872426000038/amzn-20260930xex991.htm",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czechia-eu-recovery-plan-final-tranche",
+      "reported_date": "2026-10-30",
+      "event_date": "2026-10-29",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "European Commission",
+        "Czech Republic"
+      ],
+      "event_type": "funding_approval",
+      "canonical_summary": "The European Commission approved the seventh and final tranche of about 23 billion CZK (EUR 951M) to Czechia under the EU Recovery and Resilience Facility, funding affordable rental housing, the National Cancer Institute at Motol, university campuses, community energy, Prague transport electrification and other projects tied to 13 milestones and 25 targets.",
+      "source_url": "https://zpravy.aktualne.cz/ekonomika/evropska-komise-schvalila-posledni-miliardy-pro-cesko-v-ramci-narodniho-planu-obnovy/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "ecb-holds-rate-2p5-december-hike-signal",
+      "reported_date": "2026-10-30",
+      "event_date": "2026-10-29",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "European Central Bank"
+      ],
+      "event_type": "monetary_policy_decision",
+      "canonical_summary": "The ECB Governing Council held its deposit rate at 2.50%, with officials flagging growing energy-driven inflation risk; markets are pricing a possible further rate increase by December, which would directly affect borrowing costs in eurozone member Slovakia.",
+      "source_url": "https://www.teraz.sk/ekonomika/ecb-ponechala-hlavnu-urokovu-sadzbu-n/1003752-clanok.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "eu-parcel-handling-fee-nov1-slovakia-notice",
+      "reported_date": "2026-10-30",
+      "event_date": "2026-10-29",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "European Union",
+        "Slovak Financial Administration"
+      ],
+      "event_type": "regulation_effective_notice",
+      "canonical_summary": "Slovakia's Financial Administration issued a consumer notice ahead of a new EU-wide EUR 2 per-item customs handling fee on parcels from non-EU online retailers (targeting platforms like Temu, Shein and AliExpress), taking effect 1 November 2026 under Commission Delegated Regulation (EU) 2026/2152, on top of the existing EUR 3 duty on sub-EUR150 parcels introduced in July 2026.",
+      "source_url": "https://www.teraz.sk/ekonomika/fs-pri-zasielkach-z-krajin-mimo-eu-p/1003640-clanok.html",
+      "material_update_of": null
     }
   ]
 }
