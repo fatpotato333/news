@@ -13656,6 +13656,118 @@
       "canonical_summary": "Slovakia's Financial Administration issued a consumer notice ahead of a new EU-wide EUR 2 per-item customs handling fee on parcels from non-EU online retailers (targeting platforms like Temu, Shein and AliExpress), taking effect 1 November 2026 under Commission Delegated Regulation (EU) 2026/2152, on top of the existing EUR 3 duty on sub-EUR150 parcels introduced in July 2026.",
       "source_url": "https://www.teraz.sk/ekonomika/fs-pri-zasielkach-z-krajin-mimo-eu-p/1003640-clanok.html",
       "material_update_of": null
+    },
+    {
+      "event_id": "us-stocks-ai-capex-selloff-oct30-intel-crash",
+      "reported_date": "2026-10-31",
+      "event_date": "2026-10-30",
+      "category": "US Stock Market",
+      "entities": [
+        "S&P 500",
+        "Nasdaq",
+        "Dow Jones",
+        "Nvidia"
+      ],
+      "event_type": "market_selloff",
+      "canonical_summary": "US stocks had their worst day since June on Oct 30, 2026 (S&P 500 -1.8%, Nasdaq -2.9%, Dow -1.1%), driven by investor doubts over AI infrastructure spending returns, dragging down Nvidia and other chip stocks.",
+      "source_url": "https://bnnbloomberg.ca/markets/2026/10/30/the-sell-off-for-tech-stocks-deepens-and-drags-wall-street-toward-its-worst-day-since-june",
+      "material_update_of": null
+    },
+    {
+      "event_id": "intel-q4-guidance-stock-crash-worst-since-1974",
+      "reported_date": "2026-10-31",
+      "event_date": "2026-10-30",
+      "category": "US Stock Market",
+      "entities": [
+        "Intel"
+      ],
+      "event_type": "earnings_guidance_stock_move",
+      "canonical_summary": "Intel shares fell about 28.6%, their worst single day since 1974, after the company guided Q4 2026 revenue and EPS well below estimates despite a Q3 beat, with its CFO warning the PC slowdown will continue into H1 2027.",
+      "source_url": "https://www.stocktitan.net/articles/stock-market-today-live-october-30-2026",
+      "material_update_of": null
+    },
+    {
+      "event_id": "reddit-q3-2026-guidance-miss-stock-crash",
+      "reported_date": "2026-10-31",
+      "event_date": "2026-10-30",
+      "category": "US Stock Market",
+      "entities": [
+        "Reddit"
+      ],
+      "event_type": "earnings_guidance_stock_move",
+      "canonical_summary": "Reddit shares fell about 29.2% after Q3 results showed weaker than expected daily active users and soft Q4 revenue guidance, compounded by investor concern over a plan to restrict forum access to logged-in users.",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "cez-electricity-gas-price-hike-jan2027",
+      "reported_date": "2026-10-31",
+      "event_date": "2026-10-30",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "CEZ"
+      ],
+      "event_type": "price_change_announcement",
+      "canonical_summary": "Czech utility CEZ announced it will raise electricity prices about 3.5% and gas prices about 6.5% for 1.6 million customers without fixed-term contracts starting January 2027, citing sharply higher wholesale energy costs.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/cez-pristi-rok-zdrazi-16-milionu-klientu-o-jednotky-procent-elektrinu-a-plyn/2895116",
+      "material_update_of": null
+    },
+    {
+      "event_id": "zssk-wage-increase-december2026",
+      "reported_date": "2026-10-31",
+      "event_date": "2026-10-30",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "ZSSK",
+        "Slovak Railways"
+      ],
+      "event_type": "labor_agreement",
+      "canonical_summary": "Slovak Railways (ZSSK) signed a collective agreement amendment raising average wages 8.4% and giving every employee a one-time 350 euro bonus, effective December 1, 2026, plus a higher employer pension contribution.",
+      "source_url": "https://www.teraz.sk/ekonomika/zssk-zvysi-od-decembra-mzdy-v-priemere/1004005-clanok.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-rrz-2026-deficit-estimate-raised",
+      "reported_date": "2026-10-31",
+      "event_date": "2026-10-30",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Slovak Fiscal Council (RRZ)"
+      ],
+      "event_type": "fiscal_forecast",
+      "canonical_summary": "Slovakia's Fiscal Council (RRZ) raised its 2026 general-government deficit estimate to 4.4% of GDP (about 6.4 billion euros), citing higher defense spending and underbudgeted municipal costs, signaling pressure for further consolidation.",
+      "source_url": "https://www.teraz.sk/ekonomika/rrz-zvysila-odhad-deficitu-verejnej-sp/1003925-clanok.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "steinmeier-xi-beijing-talks-germany-china",
+      "reported_date": "2026-10-31",
+      "event_date": "2026-10-30",
+      "category": "China",
+      "entities": [
+        "Germany",
+        "Frank-Walter Steinmeier",
+        "Xi Jinping"
+      ],
+      "event_type": "diplomatic_meeting",
+      "canonical_summary": "German President Frank-Walter Steinmeier met Xi Jinping, Li Qiang and Zhao Leji in Beijing on his first state visit to China since 2018; Xi urged Germany to maintain a pragmatic China policy amid a record German trade deficit with China and EU pressure for tougher trade measures.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-10-30/xi-urges-germany-to-maintain-pragmatic-policy-toward-china",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-mfa-rejects-megaspeed-nvidia-espionage-report",
+      "reported_date": "2026-10-31",
+      "event_date": "2026-10-30",
+      "category": "China",
+      "entities": [
+        "China Ministry of Foreign Affairs",
+        "Nvidia",
+        "Megaspeed"
+      ],
+      "event_type": "diplomatic_statement",
+      "canonical_summary": "China's Foreign Ministry dismissed as a smear a New York Times report alleging a Chinese businesswoman linked to Nvidia chip reseller Megaspeed passed intelligence to Beijing, amid an ongoing US and Singapore investigation into billions of dollars in diverted AI chips.",
+      "source_url": "https://www.fmprc.gov.cn/mfa_eng/xw/fyrbt/202610/t20261030_12050434.html",
+      "material_update_of": null
     }
   ]
 }

@@ -1,25 +1,23 @@
-Daily News for Friday, October 30, 2026.
-
-China.
-
-The U.S. Federal Communications Commission voted to bar all Chinese test and certification labs from certifying electronics sold in the United States, citing national security concerns. The ban takes effect in December 2028, with existing device certifications unaffected until then.
-
-The Chinese Communist Party's Fifth Plenum concluded in Beijing after four days, adopting a resolution on party discipline and elevating military anti-corruption chief Zhang Shengmin to the Politburo, with no successor to Xi Jinping signaled ahead of the 2027 Party Congress.
-
-Chinese insurers Ping An and China Pacific Insurance reported third quarter net profit plunging 94 percent and 68 percent respectively, as a slide in Chinese stock markets hit their investment returns.
-
-Quantum computing.
-
-Finnish quantum company IQM entangled all 54 qubits of its cloud-accessible Emerald processor simultaneously for the first time, a milestone it credits to about a year of calibration work and roughly halved gate error rates. The processor is now available to cloud users.
+Daily News for Saturday, October 31, 2026.
 
 United States stock market.
 
-Amazon's cloud unit AWS grew 39 percent in the third quarter, its fastest pace in about five years, and operating income hit a record 13.9 percent margin. Shares still fell as much as 10 percent in after-hours trading as investors extended worries from Alphabet's results about returns on heavy AI spending.
+Wall Street posted its worst day since June on Friday, with the S and P 500 falling one point eight percent, the Nasdaq dropping two point nine percent, and the Dow down one point one percent, as investors questioned whether massive AI infrastructure spending will pay off, dragging down Nvidia and other chip stocks.
+
+Intel shares crashed nearly twenty nine percent, their worst single day since nineteen seventy four, after the company guided fourth quarter revenue and profit well below Wall Street estimates, with its finance chief warning the PC slowdown will continue into next year.
+
+Reddit shares plunged just over twenty nine percent after the company reported weaker than expected daily active users and issued soft current quarter revenue guidance, compounded by investor concern over its plan to restrict forum access to logged in users.
 
 Czech Republic and Slovakia.
 
-The European Commission approved the final payment of about 23 billion koruna to Czechia under the EU's post-pandemic recovery plan, closing out funding for affordable rental housing, a new cancer institute at Motol, university campuses, and public transport electrification.
+Czech utility CEZ announced it will raise electricity prices about three and a half percent and gas prices about six and a half percent for one point six million customers without fixed contracts starting January 2027, citing sharply higher wholesale energy costs.
 
-The European Central Bank held its deposit rate at 2.5 percent, with some policymakers flagging energy-driven inflation risks that markets read as raising the odds of a rate increase in December, a move that would feed directly into Slovak mortgage and loan costs.
+Slovak Railways agreed to raise average wages eight point four percent and pay every employee a one time three hundred fifty euro bonus starting December 2026, under a new collective bargaining deal with unions.
 
-Slovakia's financial administration reminded consumers that a new European Union customs handling fee of 2 euros per item on parcels ordered from outside the EU, aimed at platforms like Temu, Shein and AliExpress, takes effect on November 1st, on top of an existing 3 euro duty on orders under 150 euros.
+Slovakia's Fiscal Council raised its 2026 public deficit estimate to four point four percent of GDP, about six point four billion euros, citing higher defense spending and underbudgeted municipal costs, signaling pressure for further budget measures.
+
+China.
+
+German President Frank Walter Steinmeier met Xi Jinping in Beijing, where Xi urged Germany to keep a pragmatic policy toward China, as Berlin faces a record trade deficit with Beijing and pressure from Brussels for tougher trade measures.
+
+China's foreign ministry dismissed as a smear a New York Times report alleging a Chinese businesswoman linked to a major Nvidia chip reseller passed intelligence to Beijing, amid an ongoing United States and Singapore investigation into billions of dollars in diverted AI chips.
