@@ -1,23 +1,35 @@
-Daily News for Saturday, October 31, 2026.
+Daily News for Sunday, November 1, 2026.
+
+Artificial intelligence.
+
+OpenAI has lowered the target for its new funding round from around thirty billion dollars to as little as twenty billion dollars, after a tepid response from some large investors. The Financial Times and Wall Street Journal report the round, led by investors in the United Arab Emirates, has secured eleven billion dollars so far, down from an earlier target valuation of about one point four trillion dollars, with a possible later tranche for wealthy individual investors.
+
+A federal judge denied xAI's motion to dismiss a Clean Air Act lawsuit brought by the NAACP over its Colossus data center near Memphis. The ruling lets claims proceed that the company installed and ran at least 35 gas turbines there without the required air permits, after rejecting xAI's argument that the turbines counted as exempt mobile sources.
+
+Apple confirmed that Apple Intelligence in mainland China will run on Alibaba's Qwen models, with Siri handing off more complex requests to Qwen and Qwen also powering Writing Tools and Visual Intelligence. Developer testing begins November 4, with a full rollout planned for December through iOS 27.3, two years after Apple Intelligence launched elsewhere.
+
+Quantum computing.
+
+Researchers at the University of Stuttgart deployed an entanglement-based quantum key distribution link using a quantum dot photon source over more than one and a half kilometers of real campus fiber, sustaining a secure key rate of 206 bits per second with an error rate of under 5 percent across 19 hours of continuous operation.
+
+Engineers at Chalmers University in Sweden demonstrated a chip layout that suppresses microwave crosstalk between superconducting qubits by deliberately engineering the chip's parasitic capacitances so interference paths cancel out, a hardware-level fix aimed at easing the path to larger, more reliable processors.
+
+Los Alamos National Laboratory and QC Ware used IBM's quantum hardware as part of a hybrid quantum-classical workflow to model strongly correlated iron oxide materials, using up to 32 qubits and reproducing the correct magnetic ground state through a technique called sample-based quantum diagonalization.
+
+IBM launched Quantum Safe, a software suite to help companies locate and migrate vulnerable cryptography before quantum computers can break it, timed to a new National Institute of Standards and Technology migration roadmap. In its own validation run, IBM scanned more than 47 million lines of code and found over 3,900 cryptographic issues.
 
 United States stock market.
 
-Wall Street posted its worst day since June on Friday, with the S and P 500 falling one point eight percent, the Nasdaq dropping two point nine percent, and the Dow down one point one percent, as investors questioned whether massive AI infrastructure spending will pay off, dragging down Nvidia and other chip stocks.
+Chevron reported record third quarter production and net income of 9.9 billion dollars, with adjusted earnings of 10.4 billion dollars and adjusted earnings per share of 5 dollars 28 cents, beating Wall Street estimates by about 8 percent. The company also repurchased 2.5 billion dollars of its own stock during the quarter.
 
-Intel shares crashed nearly twenty nine percent, their worst single day since nineteen seventy four, after the company guided fourth quarter revenue and profit well below Wall Street estimates, with its finance chief warning the PC slowdown will continue into next year.
-
-Reddit shares plunged just over twenty nine percent after the company reported weaker than expected daily active users and issued soft current quarter revenue guidance, compounded by investor concern over its plan to restrict forum access to logged in users.
+ExxonMobil beat earnings estimates with third quarter adjusted profit of 17.5 billion dollars, or 4 dollars 23 cents per share, and announced a new 20 billion dollar share buyback program for 2027 on top of 5.1 billion dollars repurchased this quarter and a fourth quarter dividend of 1 dollar 7 cents per share.
 
 Czech Republic and Slovakia.
 
-Czech utility CEZ announced it will raise electricity prices about three and a half percent and gas prices about six and a half percent for one point six million customers without fixed contracts starting January 2027, citing sharply higher wholesale energy costs.
+Czech analysts from UniCredit, Porto and the Czech Banking Association now widely expect the central bank to raise its key rate a quarter point to 4 percent at Thursday's meeting, the first hike since June, as core inflation stays above 3 percent, services inflation above 4 percent, and wage growth stays resilient. Banks have already begun raising mortgage rates and tightening lending conditions in anticipation of the move.
 
-Slovak Railways agreed to raise average wages eight point four percent and pay every employee a one time three hundred fifty euro bonus starting December 2026, under a new collective bargaining deal with unions.
-
-Slovakia's Fiscal Council raised its 2026 public deficit estimate to four point four percent of GDP, about six point four billion euros, citing higher defense spending and underbudgeted municipal costs, signaling pressure for further budget measures.
+Slovak analysts warn that rising European Central Bank rates, expected to climb toward 3 to 3 and a quarter percent by next spring, could add up to 360 million euros a year in mortgage costs for Slovak households, with the country's 49 billion euro mortgage portfolio about a third due to refix soon and new lending volume projected to fall as borrowing gets more expensive.
 
 China.
 
-German President Frank Walter Steinmeier met Xi Jinping in Beijing, where Xi urged Germany to keep a pragmatic policy toward China, as Berlin faces a record trade deficit with Beijing and pressure from Brussels for tougher trade measures.
-
-China's foreign ministry dismissed as a smear a New York Times report alleging a Chinese businesswoman linked to a major Nvidia chip reseller passed intelligence to Beijing, amid an ongoing United States and Singapore investigation into billions of dollars in diverted AI chips.
+China's official manufacturing activity unexpectedly slipped back into contraction in October, with the purchasing managers index falling to 49.3 from 50.1 in September and missing economist forecasts, as new orders and production both weakened and the broader composite index fell to 49.7. High-tech and equipment manufacturing kept growing even as overall factory activity cooled, which statisticians partly attributed to demand pulled forward ahead of the National Day holiday.
