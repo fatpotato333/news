@@ -1,35 +1,13 @@
-Daily News for Sunday, November 1, 2026.
+Daily News for Monday, November 2, 2026.
 
 Artificial intelligence.
 
-OpenAI has lowered the target for its new funding round from around thirty billion dollars to as little as twenty billion dollars, after a tepid response from some large investors. The Financial Times and Wall Street Journal report the round, led by investors in the United Arab Emirates, has secured eleven billion dollars so far, down from an earlier target valuation of about one point four trillion dollars, with a possible later tranche for wealthy individual investors.
-
-A federal judge denied xAI's motion to dismiss a Clean Air Act lawsuit brought by the NAACP over its Colossus data center near Memphis. The ruling lets claims proceed that the company installed and ran at least 35 gas turbines there without the required air permits, after rejecting xAI's argument that the turbines counted as exempt mobile sources.
-
-Apple confirmed that Apple Intelligence in mainland China will run on Alibaba's Qwen models, with Siri handing off more complex requests to Qwen and Qwen also powering Writing Tools and Visual Intelligence. Developer testing begins November 4, with a full rollout planned for December through iOS 27.3, two years after Apple Intelligence launched elsewhere.
-
-Quantum computing.
-
-Researchers at the University of Stuttgart deployed an entanglement-based quantum key distribution link using a quantum dot photon source over more than one and a half kilometers of real campus fiber, sustaining a secure key rate of 206 bits per second with an error rate of under 5 percent across 19 hours of continuous operation.
-
-Engineers at Chalmers University in Sweden demonstrated a chip layout that suppresses microwave crosstalk between superconducting qubits by deliberately engineering the chip's parasitic capacitances so interference paths cancel out, a hardware-level fix aimed at easing the path to larger, more reliable processors.
-
-Los Alamos National Laboratory and QC Ware used IBM's quantum hardware as part of a hybrid quantum-classical workflow to model strongly correlated iron oxide materials, using up to 32 qubits and reproducing the correct magnetic ground state through a technique called sample-based quantum diagonalization.
-
-IBM launched Quantum Safe, a software suite to help companies locate and migrate vulnerable cryptography before quantum computers can break it, timed to a new National Institute of Standards and Technology migration roadmap. In its own validation run, IBM scanned more than 47 million lines of code and found over 3,900 cryptographic issues.
+Google completed its first artificial intelligence inference from orbit, running its Gemma four model on a tensor processing unit aboard the prototype Suncatcher satellite and sending back a short AI generated poem. The test, flown with partner Planet since an October first launch, is an early step toward space based AI data centers, not yet a working system.
 
 United States stock market.
 
-Chevron reported record third quarter production and net income of 9.9 billion dollars, with adjusted earnings of 10.4 billion dollars and adjusted earnings per share of 5 dollars 28 cents, beating Wall Street estimates by about 8 percent. The company also repurchased 2.5 billion dollars of its own stock during the quarter.
-
-ExxonMobil beat earnings estimates with third quarter adjusted profit of 17.5 billion dollars, or 4 dollars 23 cents per share, and announced a new 20 billion dollar share buyback program for 2027 on top of 5.1 billion dollars repurchased this quarter and a fourth quarter dividend of 1 dollar 7 cents per share.
+Blackstone now expects Anthropic may receive only a speculative grade credit rating after its initial public offering, reversing earlier expectations of an investment grade score, the Financial Times reported. Blackstone holds about nine billion dollars of junior debt in Anthropic's financing structure, raising questions about the terms behind the AI buildout.
 
 Czech Republic and Slovakia.
 
-Czech analysts from UniCredit, Porto and the Czech Banking Association now widely expect the central bank to raise its key rate a quarter point to 4 percent at Thursday's meeting, the first hike since June, as core inflation stays above 3 percent, services inflation above 4 percent, and wage growth stays resilient. Banks have already begun raising mortgage rates and tightening lending conditions in anticipation of the move.
-
-Slovak analysts warn that rising European Central Bank rates, expected to climb toward 3 to 3 and a quarter percent by next spring, could add up to 360 million euros a year in mortgage costs for Slovak households, with the country's 49 billion euro mortgage portfolio about a third due to refix soon and new lending volume projected to fall as borrowing gets more expensive.
-
-China.
-
-China's official manufacturing activity unexpectedly slipped back into contraction in October, with the purchasing managers index falling to 49.3 from 50.1 in September and missing economist forecasts, as new orders and production both weakened and the broader composite index fell to 49.7. High-tech and equipment manufacturing kept growing even as overall factory activity cooled, which statisticians partly attributed to demand pulled forward ahead of the National Day holiday.
+The Czech government sent parliament a bill imposing a fifty percent special tax on oil refinery profits, aimed largely at Orlen Unipetrol's two domestic refineries. The measure is expected to raise about five and a half billion crowns a year to help close the twenty twenty seven state budget deficit and has not yet passed.
