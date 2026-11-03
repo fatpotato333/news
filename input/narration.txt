@@ -1,13 +1,41 @@
-Daily News for Monday, November 2, 2026.
+Daily News for Tuesday, November 3, 2026.
 
 Artificial intelligence.
 
-Google completed its first artificial intelligence inference from orbit, running its Gemma four model on a tensor processing unit aboard the prototype Suncatcher satellite and sending back a short AI generated poem. The test, flown with partner Planet since an October first launch, is an early step toward space based AI data centers, not yet a working system.
+Anthropic filed an amended registration statement ahead of its Nasdaq initial public offering, disclosing third quarter revenue of about seventeen billion dollars, a net loss of twenty three point three billion dollars, and roughly eight hundred ninety five billion dollars in total AI compute and infrastructure commitments, underscoring how heavily the company is spending ahead of its revenue growth.
+
+OpenAI and the Abu Dhabi government signed four agreements, including a pilot for machine readable government compliance and a five year deal for Inception42 to deploy OpenAI's Frontier platform across government, enterprise, and education services. Financial terms were not disclosed.
+
+The New York Times and other publishers sued the browser maker Brave in federal court, alleging Brave scraped their copyrighted content and resold it to AI companies including Anthropic, Perplexity, Mistral, xAI, and Cohere. Those allegations against the AI firms are unproven claims in the complaint.
+
+Quantum computing.
+
+South Korea launched its sixth national supercomputer, named Hangang, in Daejeon, with plans to connect it to a quantum computer in the first half of 2027, forming a hybrid system meant to offset each technology's individual weaknesses.
+
+Researchers at Florida Atlantic University, working with D-Wave's quantum annealing hardware, built a quantum machine learning model that predicted lung cancer from limited data with over ninety four percent accuracy in simulation and nearly ninety two percent on real quantum hardware. This was a feasibility study, not a clinical trial.
 
 United States stock market.
 
-Blackstone now expects Anthropic may receive only a speculative grade credit rating after its initial public offering, reversing earlier expectations of an investment grade score, the Financial Times reported. Blackstone holds about nine billion dollars of junior debt in Anthropic's financing structure, raising questions about the terms behind the AI buildout.
+The Nasdaq fell about one percent and the S and P five hundred slid about half a percent on Monday as investors rotated out of technology stocks on renewed scrutiny of AI spending, while the Dow rose slightly on gains in Home Depot and Sherwin Williams.
+
+Oracle shares fell about eight percent after the company moved to raise ten billion dollars in stock and priced a separate ten billion dollar bond sale, split across five maturities, to fund its AI data center buildout, deepening investor concern over its spending and debt.
+
+Apple reported record fiscal fourth quarter revenue of one hundred fourteen point five billion dollars and earnings of two dollars and ten cents per share, but shares fell three to four percent after hours as the company guided gross margin lower for the holiday quarter, citing a sharp rise in memory chip costs driven by AI demand. Apple's inventory also jumped one hundred fifty four percent from a year earlier to fourteen point five four billion dollars, and its manufacturing purchase obligations rose by thirty three billion dollars during the quarter.
 
 Czech Republic and Slovakia.
 
-The Czech government sent parliament a bill imposing a fifty percent special tax on oil refinery profits, aimed largely at Orlen Unipetrol's two domestic refineries. The measure is expected to raise about five and a half billion crowns a year to help close the twenty twenty seven state budget deficit and has not yet passed.
+The Czech state budget deficit reached two hundred thirty point nine billion koruna by the end of October, already three quarters of the full year plan and the fourth deepest October deficit since 1993, as pension and benefit spending outpaced revenue growth.
+
+Slovakia's cumulative budget deficit reached three point five billion euros through October, more than a quarter narrower than a year earlier, as October revenue rose nearly fourteen percent on higher VAT and corporate tax collection.
+
+Czech wholesale gas prices climbed to about ninety five euros per megawatt hour, the highest since late 2022, pushing suppliers to raise retail price lists. Firewood prices are up as much as twenty percent from a year ago heading into winter, though gas storage remains about seventy six percent full.
+
+Czech economists and labor experts warned that the government's draft bill redefining dependent work could effectively legalize up to ninety percent of disguised self employment arrangements, weakening worker protections and state revenue. The labor ministry rejects the criticism, and no vote has been taken yet.
+
+China.
+
+Chinese local tax bureaus are increasingly invoking a rarely used law to bar taxpayers with unpaid taxes from leaving the country. Authorities in Yanji barred eighty nine taxpayers from departure and Zhuhai restricted several companies, part of a rising wave of such notices since September.
+
+Beijing eased share buyback rules and made its stock buyback lending program permanent at about a one percent interest rate, after China's stock market kept falling despite earlier support measures. More than one hundred billion yuan has already been applied for under a related central bank swap facility.
+
+The People's Bank of China set a weaker than expected daily yuan reference rate even as the offshore yuan touched a four year high, signaling an intent to slow the pace of currency appreciation rather than let it rise freely.
