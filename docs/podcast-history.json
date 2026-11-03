@@ -2,6 +2,17 @@
   "version": 1,
   "episodes": [
     {
+      "date": "2026-11-03",
+      "title": "Daily News — 2026-11-03",
+      "description": "Concise daily news briefing for 2026-11-03.",
+      "pub_date": "Tue, 03 Nov 2026 07:24:32 +0100",
+      "guid": "daily-news-2026-11-03",
+      "url": "https://github.com/fatpotato333/news/releases/download/daily-podcast/daily-news-2026-11-03.mp3",
+      "length": 3236301,
+      "duration": "00:04:30",
+      "filename": "daily-news-2026-11-03.mp3"
+    },
+    {
       "date": "2026-11-02",
       "title": "Daily News — 2026-11-02",
       "description": "Concise daily news briefing for 2026-11-02.",
@@ -66,17 +77,6 @@
       "length": 1852749,
       "duration": "00:02:34",
       "filename": "daily-news-2026-10-28.mp3"
-    },
-    {
-      "date": "2026-10-27",
-      "title": "Daily News — 2026-10-27",
-      "description": "Concise daily news briefing for 2026-10-27.",
-      "pub_date": "Tue, 27 Oct 2026 07:27:39 +0100",
-      "guid": "daily-news-2026-10-27",
-      "url": "https://github.com/fatpotato333/news/releases/download/daily-podcast/daily-news-2026-10-27.mp3",
-      "length": 2812077,
-      "duration": "00:03:54",
-      "filename": "daily-news-2026-10-27.mp3"
     }
   ]
 }
