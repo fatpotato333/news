@@ -1,41 +1,34 @@
-Daily News for Tuesday, November 3, 2026.
+Daily News for Wednesday, November 4, 2026.
 
 Artificial intelligence.
 
-Anthropic filed an amended registration statement ahead of its Nasdaq initial public offering, disclosing third quarter revenue of about seventeen billion dollars, a net loss of twenty three point three billion dollars, and roughly eight hundred ninety five billion dollars in total AI compute and infrastructure commitments, underscoring how heavily the company is spending ahead of its revenue growth.
-
-OpenAI and the Abu Dhabi government signed four agreements, including a pilot for machine readable government compliance and a five year deal for Inception42 to deploy OpenAI's Frontier platform across government, enterprise, and education services. Financial terms were not disclosed.
-
-The New York Times and other publishers sued the browser maker Brave in federal court, alleging Brave scraped their copyrighted content and resold it to AI companies including Anthropic, Perplexity, Mistral, xAI, and Cohere. Those allegations against the AI firms are unproven claims in the complaint.
+Oracle scrapped a roughly seven billion dollar, five year lease that would have given Tencent access to about one hundred thousand advanced AI chips through Oracle data centers in Southeast Asia, after US officials raised concerns about the deal; neither company has confirmed the report.
+Nvidia reportedly told cloud and data center partners worldwide to keep at least fifty one percent of new compute services revenue from customers outside China, according to the Financial Times; the directive applies to new contracts, and Nvidia has not confirmed or denied it.
+Meta priced a fifteen billion dollar, five part bond sale across maturities running to twenty fifty six to help fund its AI infrastructure buildout, with investor demand reaching about fifty eight billion dollars, roughly four times the amount offered.
+Apple opened a developer preview letting any third party app integrate with its new conversational Siri AI through multi step actions, with App Store submissions opening in spring and public rollout expected a few months after that.
 
 Quantum computing.
 
-South Korea launched its sixth national supercomputer, named Hangang, in Daejeon, with plans to connect it to a quantum computer in the first half of 2027, forming a hybrid system meant to offset each technology's individual weaknesses.
-
-Researchers at Florida Atlantic University, working with D-Wave's quantum annealing hardware, built a quantum machine learning model that predicted lung cancer from limited data with over ninety four percent accuracy in simulation and nearly ninety two percent on real quantum hardware. This was a feasibility study, not a clinical trial.
+Physicists at the University of Cologne and RWTH Aachen University observed highly transmissive Andreev states in topological insulator Josephson junctions that match theoretical predictions, a peer reviewed result published in Science Advances marking a step toward topological superconductivity, though a true topological phase transition remains unconfirmed.
+EigenOrbit open sourced eigenkit, a provider neutral tool that benchmarks quantum circuits across twelve simulator and hardware backends including IBM and IQM processors, finding no single backend performs best for every workload and that the right choice depends on circuit size and structure.
 
 United States stock market.
 
-The Nasdaq fell about one percent and the S and P five hundred slid about half a percent on Monday as investors rotated out of technology stocks on renewed scrutiny of AI spending, while the Dow rose slightly on gains in Home Depot and Sherwin Williams.
-
-Oracle shares fell about eight percent after the company moved to raise ten billion dollars in stock and priced a separate ten billion dollar bond sale, split across five maturities, to fund its AI data center buildout, deepening investor concern over its spending and debt.
-
-Apple reported record fiscal fourth quarter revenue of one hundred fourteen point five billion dollars and earnings of two dollars and ten cents per share, but shares fell three to four percent after hours as the company guided gross margin lower for the holiday quarter, citing a sharp rise in memory chip costs driven by AI demand. Apple's inventory also jumped one hundred fifty four percent from a year earlier to fourteen point five four billion dollars, and its manufacturing purchase obligations rose by thirty three billion dollars during the quarter.
+US stocks closed mixed on Election Day as chip stocks rebounded broadly from their recent bear market; the S&P 500 rose about four tenths of a percent to a record and the Nasdaq rose about eight tenths of a percent, while the Dow fell nearly two hundred points on weakness tied to Apple's earnings.
+AMD reported third quarter revenue of thirteen point four billion dollars, up forty five percent from a year earlier, with data center revenue up ninety seven percent on strong EPYC and new MI450 chip sales; shares jumped more than seven percent after hours as AMD guided fourth quarter revenue to about seventeen billion dollars.
+Palantir reported third quarter revenue of two point three billion dollars, up ninety six percent year over year and its first quarter above two billion, with US commercial revenue exceeding government revenue for the first time and full year guidance raised, yet shares fell nearly two percent on lingering valuation concerns.
 
 Czech Republic and Slovakia.
 
-The Czech state budget deficit reached two hundred thirty point nine billion koruna by the end of October, already three quarters of the full year plan and the fourth deepest October deficit since 1993, as pension and benefit spending outpaced revenue growth.
+European gas prices jumped above ninety eight euros per megawatt hour after reports of a US strike near Iran's Qeshm Island in the Strait of Hormuz, with European Union gas storage already below seasonal norms at under seventy five percent full, raising the risk of higher winter heating bills in both countries.
+Slovakia's approved twenty twenty seven budget sets aside only two hundred fifty million euros for household energy aid, below the finance ministry's own estimate of three hundred forty to four hundred thirty million euros needed, with tightened eligibility rules expected to cut coverage from about ninety percent of households to about eighty six percent.
+Slovakia's association of towns and municipalities, ZMOS, warned that household waste collection fees could rise by seven to twenty euros per person starting January twenty twenty seven, due to a new mandatory waste treatment requirement plus higher minimum wage and fuel costs feeding into local budgets.
 
-Slovakia's cumulative budget deficit reached three point five billion euros through October, more than a quarter narrower than a year earlier, as October revenue rose nearly fourteen percent on higher VAT and corporate tax collection.
+PPF Group.
 
-Czech wholesale gas prices climbed to about ninety five euros per megawatt hour, the highest since late 2022, pushing suppliers to raise retail price lists. Firewood prices are up as much as twenty percent from a year ago heading into winter, though gas storage remains about seventy six percent full.
-
-Czech economists and labor experts warned that the government's draft bill redefining dependent work could effectively legalize up to ninety percent of disguised self employment arrangements, weakening worker protections and state revenue. The labor ministry rejects the criticism, and no vote has been taken yet.
+PPF Group sold a roughly seven thousand square meter office building in central The Hague, partly occupied by a Dutch state government office, for about one hundred sixty million Czech koruna, as part of ongoing real estate portfolio optimization.
+PPF Banka provided long term financing worth a combined roughly forty two million euros for battery storage projects in Germany and Romania on behalf of the RSJ Energy fund, its third such deal for that fund.
 
 China.
 
-Chinese local tax bureaus are increasingly invoking a rarely used law to bar taxpayers with unpaid taxes from leaving the country. Authorities in Yanji barred eighty nine taxpayers from departure and Zhuhai restricted several companies, part of a rising wave of such notices since September.
-
-Beijing eased share buyback rules and made its stock buyback lending program permanent at about a one percent interest rate, after China's stock market kept falling despite earlier support measures. More than one hundred billion yuan has already been applied for under a related central bank swap facility.
-
-The People's Bank of China set a weaker than expected daily yuan reference rate even as the offshore yuan touched a four year high, signaling an intent to slow the pace of currency appreciation rather than let it rise freely.
+China's State Administration of Foreign Exchange released draft rules, open for public comment until December first, proposing nine measures to simplify foreign exchange settlement and cut costs for cross border trade, including simplified nationwide documentation for compliant firms starting January twenty twenty seven.
