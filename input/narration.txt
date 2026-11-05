@@ -1,34 +1,33 @@
-Daily News for Wednesday, November 4, 2026.
+Daily News for Thursday, November 5, 2026.
 
 Artificial intelligence.
 
-Oracle scrapped a roughly seven billion dollar, five year lease that would have given Tencent access to about one hundred thousand advanced AI chips through Oracle data centers in Southeast Asia, after US officials raised concerns about the deal; neither company has confirmed the report.
-Nvidia reportedly told cloud and data center partners worldwide to keep at least fifty one percent of new compute services revenue from customers outside China, according to the Financial Times; the directive applies to new contracts, and Nvidia has not confirmed or denied it.
-Meta priced a fifteen billion dollar, five part bond sale across maturities running to twenty fifty six to help fund its AI infrastructure buildout, with investor demand reaching about fifty eight billion dollars, roughly four times the amount offered.
-Apple opened a developer preview letting any third party app integrate with its new conversational Siri AI through multi step actions, with App Store submissions opening in spring and public rollout expected a few months after that.
+OpenAI disclosed that an autonomous security pipeline scanned the Linux kernel, flagged over two thousand three hundred potential flaws, reproduced about one thousand seven hundred of them, and built working exploits for nine hundred forty eight separate privilege escalation bugs that could let a limited user gain full administrator access. The entire run cost about one point two one million dollars in API credits, and kernel maintainers have already patched sixty one of the flaws upstream, with more in preparation.
+
+Anthropic signed its first paid content licensing deal with a digital news publisher, the Associated Press, giving Claude access to real time election and polling data with attribution. Financial terms were not disclosed, but the deal is notable because Anthropic previously had no such publisher licensing agreements, unlike OpenAI's more than a dozen.
+
+Apple has cut daily AI token spending budgets for its engineering teams from three hundred dollars to two hundred dollars, with further cuts planned to one hundred dollars for engineers and as low as twenty five dollars for non engineering staff, as the company works to rein in internal AI costs.
 
 Quantum computing.
 
-Physicists at the University of Cologne and RWTH Aachen University observed highly transmissive Andreev states in topological insulator Josephson junctions that match theoretical predictions, a peer reviewed result published in Science Advances marking a step toward topological superconductivity, though a true topological phase transition remains unconfirmed.
-EigenOrbit open sourced eigenkit, a provider neutral tool that benchmarks quantum circuits across twelve simulator and hardware backends including IBM and IQM processors, finding no single backend performs best for every workload and that the right choice depends on circuit size and structure.
+Diraq deployed a silicon spin qubit quantum computer inside a commercial Equinix data center in Australia, the first time this type of quantum system has run inside a shared commercial facility. The system draws under twenty kilowatts of power and scales through chip upgrades rather than facility overhauls; Diraq is also the only CMOS spin qubit company in the final stage of the Pentagon's Quantum Benchmarking Initiative.
+
+Researchers at Sapienza University of Rome and Italy's CNR photonics institute simulated the quantum chemistry of lithium hydride using only two photonic qubits, versus about twelve required by conventional wavefunction methods. Using a quantum density functional theory approach on a programmable integrated photonic chip, the required qubit count scales logarithmically rather than linearly as molecules grow larger.
 
 United States stock market.
 
-US stocks closed mixed on Election Day as chip stocks rebounded broadly from their recent bear market; the S&P 500 rose about four tenths of a percent to a record and the Nasdaq rose about eight tenths of a percent, while the Dow fell nearly two hundred points on weakness tied to Apple's earnings.
-AMD reported third quarter revenue of thirteen point four billion dollars, up forty five percent from a year earlier, with data center revenue up ninety seven percent on strong EPYC and new MI450 chip sales; shares jumped more than seven percent after hours as AMD guided fourth quarter revenue to about seventeen billion dollars.
-Palantir reported third quarter revenue of two point three billion dollars, up ninety six percent year over year and its first quarter above two billion, with US commercial revenue exceeding government revenue for the first time and full year guidance raised, yet shares fell nearly two percent on lingering valuation concerns.
+Wall Street surged after Democrats won control of both chambers of Congress in Tuesday's midterm elections. The Dow jumped about three percent, its best day since April twenty twenty five, the S and P 500 rose one point six percent, and the Nasdaq added one point four percent, with Treasury yields easing. Oil prices fell more than eight percent on bets that political pressure to end the Iran conflict will now grow. Healthcare and insurance stocks led the rally, while Tesla and SpaceX both declined.
 
-Czech Republic and Slovakia.
+Even as the broader market rallied, artificial intelligence and data center infrastructure stocks sold off sharply, with Hut Eight down over twenty percent, Sterling Infrastructure down about twenty one percent, CoreWeave down roughly ten percent, and Nvidia down around three percent, as investors weighed a possible slowdown in data center buildout against the economic growth outlook.
 
-European gas prices jumped above ninety eight euros per megawatt hour after reports of a US strike near Iran's Qeshm Island in the Strait of Hormuz, with European Union gas storage already below seasonal norms at under seventy five percent full, raising the risk of higher winter heating bills in both countries.
-Slovakia's approved twenty twenty seven budget sets aside only two hundred fifty million euros for household energy aid, below the finance ministry's own estimate of three hundred forty to four hundred thirty million euros needed, with tightened eligibility rules expected to cut coverage from about ninety percent of households to about eighty six percent.
-Slovakia's association of towns and municipalities, ZMOS, warned that household waste collection fees could rise by seven to twenty euros per person starting January twenty twenty seven, due to a new mandatory waste treatment requirement plus higher minimum wage and fuel costs feeding into local budgets.
-
-PPF Group.
-
-PPF Group sold a roughly seven thousand square meter office building in central The Hague, partly occupied by a Dutch state government office, for about one hundred sixty million Czech koruna, as part of ongoing real estate portfolio optimization.
-PPF Banka provided long term financing worth a combined roughly forty two million euros for battery storage projects in Germany and Romania on behalf of the RSJ Energy fund, its third such deal for that fund.
+Fidelity National Information Services, known as FIS, saw its stock plunge roughly twenty four percent after the company cut its full year adjusted earnings per share guidance to a range of five dollars eighty two cents to five dollars eighty nine cents, down from its prior forecast, despite beating third quarter revenue expectations.
 
 China.
 
-China's State Administration of Foreign Exchange released draft rules, open for public comment until December first, proposing nine measures to simplify foreign exchange settlement and cut costs for cross border trade, including simplified nationwide documentation for compliant firms starting January twenty twenty seven.
+China's National Development and Reform Commission said it will accelerate work on a comprehensive, unified national artificial intelligence law, aiming to consolidate currently fragmented rules on algorithmic recommendations, deep synthesis, and generative AI, including local rules such as Shenzhen's, into a single national legal framework.
+
+China's legislature began reviewing the most significant overhaul of its Criminal Procedure Law since nineteen seventy nine, restricting police detention powers, narrowing extensions of pre-arrest detention, tightening asset seizure rules to protect family living expenses, and explicitly targeting profit driven law enforcement used in commercial and economic disputes, a change with direct implications for foreign and domestic businesses operating in China.
+
+The dispute between Nexperia's Dutch unit and its Chinese parent, Wingtech, escalated as the Dutch entity filed a two billion dollar damages claim in an Amsterdam court, days after a Chinese court in Dongguan froze the assets of six related parties. The fight over control of the chipmaker began after the Dutch government stripped Wingtech of control last year.
+
+China's top financial regulator finalized sweeping new asset management rules for the country's twenty five trillion yuan, or about three point seven trillion dollar, trust industry, imposing investment concentration limits and performance fee caps effective January first, with a compliance grace period running through the end of twenty twenty nine.
