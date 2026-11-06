@@ -1,33 +1,29 @@
-Daily News for Thursday, November 5, 2026.
+Daily News for Friday, November 6, 2026.
 
 Artificial intelligence.
 
-OpenAI disclosed that an autonomous security pipeline scanned the Linux kernel, flagged over two thousand three hundred potential flaws, reproduced about one thousand seven hundred of them, and built working exploits for nine hundred forty eight separate privilege escalation bugs that could let a limited user gain full administrator access. The entire run cost about one point two one million dollars in API credits, and kernel maintainers have already patched sixty one of the flaws upstream, with more in preparation.
+Independent evaluator METR reported that Anthropic's AI models are now advancing on research and development tasks nearly twice as fast as they did over the prior year and a half. The group estimated that AI systems themselves are responsible for roughly eighty percent of that acceleration, though Anthropic restricted its access to key internal data.
 
-Anthropic signed its first paid content licensing deal with a digital news publisher, the Associated Press, giving Claude access to real time election and polling data with attribution. Financial terms were not disclosed, but the deal is notable because Anthropic previously had no such publisher licensing agreements, unlike OpenAI's more than a dozen.
+OpenAI pledged a new transparency standard for its data centers, including ending nondisclosure agreements with local officials and publishing construction plans. The move follows a wave of ballot measures this week in which voters across the country pushed back against AI infrastructure projects in their communities.
 
-Apple has cut daily AI token spending budgets for its engineering teams from three hundred dollars to two hundred dollars, with further cuts planned to one hundred dollars for engineers and as low as twenty five dollars for non engineering staff, as the company works to rein in internal AI costs.
+Google said it will spend seventeen billion dollars on its first data center in Wyoming, continuing its infrastructure buildout even as political opposition to AI data centers grows nationwide.
 
 Quantum computing.
 
-Diraq deployed a silicon spin qubit quantum computer inside a commercial Equinix data center in Australia, the first time this type of quantum system has run inside a shared commercial facility. The system draws under twenty kilowatts of power and scales through chip upgrades rather than facility overhauls; Diraq is also the only CMOS spin qubit company in the final stage of the Pentagon's Quantum Benchmarking Initiative.
+IonQ posted record third quarter revenue of nearly one hundred seventy four million dollars, more than triple what it reported a year earlier, and raised its full year guidance, citing strong demand for its Tempo quantum computing systems.
 
-Researchers at Sapienza University of Rome and Italy's CNR photonics institute simulated the quantum chemistry of lithium hydride using only two photonic qubits, versus about twelve required by conventional wavefunction methods. Using a quantum density functional theory approach on a programmable integrated photonic chip, the required qubit count scales logarithmically rather than linearly as molecules grow larger.
+Quantinuum raised its own revenue outlook after signing the largest cloud computing agreement in its history, a multiyear deal giving a major financial institution access to its software platform and future quantum hardware.
 
 United States stock market.
 
-Wall Street surged after Democrats won control of both chambers of Congress in Tuesday's midterm elections. The Dow jumped about three percent, its best day since April twenty twenty five, the S and P 500 rose one point six percent, and the Nasdaq added one point four percent, with Treasury yields easing. Oil prices fell more than eight percent on bets that political pressure to end the Iran conflict will now grow. Healthcare and insurance stocks led the rally, while Tesla and SpaceX both declined.
+DraftKings shares fell about twenty percent after the company reported a wider than expected quarterly loss and cut its full year profit guidance, citing heavy spending on its new prediction markets business.
 
-Even as the broader market rallied, artificial intelligence and data center infrastructure stocks sold off sharply, with Hut Eight down over twenty percent, Sterling Infrastructure down about twenty one percent, CoreWeave down roughly ten percent, and Nvidia down around three percent, as investors weighed a possible slowdown in data center buildout against the economic growth outlook.
+Airbnb shares jumped about twelve percent after the company beat third quarter revenue and profit estimates, posted record bookings growth, and raised its full year outlook.
 
-Fidelity National Information Services, known as FIS, saw its stock plunge roughly twenty four percent after the company cut its full year adjusted earnings per share guidance to a range of five dollars eighty two cents to five dollars eighty nine cents, down from its prior forecast, despite beating third quarter revenue expectations.
+Czech Republic and Slovakia.
+
+The Czech National Bank raised its key interest rate a quarter point to four percent, effective today, its second increase this year. Governor Aleš Michl said the move does not mark the start of a new tightening cycle, though mortgage and savings rates may begin shifting in response.
 
 China.
 
-China's National Development and Reform Commission said it will accelerate work on a comprehensive, unified national artificial intelligence law, aiming to consolidate currently fragmented rules on algorithmic recommendations, deep synthesis, and generative AI, including local rules such as Shenzhen's, into a single national legal framework.
-
-China's legislature began reviewing the most significant overhaul of its Criminal Procedure Law since nineteen seventy nine, restricting police detention powers, narrowing extensions of pre-arrest detention, tightening asset seizure rules to protect family living expenses, and explicitly targeting profit driven law enforcement used in commercial and economic disputes, a change with direct implications for foreign and domestic businesses operating in China.
-
-The dispute between Nexperia's Dutch unit and its Chinese parent, Wingtech, escalated as the Dutch entity filed a two billion dollar damages claim in an Amsterdam court, days after a Chinese court in Dongguan froze the assets of six related parties. The fight over control of the chipmaker began after the Dutch government stripped Wingtech of control last year.
-
-China's top financial regulator finalized sweeping new asset management rules for the country's twenty five trillion yuan, or about three point seven trillion dollar, trust industry, imposing investment concentration limits and performance fee caps effective January first, with a compliance grace period running through the end of twenty twenty nine.
+China's commerce ministry warned the European Union not to expect concessions from pressure tactics, after Brussels confirmed plans for a so called kill switch mechanism that could quickly cut Chinese companies off from the EU single market. The warning marks the latest strain on the trade truce the two sides reached last month over Chinese hybrid car exports.
