@@ -2,178 +2,6 @@
   "version": 1,
   "stories": [
     {
-      "event_id": "openai-astra-model-critical-cyber-capability-flag",
-      "reported_date": "2026-08-08",
-      "event_date": "2026-08-07",
-      "category": "AI",
-      "entities": [
-        "OpenAI"
-      ],
-      "event_type": "model_safety_disclosure",
-      "canonical_summary": "OpenAI disclosed that internal evaluations of its upcoming Astra model showed cyber capabilities strong enough that it cannot rule out reaching the Critical threshold under its Preparedness Framework, including potential functional zero-day discovery and exploitation, and said it has partly paused Astra's development pending added safeguards.",
-      "source_url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
-      "material_update_of": null
-    },
-    {
-      "event_id": "bytedance-10-trillion-parameter-model-training",
-      "reported_date": "2026-08-08",
-      "event_date": "2026-08-07",
-      "category": "AI",
-      "entities": [
-        "ByteDance"
-      ],
-      "event_type": "model_development",
-      "canonical_summary": "The Financial Times reported ByteDance is pretraining a roughly 10-trillion-parameter frontier language model, about three times the size of its Kimi K3, explicitly intended to compete with Anthropic's largest models; the model is still in early pretraining with no benchmark results disclosed.",
-      "source_url": "https://slashdot.org/story/26/08/07/174223/bytedance-is-training-a-10-trillion-parameter-model-to-chase-the-frontier",
-      "material_update_of": null
-    },
-    {
-      "event_id": "nvidia-firmus-2b-funding-round",
-      "reported_date": "2026-08-08",
-      "event_date": "2026-08-07",
-      "category": "AI",
-      "entities": [
-        "Firmus",
-        "Nvidia",
-        "Blackstone",
-        "Coatue Management",
-        "Jane Street"
-      ],
-      "event_type": "funding",
-      "canonical_summary": "Nvidia-backed AI infrastructure firm Firmus closed a fully subscribed $2 billion equity round, nearly doubling its valuation to $10.5 billion, with Blackstone-managed funds and Jane Street joining as first-time investors alongside Nvidia and Coatue, to expand its AI data center network across Asia-Pacific.",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-08-07/ai-data-center-group-firmus-draws-2-billion-from-coatue-nvidia",
-      "material_update_of": null
-    },
-    {
-      "event_id": "us-july-2026-jobs-report-record-market-close",
-      "reported_date": "2026-08-08",
-      "event_date": "2026-08-07",
-      "category": "US Stock Market",
-      "entities": [
-        "US Bureau of Labor Statistics",
-        "Federal Reserve",
-        "S&P 500",
-        "Nasdaq",
-        "Dow Jones Industrial Average"
-      ],
-      "event_type": "economic_data",
-      "canonical_summary": "US nonfarm payrolls fell 23,000 in July, the first monthly decline in months and far below consensus, with a combined 103,000 downward revision to prior months; unemployment eased to 4.1%. Markets read the weak print as reducing near-term Fed rate-hike risk, sending the S&P 500 to a record close of 7,757.64 and the Nasdaq up 1.3%.",
-      "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
-      "material_update_of": null
-    },
-    {
-      "event_id": "take-two-q1-fy2027-earnings-gta6-guidance",
-      "reported_date": "2026-08-08",
-      "event_date": "2026-08-07",
-      "category": "US Stock Market",
-      "entities": [
-        "Take-Two Interactive",
-        "Rockstar Games"
-      ],
-      "event_type": "earnings",
-      "canonical_summary": "Take-Two Interactive beat Q1 FY2027 net bookings estimates ($1.39B vs $1.37B expected) but issued Q2 guidance of $1.62-1.67B, well below the $1.79B consensus, sending shares down about 2%; GTA VI remains on track for its November 19, 2026 release.",
-      "source_url": "https://www.investing.com/news/stock-market-news/taketwo-shares-dip-as-soft-guidance-overshadows-q1-beat-ahead-of-gta-vi-4846068",
-      "material_update_of": null
-    },
-    {
-      "event_id": "draftkings-q2-2026-earnings-ebitda-beat",
-      "reported_date": "2026-08-08",
-      "event_date": "2026-08-07",
-      "category": "US Stock Market",
-      "entities": [
-        "DraftKings"
-      ],
-      "event_type": "earnings",
-      "canonical_summary": "DraftKings reported Q2 revenue of $1.44B, down about 4.6% year over year and below estimates, with an $80 million headwind from customer-friendly sports outcomes, but shares rose about 6% as adjusted EBITDA of $115 million beat expectations and unique-payer growth accelerated.",
-      "source_url": "https://www.gamingintelligence.com/finance/234591-draftkings-slips-to-loss-in-q2-as-revenue-falls-5/",
-      "material_update_of": null
-    },
-    {
-      "event_id": "sezzle-q2-2026-earnings-guidance-selloff",
-      "reported_date": "2026-08-08",
-      "event_date": "2026-08-07",
-      "category": "US Stock Market",
-      "entities": [
-        "Sezzle"
-      ],
-      "event_type": "earnings",
-      "canonical_summary": "Buy-now-pay-later firm Sezzle beat Q2 estimates with revenue up 51.7% year over year, but shares fell roughly 22-34% after management guided second-half revenue growth to slow to about 30% and flagged normalizing revenue yield.",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/sezzle-shares-tumble-despite-strong-123845759.html",
-      "material_update_of": null
-    },
-    {
-      "event_id": "sfdi-zero-road-funding-czech-regions",
-      "reported_date": "2026-08-08",
-      "event_date": "2026-08-07",
-      "category": "Czech Republic and Slovakia",
-      "entities": [
-        "Statni fond dopravni infrastruktury",
-        "Ministerstvo dopravy",
-        "Asociace kraju CR"
-      ],
-      "event_type": "budget_decision",
-      "canonical_summary": "Czech regional governors disclosed that the state transport infrastructure fund will allocate zero crowns this year to regions for repairing class II and III roads, the first time since 2015, despite requests for billions in crowns; the transport ministry says road upkeep is primarily the owning regions' responsibility.",
-      "source_url": "https://www.ceskenoviny.cz/zpravy/puta-ze-sfdi-nedostanou-letos-kraje-na-sve-silnice-nic/2859513",
-      "material_update_of": null
-    },
-    {
-      "event_id": "ppf-live-nation-prague-venues-joint-venture",
-      "reported_date": "2026-08-08",
-      "event_date": "2026-08-07",
-      "category": "PPF Group",
-      "entities": [
-        "PPF Group",
-        "Bestsport",
-        "Live Nation Entertainment"
-      ],
-      "event_type": "joint_venture",
-      "canonical_summary": "PPF, via its subsidiary Bestsport, and Live Nation Entertainment announced a joint venture in which Live Nation takes a 51% stake to operate Prague's O2 Arena, O2 Universum and Forum Karlin day-to-day, while PPF retains ownership of the venues and real estate; the deal is subject to regulatory approval.",
-      "source_url": "https://newsroom.livenation.com/news/new-investment-to-support-the-future-of-pragues-leading-live-venues/",
-      "material_update_of": null
-    },
-    {
-      "event_id": "us-review-china-offshore-nvidia-chip-access",
-      "reported_date": "2026-08-08",
-      "event_date": "2026-08-07",
-      "category": "China",
-      "entities": [
-        "US Commerce Department Bureau of Industry and Security",
-        "Nvidia"
-      ],
-      "event_type": "export_control_review",
-      "canonical_summary": "US officials are reviewing legal offshore workarounds, such as renting overseas computing capacity, that let Chinese AI companies access advanced Nvidia chips despite export restrictions, following recent Chinese AI capability breakthroughs, signaling a possible tightening of the loophole.",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-08-07/us-reviews-china-s-offshore-access-to-nvidia-chips-after-ai-breakthroughs",
-      "material_update_of": null
-    },
-    {
-      "event_id": "typhoon-dolphin-zhejiang-fujian-landfall",
-      "reported_date": "2026-08-08",
-      "event_date": "2026-08-08",
-      "category": "China",
-      "entities": [
-        "China Meteorological Administration",
-        "Zhejiang provincial government",
-        "Fujian provincial government"
-      ],
-      "event_type": "natural_disaster",
-      "canonical_summary": "China issued an orange alert as Typhoon Dolphin, with core winds near 45 meters per second, approached the Zhejiang-Fujian coast; Zhejiang suspended all 162 ferry routes, halted 193 offshore projects, recalled 474 construction vessels and began evacuating coastal islands ahead of expected landfall.",
-      "source_url": "https://www.scmp.com/news/china/politics/article/3363262/13-times-size-zhejiang-china-deploys-drones-ai-typhoon-dolphin-nears-coast",
-      "material_update_of": null
-    },
-    {
-      "event_id": "beijing-home-purchase-rule-easing",
-      "reported_date": "2026-08-08",
-      "event_date": "2026-08-07",
-      "category": "China",
-      "entities": [
-        "Beijing Municipal Government"
-      ],
-      "event_type": "regulation_change",
-      "canonical_summary": "Beijing cut the required social-security and tax-payment history for non-Beijing-registered families to buy homes citywide from two years to one year, the latest in a series of housing-stimulus easings amid a prolonged property slump.",
-      "source_url": "https://www.chinadailyasia.com/hk/article/626053",
-      "material_update_of": null
-    },
-    {
       "event_id": "china-taiwan-strait-typhoon-shipping-directive-dispute",
       "reported_date": "2026-08-09",
       "event_date": "2026-08-08",
@@ -13602,6 +13430,220 @@
       "event_type": "trade_dispute",
       "canonical_summary": "China's commerce ministry warned the EU not to expect concessions from pressure tactics, after Brussels confirmed plans for a 'kill switch' mechanism to quickly cut Chinese firms from the single market, straining the October truce on hybrid-car export limits.",
       "source_url": "https://www.scmp.com/news/china/diplomacy/article/3371807/who-blinked-first-fragile-eu-china-trade-peace-sparks-new-war-words",
+      "material_update_of": null
+    },
+    {
+      "event_id": "openai-funding-round-11b-tranche-1point25t",
+      "reported_date": "2026-11-07",
+      "event_date": "2026-11-06",
+      "category": "AI",
+      "entities": [
+        "OpenAI"
+      ],
+      "event_type": "funding",
+      "canonical_summary": "OpenAI closed about $11 billion of a new funding round valuing the company at $1.25 trillion, with the round potentially growing to as much as $20 billion, down from an initially sought $30 billion.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-11-06/openai-completes-11-billion-portion-of-funding-at-1-25-trillion-value",
+      "material_update_of": "openai-funding-target-cut-20b"
+    },
+    {
+      "event_id": "anthropic-ipo-valuation-pressure-ai-rout",
+      "reported_date": "2026-11-07",
+      "event_date": "2026-11-06",
+      "category": "AI",
+      "entities": [
+        "Anthropic"
+      ],
+      "event_type": "ipo",
+      "canonical_summary": "Anthropic still plans to list on Nasdaq before Thanksgiving while seeking $80-100 billion at a $1.25-1.75 trillion valuation, but some IPO buyers are now pushing back, seeing fair value as low as $1.1 trillion after the week's AI-stock selloff.",
+      "source_url": "https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452",
+      "material_update_of": "anthropic-s1-amended-q3-financials"
+    },
+    {
+      "event_id": "microsoft-winds-down-oracle-ai-compute-rental",
+      "reported_date": "2026-11-07",
+      "event_date": "2026-11-06",
+      "category": "AI",
+      "entities": [
+        "Microsoft",
+        "Oracle"
+      ],
+      "event_type": "infrastructure",
+      "canonical_summary": "Microsoft is winding down a 2023-era deal to rent AI computing capacity from Oracle after declining to renew it, reportedly because the leased hardware used older Nvidia chips no longer meeting its needs.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity",
+      "material_update_of": null
+    },
+    {
+      "event_id": "meta-muse-wonder-specialized-models-rollout",
+      "reported_date": "2026-11-07",
+      "event_date": "2026-11-06",
+      "category": "AI",
+      "entities": [
+        "Meta"
+      ],
+      "event_type": "model_release",
+      "canonical_summary": "Meta began rolling out specialized models trained from its Muse Wonder frontier model to users of its Muse and Meta AI products, adding 'Active Memory' cross-conversation recall and 'Active Focus' multi-step task persistence.",
+      "source_url": "https://thenewstack.io/meta-muse-specialized-models/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "ibm-quantum-system-two-chicago-nighthawk",
+      "reported_date": "2026-11-07",
+      "event_date": "2026-11-06",
+      "category": "Quantum Computing",
+      "entities": [
+        "IBM",
+        "University of Chicago",
+        "State of Illinois",
+        "Illinois Quantum and Microelectronics Park",
+        "Fermilab"
+      ],
+      "event_type": "new_quantum_processor_deployment",
+      "canonical_summary": "IBM unveiled its first quantum computer in Illinois, an IBM Quantum System Two powered by the new Nighthawk processor, anchoring a National Quantum Algorithm Center with application partners including Fermilab, Deloitte, AbbVie and Northwestern on drug discovery, grid optimization and high-energy physics projects.",
+      "source_url": "https://newsroom.ibm.com/2026-11-06-ibm-unveils-its-most-advanced-quantum-computer-in-chicago,-marking-a-milestone-for-illinoiss-quantum-future",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-stocks-ai-regulation-rout-rebound-nov6",
+      "reported_date": "2026-11-07",
+      "event_date": "2026-11-06",
+      "category": "US Stock Market",
+      "entities": [
+        "S&P 500",
+        "Nasdaq Composite",
+        "Dow Jones Industrial Average",
+        "Nvidia",
+        "AMD",
+        "Intel"
+      ],
+      "event_type": "index_move",
+      "canonical_summary": "US stocks partly rebounded Friday after Thursday's AI-regulation-driven rout tied to the Democratic midterm sweep: the S&P 500 closed at 7,376.86 (+0.31%) and Nasdaq at 24,579.42 (+1.09%), while the Dow slipped 0.46%; chipmakers Nvidia, AMD and Intel each recovered part of Thursday's double-digit losses, though all three indexes still ended the week lower.",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-october-jobs-report-payrolls-beat",
+      "reported_date": "2026-11-07",
+      "event_date": "2026-11-06",
+      "category": "US Stock Market",
+      "entities": [
+        "US Bureau of Labor Statistics",
+        "Federal Reserve"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "The Bureau of Labor Statistics' October jobs report showed nonfarm payrolls up 165,000, well above the roughly 65,000-70,000 consensus estimate, with unemployment falling to 4.1% and wage growth accelerating, reinforcing bets on a Federal Reserve rate move in December.",
+      "source_url": "https://investrade.com/market-review-november-06-2026/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "cloudflare-q3-2026-earnings-beat-guidance-raise",
+      "reported_date": "2026-11-07",
+      "event_date": "2026-11-06",
+      "category": "US Stock Market",
+      "entities": [
+        "Cloudflare"
+      ],
+      "event_type": "earnings",
+      "canonical_summary": "Cloudflare shares jumped roughly 8-9% after the company reported Q3 2026 revenue of $782.5 million, up about 39% year over year and well above its own guidance and consensus estimates, and raised its outlook.",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0001477333/000147733326000060/q326exhibit991.htm",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-finance-ministry-cnb-deficit-forecast-worsen",
+      "reported_date": "2026-11-07",
+      "event_date": "2026-11-06",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Ministry of Finance (MF CR)",
+        "Czech National Bank (CNB)"
+      ],
+      "event_type": "fiscal_forecast",
+      "canonical_summary": "The Czech Finance Ministry and the CNB both worsened their public-finance outlook on November 6: the ministry cut 2026 GDP growth to 1.7% and sees deficits of 2.8% of GDP this year and 3.5% in 2027, while the CNB's autumn report projects deficits exceeding the EU's 3%-of-GDP threshold in 2027-2028, debt reaching 49.3% of GDP by 2028, alongside nominal wage growth near 6% and unemployment rising to about 5% this year.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/mf-letos-ceka-schodek-verejnych-financi-28-hdp-pristi-rok-35-hdp/2898330",
+      "material_update_of": null
+    },
+    {
+      "event_id": "onsemi-cancels-roznov-expansion",
+      "reported_date": "2026-11-07",
+      "event_date": "2026-11-06",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "onsemi",
+        "Ministry of Industry and Trade (MPO)"
+      ],
+      "event_type": "investment_cancellation",
+      "canonical_summary": "US chipmaker onsemi confirmed it has cancelled its planned $2 billion (CZK 43.5 billion) expansion of silicon-carbide chip production at its Roznov pod Radhostem plant, citing global market conditions; current jobs and operations continue, and further investment there remains possible.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/vyrobce-polovodicu-onsemi-zrusil-plany-na-rozsireni-vyroby-v-cr-za-435-mld/2750176",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-industrial-output-trade-surplus-september",
+      "reported_date": "2026-11-07",
+      "event_date": "2026-11-06",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Statistical Office (CSU)"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "Czech Statistical Office data showed industrial production rose 6.2% year-on-year in September, the fastest pace since 2022, while foreign trade swung to a CZK 23.7 billion surplus as export growth outpaced imports.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/prumyslu-i-stavebnictvi-se-v-cesku-v-zari-darilo-obchod-byl-v-prebytku/2898130",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-china-trade-chiefs-call-trump-xi-summit",
+      "reported_date": "2026-11-07",
+      "event_date": "2026-11-07",
+      "category": "China",
+      "entities": [
+        "US Treasury",
+        "USTR",
+        "China Vice Premier He Lifeng"
+      ],
+      "event_type": "trade_diplomacy",
+      "canonical_summary": "US Treasury Secretary Scott Bessent and USTR Jamieson Greer held a call with Chinese Vice Premier He Lifeng ahead of an expected Trump-Xi summit tied to the APEC meeting in Shenzhen, pressing Beijing to fully honor its Busan trade-truce commitments including on rare earths, days before China's suspension of its rare-earth export controls is due to expire November 10.",
+      "source_url": "https://www.scmp.com/news/us/economy-trade-business/article/3373616/us-china-trade-chiefs-hold-call-ahead-trump-xi-summit-shenzhen",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-anti-cross-border-corruption-law-draft",
+      "reported_date": "2026-11-07",
+      "event_date": "2026-11-06",
+      "category": "China",
+      "entities": [
+        "National People's Congress Standing Committee",
+        "National Supervisory Commission"
+      ],
+      "event_type": "regulatory_legal_change",
+      "canonical_summary": "China's draft Anti-Cross-Border Corruption Law, now before the NPC Standing Committee, would let Chinese authorities investigate bribery committed abroad by Chinese and foreign firms, require foreign company headquarters to cooperate with Chinese probes, and authorize retaliatory countermeasures against foreign anti-corruption enforcement Beijing deems improper.",
+      "source_url": "https://www.scmp.com/news/china/politics/article/3373519/new-anti-corruption-law-arms-beijing-expansive-global-enforcement-powers",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-narrows-rsdl-detention-measure-scope",
+      "reported_date": "2026-11-07",
+      "event_date": "2026-11-07",
+      "category": "China",
+      "entities": [
+        "National People's Congress Standing Committee",
+        "Ministry of Public Security",
+        "Supreme People's Procuratorate"
+      ],
+      "event_type": "legal_reform",
+      "canonical_summary": "China submitted a draft amendment narrowing the scope of its 'residential surveillance at a designated location' measure, a detention tool long criticized for enabling secretive, prolonged custody, including of foreign nationals and businesspeople, for initial legislative review.",
+      "source_url": "https://www.scmp.com/news/china/politics/article/3373546/china-narrow-scope-contentious-designated-location-surveillance-measure",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-long-march-9-rocket-approved",
+      "reported_date": "2026-11-07",
+      "event_date": "2026-11-06",
+      "category": "China",
+      "entities": [
+        "China National Space Administration",
+        "China Academy of Launch Vehicle Technology"
+      ],
+      "event_type": "space_program_milestone",
+      "canonical_summary": "Chinese authorities formally approved development of the super-heavy Long March 9 rocket for deep-space and lunar-base missions, targeting a maiden flight around 2030.",
+      "source_url": "https://www.scmp.com/news/china/science/article/3373578/beijing-approves-giant-long-march-9-rocket-deep-space-and-lunar-base-runs",
       "material_update_of": null
     }
   ]
