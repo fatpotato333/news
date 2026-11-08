@@ -1,41 +1,5 @@
-Daily News for Saturday, November 7, 2026.
-
-Artificial intelligence.
-
-OpenAI closed about eleven billion dollars of a new funding round that values the company at one point two five trillion dollars, with the round potentially growing to twenty billion, down from an initial thirty billion dollar target.
-
-Anthropic still plans to list on the Nasdaq before Thanksgiving while seeking eighty to one hundred billion dollars at a valuation of one point two five to one point seven five trillion dollars, but some IPO buyers are now pushing back, seeing fair value as low as one point one trillion after this week's AI stock selloff.
-
-Microsoft is winding down a twenty twenty three deal to rent AI computing capacity from Oracle, reportedly because the leased hardware used older Nvidia chips that no longer meet its needs.
-
-Meta began rolling out specialized models built from its Muse Wonder system to users of its Muse and Meta AI products, adding cross conversation memory and the ability to stay focused through multi step tasks.
-
-Quantum computing.
-
-IBM unveiled its first quantum computer in Illinois, a Quantum System Two powered by its new Nighthawk processor, anchoring a national quantum algorithm center with partners including Fermilab, Deloitte, AbbVie and Northwestern working on drug discovery, power grid optimization and high energy physics.
-
-United States stock market.
-
-US stocks partly rebounded Friday after Thursday's steep AI regulation driven selloff tied to the Democratic midterm election sweep. The S&P 500 closed at seven thousand three hundred seventy six, up about a third of a percent, and the Nasdaq rose about one percent, while the Dow slipped nearly half a percent. Chipmakers Nvidia, AMD and Intel recovered part of Thursday's double digit losses, though all three indexes still ended the week lower.
-
-October's jobs report showed nonfarm payrolls up one hundred sixty five thousand, well above forecasts of around seventy thousand, with unemployment falling to four point one percent, reinforcing bets on a Federal Reserve rate cut in December.
-
-Cloudflare shares jumped about eight to nine percent after the company reported third quarter revenue of seven hundred eighty two million dollars, up about thirty nine percent from a year earlier and well above its own guidance, and raised its outlook.
-
-Czech Republic and Slovakia.
-
-The Czech Finance Ministry and the central bank both worsened their public finance outlook Friday. The ministry now expects a deficit of two point eight percent of GDP this year and three point five percent in twenty twenty seven, while the central bank sees debt reaching nearly fifty percent of GDP by twenty twenty eight, alongside wage growth near six percent and unemployment rising to about five percent.
-
-US chipmaker onsemi confirmed it has cancelled a planned two billion dollar expansion of its silicon carbide chip plant in Rožnov pod Radhoštěm, citing global market conditions. Current jobs at the plant are not affected.
-
-Czech industrial production rose six point two percent in September from a year earlier, the fastest pace since twenty twenty two, while foreign trade swung to a surplus of nearly twenty four billion crowns as exports outpaced imports.
+Daily News for Sunday, November 8, 2026.
 
 China.
 
-US Treasury Secretary Scott Bessent and trade representative Jamieson Greer held a call with Chinese Vice Premier He Lifeng ahead of an expected Trump-Xi summit in Shenzhen, pressing Beijing to fully honor its trade truce commitments on rare earths, days before China's export control suspension is due to expire on November tenth.
-
-China's draft Anti Cross Border Corruption Law would let Chinese authorities investigate bribery committed abroad by Chinese and foreign firms, require foreign company headquarters to cooperate with Chinese investigations, and allow retaliatory measures against foreign anti corruption enforcement Beijing considers improper.
-
-China submitted a draft narrowing the scope of its residential surveillance at a designated location measure, a detention tool long criticized for enabling secretive, prolonged custody of foreign nationals and businesspeople, for initial legislative review.
-
-Chinese authorities formally approved development of the super heavy Long March nine rocket for deep space and lunar base missions, targeting a first flight around twenty thirty.
+China Eastern Airlines signed twenty-three procurement contracts worth five hundred forty million dollars with fifteen suppliers from eight countries at Shanghai's China International Import Expo, covering aircraft engines, aviation fuel, in-flight catering, and fresh salmon, as it widens global sourcing for its expanding network.
