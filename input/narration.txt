@@ -1,5 +1,21 @@
-Daily News for Sunday, November 8, 2026.
+Daily News for Monday, November 9, 2026.
+
+Artificial intelligence.
+
+Nvidia's board of directors launched an independent investigation into chief executive Jensen Huang after reports he was the target of a foreign intelligence effort. A committee of independent directors is overseeing the review, and the board says it has no reason to believe trade secrets or national security were compromised.
+
+Nvidia, South Korean chipmaker Rebellions, and SK Telecom announced a collaboration using Nvidia's NVLink Fusion technology to combine Rebellions' domestically designed AI processors with Nvidia's platform, advancing South Korea's sovereign AI infrastructure push.
+
+Anthropic agreed to a three point four billion dollar deal for one point seven gigawatts of gas-fired generators from equipment supplier OnePWR, adding to the power buildout race among AI labs securing electricity for data centers.
+
+Czech Republic and Slovakia.
+
+The Czech government is presenting the cabinet today with a contingency plan to cap household and business energy prices if gas and electricity costs keep rising, while coalition partners weigh extending the windfall tax beyond refineries to other sectors such as banks.
+
+The Labour Ministry softened its planned cut to unemployment benefits, now exempting people returning from parental leave, workers over fifty two, and those in retraining from the drop in the initial payout rate, as coalition leaders meet today to finalize the compromise ahead of a January start date.
+
+Czech food industry groups say retailers are receiving new price lists with significant increases set for January, driven by higher energy, fuel, and labor costs plus a smaller harvest, with one estimate putting food inflation as high as five to ten percent.
 
 China.
 
-China Eastern Airlines signed twenty-three procurement contracts worth five hundred forty million dollars with fifteen suppliers from eight countries at Shanghai's China International Import Expo, covering aircraft engines, aviation fuel, in-flight catering, and fresh salmon, as it widens global sourcing for its expanding network.
+The United States formally extended its suspension of the Commerce Department's Affiliates Rule, which would otherwise expand export controls to firms fifty percent or more owned by blacklisted Chinese entities, through January tenth, as part of the ongoing trade truce ahead of a planned Trump-Xi meeting in Shenzhen.

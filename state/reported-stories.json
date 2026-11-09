@@ -2,62 +2,6 @@
   "version": 1,
   "stories": [
     {
-      "event_id": "typhoon-dolphin-zhejiang-shanghai-flooding-aftermath",
-      "reported_date": "2026-08-10",
-      "event_date": "2026-08-10",
-      "category": "China",
-      "entities": [
-        "China",
-        "Zhejiang province",
-        "Shanghai",
-        "Fujian province"
-      ],
-      "event_type": "natural_disaster_update",
-      "canonical_summary": "Typhoon Dolphin's aftermath forced more than one million evacuations in Zhejiang (over 900,000 in Wenzhou alone), flooded more than 100 road sections in Shanghai, forced cancellation of about 1,500 flights, and knocked out a power plant in Zhejiang, with major flood warnings issued for several rivers as heavy rain continued into August 10.",
-      "source_url": "https://news.cgtn.com/news/2026-08-10/Typhoon-Dolphin-hits-Zhejiang-power-plant-floods-Shanghai-streets-1PuoBLimeRy/p.html",
-      "material_update_of": "china-taiwan-strait-typhoon-shipping-directive-dispute"
-    },
-    {
-      "event_id": "moore-threads-hong-kong-listing",
-      "reported_date": "2026-08-10",
-      "event_date": "2026-08-09",
-      "category": "China",
-      "entities": [
-        "Moore Threads"
-      ],
-      "event_type": "ipo_announcement",
-      "canonical_summary": "Chinese AI chipmaker Moore Threads' board approved a Hong Kong H-share listing to tap international capital, following a Shanghai STAR Market debut in December 2025 that saw shares surge roughly 420 percent; first-half revenue rose 147 percent year over year to 1.74 billion yuan while the company still posts a net loss, as Chinese GPU makers race to public markets amid US export controls.",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-08-09/china-ai-chip-designer-moore-threads-plans-hong-kong-listing",
-      "material_update_of": null
-    },
-    {
-      "event_id": "unitree-robotics-ipo-subscription-opens",
-      "reported_date": "2026-08-10",
-      "event_date": "2026-08-10",
-      "category": "China",
-      "entities": [
-        "Unitree Robotics",
-        "Shanghai Stock Exchange"
-      ],
-      "event_type": "ipo_process",
-      "canonical_summary": "Unitree Robotics opened public subscription for its Shanghai STAR Market IPO, pricing shares at 150.80 yuan to raise about 6.1 billion yuan at a roughly 61 billion yuan valuation, up from the 4.2 billion yuan target and over 40 billion yuan valuation set during price inquiry on August 5, making it the first profitable, scaled humanoid-robot maker to go public in China.",
-      "source_url": "https://www.caixinglobal.com/2026-08-07/the-week-ahead-aug-10-16-unitree-opens-star-market-ipo-subscription-102472435.html",
-      "material_update_of": "unitree-robotics-star-market-ipo-price-inquiry"
-    },
-    {
-      "event_id": "czech-mortgage-rates-two-year-high",
-      "reported_date": "2026-08-10",
-      "event_date": "2026-08-10",
-      "category": "Czech Republic and Slovakia",
-      "entities": [
-        "Czech mortgage market"
-      ],
-      "event_type": "interest_rate_data",
-      "canonical_summary": "The average Czech mortgage interest rate rose to 5.42 percent in early August, per Swiss Life Hypoindex data, its fifth consecutive monthly rise and the highest level in two years, pushing monthly payments on a typical 3.5 million koruna 25-year loan to about 21,327 koruna, roughly 1,100 koruna more than in March, with analysts expecting rates to plateau rather than fall soon.",
-      "source_url": "https://www.e15.cz/byznys/reality-a-stavebnictvi/cechum-dal-zdrazuji-hypoteky-sazby-vystoupaly-na-dvoulete-maximum-1434851",
-      "material_update_of": null
-    },
-    {
       "event_id": "anthropic-riot-platforms-power-deal",
       "reported_date": "2026-08-11",
       "event_date": "2026-08-10",
@@ -13630,6 +13574,107 @@
       "event_type": "trade_procurement_deal",
       "canonical_summary": "China Eastern Airlines signed 23 procurement contracts worth $540 million with 15 suppliers from eight countries and regions at the 9th China International Import Expo in Shanghai, covering aircraft engines, aviation materials and fuel, in-flight catering, and fresh salmon, as it widens global sourcing for its expanding network.",
       "source_url": "https://www.chinadaily.com.cn/a/202611/07/WS6aeedcb7e4b03ebf8519b0cb.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "nvidia-board-investigation-jensen-huang-foreign-intelligence",
+      "reported_date": "2026-11-09",
+      "event_date": "2026-11-08",
+      "category": "AI",
+      "entities": [
+        "Nvidia",
+        "Jensen Huang"
+      ],
+      "event_type": "corporate_governance_investigation",
+      "canonical_summary": "Nvidia's Board of Directors announced an independent investigation, overseen by a committee of independent directors with outside counsel, into reports that CEO Jensen Huang was the target of a foreign intelligence effort; the board said it has no reason to believe Nvidia secrets or national security were compromised and Huang is cooperating.",
+      "source_url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+      "material_update_of": null
+    },
+    {
+      "event_id": "nvidia-rebellions-sk-telecom-nvlink-fusion-korea",
+      "reported_date": "2026-11-09",
+      "event_date": "2026-11-08",
+      "category": "AI",
+      "entities": [
+        "Nvidia",
+        "Rebellions",
+        "SK Telecom"
+      ],
+      "event_type": "infrastructure_partnership",
+      "canonical_summary": "Nvidia, Korean chipmaker Rebellions, and SK Telecom announced a collaboration using Nvidia's NVLink Fusion to combine Rebellions' Korean-designed AI processors with Nvidia's platform, part of an expanded sovereign AI infrastructure push in South Korea.",
+      "source_url": "https://nvidianews.nvidia.com/news/nvidia-rebellions-sk-telecom-announce-collaboration-to-advance-sovereign-ai-infrastructure-with-nvidia-nvlink-fusion",
+      "material_update_of": null
+    },
+    {
+      "event_id": "anthropic-onepwr-gas-generators-deal",
+      "reported_date": "2026-11-09",
+      "event_date": "2026-11-08",
+      "category": "AI",
+      "entities": [
+        "Anthropic",
+        "OnePWR"
+      ],
+      "event_type": "infrastructure_deal",
+      "canonical_summary": "Anthropic agreed to buy commitments for 1.7 gigawatts of gas-fired generators from equipment supplier OnePWR in a deal valued at $3.4 billion, per Financial Times reporting corroborated same-day by Bloomberg and CNBC, to help power its AI data center buildout.",
+      "source_url": "https://www.techmeme.com/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-energy-price-cap-cabinet-presentation",
+      "reported_date": "2026-11-09",
+      "event_date": "2026-11-09",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech government",
+        "Karel Havlicek"
+      ],
+      "event_type": "policy_proposal",
+      "canonical_summary": "Czech Industry Minister Karel Havlicek is presenting the cabinet a contingency plan to cap household, business and producer energy prices via the regulated bill component if gas and electricity prices keep rising, while the coalition separately weighs extending the refinery windfall tax to other sectors such as banks.",
+      "source_url": "https://ct24.ceskatelevize.cz/clanek/domaci/nedelni-debata-o-vyhrocene-situaci-ve-spolecnosti-379393",
+      "material_update_of": "czech-govt-electricity-price-cap-readiness"
+    },
+    {
+      "event_id": "czech-unemployment-benefit-cut-compromise-vulnerable-exemption",
+      "reported_date": "2026-11-09",
+      "event_date": "2026-11-09",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Labour Ministry",
+        "Ales Juchelka",
+        "SPD"
+      ],
+      "event_type": "legislation_update",
+      "canonical_summary": "The Czech Labour Ministry softened its planned unemployment-benefit cut, exempting people returning from parental leave, workers over 52, and those in retraining from the drop in the initial payout rate, as coalition leaders meet to finalize the compromise bill ahead of a planned January 2027 effective date.",
+      "source_url": "https://ct24.ceskatelevize.cz/clanek/domaci/resort-mirni-plan-na-snizeni-podpor-v-nezamestnanosti-kvuli-nesouhlasu-spd-379387",
+      "material_update_of": "czech-unemployment-benefit-cuts-cabinet-approval"
+    },
+    {
+      "event_id": "czech-food-industry-price-hike-warning-2027",
+      "reported_date": "2026-11-09",
+      "event_date": "2026-11-08",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Potravinarska komora",
+        "Agrarni komora",
+        "Deloitte"
+      ],
+      "event_type": "inflation_outlook",
+      "canonical_summary": "Czech food industry groups say suppliers are sending retailers new price lists with significant increases effective January 2027, driven by rising energy, fuel, labor and packaging costs plus a smaller harvest, with Deloitte estimating food inflation could reach 5-10 percent.",
+      "source_url": "https://ct24.ceskatelevize.cz/clanek/domaci/zatim-tahnou-inflaci-dolu-brzy-ale-potraviny-zrejme-podrazi-379403",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-bis-affiliates-rule-suspension-extended-jan2027",
+      "reported_date": "2026-11-09",
+      "event_date": "2026-11-09",
+      "category": "China",
+      "entities": [
+        "US Bureau of Industry and Security",
+        "China"
+      ],
+      "event_type": "export_control_policy",
+      "canonical_summary": "The US Commerce Department's Bureau of Industry and Security formally extended, effective November 9, its suspension of the Affiliates Rule, which would otherwise expand export controls to firms 50% or more owned by blacklisted Chinese entities, through January 10, 2027, implementing the latest extension of the US-China trade truce ahead of a planned Trump-Xi summit in Shenzhen.",
+      "source_url": "https://www.nixonpeabody.com/insights/alerts/2026/11/06/bis-formally-suspends-the-affiliates-rule-until-january-10-2027",
       "material_update_of": null
     }
   ]
