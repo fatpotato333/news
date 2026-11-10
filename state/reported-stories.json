@@ -2,203 +2,6 @@
   "version": 1,
   "stories": [
     {
-      "event_id": "anthropic-riot-platforms-power-deal",
-      "reported_date": "2026-08-11",
-      "event_date": "2026-08-10",
-      "category": "AI",
-      "entities": [
-        "Anthropic",
-        "Riot Platforms"
-      ],
-      "event_type": "infrastructure_deal",
-      "canonical_summary": "Anthropic signed a 20-year, up to $16.1 billion power and data-center capacity deal with Bitcoin miner Riot Platforms for 191 megawatts at its Rockdale, Texas campus, with initial capacity due by December 2027 and full capacity by June 2028.",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-08-11/anthropic-strikes-9-billion-deal-with-cloud-computing-firm-riot",
-      "material_update_of": null
-    },
-    {
-      "event_id": "nvidia-wall-street-compute-financing-platforms",
-      "reported_date": "2026-08-11",
-      "event_date": "2026-08-10",
-      "category": "AI",
-      "entities": [
-        "Nvidia",
-        "Apollo",
-        "BlackRock",
-        "Blackstone",
-        "Brookfield",
-        "Goldman Sachs",
-        "KKR"
-      ],
-      "event_type": "financing_partnership",
-      "canonical_summary": "Nvidia announced MOUs with six Wall Street firms (Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, KKR) to establish compute financing platforms aiming to mobilize over $500 billion in third-party capital for AI chips, power, and data centers.",
-      "source_url": "https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital",
-      "material_update_of": null
-    },
-    {
-      "event_id": "meta-muse-glimmer-open-model-zuckerberg-manifesto",
-      "reported_date": "2026-08-11",
-      "event_date": "2026-08-10",
-      "category": "AI",
-      "entities": [
-        "Meta",
-        "Mark Zuckerberg"
-      ],
-      "event_type": "model_release",
-      "canonical_summary": "Meta released Muse Glimmer, a 30-billion-parameter Apache 2.0 open-weight model for on-device agentic workflows, its first fully open release since Llama, alongside a Zuckerberg manifesto advocating for widely distributed superintelligence.",
-      "source_url": "https://venturebeat.com/technology/meta-returns-to-open-source-with-muse-glimmer-an-apache-2-0-licensed-30b-parameter-ai-model-optimized-for-agents-available-now",
-      "material_update_of": null
-    },
-    {
-      "event_id": "alibaba-qianwen-open-platform-launch",
-      "reported_date": "2026-08-11",
-      "event_date": "2026-08-10",
-      "category": "AI",
-      "entities": [
-        "Alibaba",
-        "Qwen"
-      ],
-      "event_type": "platform_launch",
-      "canonical_summary": "Alibaba launched the Qianwen (Qwen) Open Platform, giving outside developers and partners such as SF Express and Midea access to build custom Qwen-powered AI agents across phones, PCs, and AI glasses.",
-      "source_url": "https://www.caixinglobal.com/2026-08-11/alibaba-opens-qwen-platform-to-outside-developers-in-push-to-build-ai-agent-ecosystem-102473024.html",
-      "material_update_of": null
-    },
-    {
-      "event_id": "openai-7-billion-employee-tender-offer",
-      "reported_date": "2026-08-11",
-      "event_date": "2026-08-10",
-      "category": "AI",
-      "entities": [
-        "OpenAI"
-      ],
-      "event_type": "financial_milestone",
-      "canonical_summary": "OpenAI completed a roughly $7 billion tender offer allowing current and former employees to sell shares back to the company, leaving its valuation unchanged at $852 billion ahead of a possible future IPO.",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-08-10/openai-buys-back-7-billion-of-employee-shares-in-tender-offer",
-      "material_update_of": null
-    },
-    {
-      "event_id": "ustc-photonic-chip-record-entangled-qubits",
-      "reported_date": "2026-08-11",
-      "event_date": "2026-08-10",
-      "category": "Quantum Computing",
-      "entities": [
-        "Hefei Sizhen Chip Technology",
-        "University of Science and Technology of China"
-      ],
-      "event_type": "research_result",
-      "canonical_summary": "Hefei Sizhen Chip Technology and USTC researchers reported, in a new preprint, the largest entangled quantum state yet produced on a silicon photonic chip, verifying a 10-qubit entangled state and running Grover's search algorithm with over 98 percent success.",
-      "source_url": "https://arxiv.org/abs/2608.03012",
-      "material_update_of": null
-    },
-    {
-      "event_id": "intel-15-billion-stock-offering",
-      "reported_date": "2026-08-11",
-      "event_date": "2026-08-10",
-      "category": "US Stock Market",
-      "entities": [
-        "Intel"
-      ],
-      "event_type": "capital_raise",
-      "canonical_summary": "Intel announced a $15 billion common stock offering, its first public share sale since going public in 1971, citing AI-driven demand; shares fell about 3-4 percent and dragged down the broader chip sector.",
-      "source_url": "https://newsroom.intel.com/corporate/intel-announces-proposed-15-billion-common-stock-offering",
-      "material_update_of": null
-    },
-    {
-      "event_id": "trade-desk-stock-slide-downgrades",
-      "reported_date": "2026-08-11",
-      "event_date": "2026-08-10",
-      "category": "US Stock Market",
-      "entities": [
-        "The Trade Desk"
-      ],
-      "event_type": "stock_move",
-      "canonical_summary": "The Trade Desk extended its selloff to become the S&P 500's biggest decliner as fresh analyst downgrades compounded its August 7 earnings miss and weak guidance tied to advertisers shifting away from open-web programmatic auctions.",
-      "source_url": "https://247wallst.com/investing/2026/08/10/trade-desk-ttd-stock-is-falling-today-whats-behind-the-drop-and-are-its-peers-moving-too/",
-      "material_update_of": null
-    },
-    {
-      "event_id": "airbnb-52-week-high-analyst-upgrade",
-      "reported_date": "2026-08-11",
-      "event_date": "2026-08-10",
-      "category": "US Stock Market",
-      "entities": [
-        "Airbnb",
-        "BMO Capital"
-      ],
-      "event_type": "stock_move",
-      "canonical_summary": "Airbnb shares rose to a fresh 52-week high after BMO Capital raised its price target, building on last week's Q2 earnings beat and raised full-year guidance projecting at least mid-teens revenue growth.",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/airbnb-stock-jumps-despite-bmo-194409112.html",
-      "material_update_of": null
-    },
-    {
-      "event_id": "czech-july-2026-unemployment-rise",
-      "reported_date": "2026-08-11",
-      "event_date": "2026-08-10",
-      "category": "Czech Republic and Slovakia",
-      "entities": [
-        "Czech Labour Office"
-      ],
-      "event_type": "economic_data_release",
-      "canonical_summary": "Czech unemployment rose to 5.0 percent in July, the highest for that month in a decade, even as job vacancies also increased; the Ústí nad Labem region had the highest rate at 7.3 percent, Prague the lowest at 3.9 percent.",
-      "source_url": "https://www.ceskenoviny.cz/zpravy/nezamestnanost-v-cervenci-stoupla-na-5-pribylo-i-volnych-mist/2860238",
-      "material_update_of": null
-    },
-    {
-      "event_id": "cez-h1-2026-earnings-guidance-raise",
-      "reported_date": "2026-08-11",
-      "event_date": "2026-08-11",
-      "category": "Czech Republic and Slovakia",
-      "entities": [
-        "ČEZ"
-      ],
-      "event_type": "earnings_report",
-      "canonical_summary": "ČEZ reported first-half 2026 net profit up 10 percent year over year to CZK 18.1 billion, driven mainly by the end of windfall-tax collection even as operating revenue and EBITDA fell, and raised full-year profit guidance to CZK 31-35 billion.",
-      "source_url": "https://www.ceskenoviny.cz/zpravy/cez-v-pololeti-mezirocne-zvysil-cisty-zisk-o-10-na-181-miliardy-kc/2860635",
-      "material_update_of": null
-    },
-    {
-      "event_id": "long-march-7a-rocket-explosion",
-      "reported_date": "2026-08-11",
-      "event_date": "2026-08-10",
-      "category": "China",
-      "entities": [
-        "CASC",
-        "ChinaSat"
-      ],
-      "event_type": "launch_failure",
-      "canonical_summary": "A Long March 7A rocket carrying the ChinaSat 4B satellite exploded about 85 seconds after liftoff from Wenchang, Hainan, destroying the payload and triggering an investigation into the YF-100 engine, which also powers the booster planned for the Chang'e 7 lunar mission.",
-      "source_url": "https://spacenews.com/chinese-long-march-7a-rocket-explodes-shortly-after-liftoff/",
-      "material_update_of": null
-    },
-    {
-      "event_id": "china-social-security-enforcement-payroll-shock",
-      "reported_date": "2026-08-11",
-      "event_date": "2026-08-10",
-      "category": "China",
-      "entities": [
-        "Chinese tax authorities",
-        "Ministry of Human Resources and Social Security"
-      ],
-      "event_type": "regulatory_enforcement",
-      "canonical_summary": "Chinese authorities are intensifying nationwide enforcement forcing employers to base social insurance contributions on actual wages rather than under-reported pay, with regulators estimating roughly two-thirds of companies had been underpaying; 2025 collections reached 9.1 trillion yuan.",
-      "source_url": "https://www.caixinglobal.com/2026-08-10/cover-story-chinas-drive-to-shore-up-social-security-funds-brings-a-payroll-shock-102472772.html",
-      "material_update_of": null
-    },
-    {
-      "event_id": "typhoon-dolphin-inland-shift-beijing-henan-alerts",
-      "reported_date": "2026-08-11",
-      "event_date": "2026-08-11",
-      "category": "China",
-      "entities": [
-        "China Meteorological Administration",
-        "Beijing municipal government",
-        "Henan provincial government"
-      ],
-      "event_type": "natural_disaster_update",
-      "canonical_summary": "Typhoon Dolphin's remnants pushed inland into central and northern China, prompting a new red flood alert for Henan and a Level II flood emergency in Beijing, with construction suspended and up to 200mm of rain forecast for the capital within 24 hours.",
-      "source_url": "https://www.globaltimes.cn/page/202608/1367951.shtml",
-      "material_update_of": "typhoon-dolphin-zhejiang-shanghai-flooding-aftermath"
-    },
-    {
       "event_id": "google-gemini-app-1-billion-mau",
       "reported_date": "2026-08-12",
       "event_date": "2026-08-11",
@@ -13675,6 +13478,144 @@
       "event_type": "export_control_policy",
       "canonical_summary": "The US Commerce Department's Bureau of Industry and Security formally extended, effective November 9, its suspension of the Affiliates Rule, which would otherwise expand export controls to firms 50% or more owned by blacklisted Chinese entities, through January 10, 2027, implementing the latest extension of the US-China trade truce ahead of a planned Trump-Xi summit in Shenzhen.",
       "source_url": "https://www.nixonpeabody.com/insights/alerts/2026/11/06/bis-formally-suspends-the-affiliates-rule-until-january-10-2027",
+      "material_update_of": null
+    },
+    {
+      "event_id": "anthropic-fable-mythos-5-2-release",
+      "reported_date": "2026-11-10",
+      "event_date": "2026-11-09",
+      "category": "AI",
+      "entities": [
+        "Anthropic"
+      ],
+      "event_type": "model_release",
+      "canonical_summary": "Anthropic released Claude Fable 5.2 (public) and Claude Mythos 5.2 (restricted to vetted organizations via verification programs), claiming improved coding/reasoning/vision and an optional fast mode up to 2.5x faster than version 5.1.",
+      "source_url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "material_update_of": "anthropic-claude-fable-mythos-5-1-release"
+    },
+    {
+      "event_id": "meta-muse-ember-release",
+      "reported_date": "2026-11-10",
+      "event_date": "2026-11-09",
+      "category": "AI",
+      "entities": [
+        "Meta"
+      ],
+      "event_type": "model_release",
+      "canonical_summary": "Meta released Muse Ember, a low-cost, natively multimodal model aimed at repetitive multi-step agent workloads, priced at $0.10/$0.50 per million input/output tokens and available via Meta, Google Cloud, and Oracle Cloud.",
+      "source_url": "https://research.meta.ai/blog/muse-ember",
+      "material_update_of": null
+    },
+    {
+      "event_id": "google-tpu-8tx-8i-max-launch",
+      "reported_date": "2026-11-10",
+      "event_date": "2026-11-09",
+      "category": "AI",
+      "entities": [
+        "Google",
+        "Alphabet"
+      ],
+      "event_type": "chip_announcement",
+      "canonical_summary": "Google announced two new TPU variants, 8tx (confidential compute, lower network latency) and 8i Max (doubled compute/memory density), expanding its 8th-gen TPU lineup to four variants as it competes with Nvidia; says TPUs now serve nearly 100 customers.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-11-09/google-escalates-nvidia-rivalry-with-new-versions-of-its-tpu-systems",
+      "material_update_of": null
+    },
+    {
+      "event_id": "apple-intelligence-usage-packs",
+      "reported_date": "2026-11-10",
+      "event_date": "2026-11-09",
+      "category": "AI",
+      "entities": [
+        "Apple"
+      ],
+      "event_type": "product_monetization",
+      "canonical_summary": "Apple introduced $49.99 one-time 'Intelligence Usage Packs' for AI features exceeding free monthly limits, its first paid Apple Intelligence tier, starting in Logic Pro with other Creator Studio apps expected to follow.",
+      "source_url": "https://9to5mac.com/2026/11/09/apple-launches-50-intelligence-usage-packs-for-select-ai-features/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-stocks-rally-nov9-rebound",
+      "reported_date": "2026-11-10",
+      "event_date": "2026-11-09",
+      "category": "US Stock Market",
+      "entities": [
+        "S&P 500",
+        "Nasdaq",
+        "Dow Jones"
+      ],
+      "event_type": "index_move",
+      "canonical_summary": "US stocks rallied broadly on Monday November 9: S&P 500 +2.37%, Nasdaq-100 +3.54%, Dow +2.17%, led by technology, materials, and industrials, rebounding from the prior week's sharp AI/tariff-driven sell-off.",
+      "source_url": "https://swingtradebot.com/market-recap/2026-11-09",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-mortgage-rate-5-96pct-nov2026",
+      "reported_date": "2026-11-10",
+      "event_date": "2026-11-10",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Swiss Life Hypoindex",
+        "Czech National Bank"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "The average Czech mortgage rate rose to 5.96% in early November (Swiss Life Hypoindex), an eighth consecutive monthly rise and the highest since January 2024, raising monthly payments on a typical mortgage by over CZK 2,000 versus March.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/hypoindex-prumerna-sazba-hypotek-v-listopadu-stoupla-k-sesti-procentum/2899799",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-electricity-price-regulation-bill-approved",
+      "reported_date": "2026-11-10",
+      "event_date": "2026-11-09",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech government",
+        "Ministry of Industry and Trade"
+      ],
+      "event_type": "legislation",
+      "canonical_summary": "The Czech cabinet approved an Energy Act amendment creating a standing legal framework to let the state regulate electricity/gas prices and cap 'excessive' producer revenue during a future market crisis, replacing the ad-hoc 2022-23 levy; still needs parliamentary approval.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/vlada-schvalila-upravu-pro-regulaci-cen-elektriny-a-zastropovani-prijmu-vyrobcu/2898989",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-slovak-housing-affordability-eurostat-nov2026",
+      "reported_date": "2026-11-10",
+      "event_date": "2026-11-09",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Statistical Office",
+        "Eurostat"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "New data show Czech apartment prices up 9.3% year-on-year, with Czechia posting the EU's 4th-largest rise in the house-price-to-income ratio; Slovakia's price-to-income ratio rose roughly 12% over 10 years, nearly double the EU average.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/cesko-melo-v-eu-ctvrty-nejvyssi-narust-pomeru-cen-nemovitosti-k-prijmum/2899469",
+      "material_update_of": null
+    },
+    {
+      "event_id": "cetin-backstop-loan-cancellation",
+      "reported_date": "2026-11-10",
+      "event_date": "2026-11-09",
+      "category": "PPF Group",
+      "entities": [
+        "CETIN Group",
+        "PPF Telecom Holdings"
+      ],
+      "event_type": "financing",
+      "canonical_summary": "CETIN Group cancelled its undrawn EUR 500m backstop loan facility after parent PPF Telecom Holdings signed a new committed EUR 500m senior term loan facility, which now fully secures refinancing of CETIN's EUR 500m eurobond due April 14, 2027.",
+      "source_url": "https://www.cetin.eu/documents/d/guest/20261109-cetin-group-backstop-cancellation_ia",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-rare-earth-suspension-extended-jan2027",
+      "reported_date": "2026-11-10",
+      "event_date": "2026-11-09",
+      "category": "China",
+      "entities": [
+        "China Ministry of Commerce",
+        "United States"
+      ],
+      "event_type": "trade_policy",
+      "canonical_summary": "China's Ministry of Commerce extended the one-year suspension of its expanded October 2025 rare earth export controls by two months, to January 10, 2027, rather than letting it lapse November 10 as scheduled; the original April 2025 licensing regime remains unaffected.",
+      "source_url": "https://theprint.in/world/china-extends-suspension-of-new-rare-earth-controls-until-january/3094091/",
       "material_update_of": null
     }
   ]

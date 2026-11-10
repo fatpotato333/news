@@ -1,21 +1,31 @@
-Daily News for Monday, November 9, 2026.
+Daily News for Tuesday, November 10, 2026.
 
 Artificial intelligence.
 
-Nvidia's board of directors launched an independent investigation into chief executive Jensen Huang after reports he was the target of a foreign intelligence effort. A committee of independent directors is overseeing the review, and the board says it has no reason to believe trade secrets or national security were compromised.
+Anthropic released Claude Fable 5.2 and Claude Mythos 5.2, its newest models, claiming faster coding and reasoning and an optional fast mode up to two and a half times quicker than the prior version. Mythos 5.2 drops certain safety guardrails and is limited to vetted organizations through Anthropic's verification programs.
 
-Nvidia, South Korean chipmaker Rebellions, and SK Telecom announced a collaboration using Nvidia's NVLink Fusion technology to combine Rebellions' domestically designed AI processors with Nvidia's platform, advancing South Korea's sovereign AI infrastructure push.
+Meta launched Muse Ember, a low cost AI model built for repetitive multi step agent work like tool use, routing, and document parsing. It is priced at ten cents per million input tokens and is available through Meta, Google Cloud, and Oracle Cloud.
 
-Anthropic agreed to a three point four billion dollar deal for one point seven gigawatts of gas-fired generators from equipment supplier OnePWR, adding to the power buildout race among AI labs securing electricity for data centers.
+Google unveiled two new Tensor Processing Unit chip variants aimed at private AI fine tuning and memory heavy agent workloads, sharpening its hardware rivalry with Nvidia. Google says its chips now serve nearly one hundred customers, including frontier AI labs.
+
+Apple began charging for some on device AI features for the first time, introducing fifty dollar one time add on usage packs for its Intelligence tools. The packs start in Logic Pro, with other creative apps expected to follow.
+
+United States stock market.
+
+Wall Street rallied sharply on Monday, with the S and P 500 up about two and a half percent, the Nasdaq up nearly three and a half percent, and the Dow up over two percent. Technology, materials, and industrial stocks led the rebound from the prior week's steep sell off.
 
 Czech Republic and Slovakia.
 
-The Czech government is presenting the cabinet today with a contingency plan to cap household and business energy prices if gas and electricity costs keep rising, while coalition partners weigh extending the windfall tax beyond refineries to other sectors such as banks.
+The average Czech mortgage rate climbed to five point nine six percent in November, an eighth straight monthly rise and the highest level since January 2024. On a typical mortgage, the monthly payment is now more than two thousand crowns higher than it was in the spring.
 
-The Labour Ministry softened its planned cut to unemployment benefits, now exempting people returning from parental leave, workers over fifty two, and those in retraining from the drop in the initial payout rate, as coalition leaders meet today to finalize the compromise ahead of a January start date.
+The Czech government approved a new legal framework letting the state regulate electricity and gas prices and cap producer revenue during a future market crisis, replacing the temporary rules used in 2022 and 2023. The measure still needs approval from parliament before it can take effect.
 
-Czech food industry groups say retailers are receiving new price lists with significant increases set for January, driven by higher energy, fuel, and labor costs plus a smaller harvest, with one estimate putting food inflation as high as five to ten percent.
+New Eurostat and Czech Statistical Office data show Czech apartment prices up nine point three percent over the past year, with the Czech Republic posting the European Union's fourth largest increase in the house price to income ratio. In Slovakia, that same ratio grew nearly double the EU average over the past decade.
+
+PPF Group.
+
+CETIN Group canceled its five hundred million euro backstop loan facility after its parent company, PPF Telecom Holdings, signed a new five hundred million euro term loan. That new facility now fully secures the refinancing of CETIN's eurobond due in April 2027.
 
 China.
 
-The United States formally extended its suspension of the Commerce Department's Affiliates Rule, which would otherwise expand export controls to firms fifty percent or more owned by blacklisted Chinese entities, through January tenth, as part of the ongoing trade truce ahead of a planned Trump-Xi meeting in Shenzhen.
+China's commerce ministry extended its suspension of expanded rare earth export controls by two months, to January 10, 2027, avoiding a lapse that had been set for this week. The move keeps in place the broader trade truce with the United States covering critical minerals.
