@@ -2,190 +2,6 @@
   "version": 1,
   "stories": [
     {
-      "event_id": "google-gemini-app-1-billion-mau",
-      "reported_date": "2026-08-12",
-      "event_date": "2026-08-11",
-      "category": "AI",
-      "entities": [
-        "Google",
-        "Gemini"
-      ],
-      "event_type": "product_milestone",
-      "canonical_summary": "Google announced the standalone Gemini app surpassed 1 billion monthly active users, calling it the company's fastest-growing product ever and its 14th to reach that milestone, citing heavy voice usage, camera/screen sharing in Gemini Live, and over 150 million images generated daily.",
-      "source_url": "https://blog.google/innovation-and-ai/products/gemini-app/one-billion-monthly-users/",
-      "material_update_of": null
-    },
-    {
-      "event_id": "nvidia-nemotron-3-5-lightning-release",
-      "reported_date": "2026-08-12",
-      "event_date": "2026-08-11",
-      "category": "AI",
-      "entities": [
-        "Nvidia"
-      ],
-      "event_type": "model_release",
-      "canonical_summary": "Nvidia released Nemotron 3.5 Lightning, an open-weight 30-billion-parameter (3B active) hybrid Mamba-2/MoE/Attention model for high-volume agentic tasks runnable on a single consumer GPU, released under the OpenMDW-1.1 license with open weights, data and training recipes, alongside an open-source agent-routing library called NeMo Switchyard.",
-      "source_url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-      "material_update_of": null
-    },
-    {
-      "event_id": "quantinuum-first-earnings-fault-tolerance-claim",
-      "reported_date": "2026-08-12",
-      "event_date": "2026-08-11",
-      "category": "Quantum Computing",
-      "entities": [
-        "Quantinuum",
-        "Oracle",
-        "HPE"
-      ],
-      "event_type": "earnings_and_technical_milestone",
-      "canonical_summary": "Quantinuum reported its first quarterly results as a newly public company, revenue up 279% year over year to $8.0 million with FY2026 guidance of $28-32 million, and disclosed a company-reported 'near five-nines' logical fidelity result on its Helios trapped-ion system using a new quantum error-correction code family (not yet independently peer-reviewed); it also announced partnerships with Oracle (Helios in Oracle Cloud Infrastructure) and HPE (hybrid quantum-HPC/AI workloads).",
-      "source_url": "https://www.prnewswire.com/news-releases/quantinuum-reports-second-quarter-2026-results-302848859.html",
-      "material_update_of": null
-    },
-    {
-      "event_id": "us-july-2026-cpi-cooler-than-expected",
-      "reported_date": "2026-08-12",
-      "event_date": "2026-08-12",
-      "category": "US Stock Market",
-      "entities": [
-        "US Bureau of Labor Statistics",
-        "Federal Reserve"
-      ],
-      "event_type": "economic_data",
-      "canonical_summary": "The US Bureau of Labor Statistics reported July 2026 CPI rose 0.1% month over month and 3.4% year over year (core CPI +0.2% m/m, 3.4% y/y), both cooler than expected and down from June, lifting stock futures on hopes for a September Fed rate cut even as inflation remains above the 2% target.",
-      "source_url": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html",
-      "material_update_of": null
-    },
-    {
-      "event_id": "coreweave-q2-2026-earnings-beat-guidance-raise",
-      "reported_date": "2026-08-12",
-      "event_date": "2026-08-11",
-      "category": "US Stock Market",
-      "entities": [
-        "CoreWeave"
-      ],
-      "event_type": "earnings",
-      "canonical_summary": "CoreWeave reported Q2 2026 revenue of $2.58 billion (up 112% year over year), beating estimates, with a narrower-than-expected adjusted loss and raised full-year 2026 guidance to $12.4-13.2 billion revenue; shares jumped about 17-20% on continued AI-compute demand.",
-      "source_url": "https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html",
-      "material_update_of": null
-    },
-    {
-      "event_id": "super-micro-q4-fy26-earnings-beat-backlog",
-      "reported_date": "2026-08-12",
-      "event_date": "2026-08-11",
-      "category": "US Stock Market",
-      "entities": [
-        "Super Micro Computer"
-      ],
-      "event_type": "earnings",
-      "canonical_summary": "Super Micro Computer reported Q4 FY26 adjusted EPS of $1.70 versus $0.92 expected, with gross margins roughly double prior guidance and a record order backlog exceeding $60 billion driven by AI server demand; shares rose more than 7% in extended trading.",
-      "source_url": "https://siliconangle.com/2026/08/11/server-maker-supermicros-stock-soars-crushed-earnings-results-soaring-profits/",
-      "material_update_of": null
-    },
-    {
-      "event_id": "on-holding-q2-2026-sales-miss-guidance-cut-plunge",
-      "reported_date": "2026-08-12",
-      "event_date": "2026-08-11",
-      "category": "US Stock Market",
-      "entities": [
-        "On Holding"
-      ],
-      "event_type": "earnings",
-      "canonical_summary": "On Holding shares plunged as much as 22%, their worst single-day drop on record, after Q2 2026 net sales of CHF 850.3 million missed consensus and management cut full-year 2026 net-sales growth guidance to the low-20% range from at least 23%, citing decelerating Americas growth in a highly promotional US running-shoe market.",
-      "source_url": "https://www.fool.com/coverage/stock-market-today/2026/08/11/stock-market-today-aug-11-on-holding-stock-plunges-on-worst-day-ever/",
-      "material_update_of": null
-    },
-    {
-      "event_id": "slovakia-drought-relief-package-farmers",
-      "reported_date": "2026-08-12",
-      "event_date": "2026-08-11",
-      "category": "Czech Republic and Slovakia",
-      "entities": [
-        "Slovak Ministry of Agriculture",
-        "Richard Takac"
-      ],
-      "event_type": "government_relief_measure",
-      "canonical_summary": "Slovakia's agriculture ministry unveiled an eight-point drought relief package as extreme drought covers about 59% of the country, moving forward roughly 200 million euros in EU and national direct-payment advances from November 1 to September 15, 2026, plus a 5 million euro green-diesel subsidy and relaxed grazing/organic-farming rules for producers filing force-majeure drought declarations.",
-      "source_url": "https://www.noviny.sk/slovensko/1244833-farmarov-trapi-sucho-takac-predstavil-osem-opatreni-preddavky-dostanu-uz-v-septembri",
-      "material_update_of": null
-    },
-    {
-      "event_id": "czech-edoklady-app-election-stress-test",
-      "reported_date": "2026-08-12",
-      "event_date": "2026-08-13",
-      "category": "Czech Republic and Slovakia",
-      "entities": [
-        "Czech digital government authorities"
-      ],
-      "event_type": "government_technology_test",
-      "canonical_summary": "Czech digital-government authorities asked for 40,000 volunteers to log into the eDoklady digital-ID app simultaneously at 1pm on August 13, 2026, to stress-test it ahead of autumn municipal elections after a login surge crashed the app during last year's parliamentary elections; officials say forgotten PINs, not technical failures, caused most earlier problems.",
-      "source_url": "https://www.expats.cz/czech-news/article/czech-news-in-brief-for-august-11-2026-tuesday-top-afternoon-headlines",
-      "material_update_of": null
-    },
-    {
-      "event_id": "cetin-networks-slovakia-radcom-ai-assurance",
-      "reported_date": "2026-08-12",
-      "event_date": "2026-08-11",
-      "category": "PPF Group",
-      "entities": [
-        "CETIN Networks",
-        "RADCOM",
-        "e& PPF Telecom Group"
-      ],
-      "event_type": "contract_technology_deployment",
-      "canonical_summary": "CETIN Networks, the Slovak wholesale mobile/fixed infrastructure arm of e& PPF Telecom Group, selected RADCOM under a multi-year contract to deploy an AI-driven, end-to-end network assurance platform across RAN, core and voice systems, replacing its legacy vendor to support its rollout of 5G Standalone/VoNR and a shift to a cloud-native core.",
-      "source_url": "https://www.prnewswire.com/news-releases/cetin-networks-selects-radcom-for-ai-driven-assurance-across-its-mobile-network-in-slovakia-302848139.html",
-      "material_update_of": null
-    },
-    {
-      "event_id": "ppf-new-investment-company-air-bank-hires",
-      "reported_date": "2026-08-12",
-      "event_date": "2026-08-11",
-      "category": "PPF Group",
-      "entities": [
-        "PPF Group",
-        "Air Bank",
-        "PPF banka",
-        "Michal Semotan",
-        "Patrik Hudec"
-      ],
-      "event_type": "corporate_strategy_executive_hire",
-      "canonical_summary": "PPF Group announced it is building a new investment company to offer investment products to retail and qualified-investor clients of Air Bank and PPF banka, pending regulatory approval, hiring Michal Semotan (from J&T) and Patrik Hudec (from Generali) to lead investment strategy and product development for the new unit.",
-      "source_url": "https://www.ppf.eu/tiskova-zprava/ppf-buduje-investicni-spolecnost-pro-klienty-air-bank-a-ppf-banky-do-skupiny-pric",
-      "material_update_of": null
-    },
-    {
-      "event_id": "zhu-rongji-death",
-      "reported_date": "2026-08-12",
-      "event_date": "2026-08-12",
-      "category": "China",
-      "entities": [
-        "Zhu Rongji"
-      ],
-      "event_type": "notable_death",
-      "canonical_summary": "Former Chinese premier Zhu Rongji, the architect of 1990s state-enterprise reform and China's 2001 WTO accession, died in Beijing at age 98, according to an official Xinhua/Party obituary.",
-      "source_url": "https://www.news.cn/politics/20260812/4c2c72e299ef4561915d2e507393a81f/c.html",
-      "material_update_of": null
-    },
-    {
-      "event_id": "ant-group-daimon-robotics-funding",
-      "reported_date": "2026-08-12",
-      "event_date": "2026-08-11",
-      "category": "China",
-      "entities": [
-        "Ant Group",
-        "Daimon Robotics",
-        "China Mobile",
-        "China Telecom",
-        "Lenovo Capital"
-      ],
-      "event_type": "funding_round",
-      "canonical_summary": "Ant Group led a new strategic financing round worth several hundred million yuan in Shenzhen-based tactile-sensing/embodied-AI robotics startup Daimon Robotics, joined by CM Venture, Lenovo Capital, China Mobile and China Telecom; Daimon says it already supplies vision-tactile sensors to Figure, OpenAI, BMW and Google DeepMind.",
-      "source_url": "https://eu.36kr.com/en/p/3934449071406212",
-      "material_update_of": null
-    },
-    {
       "event_id": "south-korea-quantum-computing-roadmap-2029",
       "reported_date": "2026-08-13",
       "event_date": "2026-08-12",
@@ -13616,6 +13432,123 @@
       "event_type": "trade_policy",
       "canonical_summary": "China's Ministry of Commerce extended the one-year suspension of its expanded October 2025 rare earth export controls by two months, to January 10, 2027, rather than letting it lapse November 10 as scheduled; the original April 2025 licensing regime remains unaffected.",
       "source_url": "https://theprint.in/world/china-extends-suspension-of-new-rare-earth-controls-until-january/3094091/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "anthropic-ipo-roadshow-launch",
+      "reported_date": "2026-11-11",
+      "event_date": "2026-11-10",
+      "category": "AI",
+      "entities": [
+        "Anthropic"
+      ],
+      "event_type": "ipo",
+      "canonical_summary": "Anthropic launched the roadshow for its proposed initial public offering of Class A common stock on Nasdaq, marketing shares to investors ahead of a possible listing later in November, following its late-October S-1 filing and amid investor debate over a valuation in the roughly 1.25-1.75 trillion dollar range.",
+      "source_url": "https://www.anthropic.com/news",
+      "material_update_of": "anthropic-ipo-valuation-pressure-ai-rout"
+    },
+    {
+      "event_id": "uk-quantum-deployment-package-189m",
+      "reported_date": "2026-11-11",
+      "event_date": "2026-11-10",
+      "category": "Quantum Computing",
+      "entities": [
+        "UK Research and Innovation",
+        "Innovate UK",
+        "UK Ministry of Defence",
+        "EPSRC"
+      ],
+      "event_type": "government_investment",
+      "canonical_summary": "The UK unveiled a roughly 189 million pound package to move quantum technology from research into deployment, including 35 million pounds for quantum networking testbeds, 12 million pounds for a university commercialization consortium, and 138 million pounds in cross-government quantum procurement including defense spending.",
+      "source_url": "https://quantumcomputingreport.com/uk-unveils-189-million-quantum-deployment-package-spanning-networking-testbeds-commercialization-and-procurement/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "google-deepmind-lean4-verified-quantum-algorithms",
+      "reported_date": "2026-11-11",
+      "event_date": "2026-11-10",
+      "category": "Quantum Computing",
+      "entities": [
+        "Google DeepMind",
+        "Google Quantum AI"
+      ],
+      "event_type": "algorithm_discovery",
+      "canonical_summary": "Google DeepMind and Google Quantum AI described a pipeline in which Gemini-based LLM agents search for quantum algorithms and use the Lean 4 proof assistant to formally verify correctness via quantum Hoare logic, reporting large reductions in qubit-time cost versus published baselines in an unreviewed preprint (arXiv:2611.09822).",
+      "source_url": "https://quantumcomputingreport.com/google-deepmind-and-google-quantum-ai-use-lean-4-to-discover-formally-verified-quantum-algorithms/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "quantinuum-riken-softbank-quantum-ai-partnership",
+      "reported_date": "2026-11-11",
+      "event_date": "2026-11-10",
+      "category": "Quantum Computing",
+      "entities": [
+        "Quantinuum",
+        "RIKEN",
+        "SoftBank"
+      ],
+      "event_type": "partnership",
+      "canonical_summary": "Quantinuum and RIKEN expanded an MOU to commercialize hybrid quantum-AI supercomputing following commissioning of a 56-qubit Quantinuum H2 upgrade to RIKEN on-site trapped-ion system, integrated with RIKEN GPU cluster and the Fugaku supercomputer via Quantinuum Nexus orchestration software; SoftBank will separately explore connecting quantum hardware to commercial AI data centers.",
+      "source_url": "https://quantumcomputingreport.com/quantinuum-riken-and-softbank-partner-to-advance-quantum-ai-supercomputing-and-domestic-fault-tolerant-systems/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-october-cpi-hot-fed-hike-pivot",
+      "reported_date": "2026-11-11",
+      "event_date": "2026-11-10",
+      "category": "US Stock Market",
+      "entities": [
+        "US Bureau of Labor Statistics",
+        "Federal Reserve",
+        "S&P 500",
+        "Nasdaq Composite",
+        "Dow Jones Industrial Average"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "US stocks fell Tuesday after October CPI rose 0.4% month over month (core +0.3% for a third straight month), both above consensus; Dow -0.30%, S&P 500 -0.38%, Nasdaq -0.74%. Fed Governor Waller and Dallas Fed President Logan said a December rate hike is now possible, reversing earlier cut expectations; the 2-year Treasury yield jumped about 19 basis points.",
+      "source_url": "https://gvwire.com/2026/11/10/wall-st-ends-lower-as-hot-inflation-data-fed-comments-heighten-rate-worries/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-havlicek-sector-tax-denial",
+      "reported_date": "2026-11-11",
+      "event_date": "2026-11-11",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Karel Havlicek",
+        "Czech government",
+        "Confederation of Industry and Transport"
+      ],
+      "event_type": "policy_statement",
+      "canonical_summary": "Czech Industry Minister Karel Havlicek said the government is not currently considering new sector-specific taxes on banks, insurers, energy firms, telecom operators, retailers or defence companies, walking back a weekend trial balloon, as the existing refinery windfall-tax bill heads to its key second-reading vote in the Chamber on Friday, November 13.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/havlicek-vlada-nyni-neuvazuje-o-zavedeni-sektorovych-dani/2900336",
+      "material_update_of": "czech-energy-price-cap-cabinet-presentation"
+    },
+    {
+      "event_id": "czech-october-2026-inflation-final-2-4pct",
+      "reported_date": "2026-11-11",
+      "event_date": "2026-11-10",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Statistical Office",
+        "Czech National Bank"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "The Czech Statistical Office confirmed final October 2026 inflation at 2.4% year over year (down from 2.5% in September), with core inflation still elevated at 3.1%; falling food prices offset rising fuel and housing costs, and the central bank warned inflation could climb back above 3% around year-end due to a planned shift of renewable-energy fees onto the state budget.",
+      "source_url": "https://csu.gov.cz/rychle-informace/indexy-spotrebitelskych-cen-inflace-rijen-2026",
+      "material_update_of": "czech-september-inflation-2-5-percent-rate-hike-outlook"
+    },
+    {
+      "event_id": "china-october-2026-cpi-ppi-gap",
+      "reported_date": "2026-11-11",
+      "event_date": "2026-11-09",
+      "category": "China",
+      "entities": [
+        "National Bureau of Statistics (China)"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "China National Bureau of Statistics reported October CPI up 0.7% year over year (down from 0.9% in September) while PPI rose 5.7% year over year, the fastest factory-gate inflation in about four and a half years, highlighting a widening gap between rising producer costs and weak consumer demand.",
+      "source_url": "https://news.cgtn.com/news/2026-11-09/China-s-October-CPI-up-0-7-PPI-rises-5-7--1RVFvJks2Fa/p.html",
       "material_update_of": null
     }
   ]

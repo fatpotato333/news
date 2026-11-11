@@ -1,31 +1,27 @@
-Daily News for Tuesday, November 10, 2026.
+Daily News for Wednesday, November 11, 2026.
 
 Artificial intelligence.
 
-Anthropic released Claude Fable 5.2 and Claude Mythos 5.2, its newest models, claiming faster coding and reasoning and an optional fast mode up to two and a half times quicker than the prior version. Mythos 5.2 drops certain safety guardrails and is limited to vetted organizations through Anthropic's verification programs.
+Anthropic launched the roadshow for its initial public offering on Nasdaq, marketing shares to investors ahead of a possible listing later this month, as it seeks a valuation reportedly in the range of one point two five to one point seven five trillion dollars.
 
-Meta launched Muse Ember, a low cost AI model built for repetitive multi step agent work like tool use, routing, and document parsing. It is priced at ten cents per million input tokens and is available through Meta, Google Cloud, and Oracle Cloud.
+Quantum computing.
 
-Google unveiled two new Tensor Processing Unit chip variants aimed at private AI fine tuning and memory heavy agent workloads, sharpening its hardware rivalry with Nvidia. Google says its chips now serve nearly one hundred customers, including frontier AI labs.
+The United Kingdom unveiled a package worth about one hundred eighty nine million pounds to move quantum technology from research into deployment, funding quantum networking testbeds, a university commercialization consortium, and cross government procurement including defense spending.
 
-Apple began charging for some on device AI features for the first time, introducing fifty dollar one time add on usage packs for its Intelligence tools. The packs start in Logic Pro, with other creative apps expected to follow.
+Google DeepMind and Google Quantum AI researchers described a system in which large language model agents search for new quantum algorithms and use a formal proof assistant to machine check their correctness, reporting large efficiency gains over published benchmarks in a company preprint not yet peer reviewed.
+
+Quantinuum, the Japanese research institute RIKEN, and SoftBank expanded a partnership to build hybrid quantum and AI supercomputing in Japan, following an upgrade to a trapped ion quantum system now integrated with RIKEN's GPU cluster and the Fugaku supercomputer.
 
 United States stock market.
 
-Wall Street rallied sharply on Monday, with the S and P 500 up about two and a half percent, the Nasdaq up nearly three and a half percent, and the Dow up over two percent. Technology, materials, and industrial stocks led the rebound from the prior week's steep sell off.
+Wall Street fell after October consumer prices rose more than expected, with core inflation holding at zero point three percent for a third straight month. Federal Reserve officials including Christopher Waller and Lorie Logan said a rate increase in December is now possible, a sharp reversal from earlier bets on a cut.
 
 Czech Republic and Slovakia.
 
-The average Czech mortgage rate climbed to five point nine six percent in November, an eighth straight monthly rise and the highest level since January 2024. On a typical mortgage, the monthly payment is now more than two thousand crowns higher than it was in the spring.
+Industry Minister Karel Havlicek said the government is not currently considering new taxes on banks, insurers, energy firms, or telecom operators, pushing back after a weekend trial balloon, as the existing windfall tax on oil refinery profits heads to a key parliamentary vote on Friday.
 
-The Czech government approved a new legal framework letting the state regulate electricity and gas prices and cap producer revenue during a future market crisis, replacing the temporary rules used in 2022 and 2023. The measure still needs approval from parliament before it can take effect.
-
-New Eurostat and Czech Statistical Office data show Czech apartment prices up nine point three percent over the past year, with the Czech Republic posting the European Union's fourth largest increase in the house price to income ratio. In Slovakia, that same ratio grew nearly double the EU average over the past decade.
-
-PPF Group.
-
-CETIN Group canceled its five hundred million euro backstop loan facility after its parent company, PPF Telecom Holdings, signed a new five hundred million euro term loan. That new facility now fully secures the refinancing of CETIN's eurobond due in April 2027.
+The Czech Statistical Office confirmed October inflation at two point four percent year on year, with core inflation still elevated at three point one percent. The central bank warned prices could climb back above three percent by early next year because of planned changes to energy fees.
 
 China.
 
-China's commerce ministry extended its suspension of expanded rare earth export controls by two months, to January 10, 2027, avoiding a lapse that had been set for this week. The move keeps in place the broader trade truce with the United States covering critical minerals.
+China's October consumer prices rose zero point seven percent year on year while factory gate prices jumped five point seven percent, the fastest pace in years, highlighting a widening gap between rising production costs and weak consumer demand.
