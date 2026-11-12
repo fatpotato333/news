@@ -1,27 +1,31 @@
-Daily News for Wednesday, November 11, 2026.
+Daily News for Thursday, November 12, 2026.
 
 Artificial intelligence.
 
-Anthropic launched the roadshow for its initial public offering on Nasdaq, marketing shares to investors ahead of a possible listing later this month, as it seeks a valuation reportedly in the range of one point two five to one point seven five trillion dollars.
+Nvidia's board is reportedly preparing to remove CEO Jensen Huang after new allegations of an affair with a direct report, on top of an earlier probe into whether a separate relationship exposed him to a foreign intelligence operation. Nvidia shares fell about nine percent after hours following the report, with no successor yet named.
+
+Taiwan Semiconductor Manufacturing Company's board approved investments of up to five hundred million dollars each in Anthropic and OpenAI, plus another five hundred million dollars for a new fund targeting the broader semiconductor ecosystem.
 
 Quantum computing.
 
-The United Kingdom unveiled a package worth about one hundred eighty nine million pounds to move quantum technology from research into deployment, funding quantum networking testbeds, a university commercialization consortium, and cross government procurement including defense spending.
+D-Wave finalized a one hundred million dollar agreement with the US Commerce Department under the CHIPS Act, trading a minority equity stake for milestone-based funding toward its next generation annealing and gate model quantum processors. The company also reported third quarter revenue up twenty one percent.
 
-Google DeepMind and Google Quantum AI researchers described a system in which large language model agents search for new quantum algorithms and use a formal proof assistant to machine check their correctness, reporting large efficiency gains over published benchmarks in a company preprint not yet peer reviewed.
+A new US commission on quantum primacy released a preliminary national strategy report warning that China is outpacing America on quantum supply chains, including cryogenics manufacturing capacity, and proposed a federal quantum foundry access program.
 
-Quantinuum, the Japanese research institute RIKEN, and SoftBank expanded a partnership to build hybrid quantum and AI supercomputing in Japan, following an upgrade to a trapped ion quantum system now integrated with RIKEN's GPU cluster and the Fugaku supercomputer.
+Researchers from IBM, Mitsubishi Chemical, Keio University and Nvidia trained a new quantum algorithm directly on IBM's one hundred fifty six qubit processor, cutting the circuit complexity needed to simulate photoresist chemistry used in chipmaking by dozens of times compared to standard methods. The work is an unreviewed preprint.
+
+Photonics companies Xanadu and HyperLight announced a new optical switch with insertion loss of just seven millidecibels, about three times better than their previous milestone, a component advance aimed at making light-based quantum computers more practical at room temperature.
 
 United States stock market.
 
-Wall Street fell after October consumer prices rose more than expected, with core inflation holding at zero point three percent for a third straight month. Federal Reserve officials including Christopher Waller and Lorie Logan said a rate increase in December is now possible, a sharp reversal from earlier bets on a cut.
+CoreWeave shares jumped about twenty five percent after the cloud computing company beat third quarter revenue estimates and raised its full year guidance, citing overwhelming demand for AI infrastructure. The rally helped lift the broader market, with the Nasdaq gaining about one point six percent and the S&P 500 about one point three percent.
 
 Czech Republic and Slovakia.
 
-Industry Minister Karel Havlicek said the government is not currently considering new taxes on banks, insurers, energy firms, or telecom operators, pushing back after a weekend trial balloon, as the existing windfall tax on oil refinery profits heads to a key parliamentary vote on Friday.
+The Czech Labour Ministry proposed replacing the flat five hundred crown monthly pension top-up for mothers with a new formula based on each parent's lifetime income, starting January 2027 if approved by parliament. The ministry says most mothers would gain, while higher earners would receive less than under the current flat rate.
 
-The Czech Statistical Office confirmed October inflation at two point four percent year on year, with core inflation still elevated at three point one percent. The central bank warned prices could climb back above three percent by early next year because of planned changes to energy fees.
+Prime Minister Andrej Babiš said the government is now seriously considering new sector taxes on banks, arms manufacturers and energy companies starting in 2028, a reversal from Industry Minister Karel Havlíček's denial just a day earlier that such taxes were being planned.
 
 China.
 
-China's October consumer prices rose zero point seven percent year on year while factory gate prices jumped five point seven percent, the fastest pace in years, highlighting a widening gap between rising production costs and weak consumer demand.
+Ahead of a Xi-Trump summit at the APEC meeting in Shenzhen on November eighteenth, US and Chinese officials sparred publicly over compliance with their trade truce. US Treasury Secretary Scott Bessent said the two countries are setting up a new channel to flag incidents involving advanced AI systems, while pressing China to expand purchases of American farm goods.
