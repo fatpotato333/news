@@ -1,31 +1,25 @@
-Daily News for Thursday, November 12, 2026.
+Daily News for Friday, November 13, 2026.
 
 Artificial intelligence.
 
-Nvidia's board is reportedly preparing to remove CEO Jensen Huang after new allegations of an affair with a direct report, on top of an earlier probe into whether a separate relationship exposed him to a foreign intelligence operation. Nvidia shares fell about nine percent after hours following the report, with no successor yet named.
+Nvidia's board confirmed that chief executive Jensen Huang has resigned effective immediately, following an investigation into alleged ties between a personal relationship and Chinese intelligence operatives. Chief financial officer Colette Kress is now interim CEO, with Harvey Jones named the company's first independent board chair.
 
-Taiwan Semiconductor Manufacturing Company's board approved investments of up to five hundred million dollars each in Anthropic and OpenAI, plus another five hundred million dollars for a new fund targeting the broader semiconductor ecosystem.
+Anthropic set its initial public offering price range at seventy to seventy eight dollars per share, valuing the company near one point four trillion dollars, with Nasdaq trading expected to begin around November nineteenth.
 
 Quantum computing.
 
-D-Wave finalized a one hundred million dollar agreement with the US Commerce Department under the CHIPS Act, trading a minority equity stake for milestone-based funding toward its next generation annealing and gate model quantum processors. The company also reported third quarter revenue up twenty one percent.
+IBM unveiled its five hundred twenty qubit Nighthawk r three processor and detailed progress toward its twenty twenty nine Starling fault tolerant computer, including cryogenic modules cooled below fifteen millikelvin and inter chip links reaching about ninety nine percent fidelity.
 
-A new US commission on quantum primacy released a preliminary national strategy report warning that China is outpacing America on quantum supply chains, including cryogenics manufacturing capacity, and proposed a federal quantum foundry access program.
-
-Researchers from IBM, Mitsubishi Chemical, Keio University and Nvidia trained a new quantum algorithm directly on IBM's one hundred fifty six qubit processor, cutting the circuit complexity needed to simulate photoresist chemistry used in chipmaking by dozens of times compared to standard methods. The work is an unreviewed preprint.
-
-Photonics companies Xanadu and HyperLight announced a new optical switch with insertion loss of just seven millidecibels, about three times better than their previous milestone, a component advance aimed at making light-based quantum computers more practical at room temperature.
+AMD agreed to make an equity investment in PsiQuantum and deepen their partnership, pairing PsiQuantum's error correction hardware with AMD processors and software to build infrastructure for fault tolerant quantum computers, starting with drug discovery applications.
 
 United States stock market.
 
-CoreWeave shares jumped about twenty five percent after the cloud computing company beat third quarter revenue estimates and raised its full year guidance, citing overwhelming demand for AI infrastructure. The rally helped lift the broader market, with the Nasdaq gaining about one point six percent and the S&P 500 about one point three percent.
+U.S. stocks rallied Thursday, with the S and P five hundred up about one point three percent and the Nasdaq up one point six percent, led by AI infrastructure names including Dell, Super Micro Computer, and Hewlett Packard Enterprise.
+
+Nebius Group shares fell about eleven percent even after revenue surged five hundred seventy one percent to nine hundred eighty one million dollars, after the company said data center delays would push full year revenue toward the low end of guidance.
 
 Czech Republic and Slovakia.
 
-The Czech Labour Ministry proposed replacing the flat five hundred crown monthly pension top-up for mothers with a new formula based on each parent's lifetime income, starting January 2027 if approved by parliament. The ministry says most mothers would gain, while higher earners would receive less than under the current flat rate.
+The Czech Chamber of Deputies held a second reading on the extraordinary refinery tax targeting Orlen Unipetrol, rejecting opposition amendments to lower the rate or extend it to foreign importers, with final approval expected by the end of November.
 
-Prime Minister Andrej Babiš said the government is now seriously considering new sector taxes on banks, arms manufacturers and energy companies starting in 2028, a reversal from Industry Minister Karel Havlíček's denial just a day earlier that such taxes were being planned.
-
-China.
-
-Ahead of a Xi-Trump summit at the APEC meeting in Shenzhen on November eighteenth, US and Chinese officials sparred publicly over compliance with their trade truce. US Treasury Secretary Scott Bessent said the two countries are setting up a new channel to flag incidents involving advanced AI systems, while pressing China to expand purchases of American farm goods.
+Slovak tax revenue through October came in eight point three percent above last year, but only ninety seven point two percent of the government's budget plan, with value added tax collection running about three hundred million euros short.
