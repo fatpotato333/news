@@ -1,25 +1,35 @@
-Daily News for Friday, November 13, 2026.
+Daily News for Saturday, November 14, 2026.
 
 Artificial intelligence.
 
-Nvidia's board confirmed that chief executive Jensen Huang has resigned effective immediately, following an investigation into alleged ties between a personal relationship and Chinese intelligence operatives. Chief financial officer Colette Kress is now interim CEO, with Harvey Jones named the company's first independent board chair.
+Anthropic's initial public offering is now reported to be several times oversubscribed, with bankers weighing pricing above the previously set 70 to 78 dollar per share range, a move that could push the company's valuation toward 1.5 trillion dollars ahead of trading expected around November 19.
 
-Anthropic set its initial public offering price range at seventy to seventy eight dollars per share, valuing the company near one point four trillion dollars, with Nasdaq trading expected to begin around November nineteenth.
+SoftBank booked a 3.7 billion dollar charge in its latest quarterly results tied to advance purchases of power generation equipment for a U.S. AI data center project in Ohio, pushing the company to a 7 billion dollar quarterly net loss.
 
 Quantum computing.
 
-IBM unveiled its five hundred twenty qubit Nighthawk r three processor and detailed progress toward its twenty twenty nine Starling fault tolerant computer, including cryogenic modules cooled below fifteen millikelvin and inter chip links reaching about ninety nine percent fidelity.
+Atom Computing finalized a 100 million dollar research and development agreement with the U.S. Department of Commerce to scale up manufacturing of its fault tolerant, neutral atom quantum systems in Colorado.
 
-AMD agreed to make an equity investment in PsiQuantum and deepen their partnership, pairing PsiQuantum's error correction hardware with AMD processors and software to build infrastructure for fault tolerant quantum computers, starting with drug discovery applications.
+Quantum software company Q Control raised a 290 million dollar funding round led by Salesforce Ventures, pushing its valuation above 1 billion dollars and funding expansion into finance, energy, and defense markets.
+
+Researchers at the German Aerospace Center demonstrated a low cost error mitigation technique, validated on both IBM and IQM quantum processors, that improves measurement accuracy without extra computing overhead.
 
 United States stock market.
 
-U.S. stocks rallied Thursday, with the S and P five hundred up about one point three percent and the Nasdaq up one point six percent, led by AI infrastructure names including Dell, Super Micro Computer, and Hewlett Packard Enterprise.
+Nvidia shares extended losses and dragged chip makers lower after chief executive Jensen Huang's resignation following reports of a second extramarital affair; HSBC downgraded the stock to Hold, and shares closed below a four trillion dollar market value with no successor yet named ahead of next week's earnings.
 
-Nebius Group shares fell about eleven percent even after revenue surged five hundred seventy one percent to nine hundred eighty one million dollars, after the company said data center delays would push full year revenue toward the low end of guidance.
+October's producer price index climbed six and a half percent from a year earlier, the fastest pace since 2022, pushing the 10 year Treasury yield to five point one seven percent and raising doubts the Federal Reserve will cut rates in December.
+
+AI chip maker Cerebras Systems reported record quarterly revenue above 210 million dollars, with cloud revenue up 265 percent, and raised its full year outlook, sending shares up about 13 percent.
 
 Czech Republic and Slovakia.
 
-The Czech Chamber of Deputies held a second reading on the extraordinary refinery tax targeting Orlen Unipetrol, rejecting opposition amendments to lower the rate or extend it to foreign importers, with final approval expected by the end of November.
+Czech electricity and gas suppliers innogy and CEZ announced price increases for customers without fixed contracts starting in January, as wholesale gas prices have roughly doubled since spring due to the Middle East crisis.
 
-Slovak tax revenue through October came in eight point three percent above last year, but only ninety seven point two percent of the government's budget plan, with value added tax collection running about three hundred million euros short.
+The Czech government must decide within about a week whether to extend its fuel price cap and reduced diesel excise tax beyond November 30, a measure currently costing the budget over a billion crowns a month.
+
+China.
+
+Singapore barred former Megaspeed chief executive Alice Huang from re-entering the country after finding she misled police investigating a scheme to divert Nvidia chips to China, though insufficient evidence existed to charge her criminally.
+
+Chinese taxpayers declared over 160 billion yuan in offshore trust income ahead of a new 20 percent tax deadline, helping drive October personal income tax revenue up nearly 90 percent year over year.

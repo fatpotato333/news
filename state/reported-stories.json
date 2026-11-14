@@ -2,184 +2,6 @@
   "version": 1,
   "stories": [
     {
-      "event_id": "apple-alibaba-china-ai-model",
-      "reported_date": "2026-08-15",
-      "event_date": "2026-08-14",
-      "category": "AI",
-      "entities": [
-        "Apple",
-        "Alibaba"
-      ],
-      "event_type": "model_development",
-      "canonical_summary": "Apple built its own proprietary AI model for the Chinese market with technical assistance from Alibaba, reportedly becoming the first foreign company cleared by Beijing to offer a self-developed AI model in China, having previously planned to rely on Alibaba's Qwen model directly; rollout expected within coming months.",
-      "source_url": "https://www.macrumors.com/2026/08/14/apple-trained-own-ai-model-for-china/",
-      "material_update_of": null
-    },
-    {
-      "event_id": "zhipu-glm-5-3-release",
-      "reported_date": "2026-08-15",
-      "event_date": "2026-08-14",
-      "category": "AI",
-      "entities": [
-        "Zhipu AI (Z.ai)"
-      ],
-      "event_type": "model_release",
-      "canonical_summary": "Zhipu AI released GLM-5.3, claiming a 50 percent coding-capability improvement over GLM-5.2 from post-training scaling alone, ranking first among open-weight models on Terminal-Bench 3.0 and Agents' Last Exam, and reporting it found 2,436 vulnerabilities across 269 projects with an 84.5 percent success rate on the CyberGym benchmark; open weights to follow in about two weeks after security review.",
-      "source_url": "https://the-decoder.com/zhipu-ai-releases-glm-5-3-claims-its-the-strongest-open-weights-coding-model/",
-      "material_update_of": null
-    },
-    {
-      "event_id": "quanta-quantinuum-manufacturing-partnership",
-      "reported_date": "2026-08-15",
-      "event_date": "2026-08-14",
-      "category": "Quantum Computing",
-      "entities": [
-        "Quantinuum",
-        "Quanta Computer"
-      ],
-      "event_type": "industry_partnership",
-      "canonical_summary": "Quantinuum and Quanta Computer announced a collaborative development agreement to jointly engineer modular, manufacturable hardware infrastructure, with joint engineering work already underway, aiming toward commercially deployable, fault-tolerant quantum computers; no investment figure disclosed.",
-      "source_url": "https://www.prnewswire.com/news-releases/quanta-computer-and-quantinuum-partner-to-build-an-industrial-foundation-for-large-scale-quantum-computing-302851560.html",
-      "material_update_of": null
-    },
-    {
-      "event_id": "broadcom-ai-debt-financing-scrutiny",
-      "reported_date": "2026-08-15",
-      "event_date": "2026-08-14",
-      "category": "US Stock Market - General News",
-      "entities": [
-        "Broadcom",
-        "Bank of America"
-      ],
-      "event_type": "analyst_commentary_stock_move",
-      "canonical_summary": "Broadcom shares fell about 5-6 percent after Bank of America questioned the scale of the company's AI-chip financing vehicle, estimating related debt could reach roughly 370 billion dollars by mid-2029, raising broader concern about how AI infrastructure spending is financed industry-wide, even as Broadcom's own guidance still points to AI semiconductor revenue up about 200 percent year over year.",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-14-213018651.html",
-      "material_update_of": null
-    },
-    {
-      "event_id": "reddit-sp500-index-inclusion",
-      "reported_date": "2026-08-15",
-      "event_date": "2026-08-14",
-      "category": "US Stock Market - General News",
-      "entities": [
-        "Reddit",
-        "S&P Dow Jones Indices"
-      ],
-      "event_type": "index_inclusion",
-      "canonical_summary": "Reddit shares surged about 12-13 percent after S&P Dow Jones Indices announced Reddit will join the S&P 500, becoming only the second pure-play social media company in the index after Meta, with index funds required to buy shares ahead of the effective date the following week.",
-      "source_url": "https://finance.yahoo.com/markets/article/reddit-stock-surges-after-sp-500-inclusion--heres-the-platforms-next-big-opportunity-093635663.html",
-      "material_update_of": null
-    },
-    {
-      "event_id": "nu-holdings-q2-2026-record-profit",
-      "reported_date": "2026-08-15",
-      "event_date": "2026-08-14",
-      "category": "US Stock Market - General News",
-      "entities": [
-        "Nu Holdings (Nubank)"
-      ],
-      "event_type": "earnings",
-      "canonical_summary": "Nu Holdings shares rose about 10 percent after reporting its first-ever quarter above 1 billion dollars in net income, up 49 percent year over year, with revenue near 5.9 billion dollars beating consensus as its customer base reached 139 million across Brazil, Mexico and Colombia.",
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/nu-holdings-jumps-10-five-162822439.html",
-      "material_update_of": null
-    },
-    {
-      "event_id": "kindercare-earnings-miss-guidance-cut",
-      "reported_date": "2026-08-15",
-      "event_date": "2026-08-14",
-      "category": "US Stock Market - General News",
-      "entities": [
-        "KinderCare Learning Companies"
-      ],
-      "event_type": "earnings_miss_guidance_cut",
-      "canonical_summary": "KinderCare Learning Companies shares collapsed about 44 percent after missing quarterly earnings estimates and cutting full-year guidance, citing lower government childcare-subsidy assumptions, falling enrollment and the closure of 49 centers; JPMorgan downgraded the stock following the report.",
-      "source_url": "https://www.investing.com/news/stock-market-news/why-is-kindercare-learning-companies-stock-collapsing-today-93CH-4861341",
-      "material_update_of": null
-    },
-    {
-      "event_id": "czech-july-2026-mortgage-lending-data",
-      "reported_date": "2026-08-15",
-      "event_date": "2026-08-14",
-      "category": "Czech Republic and Slovakia",
-      "entities": [
-        "Czech Banking Association"
-      ],
-      "event_type": "economic_data",
-      "canonical_summary": "Czech banks issued 40.4 billion crowns in new mortgages in July 2026, up 7 percent year over year, even as the average rate rose to 4.9 percent, pushing monthly payments on new loans up roughly 2,900 crowns versus the 2025 average; January-July cumulative volume reached 334 billion crowns, up 50 percent year over year.",
-      "source_url": "https://www.ceskenoviny.cz/zpravy/banky-v-cervenci-poskytly-hypoteky-za-404-miliardy-kc-o-7-vic-nez-loni/2861840",
-      "material_update_of": null
-    },
-    {
-      "event_id": "czech-third-pillar-pension-savers-decline",
-      "reported_date": "2026-08-15",
-      "event_date": "2026-08-14",
-      "category": "Czech Republic and Slovakia",
-      "entities": [
-        "Association of Pension Companies (APS CR)",
-        "Czech Ministry of Finance"
-      ],
-      "event_type": "economic_data_and_pending_regulation",
-      "canonical_summary": "The number of Czechs saving in third-pillar pension products fell by 18,000 in the first half of 2026 to 3.873 million, the first such decline in years, with assets under management topping 700 billion crowns; a pending Finance Ministry amendment would cap fees at a unified 0.5 percent and phase remaining savers out of older transformed funds by end-2036.",
-      "source_url": "https://www.ceskenoviny.cz/zpravy/asociace-sporeni-na-penzi-ma-39-mil-lidi-letos-jejich-pocet-klesl-o-18000/2862037",
-      "material_update_of": null
-    },
-    {
-      "event_id": "slovakia-q2-2026-gdp-slowdown",
-      "reported_date": "2026-08-15",
-      "event_date": "2026-08-14",
-      "category": "Czech Republic and Slovakia",
-      "entities": [
-        "Statistical Office of the Slovak Republic"
-      ],
-      "event_type": "economic_data",
-      "canonical_summary": "Slovakia's economy grew just 0.7 percent year over year in Q2 2026 (0.2 percent quarter over quarter), its weakest pace in a year and below forecasts of about 1 percent, as investment declined and growth relied solely on consumption, leaving Slovakia trailing Poland, Czechia and the EU average and adding pressure on the government's stalled 2027 budget consolidation talks.",
-      "source_url": "https://www.sme.sk/index/c/ekonomika-slovenska-rastla-v-druhom-stvrtroku-najpomalsie-za-posledne-styri-kvartaly",
-      "material_update_of": null
-    },
-    {
-      "event_id": "cnb-csob-record-aml-fine",
-      "reported_date": "2026-08-15",
-      "event_date": "2026-08-14",
-      "category": "Czech Republic and Slovakia",
-      "entities": [
-        "Czech National Bank (CNB)",
-        "CSOB"
-      ],
-      "event_type": "regulatory_enforcement",
-      "canonical_summary": "The Czech National Bank fined CSOB a record 30 million crowns, its largest anti-money-laundering penalty to date, for failures including inadequate checks on risky cash transactions totaling 136.4 million crowns and incomplete ownership verification on 8,414 corporate clients.",
-      "source_url": "https://www.ceskenoviny.cz/zpravy/cnb-dala-csob-sankci-30-mil-kc-za-nedostatky-v-prevenci-prani-spinavych-penez/2861898",
-      "material_update_of": null
-    },
-    {
-      "event_id": "china-brazil-cbers5-disaster-satellite",
-      "reported_date": "2026-08-15",
-      "event_date": "2026-08-14",
-      "category": "China",
-      "entities": [
-        "China",
-        "Brazil (INPE)"
-      ],
-      "event_type": "space_cooperation",
-      "canonical_summary": "China and Brazil disclosed new details of the CBERS-5 geostationary satellite program for round-the-clock disaster early warning across South America, with Brazil building the platform and China providing instruments, targeting a 2030 launch that would make Brazil one of a small group of nations able to build and operate a geostationary satellite.",
-      "source_url": "https://www.scmp.com/news/china/science/article/3363878/china-brazil-launch-24/7-disaster-early-warning-satellite-south-america",
-      "material_update_of": null
-    },
-    {
-      "event_id": "henan-zhoukou-jialu-river-levee-breach",
-      "reported_date": "2026-08-15",
-      "event_date": "2026-08-14",
-      "category": "China",
-      "entities": [
-        "Henan provincial government",
-        "Zhoukou city",
-        "China Anneng Group"
-      ],
-      "event_type": "natural_disaster",
-      "canonical_summary": "A separate levee breach on the Jialu River in Zhoukou's Chuanhui District, distinct from the earlier Beiru River breach, flooded a hospital and driving school under pressure from Typhoon Dolphin's remnant rainfall and Shaying River backflow, forcing the evacuation of 432 people including hospital patients and staff; Beijing dispatched 200 rescue personnel and 110 sets of heavy equipment.",
-      "source_url": "https://english.news.cn/20260814/ff6cb534a10d430ea6cd7084a3409ee5/c.html",
-      "material_update_of": null
-    },
-    {
       "event_id": "nvidia-13f-spacex-intel-stakes",
       "reported_date": "2026-08-16",
       "event_date": "2026-08-14",
@@ -13460,6 +13282,173 @@
       "event_type": "fiscal_data",
       "canonical_summary": "Slovak tax revenue through October 2026 reached 1.38 billion euros above last year's level, up 8.3%, but came in at only 97.2% of the government's budgeted plan, with VAT collection about 300 million euros below target.",
       "source_url": "https://teraz.sk/ekonomika/ps-fs-sa-chvali-aj-ked-jej-oproti-pl/1007203-clanok.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "anthropic-ipo-bankers-weigh-above-range-pricing",
+      "reported_date": "2026-11-14",
+      "event_date": "2026-11-12",
+      "category": "AI",
+      "entities": [
+        "Anthropic"
+      ],
+      "event_type": "ipo_update",
+      "canonical_summary": "Anthropic's IPO book was reported several times oversubscribed, with underwriters weighing pricing above the previously set 70-78 dollar per share range, potentially pushing valuation toward 1.5 trillion dollars ahead of trading expected around November 19.",
+      "source_url": "https://finimize.com/content/anthropics-bankers-weigh-pricing-its-ipo-above-range",
+      "material_update_of": "anthropic-ipo-price-range-set"
+    },
+    {
+      "event_id": "softbank-ai-datacenter-power-equipment-writedown",
+      "reported_date": "2026-11-14",
+      "event_date": "2026-11-10",
+      "category": "AI",
+      "entities": [
+        "SoftBank Group"
+      ],
+      "event_type": "earnings_charge",
+      "canonical_summary": "SoftBank booked a 597.2 billion yen (about 3.7 billion dollar) charge in its fiscal Q2 earnings tied to advance procurement of power-generation equipment for US AI data center projects including the PORTS-Pike campus in Ohio, driving a roughly 7 billion dollar quarterly net loss.",
+      "source_url": "https://investinglive.com/stocks/softbank-shares-down-after-swings-to-7-billion-q2-loss-on-3-7-billion-us-data-centre-power-hit/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "atom-computing-commerce-dept-100m-finalized",
+      "reported_date": "2026-11-14",
+      "event_date": "2026-11-13",
+      "category": "Quantum Computing",
+      "entities": [
+        "Atom Computing",
+        "U.S. Department of Commerce"
+      ],
+      "event_type": "government_funding",
+      "canonical_summary": "Atom Computing finalized a 100 million dollar R&D agreement with the U.S. Department of Commerce, converting a May 2026 letter of intent into a definitive deal to scale up manufacturing of fault-tolerant neutral-atom quantum systems in Colorado.",
+      "source_url": "https://quantumcomputingreport.com/atom-computing-finalizes-100-million-u-s-department-of-commerce-rd-agreement-for-fault-tolerant-quantum-systems/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "q-ctrl-series-c-290m-salesforce-ventures",
+      "reported_date": "2026-11-14",
+      "event_date": "2026-11-13",
+      "category": "Quantum Computing",
+      "entities": [
+        "Q-CTRL",
+        "Salesforce Ventures"
+      ],
+      "event_type": "funding_round",
+      "canonical_summary": "Q-CTRL raised a 290 million dollar Series C led by Salesforce Ventures, pushing its valuation above 1 billion dollars to scale its AI-driven quantum control software across finance, energy, and defense markets.",
+      "source_url": "https://quantumcomputingreport.com/q-ctrl-raises-290-million-in-series-c-funding-led-by-salesforce-ventures-to-scale-quantum-infrastructure-software/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "dlr-bnzne-error-mitigation-ibm-iqm",
+      "reported_date": "2026-11-14",
+      "event_date": "2026-11-13",
+      "category": "Quantum Computing",
+      "entities": [
+        "German Aerospace Center (DLR)",
+        "IBM",
+        "IQM"
+      ],
+      "event_type": "research_result",
+      "canonical_summary": "German Aerospace Center researchers demonstrated a low-cost 'benchmarked-noise zero-noise extrapolation' error mitigation technique, validated on 100-qubit circuits across both IBM and IQM hardware, improving measurement accuracy without extra computing overhead.",
+      "source_url": "https://quantumcomputingreport.com/german-aerospace-center-dlr-researchers-demonstrate-low-cost-benchmarked-noise-error-mitigation-across-100-qubit-ibm-and-iqm-processors/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "nvidia-huang-resignation-chip-selloff-nov13",
+      "reported_date": "2026-11-14",
+      "event_date": "2026-11-13",
+      "category": "US Stock Market",
+      "entities": [
+        "Nvidia",
+        "Jensen Huang",
+        "HSBC"
+      ],
+      "event_type": "executive_change_market_reaction",
+      "canonical_summary": "Nvidia shares extended losses and dragged AMD, Broadcom and Intel lower following CEO Jensen Huang's resignation amid reports of a second alleged affair; HSBC downgraded Nvidia to Hold, cutting its price target sharply, and shares closed below a 4 trillion dollar market cap with no successor named ahead of Nvidia's Nov 17 earnings.",
+      "source_url": "https://www.washingtonpost.com/technology/2026/11/12/nvidia-board-weighs-jensen-huangs-future-after-affair-with-allege-chinese-spy/",
+      "material_update_of": "nvidia-huang-resignation-confirmed"
+    },
+    {
+      "event_id": "us-october-ppi-hot-highest-since-2022",
+      "reported_date": "2026-11-14",
+      "event_date": "2026-11-13",
+      "category": "US Stock Market",
+      "entities": [
+        "Bureau of Labor Statistics",
+        "Federal Reserve"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "October's Producer Price Index rose 6.5% year-over-year, the largest 12-month increase since November 2022, pushing the 10-year Treasury yield to 5.17% and prompting Fed Governor Michelle Bowman to flag persistent inflation pressure ahead of the December meeting.",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "cerebras-q3-2026-record-revenue-stock-jump",
+      "reported_date": "2026-11-14",
+      "event_date": "2026-11-12",
+      "category": "US Stock Market",
+      "entities": [
+        "Cerebras Systems"
+      ],
+      "event_type": "earnings",
+      "canonical_summary": "Cerebras Systems reported record Q3 2026 GAAP revenue of 210.8 million dollars and core revenue of 230.9 million dollars, with cloud revenue up 265% year-over-year, and raised its full-year outlook; shares jumped about 13% in premarket trading.",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/0002021728/000162828026073366/cbrsannouncesfinancialresu.htm",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-energy-suppliers-2027-price-hike-non-fixed",
+      "reported_date": "2026-11-14",
+      "event_date": "2026-11-13",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "innogy",
+        "CEZ"
+      ],
+      "event_type": "price_increase",
+      "canonical_summary": "Czech energy suppliers innogy and CEZ announced electricity and gas price increases from January 2027 for customers without fixed-term contracts, citing wholesale gas prices roughly doubling and electricity up about 80% since spring due to the Middle East crisis; most customers on fixed prices are unaffected.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/dodavatel-innogy-zdrazi-elektrinu-a-plyn-bez-fixace/2901739",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-fuel-cap-december-extension-decision-pending",
+      "reported_date": "2026-11-14",
+      "event_date": "2026-11-13",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech government",
+        "Alena Schillerova"
+      ],
+      "event_type": "policy_decision_pending",
+      "canonical_summary": "Czech Finance Minister Alena Schillerova said the government must decide within about a week to ten days whether to extend its fuel price cap and reduced diesel excise tax beyond their November 30 expiry, with the diesel tax cut alone costing the budget about 1.1 billion crowns per month.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/schillerova-vlada-musi-brzy-rozhodnout-zda-prodlouzi-opatreni-u-paliv/2901670",
+      "material_update_of": "czech-fuel-price-cap-extended-november"
+    },
+    {
+      "event_id": "singapore-bars-alice-huang-megaspeed-probe",
+      "reported_date": "2026-11-14",
+      "event_date": "2026-11-12",
+      "category": "China",
+      "entities": [
+        "Alice Huang (Huang Le)",
+        "Singapore Ministry of Home Affairs",
+        "Megaspeed International"
+      ],
+      "event_type": "law_enforcement_action",
+      "canonical_summary": "Singapore barred former Megaspeed CEO Alice Huang from re-entering the country after police found she gave misleading information to minimize her role in a server-purchase probe tied to diverted Nvidia chips, though insufficient evidence existed to criminally charge her.",
+      "source_url": "https://www.caixinglobal.com/2026-11-12/singapore-bars-alice-huang-from-re-entry-for-misleading-police-in-server-probe-102504179.html",
+      "material_update_of": "china-mfa-rejects-megaspeed-nvidia-espionage-report"
+    },
+    {
+      "event_id": "china-offshore-trust-tax-enforcement-surge",
+      "reported_date": "2026-11-14",
+      "event_date": "2026-11-12",
+      "category": "China",
+      "entities": [
+        "China State Taxation Administration"
+      ],
+      "event_type": "taxation",
+      "canonical_summary": "Chinese taxpayers declared over 160 billion yuan (about 24 billion dollars) in offshore-trust-linked income ahead of an October 22 deadline under a new rule taxing such income at 20%, helping drive October personal income tax revenue up nearly 90% year-over-year.",
+      "source_url": "https://www.caixinglobal.com/2026-11-12/offshore-trust-taxes-help-fuel-chinas-90-personal-income-tax-surge-102503762.html",
       "material_update_of": null
     }
   ]
