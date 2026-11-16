@@ -2,47 +2,6 @@
   "version": 1,
   "stories": [
     {
-      "event_id": "deepseek-peak-off-peak-pricing-effective",
-      "reported_date": "2026-08-17",
-      "event_date": "2026-08-16",
-      "category": "AI",
-      "entities": [
-        "DeepSeek"
-      ],
-      "event_type": "pricing_change",
-      "canonical_summary": "DeepSeek's new peak and off-peak API billing structure took effect August 16 at 16:00 UTC, raising V4-Flash and V4-Pro output-token prices by 50% to more than 1,100% depending on model and time of day (e.g. V4-Pro peak output rising to $3.96 per million tokens from $0.87), as the company said it is reallocating resources amid surging demand.",
-      "source_url": "https://finance.yahoo.com/technology/ai/articles/deepseek-raising-api-prices-1-174027670.html",
-      "material_update_of": "deepseek-significant-price-increase-signal"
-    },
-    {
-      "event_id": "anthropic-amodei-ai-backlash-crisis-of-trust",
-      "reported_date": "2026-08-17",
-      "event_date": "2026-08-15",
-      "category": "AI",
-      "entities": [
-        "Anthropic",
-        "Dario Amodei"
-      ],
-      "event_type": "executive_statement",
-      "canonical_summary": "Anthropic CEO Dario Amodei publicly pushed back on claims that his AI-risk warnings fueled public backlash, arguing instead that the reaction is 'fundamentally a crisis of trust' in companies and governments, and said Anthropic is accelerating its push into biology and medicine to demonstrate concrete AI benefits.",
-      "source_url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-      "material_update_of": null
-    },
-    {
-      "event_id": "china-nbs-july-data-delay-jiang-zemin-centenary",
-      "reported_date": "2026-08-17",
-      "event_date": "2026-08-17",
-      "category": "China",
-      "entities": [
-        "National Bureau of Statistics",
-        "Xi Jinping"
-      ],
-      "event_type": "economic_data_scheduling",
-      "canonical_summary": "China's National Bureau of Statistics shifted release of July industrial output, retail sales, investment and property-price data from its usual 10am slot to 3pm Beijing time on August 17, so it would not overlap with Xi Jinping's Great Hall of the People address marking the 100th anniversary of former leader Jiang Zemin's birth; economists expected the delayed data to show continued softness including weak July credit growth.",
-      "source_url": "https://investinglive.com/news/china-delays-july-economic-data-release-to-late-afternoon-slot/",
-      "material_update_of": null
-    },
-    {
       "event_id": "nvidia-openai-ohio-datacenter-105b-guarantee",
       "reported_date": "2026-08-18",
       "event_date": "2026-08-17",
@@ -13350,6 +13309,55 @@
       "event_type": "monetary_policy",
       "canonical_summary": "The PBOC's reserve requirement ratio hike on foreign-currency deposits, from 4% to 6%, took effect November 15, draining an estimated $24 billion of dollar liquidity from the banking system to slow the yuan's rally; the onshore yuan weakened to roughly 6.68 per dollar, a two-week low, after a weaker-than-expected daily fixing.",
       "source_url": "https://www.scmp.com/business/article/3373053/pboc-raise-reserve-requirement-ratio-foreign-exchange-deposits-2-percentage-points",
+      "material_update_of": null
+    },
+    {
+      "event_id": "cross-platform-qubit-entanglement-benchmark",
+      "reported_date": "2026-11-16",
+      "event_date": "2026-11-15",
+      "category": "Quantum Computing",
+      "entities": [
+        "IBM",
+        "IQM",
+        "Rigetti",
+        "AQT",
+        "OQC",
+        "Gradiant",
+        "University of the Basque Country"
+      ],
+      "event_type": "research_benchmark",
+      "canonical_summary": "Researchers led by Gradiant and the University of the Basque Country ran a standardized GHZ-state entanglement benchmark (Direct Fidelity Estimation, no error mitigation) across 9 cloud-accessible quantum processors from 5 vendors spanning 12-156 qubits. The best performer, a 120-qubit IBM Phoenix/Nighthawk chip, sustained genuine multipartite entanglement in only about 23% of its register (up to ~27 qubits), and only 4 of 9 systems met a stricter entanglement bar at all, indicating vendor-published qubit counts and calibration specs poorly predict real multi-qubit performance.",
+      "source_url": "https://quantumcomputingreport.com/cross-platform-cloud-benchmark-reveals-wide-gap-between-physical-qubit-counts-and-entangled-ghz-state-sizes/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "ct-cro-licence-fee-protest-babis-confirms",
+      "reported_date": "2026-11-16",
+      "event_date": "2026-11-15",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Andrej Babiš",
+        "Milion chvilek",
+        "Česká televize",
+        "Český rozhlas"
+      ],
+      "event_type": "protest_political_response",
+      "canonical_summary": "Hundreds of thousands protested on Prague's Letná plain on November 15 against the government's bill to abolish mandatory Czech Television/Czech Radio licence fees in favor of direct state-budget funding; PM Andrej Babiš said November 16 he respects the right to protest but confirmed the fees will be scrapped regardless, with proposed state funding of 5.74 billion CZK for ČT and 2.07 billion CZK for ČRo from January 2027, pending further parliamentary readings.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/babis-respektuji-pravo-lidi-protestovat-s-duvody-nesouhlasim-poplatky-zrusime/2902344",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-workplace-injury-compensation-hike-2027",
+      "reported_date": "2026-11-16",
+      "event_date": "2026-11-16",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Ministry of Labour and Social Affairs",
+        "Czech government"
+      ],
+      "event_type": "regulation",
+      "canonical_summary": "The Czech government is set to approve three regulations raising compensation for workplace injuries, occupational diseases, and survivors' benefits by 0.2% plus a flat 270 CZK, mirroring the January pension indexation, effective from January 2027 and covering civilian employees as well as police officers and soldiers injured in service.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/vlada-projedna-rust-nahrad-prijmu-po-urazu-v-praci-ci-sluzbe-a-nemoci-z-povolani/2902503",
       "material_update_of": null
     }
   ]
