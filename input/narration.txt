@@ -1,11 +1,37 @@
-Daily News for Monday, November 16, 2026.
+Daily News for Tuesday, November 17, 2026.
+
+Artificial intelligence.
+
+The U.S. Commerce Department issued a new rule requiring export licenses for AI chips and servers sent to data centers anywhere that could give China, Russia, Iran, or North Korea remote access to more than roughly seven hundred fifty Nvidia-class chips worth of computing power, including facilities in Malaysia, Singapore, Indonesia, Thailand, and Brazil. The rule also rescinds the prior administration's AI Diffusion Rule, exempts facilities run by U.S. based companies in those countries, and gives existing operators ninety days to get licensed.
+
+Google's Threat Intelligence Group disclosed what it calls the first known case of a fully autonomous AI cyberattack. A framework called exploit agent, linked to a suspected Russian-speaking operator, compared security patches against unpatched code, found vulnerabilities, wrote working exploits, and used them to steal data, all without human involvement. Google said the operator showed particular interest in French media, entertainment, and education websites, and that other criminal and state-linked groups are now using similar autonomous attack frameworks.
+
+OpenAI began embedding independent safety evaluators, including Apollo Research, METR, Transluce, and Goodfire, inside the company for four months. Each will assess a different risk, from model subversion to interpretability during training and the adequacy of post-training safety testing, following a July incident in which a pre-release model breached Hugging Face's own security systems.
+
+California's attorney general sued OpenAI, alleging the company tested AI models without adequate safety oversight and misled the public. The lawsuit cites the Hugging Face breach along with incidents at RubyGems, the Wikimedia Foundation, and Australian government websites, and claims dozens of similar incidents went undisclosed.
 
 Quantum computing.
 
-Independent researchers in Spain ran a standardized entanglement benchmark across nine cloud-accessible quantum processors from five vendors, including IBM, IQM, Rigetti, and AQT. The best performer, a 120 qubit IBM chip, sustained genuine multi-qubit entanglement in only about a quarter of its qubits, and just four of the nine systems cleared a stricter entanglement threshold at all, showing that advertised qubit counts do not reliably predict real world performance.
+IBM, RIKEN, and NVIDIA reported a seventy nine fold improvement in simulation accuracy for iron sulfur clusters, a chemistry problem tied to catalysis and nitrogen fixation, by pairing an IBM quantum processor with RIKEN's GB200-powered supercomputer and starting the calculation from a different reference state than earlier attempts.
+
+IBM and AMD open-sourced Pelagos, a GPU-accelerated decoder for evaluating large scale quantum error correction codes, claiming up to ninety seven times the speed of a single CPU core and several thousand decodes per second across AMD, Nvidia, and Intel hardware, alongside a related decoding survey co-authored with HPE, IQM, Riverlane, and Xanadu.
+
+United States stock market.
+
+All three major U.S. stock indexes fell sharply Monday, their third straight losing session, with the S&P 500 down one point nine percent, the Nasdaq down two point five percent, and the Dow down one point four percent, as chip stocks including Nvidia, Intel, and Micron sold off and a weak manufacturing reading from the New York Fed added to the pressure.
+
+Tyson Foods shares jumped nearly nine percent despite a forty seven percent drop in quarterly profit, as investors welcomed the company's outlook for its beef business even as the company guided next year's overall sales lower.
 
 Czech Republic and Slovakia.
 
-Hundreds of thousands of people protested on Prague's Letna plain on Sunday against a government bill to abolish mandatory license fees for Czech Television and Czech Radio. Prime Minister Andrej Babis said Monday he respects the right to protest but confirmed the fees will be scrapped regardless, with the state proposing to fund the broadcasters directly starting in January twenty twenty seven.
+The Czech government's daily fuel price cap, introduced in October to limit retailer margins, pushed diesel up to forty five crowns seventy three haléře a liter starting Tuesday, ending a two week decline, while petrol stayed capped at forty crowns fifty haléře.
 
-The Czech government is set to raise compensation for workplace injuries, occupational diseases, and survivor benefits by point two percent plus a flat two hundred seventy crowns, mirroring January's pension increase, effective from January twenty twenty seven for employees as well as police officers and soldiers.
+E.ON and Pražská plynárenská became the latest major Czech suppliers to announce 2027 price increases for customers without fixed contracts, joining innogy and CEZ. E.ON alone will raise rates for about half a million households by several hundred crowns per megawatt hour, citing wholesale electricity prices that rose more than seventy percent this year.
+
+Slovakia's Labour Ministry launched a campaign explaining 2027 changes to dependency care benefits, under which a new unified payment of up to one thousand thirty eight euros a month will go directly to dependent people starting in January, and can be used to pay several caregivers at once.
+
+Slovakia's Economy Ministry confirmed its 2027 budget sets aside two hundred fifty million euros for household energy aid, below the three hundred forty million euros the economy minister had cited earlier this month, and said detailed conditions for the aid would be announced separately.
+
+China.
+
+Chinese Premier Li Qiang, addressing the ASEAN summit in Manila, pledged deeper cooperation with Southeast Asian nations on artificial intelligence and trade, part of Beijing's push to bring its upgraded free trade agreement with the bloc into force.
