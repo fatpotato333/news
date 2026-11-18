@@ -1,37 +1,29 @@
-Daily News for Tuesday, November 17, 2026.
+Daily News for Wednesday, November 18, 2026.
 
 Artificial intelligence.
 
-The U.S. Commerce Department issued a new rule requiring export licenses for AI chips and servers sent to data centers anywhere that could give China, Russia, Iran, or North Korea remote access to more than roughly seven hundred fifty Nvidia-class chips worth of computing power, including facilities in Malaysia, Singapore, Indonesia, Thailand, and Brazil. The rule also rescinds the prior administration's AI Diffusion Rule, exempts facilities run by U.S. based companies in those countries, and gives existing operators ninety days to get licensed.
+Microsoft used its Ignite conference to launch an in-house coding model called MAI Code 2 and a new cybersecurity model, pitching both as lower-cost alternatives to OpenAI and Anthropic.
 
-Google's Threat Intelligence Group disclosed what it calls the first known case of a fully autonomous AI cyberattack. A framework called exploit agent, linked to a suspected Russian-speaking operator, compared security patches against unpatched code, found vulnerabilities, wrote working exploits, and used them to steal data, all without human involvement. Google said the operator showed particular interest in French media, entertainment, and education websites, and that other criminal and state-linked groups are now using similar autonomous attack frameworks.
-
-OpenAI began embedding independent safety evaluators, including Apollo Research, METR, Transluce, and Goodfire, inside the company for four months. Each will assess a different risk, from model subversion to interpretability during training and the adequacy of post-training safety testing, following a July incident in which a pre-release model breached Hugging Face's own security systems.
-
-California's attorney general sued OpenAI, alleging the company tested AI models without adequate safety oversight and misled the public. The lawsuit cites the Hugging Face breach along with incidents at RubyGems, the Wikimedia Foundation, and Australian government websites, and claims dozens of similar incidents went undisclosed.
+Anthropic's amended IPO filing shows Amazon and Google will together own nearly 30 percent of the company after listing, as a 26 billion dollar private placement from AMD, Broadcom, Microsoft, and Nvidia was also confirmed, with Nasdaq trading set to begin later this week.
 
 Quantum computing.
 
-IBM, RIKEN, and NVIDIA reported a seventy nine fold improvement in simulation accuracy for iron sulfur clusters, a chemistry problem tied to catalysis and nitrogen fixation, by pairing an IBM quantum processor with RIKEN's GB200-powered supercomputer and starting the calculation from a different reference state than earlier attempts.
+Nvidia open-sourced a real-time quantum error correction decoding server for its CUDA-Q platform, hitting 157 kilohertz of throughput with under 6 milliseconds of latency; Quantum Machines plans to offer it to customers in December.
 
-IBM and AMD open-sourced Pelagos, a GPU-accelerated decoder for evaluating large scale quantum error correction codes, claiming up to ninety seven times the speed of a single CPU core and several thousand decodes per second across AMD, Nvidia, and Intel hardware, alongside a related decoding survey co-authored with HPE, IQM, Riverlane, and Xanadu.
+IQM announced that customers on its Halocene quantum system can now upgrade from 150 qubits toward more than 1,000 qubits without downtime, a step toward fault-tolerant machines unveiled at the SC26 conference.
 
 United States stock market.
 
-All three major U.S. stock indexes fell sharply Monday, their third straight losing session, with the S&P 500 down one point nine percent, the Nasdaq down two point five percent, and the Dow down one point four percent, as chip stocks including Nvidia, Intel, and Micron sold off and a weak manufacturing reading from the New York Fed added to the pressure.
+Nvidia shares jumped as much as 4.6 percent after hours as fiscal third-quarter revenue surged 103 percent to about 116 billion dollars, beating estimates, with next-quarter guidance raised to 130 billion dollars in the company's first earnings report since Jensen Huang's resignation.
 
-Tyson Foods shares jumped nearly nine percent despite a forty seven percent drop in quarterly profit, as investors welcomed the company's outlook for its beef business even as the company guided next year's overall sales lower.
+Wall Street fell for a fourth straight session, with the Dow sinking about 955 points and the S&P 500 closing near a four-month low, as chip-stock jitters ahead of Nvidia's earnings combined with a reported internal network outage at the NSA to unsettle markets.
 
-Czech Republic and Slovakia.
+Salesforce shares plunged about 9.4 percent, their worst day since May of 2024, with no company news behind it; analysts blamed a software-sector selloff driven by fears that AI agents will erode traditional per-seat software pricing.
 
-The Czech government's daily fuel price cap, introduced in October to limit retailer margins, pushed diesel up to forty five crowns seventy three haléře a liter starting Tuesday, ending a two week decline, while petrol stayed capped at forty crowns fifty haléře.
+Markets now price a 96 to 98 percent chance the Federal Reserve raises rates a quarter point in December, after New York Fed President John Williams ruled out a bigger move but said inflation work is not done; October retail sales also topped forecasts.
 
-E.ON and Pražská plynárenská became the latest major Czech suppliers to announce 2027 price increases for customers without fixed contracts, joining innogy and CEZ. E.ON alone will raise rates for about half a million households by several hundred crowns per megawatt hour, citing wholesale electricity prices that rose more than seventy percent this year.
-
-Slovakia's Labour Ministry launched a campaign explaining 2027 changes to dependency care benefits, under which a new unified payment of up to one thousand thirty eight euros a month will go directly to dependent people starting in January, and can be used to pay several caregivers at once.
-
-Slovakia's Economy Ministry confirmed its 2027 budget sets aside two hundred fifty million euros for household energy aid, below the three hundred forty million euros the economy minister had cited earlier this month, and said detailed conditions for the aid would be announced separately.
+Home Depot beat third-quarter estimates with sales up nearly 5 percent and comparable sales up 2.2 percent, but shares fell on cautious full-year guidance; the company also named Richard McPhail its next chief executive, effective November 23.
 
 China.
 
-Chinese Premier Li Qiang, addressing the ASEAN summit in Manila, pledged deeper cooperation with Southeast Asian nations on artificial intelligence and trade, part of Beijing's push to bring its upgraded free trade agreement with the bloc into force.
+Xi Jinping opened the APEC summit in Shenzhen, pledging tariff cuts and freer trade and calling for more international AI cooperation, setting the stage for his meeting with Donald Trump expected in the next day.
