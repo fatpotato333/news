@@ -1,29 +1,23 @@
-Daily News for Wednesday, November 18, 2026.
+Daily News for Thursday, November 19, 2026.
 
 Artificial intelligence.
 
-Microsoft used its Ignite conference to launch an in-house coding model called MAI Code 2 and a new cybersecurity model, pitching both as lower-cost alternatives to OpenAI and Anthropic.
-
-Anthropic's amended IPO filing shows Amazon and Google will together own nearly 30 percent of the company after listing, as a 26 billion dollar private placement from AMD, Broadcom, Microsoft, and Nvidia was also confirmed, with Nasdaq trading set to begin later this week.
-
-Quantum computing.
-
-Nvidia open-sourced a real-time quantum error correction decoding server for its CUDA-Q platform, hitting 157 kilohertz of throughput with under 6 milliseconds of latency; Quantum Machines plans to offer it to customers in December.
-
-IQM announced that customers on its Halocene quantum system can now upgrade from 150 qubits toward more than 1,000 qubits without downtime, a step toward fault-tolerant machines unveiled at the SC26 conference.
+Anthropic priced its initial public offering at 83 dollars per share, above the raised range it had set, selling about 81 billion dollars worth of stock in the largest public offering on record. The deal values the company near 1.5 trillion dollars, with trading on the Nasdaq under the ticker A N T set to begin today.
 
 United States stock market.
 
-Nvidia shares jumped as much as 4.6 percent after hours as fiscal third-quarter revenue surged 103 percent to about 116 billion dollars, beating estimates, with next-quarter guidance raised to 130 billion dollars in the company's first earnings report since Jensen Huang's resignation.
+Major indexes fell again on Tuesday despite Nvidia's strong earnings report. The Dow dropped 561 points to its lowest close since June, and the S and P 500 slipped for a fifth straight session, even as the Nasdaq edged higher. Nvidia shares fell nearly 3 percent after company leadership ruled out bringing back former CEO Jensen Huang, overshadowing revenue that roughly doubled from a year earlier.
 
-Wall Street fell for a fourth straight session, with the Dow sinking about 955 points and the S&P 500 closing near a four-month low, as chip-stock jitters ahead of Nvidia's earnings combined with a reported internal network outage at the NSA to unsettle markets.
+Health insurers UnitedHealth and Humana fell sharply after regulators proposed a rule to claw back Medicare Advantage overpayments dating back to 2018. The Centers for Medicare and Medicaid Services estimates the rule could recover about 9 billion dollars a year industry wide. A public comment period runs into January.
 
-Salesforce shares plunged about 9.4 percent, their worst day since May of 2024, with no company news behind it; analysts blamed a software-sector selloff driven by fears that AI agents will erode traditional per-seat software pricing.
+Czech Republic and Slovakia.
 
-Markets now price a 96 to 98 percent chance the Federal Reserve raises rates a quarter point in December, after New York Fed President John Williams ruled out a bigger move but said inflation work is not done; October retail sales also topped forecasts.
+The Czech Banking Association cut its 2026 growth forecast to 1.7 percent and now expects interest rates to stay near 4 percent through all of next year, citing a worsening inflation outlook.
 
-Home Depot beat third-quarter estimates with sales up nearly 5 percent and comparable sales up 2.2 percent, but shares fell on cautious full-year guidance; the company also named Richard McPhail its next chief executive, effective November 23.
+Czech household debt jumped 16 percent this year to over 4.5 trillion crowns, driven largely by homeowners refixing old low-rate mortgages at today's higher rates, which pushes up loan balances and monthly payments.
+
+A new European survey found 41 percent of Czechs who don't own a home now believe they never will, compared with a 27 percent average across the European Union, with most blaming low income relative to housing costs.
 
 China.
 
-Xi Jinping opened the APEC summit in Shenzhen, pledging tariff cuts and freer trade and calling for more international AI cooperation, setting the stage for his meeting with Donald Trump expected in the next day.
+Donald Trump and Xi Jinping held a bilateral meeting in Shenzhen on the sidelines of the APEC summit, followed by an unprecedented three way meeting with Vladimir Putin. No joint trade statement was issued. Xi pledged deeper cooperation on artificial intelligence and trade, while Trump said Washington is negotiating several new trade agreements with Pacific nations.
