@@ -2,148 +2,6 @@
   "version": 1,
   "stories": [
     {
-      "event_id": "meta-mac-app-muse-spark-launch",
-      "reported_date": "2026-08-21",
-      "event_date": "2026-08-20",
-      "category": "AI",
-      "entities": [
-        "Meta"
-      ],
-      "event_type": "product_launch",
-      "canonical_summary": "Meta released a native Mac app for its Meta AI assistant adding system-wide dictation and a new screen-aware capability called Muse Spark that can read the user's screen to answer context-based questions, plus business-analytics integrations for merchants.",
-      "source_url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
-      "material_update_of": null
-    },
-    {
-      "event_id": "meta-pocket-vibe-coding-us-rollout",
-      "reported_date": "2026-08-21",
-      "event_date": "2026-08-20",
-      "category": "AI",
-      "entities": [
-        "Meta"
-      ],
-      "event_type": "product_launch",
-      "canonical_summary": "Meta expanded Pocket, an app letting users generate small interactive games via text-prompt 'vibe-coding' with touch/tilt controls and a social remix feed, to all US users following a Brazil pilot.",
-      "source_url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
-      "material_update_of": null
-    },
-    {
-      "event_id": "us-market-selloff-bond-yields-oil-iran",
-      "reported_date": "2026-08-21",
-      "event_date": "2026-08-20",
-      "category": "US Stock Market",
-      "entities": [
-        "Dow Jones",
-        "S&P 500",
-        "Nasdaq",
-        "US Treasury"
-      ],
-      "event_type": "market_move",
-      "canonical_summary": "US indices fell (Dow -1.3%, S&P 500 -0.8%, Nasdaq -1.0%) as Treasury yields rebounded despite Treasury Secretary Bessent's larger bond-buyback announcement, while oil prices jumped after President Trump threatened action against Iran over Strait of Hormuz tensions.",
-      "source_url": "https://www.cnbc.com/2026/08/20/stock-market-today-live-updates.html",
-      "material_update_of": null
-    },
-    {
-      "event_id": "walmart-q2-earnings-comp-sales-miss",
-      "reported_date": "2026-08-21",
-      "event_date": "2026-08-20",
-      "category": "US Stock Market",
-      "entities": [
-        "Walmart"
-      ],
-      "event_type": "earnings_reaction",
-      "canonical_summary": "Walmart shares fell about 9% despite beating revenue and adjusted EPS estimates, after US comparable-sales growth of 2.6% came in below expectations (weakest in over six years) and Q3 guidance was cut, with management citing consumer trade-offs amid high fuel costs.",
-      "source_url": "https://finance.yahoo.com/markets/stocks/article/walmart-stock-drops-9-as-sales-growth-slows-customers-make-trade-offs-amid-high-fuel-costs-182327744.html",
-      "material_update_of": null
-    },
-    {
-      "event_id": "alibaba-profit-drop-ai-capex-surge",
-      "reported_date": "2026-08-21",
-      "event_date": "2026-08-20",
-      "category": "US Stock Market",
-      "entities": [
-        "Alibaba"
-      ],
-      "event_type": "earnings_reaction",
-      "canonical_summary": "Alibaba's US-listed shares fell roughly 4-5% after net income plunged more than 75% to about $1.6 billion as quarterly AI infrastructure capital spending jumped ~75% to nearly $10 billion, even though revenue rose 9% and AI cloud revenue rose 45%.",
-      "source_url": "https://www.cnbc.com/2026/08/20/alibaba-cloud-revenue.html",
-      "material_update_of": null
-    },
-    {
-      "event_id": "crypto-stocks-rally-bitcoin-71k",
-      "reported_date": "2026-08-21",
-      "event_date": "2026-08-20",
-      "category": "US Stock Market",
-      "entities": [
-        "Bitcoin",
-        "Strategy",
-        "Coinbase",
-        "Circle Internet"
-      ],
-      "event_type": "market_move",
-      "canonical_summary": "Bitcoin surged past $71,000, its highest level in about two months, lifting crypto-linked stocks (Strategy, Coinbase, Bitmine, Circle) after President Trump met with crypto executives to push Congress on market-structure legislation, amid a weaker dollar following the Treasury buyback news.",
-      "source_url": "https://247wallst.com/investing/2026/08/20/strategy-rallies-9-bitmine-climbs-7-coinbase-jumps-6-as-3-3b-short-squeeze-powers-bitcoin-past-71k/",
-      "material_update_of": null
-    },
-    {
-      "event_id": "czech-senate-rejects-building-act-amendment",
-      "reported_date": "2026-08-21",
-      "event_date": "2026-08-20",
-      "category": "Czech Republic and Slovakia",
-      "entities": [
-        "Czech Senate",
-        "Chamber of Deputies",
-        "Ministry for Regional Development"
-      ],
-      "event_type": "legislation_rejected",
-      "canonical_summary": "The Czech Senate voted 55 of 66 present to reject a coalition-backed Building Act amendment that would have centralized building-permit decisions in state offices, after architects and opposition senators criticized it as favoring developers; the bill returns to the Chamber of Deputies, which can override the veto.",
-      "source_url": "https://www.ceskenoviny.cz/zpravy/spornou-stavebni-novelu-senat-zamitl-kritici-ji-oznacovali-za-paskvil/2863051",
-      "material_update_of": null
-    },
-    {
-      "event_id": "china-us-tariff-transshipment-dispute-mexico-curbs",
-      "reported_date": "2026-08-21",
-      "event_date": "2026-08-21",
-      "category": "China",
-      "entities": [
-        "China Ministry of Commerce",
-        "US White House",
-        "Mexico"
-      ],
-      "event_type": "trade_dispute",
-      "canonical_summary": "China's Commerce Ministry dismissed a White House report alleging Chinese exporters route goods through Mexico and other countries to evade US tariffs, calling it unilateral and protectionist, as Mexico separately weighs new restrictions on Chinese steel and textile imports.",
-      "source_url": "https://www.scmp.com/news/us/article/3364735/beijing-calls-us-tariff-report-false-narrative-named-hub-mexico-plans-new-china-curbs",
-      "material_update_of": null
-    },
-    {
-      "event_id": "china-switzerland-free-trade-upgrade",
-      "reported_date": "2026-08-21",
-      "event_date": "2026-08-20",
-      "category": "China",
-      "entities": [
-        "China",
-        "Switzerland"
-      ],
-      "event_type": "trade_agreement",
-      "canonical_summary": "China and Switzerland concluded negotiations to overhaul their 2014 free trade agreement, eliminating tariffs on 99.8% of Swiss exports to China (up from about half today) and improving market access for Swiss investors, with signing expected before year-end 2026.",
-      "source_url": "https://www.swissinfo.ch/eng/foreign-affairs/almost-all-tariffs-on-swiss-exports-to-china-will-be-abolished/91929769",
-      "material_update_of": null
-    },
-    {
-      "event_id": "china-safe-fines-guotai-haitong-qdii",
-      "reported_date": "2026-08-21",
-      "event_date": "2026-08-21",
-      "category": "China",
-      "entities": [
-        "Guotai Haitong Securities Asset Management",
-        "State Administration of Foreign Exchange"
-      ],
-      "event_type": "regulatory_fine",
-      "canonical_summary": "China's State Administration of Foreign Exchange fined Guotai Haitong Securities Asset Management 52.5 million yuan (about $7.8 million including confiscated gains) for violating Qualified Domestic Institutional Investor foreign-exchange rules and cross-border reporting requirements on QDII products offered 2019-2022.",
-      "source_url": "https://www.scmp.com/business/china-business/article/3364770/chinese-regulators-slap-us78m-penalty-guotai-haitong-arm-amid-capital-flow-crackdown",
-      "material_update_of": null
-    },
-    {
       "event_id": "deepseek-v4-flash-vision-exp-multimodal-launch",
       "reported_date": "2026-08-22",
       "event_date": "2026-08-21",
@@ -13187,6 +13045,173 @@
       "canonical_summary": "Trump and Xi held a bilateral meeting in Shenzhen on the sidelines of the APEC summit, followed by an unprecedented three-way meeting with Putin focused partly on Ukraine and Iran. No joint US-China trade statement or new tariff/rare-earths agreement was confirmed; Xi pledged deeper AI and trade cooperation while Trump said the US is negotiating several new trade agreements with Pacific nations.",
       "source_url": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/",
       "material_update_of": "china-apec-shenzhen-xi-opening-trade-pledge"
+    },
+    {
+      "event_id": "apple-autonomous-ai-agent-job-listings",
+      "reported_date": "2026-11-20",
+      "event_date": "2026-11-19",
+      "category": "AI",
+      "entities": [
+        "Apple"
+      ],
+      "event_type": "product_strategy",
+      "canonical_summary": "Apple is reportedly building an in-house autonomous AI agent, coordinating sub-agents to control apps, browse the web, navigate the device and write code, per new internal job listings reported by Bloomberg; general availability is not expected until late 2027.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-11-19/apple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding",
+      "material_update_of": null
+    },
+    {
+      "event_id": "google-willow-contextuality-benchmark-105-qubits",
+      "reported_date": "2026-11-20",
+      "event_date": "2026-11-19",
+      "category": "Quantum Computing",
+      "entities": [
+        "Google",
+        "Google Quantum AI"
+      ],
+      "event_type": "research_result",
+      "canonical_summary": "Google Quantum AI published a peer-reviewed Science study showing its 105-qubit Willow processor won a four-qubit 'magic square' game 98.3% of the time versus an 88.9% classical ceiling and verified genuine multipartite entanglement across up to 45 qubits, while cautioning the advantage narrowed sharply and relies on an unproven conjecture at full scale.",
+      "source_url": "https://thequantuminsider.com/2026/11/19/googles-quantum-chip-beats-classical-limits-in-tests-of-teamwork/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "qeclean-lean4-qec-code-verification",
+      "reported_date": "2026-11-20",
+      "event_date": "2026-11-19",
+      "category": "Quantum Computing",
+      "entities": [
+        "University of Wisconsin-Madison",
+        "University of Arizona",
+        "QEC Labs"
+      ],
+      "event_type": "software_release",
+      "canonical_summary": "Researchers released QECLean, an open-source Lean 4 framework that formally proved the exact algebraic code distance of IBM's 360-qubit bivariate bicycle code (previously only an upper bound was known) and gave the first machine-checked parametric distance proof for an infinite rotated surface code family.",
+      "source_url": "https://quantumcomputingreport.com/researchers-introduce-qeclean-framework-to-formally-verify-quantum-error-correcting-codes-in-lean-4/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-stocks-dow-below-50000-nov19",
+      "reported_date": "2026-11-20",
+      "event_date": "2026-11-19",
+      "category": "US Stock Market",
+      "entities": [
+        "Dow Jones Industrial Average",
+        "S&P 500",
+        "Nasdaq Composite"
+      ],
+      "event_type": "index_move",
+      "canonical_summary": "US stocks fell sharply on November 19: the Dow dropped 1,101 points (-2.19%) to 49,097.06, its first close below 50,000 since June; the S&P 500 fell 2.02% to 7,175.83, below its 200-day moving average; the VIX spiked to near 29. Cited causes include profit-taking after Anthropic's Nasdaq debut faded and doubts about near-term AI-spending payoffs.",
+      "source_url": "https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-stock-market-today-nov-19-alphabet-shares-fall-as-anthropic-nasdaq-debut-puts-fresh-value-on-google-s-stake/",
+      "material_update_of": "us-stocks-selloff-nov18-nvidia-drop-despite-beat"
+    },
+    {
+      "event_id": "amd-hunterbrook-short-report-china-firmware",
+      "reported_date": "2026-11-20",
+      "event_date": "2026-11-19",
+      "category": "US Stock Market",
+      "entities": [
+        "AMD",
+        "Hunterbrook Capital",
+        "IEIT Systems"
+      ],
+      "event_type": "single_stock_move",
+      "canonical_summary": "AMD shares fell about 7-8% after short seller Hunterbrook Capital disclosed a short position alongside a report alleging Chinese server maker IEIT Systems, on the US Entity List, kept receiving newer AMD firmware via related firms; AMD denied wrongdoing and said it complies with export law.",
+      "source_url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "fed-officials-split-december-jumbo-hike",
+      "reported_date": "2026-11-20",
+      "event_date": "2026-11-19",
+      "category": "US Stock Market",
+      "entities": [
+        "Federal Reserve",
+        "Christopher Waller",
+        "Austan Goolsbee"
+      ],
+      "event_type": "fed_commentary",
+      "canonical_summary": "Fed Governor Christopher Waller said the Fed may need to 'shock' markets with a half-point December rate hike, and Chicago Fed President Austan Goolsbee said a larger-than-usual increase is on the table, as October FOMC minutes released November 18 showed almost all participants favoring further rate increases.",
+      "source_url": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
+      "material_update_of": "fed-december-hike-odds-firm-retail-sales-nov17"
+    },
+    {
+      "event_id": "anthropic-ant-nasdaq-trading-debut",
+      "reported_date": "2026-11-20",
+      "event_date": "2026-11-19",
+      "category": "US Stock Market",
+      "entities": [
+        "Anthropic"
+      ],
+      "event_type": "ipo_trading_debut",
+      "canonical_summary": "Anthropic shares (ticker ANT) opened at $111.50, up 34% from the $83 IPO price, on their Nasdaq trading debut November 19, but profit-taking pared the gain to about 17% by the close.",
+      "source_url": "https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-stock-market-today-nov-19-alphabet-shares-fall-as-anthropic-nasdaq-debut-puts-fresh-value-on-google-s-stake/",
+      "material_update_of": "anthropic-ipo-prices-83-trading-begins"
+    },
+    {
+      "event_id": "wienerberger-stod-plant-closure",
+      "reported_date": "2026-11-20",
+      "event_date": "2026-11-19",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Wienerberger"
+      ],
+      "event_type": "plant_closure",
+      "canonical_summary": "Wienerberger will close its brick and roof-tile plant in Stod u Plzne by June 30, 2027, citing persistently weak foreign demand, cutting about 100 jobs while keeping the site as a Tondach distribution hub.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/wienerberger-ukonci-v-cervnu-2027-vyrobu-ve-stode-u-plzne-zavod-opusti-100-lidi/2903957",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-eet-january-2027-pilot-grace-period",
+      "reported_date": "2026-11-20",
+      "event_date": "2026-11-19",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Ministry of Finance",
+        "Alena Schillerova"
+      ],
+      "event_type": "tax_administration_policy",
+      "canonical_summary": "Czech Finance Minister Alena Schillerova confirmed the tax administration will not inspect or fine businesses for mistakes during January 2027, the first month mandatory electronic sales records (EET) return, treating it as a pilot period before enforcement begins in February.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/schillerova-po-cely-leden-nebude-financni-sprava-trestat-chyby-pri-eet/2904010",
+      "material_update_of": null
+    },
+    {
+      "event_id": "gabor-slovakia-banovce-layoffs",
+      "reported_date": "2026-11-20",
+      "event_date": "2026-11-19",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Gabor"
+      ],
+      "event_type": "layoffs",
+      "canonical_summary": "German shoemaker Gabor will cut about 380 of roughly 730 jobs at its main Slovak plant in Banovce nad Bebravou, phased December 2026 to April 2027, citing weak orders in the German footwear sector.",
+      "source_url": "https://www.teraz.sk/ekonomika/brief-gabor-znizi-objem-vyroby-prep/1008967-clanok.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-nbs-mortgage-ltv-under35-easing",
+      "reported_date": "2026-11-20",
+      "event_date": "2026-11-19",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "National Bank of Slovakia"
+      ],
+      "event_type": "regulatory_policy",
+      "canonical_summary": "From January 2027, Slovak buyers under 35 can finance up to 90% loan-to-value on a first home, up from 80%, roughly halving required upfront savings on an average flat; from July 2027 the LTV cap for third-plus investment properties tightens to 70%.",
+      "source_url": "https://www.teraz.sk/ekonomika/odbornicka-mladi-mozu-od-januara/1008959-clanok.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "ppf-arvum-cnb-fund-approval",
+      "reported_date": "2026-11-20",
+      "event_date": "2026-11-19",
+      "category": "PPF Group",
+      "entities": [
+        "PPF Group",
+        "Arvum"
+      ],
+      "event_type": "regulatory_approval",
+      "canonical_summary": "The Czech National Bank approved PPF's new asset manager Arvum to launch its first two mutual funds, Arvum Bond Signum and Arvum Equity Signum, to be offered mainly to Air Bank and PPF banka clients in the coming weeks.",
+      "source_url": "https://www.ppf.eu/en/press-release/arvum-receives-czech-national-bank-approval-for-its-first-mutual-funds",
+      "material_update_of": null
     }
   ]
 }

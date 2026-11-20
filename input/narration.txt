@@ -1,23 +1,35 @@
-Daily News for Thursday, November 19, 2026.
+Daily News for Friday, November 20, 2026.
 
 Artificial intelligence.
 
-Anthropic priced its initial public offering at 83 dollars per share, above the raised range it had set, selling about 81 billion dollars worth of stock in the largest public offering on record. The deal values the company near 1.5 trillion dollars, with trading on the Nasdaq under the ticker A N T set to begin today.
+Apple is reportedly building its own autonomous AI agent capable of controlling apps, browsing the web, and writing code, according to new internal job listings uncovered by Bloomberg. The project is still early stage, with general availability not expected until late 2027.
+
+Quantum computing.
+
+Google's Willow quantum chip won a four qubit game 98 percent of the time, versus an 89 percent classical limit, in a peer reviewed study published in the journal Science demonstrating genuine quantum entanglement across up to 45 qubits. Researchers cautioned the advantage narrowed sharply when the experiment scaled to 105 qubits, where it depends on an unproven mathematical assumption.
+
+Separately, researchers from the University of Wisconsin-Madison and the University of Arizona released an open source tool called QECLean that mathematically proved the exact error correction strength of IBM's 360 qubit chip, a property previously only estimated.
 
 United States stock market.
 
-Major indexes fell again on Tuesday despite Nvidia's strong earnings report. The Dow dropped 561 points to its lowest close since June, and the S and P 500 slipped for a fifth straight session, even as the Nasdaq edged higher. Nvidia shares fell nearly 3 percent after company leadership ruled out bringing back former CEO Jensen Huang, overshadowing revenue that roughly doubled from a year earlier.
+US stocks fell sharply Thursday, with the Dow Jones Industrial Average dropping over 1,100 points to close below 50,000 for the first time since June, as investors took profits following Anthropic's stock market debut and doubts grew about near term payoffs from AI spending.
 
-Health insurers UnitedHealth and Humana fell sharply after regulators proposed a rule to claw back Medicare Advantage overpayments dating back to 2018. The Centers for Medicare and Medicaid Services estimates the rule could recover about 9 billion dollars a year industry wide. A public comment period runs into January.
+AMD shares fell about 8 percent after short seller Hunterbrook Capital alleged a Chinese server maker on the US trade blacklist kept receiving AMD chip firmware. AMD denied wrongdoing and said it complies with export law.
+
+Federal Reserve officials split publicly on the size of a possible December rate hike. Governor Christopher Waller said the Fed may need to shock markets with a half point increase, while Chicago Fed President Austan Goolsbee said a larger move is on the table, as October meeting minutes showed most officials favoring further hikes.
+
+Anthropic's stock opened 34 percent above its 83 dollar public offering price on its Nasdaq debut Thursday, but profit taking pared the gain to about 17 percent by the close.
 
 Czech Republic and Slovakia.
 
-The Czech Banking Association cut its 2026 growth forecast to 1.7 percent and now expects interest rates to stay near 4 percent through all of next year, citing a worsening inflation outlook.
+Building materials maker Wienerberger will close its brick and roof tile plant in Stod, near Pilsen, by June 2027, cutting about 100 jobs, citing weak foreign demand for building materials.
 
-Czech household debt jumped 16 percent this year to over 4.5 trillion crowns, driven largely by homeowners refixing old low-rate mortgages at today's higher rates, which pushes up loan balances and monthly payments.
+The Czech Finance Ministry says it will not fine businesses for mistakes during January, the first month mandatory electronic sales records return, giving a grace period before enforcement begins in February 2027.
 
-A new European survey found 41 percent of Czechs who don't own a home now believe they never will, compared with a 27 percent average across the European Union, with most blaming low income relative to housing costs.
+German shoemaker Gabor will cut around 380 jobs, roughly half its workforce, at its main Slovak factory in Banovce nad Bebravou by April 2027, citing weak orders from the German footwear market.
 
-China.
+Starting January 2027, Slovak buyers under 35 can finance up to 90 percent of a first home's value, up from the current 80 percent limit, roughly halving the cash needed upfront on an average flat.
 
-Donald Trump and Xi Jinping held a bilateral meeting in Shenzhen on the sidelines of the APEC summit, followed by an unprecedented three way meeting with Vladimir Putin. No joint trade statement was issued. Xi pledged deeper cooperation on artificial intelligence and trade, while Trump said Washington is negotiating several new trade agreements with Pacific nations.
+PPF Group.
+
+PPF's new asset manager, Arvum, received Czech National Bank approval for its first two mutual funds, a bond fund and an equity fund, aimed mainly at clients of its Air Bank and PPF banka units.
