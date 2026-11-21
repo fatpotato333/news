@@ -2,92 +2,6 @@
   "version": 1,
   "stories": [
     {
-      "event_id": "deepseek-v4-flash-vision-exp-multimodal-launch",
-      "reported_date": "2026-08-22",
-      "event_date": "2026-08-21",
-      "category": "AI",
-      "entities": [
-        "DeepSeek",
-        "Anthropic"
-      ],
-      "event_type": "model_release",
-      "canonical_summary": "DeepSeek released an experimental multimodal model, V4-Flash-Vision-Exp, adding vision and agentic capabilities and claiming near-parity with Anthropic's Claude Opus 4.8 on some visual/agentic benchmarks while trailing significantly on the hardest test; benchmark claims are DeepSeek's own and not independently verified.",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-08-21/deepseek-unveils-test-model-to-rival-anthropic-s-opus-4-8",
-      "material_update_of": null
-    },
-    {
-      "event_id": "brookhaven-stonybrook-free-space-quantum-link",
-      "reported_date": "2026-08-22",
-      "event_date": "2026-08-21",
-      "category": "Quantum Computing",
-      "entities": [
-        "Brookhaven National Laboratory",
-        "Stony Brook University"
-      ],
-      "event_type": "infrastructure_milestone",
-      "canonical_summary": "Brookhaven National Laboratory and Stony Brook University demonstrated the first US free-space (open-air) quantum entanglement link, transmitting entangled photons roughly 13 miles between two rooftop stations on Long Island, integrating into an existing 161-mile fiber quantum network with a third node planned at Yale.",
-      "source_url": "https://news.stonybrook.edu/university/stony-brook-brookhaven-lab-researchers-demonstrate-wireless-capability-for-quantum-network",
-      "material_update_of": null
-    },
-    {
-      "event_id": "us-stocks-friday-rebound-bond-yields",
-      "reported_date": "2026-08-22",
-      "event_date": "2026-08-21",
-      "category": "US Stock Market",
-      "entities": [
-        "Dow Jones Industrial Average",
-        "S&P 500",
-        "Nasdaq Composite"
-      ],
-      "event_type": "market_move",
-      "canonical_summary": "US stocks rebounded Friday August 21 (Dow up about 518 points, ~1%; S&P 500 and Nasdaq up about 0.4%) but still closed the week lower, as long-term Treasury yields stayed near their highest since 2007 despite the Treasury's expanded bond-buyback program announced earlier in the week.",
-      "source_url": "https://uk.finance.yahoo.com/news/stock-market-today-friday-august-21-dow-sp-500-nasdaq-bitcoin-080533702.html",
-      "material_update_of": null
-    },
-    {
-      "event_id": "evergrande-xu-jiayin-life-sentence",
-      "reported_date": "2026-08-22",
-      "event_date": "2026-08-20",
-      "category": "China",
-      "entities": [
-        "Xu Jiayin (Hui Ka Yan)",
-        "China Evergrande Group",
-        "Shenzhen Intermediate People's Court"
-      ],
-      "event_type": "court_verdict",
-      "canonical_summary": "A Shenzhen court sentenced Evergrande founder Xu Jiayin to life in prison for fundraising fraud, illegal deposit-taking and fraudulent securities issuance, fining China Evergrande Group and Evergrande Real Estate a combined roughly 15.8 billion yuan (about $2.2 billion), with 56 co-defendants also sentenced.",
-      "source_url": "https://www.france24.com/en/asia-pacific/20260820-china-reast-estate-giant-xu-jiayin-sentenced-to-life-in-prison",
-      "material_update_of": null
-    },
-    {
-      "event_id": "china-rejects-us-pressure-iran-sanctions",
-      "reported_date": "2026-08-22",
-      "event_date": "2026-08-21",
-      "category": "China",
-      "entities": [
-        "China Ministry of Foreign Affairs",
-        "US Treasury Department",
-        "Scott Bessent"
-      ],
-      "event_type": "diplomatic_exchange",
-      "canonical_summary": "US Treasury Secretary Scott Bessent publicly urged China to join Washington's Iran sanctions campaign, noting China buys the large majority of Iran's oil exports; China's Foreign Ministry rejected the request, saying sanctions and pressure tactics are not the solution, and signaled it would keep facilitating Iranian oil trade.",
-      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3364734/us-urges-china-back-its-most-crushing-economic-operation-against-iran",
-      "material_update_of": null
-    },
-    {
-      "event_id": "shanghai-property-easing-down-payment-cut",
-      "reported_date": "2026-08-22",
-      "event_date": "2026-08-20",
-      "category": "China",
-      "entities": [
-        "Shanghai municipal government"
-      ],
-      "event_type": "policy_change",
-      "canonical_summary": "Shanghai became the first Chinese top-tier city to ease home-buying rules after weak July economic data, cutting the minimum down payment for second homes outside the outer ring to 15% from 20%, expanding housing provident-fund withdrawal access, and adding resale subsidies of up to 80,000 yuan.",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-08-20/shanghai-starts-new-round-of-property-easing-after-economy-slows",
-      "material_update_of": null
-    },
-    {
       "event_id": "nvidia-ai-server-price-hike-2027",
       "reported_date": "2026-08-23",
       "event_date": "2026-08-22",
@@ -13211,6 +13125,161 @@
       "event_type": "regulatory_approval",
       "canonical_summary": "The Czech National Bank approved PPF's new asset manager Arvum to launch its first two mutual funds, Arvum Bond Signum and Arvum Equity Signum, to be offered mainly to Air Bank and PPF banka clients in the coming weeks.",
       "source_url": "https://www.ppf.eu/en/press-release/arvum-receives-czech-national-bank-approval-for-its-first-mutual-funds",
+      "material_update_of": null
+    },
+    {
+      "event_id": "google-deepmind-genie4-api-ga",
+      "reported_date": "2026-11-21",
+      "event_date": "2026-11-19",
+      "category": "AI",
+      "entities": [
+        "Google DeepMind",
+        "Google"
+      ],
+      "event_type": "api_capability",
+      "canonical_summary": "Google DeepMind's Genie 4 interactive world model, previously a trusted-tester research preview, became available to paying developers via the Gemini API and Google AI Studio, generating real-time interactive 720p/24fps video worlds with native audio for sessions up to 120 seconds.",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "google-gemini-mac-agentic-computer-use",
+      "reported_date": "2026-11-21",
+      "event_date": "2026-11-19",
+      "category": "AI",
+      "entities": [
+        "Google"
+      ],
+      "event_type": "product_launch",
+      "canonical_summary": "Google's Gemini app for Mac (Apple Silicon, macOS Sequoia 15+) gained agentic computer-use capability, able to click, scroll, type and operate native apps and browse the web in a background window with per-action approval for logins and payments, rolling out to AI Plus/Pro/Ultra subscribers.",
+      "source_url": "https://www.techradar.com/pro/google-is-bringing-gemini-to-mac-in-a-bid-to-help-organize-your-files-and-much-more",
+      "material_update_of": null
+    },
+    {
+      "event_id": "bmo-ibm-quantum-utility-ml-feature-selection",
+      "reported_date": "2026-11-21",
+      "event_date": "2026-11-19",
+      "category": "Quantum Computing",
+      "entities": [
+        "BMO",
+        "IBM",
+        "Democritus University of Thrace"
+      ],
+      "event_type": "commercial_application",
+      "canonical_summary": "BMO and Democritus University of Thrace demonstrated quantum utility in a machine-learning feature-selection method run on IBM's Nighthawk r2 superconducting processor, claiming classical-comparable result quality using one to two orders of magnitude fewer samples; IBM's quantum research team reviewed the work.",
+      "source_url": "https://newsroom.bmo.com/2026-11-19-BMO-Demonstrates-Quantum-Utility-in-Machine-Learning-Application-Using-IBM-Quantum-Computers",
+      "material_update_of": null
+    },
+    {
+      "event_id": "kt-lg-quantum-secure-direct-communication",
+      "reported_date": "2026-11-21",
+      "event_date": "2026-11-19",
+      "category": "Quantum Computing",
+      "entities": [
+        "KT",
+        "LG Electronics"
+      ],
+      "event_type": "research_demonstration",
+      "canonical_summary": "KT and LG Electronics demonstrated Quantum Secure Direct Communication, converting 1,024-bit image data and text into quantum states, transmitting and reconstructing them in a lab/testbed setting, a step beyond quantum key distribution toward transmitting information itself as a quantum state.",
+      "source_url": "https://thequantuminsider.com/2026/11/20/kt-lg-electronics-quantum-secure-direct-communication/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-stocks-sp500-dow-correction-nasdaq-erases-2026-gains",
+      "reported_date": "2026-11-21",
+      "event_date": "2026-11-20",
+      "category": "US Stock Market",
+      "entities": [
+        "S&P 500",
+        "Dow Jones Industrial Average",
+        "Nasdaq Composite"
+      ],
+      "event_type": "market_move",
+      "canonical_summary": "The S&P 500 (6,910.39) and Dow (48,147.33) both closed more than 10% below their record highs, meeting the definition of a correction, while the Nasdaq Composite fell 5.28% to 22,617.73, erasing all 2026 gains; VIX hit an intraday high of 32.27 as a rapid AI-trade unwind and December rate-hike fears drove the worst weekly selloff in years (Dow -8%, Nasdaq ~-10%, S&P -8.6% for the week).",
+      "source_url": "https://www.stocktitan.net/articles/stock-market-today-live-november-20-2026",
+      "material_update_of": "us-stocks-dow-below-50000-nov19"
+    },
+    {
+      "event_id": "nvidia-sec-accounting-probe-stock-plunge",
+      "reported_date": "2026-11-21",
+      "event_date": "2026-11-20",
+      "category": "US Stock Market",
+      "entities": [
+        "Nvidia",
+        "SEC"
+      ],
+      "event_type": "regulatory_investigation",
+      "canonical_summary": "Nvidia shares fell 14.01% to $125.53, their lowest close since May 2025, after Reuters reported the SEC is examining possible accounting/disclosure issues at the company, giving Nvidia its longest weekly losing streak since the 2008 financial crisis.",
+      "source_url": "https://www.cnbc.com/amp/2026/11/19/stock-market-today-live-updates.html",
+      "material_update_of": "us-stocks-selloff-nov18-nvidia-drop-despite-beat"
+    },
+    {
+      "event_id": "intuit-fy2027-guidance-cut-credit-karma",
+      "reported_date": "2026-11-21",
+      "event_date": "2026-11-20",
+      "category": "US Stock Market",
+      "entities": [
+        "Intuit",
+        "Credit Karma"
+      ],
+      "event_type": "earnings_guidance",
+      "canonical_summary": "Intuit cut its fiscal 2027 revenue outlook citing a slowdown at Credit Karma, sending shares down sharply despite Q1 revenue growth of 12% and unchanged profit forecasts.",
+      "source_url": "https://www.stocktitan.net/articles/stock-market-today-live-november-20-2026",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-mandatory-einvoicing-2027",
+      "reported_date": "2026-11-21",
+      "event_date": "2026-11-20",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Slovakia Financial Administration"
+      ],
+      "event_type": "regulatory_deadline",
+      "canonical_summary": "Slovakia's Financial Administration detailed the mandatory e-invoicing (eFaktúra) regime for VAT payers starting January 1, 2027, requiring structured electronic invoices routed through certified private digital couriers; about 150,000 entities have already joined voluntarily ahead of the deadline.",
+      "source_url": "https://www.teraz.sk/ekonomika/fs-povinna-elektronicka-fakturacia-s/1009179-clanok.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-obnov-dom-mini-plus-funding-secured",
+      "reported_date": "2026-11-21",
+      "event_date": "2026-11-20",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Slovakia Ministry of Environment",
+        "SAZP"
+      ],
+      "event_type": "policy_update",
+      "canonical_summary": "Slovakia's Environment Ministry/SAZP confirmed funding for the Obnov Dom Mini Plus energy-poverty home-renovation subsidy (up to EUR 11,000 per household) was secured by November 11 after a shortfall under prior agency leadership nearly halted the program; applicants face no delay in approvals or payouts.",
+      "source_url": "https://www.teraz.sk/ekonomika/agenture-zivotneho-prostredia-hrozilo/1009285-clanok.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "ct-cro-2027-budget-figures-confirmed",
+      "reported_date": "2026-11-21",
+      "event_date": "2026-11-20",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Television",
+        "Czech Radio",
+        "Andrej Babis"
+      ],
+      "event_type": "policy_update",
+      "canonical_summary": "Concrete 2027 state-budget figures emerged for Czech public broadcasters under the pending media-financing law: Czech Television would get CZK 5.7bn (about CZK 1bn less than current license-fee collection) and Czech Radio CZK 2.065bn (about CZK 400m less); comments are due to the Chamber's media committee by around November 27, with second reading expected mid-January 2027.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/chudarek-prinesl-babisovi-pripominky-k-zakonu-o-financovani-medii/2904342",
+      "material_update_of": "ct-cro-licence-fee-protest-babis-confirms"
+    },
+    {
+      "event_id": "us-senate-china-automaker-ban-bill-deal",
+      "reported_date": "2026-11-21",
+      "event_date": "2026-11-20",
+      "category": "China",
+      "entities": [
+        "US Senate",
+        "Mercedes-Benz"
+      ],
+      "event_type": "legislation",
+      "canonical_summary": "US Senator Bernie Moreno said lawmakers resolved the major remaining issues on legislation that would ban vehicles from automakers with more than 15% Chinese ownership, including a carve-out protecting Mercedes-Benz, reviving a bill targeting Chinese EV exports that had stalled since September pending the midterms.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-11-20/lawmakers-on-verge-of-deal-to-ban-chinese-cars-moreno-says",
       "material_update_of": null
     }
   ]

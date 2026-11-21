@@ -1,35 +1,33 @@
-Daily News for Friday, November 20, 2026.
+Daily News for Saturday, November 21, 2026.
 
 Artificial intelligence.
 
-Apple is reportedly building its own autonomous AI agent capable of controlling apps, browsing the web, and writing code, according to new internal job listings uncovered by Bloomberg. The project is still early stage, with general availability not expected until late 2027.
+Google DeepMind's Genie 4 interactive world model is now available to paying developers through the Gemini API and Google AI Studio, generating real time, high definition interactive video worlds with sound for sessions of up to two minutes.
+
+Google's Gemini app for Mac can now operate other programs directly, clicking, scrolling and typing across native apps to complete tasks in the background, with user approval required for logins and payments.
 
 Quantum computing.
 
-Google's Willow quantum chip won a four qubit game 98 percent of the time, versus an 89 percent classical limit, in a peer reviewed study published in the journal Science demonstrating genuine quantum entanglement across up to 45 qubits. Researchers cautioned the advantage narrowed sharply when the experiment scaled to 105 qubits, where it depends on an unproven mathematical assumption.
+Bank of Montreal and IBM say they achieved quantum utility in a real banking application, using an IBM Nighthawk processor to match classical machine learning feature selection quality while using far fewer data samples.
 
-Separately, researchers from the University of Wisconsin-Madison and the University of Arizona released an open source tool called QECLean that mathematically proved the exact error correction strength of IBM's 360 qubit chip, a property previously only estimated.
+South Korea's KT and LG Electronics say they transmitted image and text data encoded directly as quantum states, demonstrating quantum secure direct communication, a step beyond standard quantum key distribution.
 
 United States stock market.
 
-US stocks fell sharply Thursday, with the Dow Jones Industrial Average dropping over 1,100 points to close below 50,000 for the first time since June, as investors took profits following Anthropic's stock market debut and doubts grew about near term payoffs from AI spending.
+The S&P 500 and Dow Jones Industrial Average closed in correction territory Friday, both more than ten percent below their record highs, while the Nasdaq Composite erased all of its 2026 gains, as a rapid unwind of the AI trade and fears of a December Federal Reserve rate hike drove the worst weekly selloff in years.
 
-AMD shares fell about 8 percent after short seller Hunterbrook Capital alleged a Chinese server maker on the US trade blacklist kept receiving AMD chip firmware. AMD denied wrongdoing and said it complies with export law.
+Nvidia shares plunged about fourteen percent to an eighteen month low after Reuters reported the SEC is examining possible accounting and disclosure issues at the company, giving it its longest weekly losing streak since the 2008 financial crisis.
 
-Federal Reserve officials split publicly on the size of a possible December rate hike. Governor Christopher Waller said the Fed may need to shock markets with a half point increase, while Chicago Fed President Austan Goolsbee said a larger move is on the table, as October meeting minutes showed most officials favoring further hikes.
-
-Anthropic's stock opened 34 percent above its 83 dollar public offering price on its Nasdaq debut Thursday, but profit taking pared the gain to about 17 percent by the close.
+Intuit cut its fiscal 2027 revenue outlook, citing a slowdown at Credit Karma, sending its shares sharply lower even as quarterly revenue grew twelve percent.
 
 Czech Republic and Slovakia.
 
-Building materials maker Wienerberger will close its brick and roof tile plant in Stod, near Pilsen, by June 2027, cutting about 100 jobs, citing weak foreign demand for building materials.
+Slovakia's tax authority confirmed that mandatory electronic invoicing for VAT payers begins January first, 2027, requiring businesses to route invoices through certified digital couriers; about 150,000 companies have already enrolled ahead of the deadline.
 
-The Czech Finance Ministry says it will not fine businesses for mistakes during January, the first month mandatory electronic sales records return, giving a grace period before enforcement begins in February 2027.
+Slovakia's environment ministry says funding for the Obnov Dom Mini Plus home renovation subsidy, which had been at risk due to a shortfall under previous agency leadership, has now been secured, and applicants will face no delay in approvals or payouts.
 
-German shoemaker Gabor will cut around 380 jobs, roughly half its workforce, at its main Slovak factory in Banovce nad Bebravou by April 2027, citing weak orders from the German footwear market.
+Czech public broadcasters ČT and Czech Radio will get reduced state funding under a new media law, receiving five point seven billion and two billion crowns respectively for 2027, around one point four billion crowns less combined than current license fee collection, with a parliamentary committee review due by the end of November.
 
-Starting January 2027, Slovak buyers under 35 can finance up to 90 percent of a first home's value, up from the current 80 percent limit, roughly halving the cash needed upfront on an average flat.
+China.
 
-PPF Group.
-
-PPF's new asset manager, Arvum, received Czech National Bank approval for its first two mutual funds, a bond fund and an equity fund, aimed mainly at clients of its Air Bank and PPF banka units.
+US senators say they have resolved the major remaining issues on legislation that would ban vehicles from automakers with more than fifteen percent Chinese ownership, including a carve out protecting Mercedes-Benz, reviving a bill aimed at Chinese electric vehicle exports.
