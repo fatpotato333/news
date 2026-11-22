@@ -1,33 +1,11 @@
-Daily News for Saturday, November 21, 2026.
+Daily News for Sunday, November 22, 2026.
 
 Artificial intelligence.
 
-Google DeepMind's Genie 4 interactive world model is now available to paying developers through the Gemini API and Google AI Studio, generating real time, high definition interactive video worlds with sound for sessions of up to two minutes.
-
-Google's Gemini app for Mac can now operate other programs directly, clicking, scrolling and typing across native apps to complete tasks in the background, with user approval required for logins and payments.
-
-Quantum computing.
-
-Bank of Montreal and IBM say they achieved quantum utility in a real banking application, using an IBM Nighthawk processor to match classical machine learning feature selection quality while using far fewer data samples.
-
-South Korea's KT and LG Electronics say they transmitted image and text data encoded directly as quantum states, demonstrating quantum secure direct communication, a step beyond standard quantum key distribution.
-
-United States stock market.
-
-The S&P 500 and Dow Jones Industrial Average closed in correction territory Friday, both more than ten percent below their record highs, while the Nasdaq Composite erased all of its 2026 gains, as a rapid unwind of the AI trade and fears of a December Federal Reserve rate hike drove the worst weekly selloff in years.
-
-Nvidia shares plunged about fourteen percent to an eighteen month low after Reuters reported the SEC is examining possible accounting and disclosure issues at the company, giving it its longest weekly losing streak since the 2008 financial crisis.
-
-Intuit cut its fiscal 2027 revenue outlook, citing a slowdown at Credit Karma, sending its shares sharply lower even as quarterly revenue grew twelve percent.
+Mathematicians in the Lean and Mathlib community say they now have full confidence in the correctness of a formally verified proof of the Riemann Hypothesis, developed by Anthropic researcher Levent Alpöge working with the Claude AI model, after independently re-checking its roughly seventeen million lines of Lean code using two separate verification kernels. Experts caution that confirming the formal statement truly matches the Riemann Hypothesis, and producing a human-readable version other mathematicians can check line by line, is still pending and may take another week or two.
 
 Czech Republic and Slovakia.
 
-Slovakia's tax authority confirmed that mandatory electronic invoicing for VAT payers begins January first, 2027, requiring businesses to route invoices through certified digital couriers; about 150,000 companies have already enrolled ahead of the deadline.
+The Czech Supreme Audit Office reported that the state budget ran a first-half deficit of almost 184 billion koruna, the worst first-half result since 2023, as mandatory spending rose faster than revenue and state debt climbed to about 3.7 trillion koruna. The Finance Ministry says the shortfall is seasonal and should narrow once second-half revenue catches up.
 
-Slovakia's environment ministry says funding for the Obnov Dom Mini Plus home renovation subsidy, which had been at risk due to a shortfall under previous agency leadership, has now been secured, and applicants will face no delay in approvals or payouts.
-
-Czech public broadcasters ČT and Czech Radio will get reduced state funding under a new media law, receiving five point seven billion and two billion crowns respectively for 2027, around one point four billion crowns less combined than current license fee collection, with a parliamentary committee review due by the end of November.
-
-China.
-
-US senators say they have resolved the major remaining issues on legislation that would ban vehicles from automakers with more than fifteen percent Chinese ownership, including a carve out protecting Mercedes-Benz, reviving a bill aimed at Chinese electric vehicle exports.
+A new ČSOB survey found Slovak families sharply changing habits to cope with rising living costs. Ninety one percent now shop mainly by promotions and discounts, up to 88 percent cook at home or bring lunch to work rather than eating out, and most have cut energy use, while some have paused savings, insurance payments, or turned to overdrafts and credit cards to get by.
