@@ -1,11 +1,17 @@
-Daily News for Sunday, November 22, 2026.
+Daily News for Monday, November 23, 2026.
 
 Artificial intelligence.
 
-Mathematicians in the Lean and Mathlib community say they now have full confidence in the correctness of a formally verified proof of the Riemann Hypothesis, developed by Anthropic researcher Levent Alpöge working with the Claude AI model, after independently re-checking its roughly seventeen million lines of Lean code using two separate verification kernels. Experts caution that confirming the formal statement truly matches the Riemann Hypothesis, and producing a human-readable version other mathematicians can check line by line, is still pending and may take another week or two.
+OpenAI's chief scientist, Jakub Pachocki, proposed that AI labs adopt a shared industry metric based on perplexity, a measure of how well a model predicts text, and commit to capability limits they won't cross until matching safety and monitoring standards are in place.
+
+United States stock market.
+
+US stock futures rebounded sharply Monday morning after Wall Street's worst weekly selloff in more than six years, even as Asian markets fell overnight on AI spending worries, with South Korea's Kospi index dropping four percent to a ten-month low. Treasury Secretary Scott Bessent pushed back against Federal Reserve officials weighing a half-point rate hike in December, cautioning against overtightening policy ahead of this week's GDP revision, inflation data, and Fed Beige Book.
 
 Czech Republic and Slovakia.
 
-The Czech Supreme Audit Office reported that the state budget ran a first-half deficit of almost 184 billion koruna, the worst first-half result since 2023, as mandatory spending rose faster than revenue and state debt climbed to about 3.7 trillion koruna. The Finance Ministry says the shortfall is seasonal and should narrow once second-half revenue catches up.
+The Czech Chamber of Commerce warned the labor market has frozen, with about 370,000 people unemployed against only around 106,000 open vacancies; large tech firms and banks have cut thousands of jobs this year, partly replacing customer-service staff with AI chatbots. The Czech government is weighing a German-style electricity price cap for energy-intensive industry, tied to required decarbonization investment. Chamber of Deputies Speaker Tomio Okamura said television and radio license fees will end no later than next summer, with public broadcasters getting less state funding than their current fee income, while rejecting a constitutional safeguard for their editorial independence. In Slovakia, fuel prices fell to multi-month lows, with both gasoline and diesel at their cheapest since spring and summer respectively, and analysts expect prices to keep falling before Christmas.
 
-A new ČSOB survey found Slovak families sharply changing habits to cope with rising living costs. Ninety one percent now shop mainly by promotions and discounts, up to 88 percent cook at home or bring lunch to work rather than eating out, and most have cut energy use, while some have paused savings, insurance payments, or turned to overdrafts and credit cards to get by.
+China.
+
+Beijing formally protested a Federal Communications Commission vote barring Chinese telecom carriers from direct access to US phone numbers, accusing Washington of maliciously suppressing Chinese companies. A new Lowy Institute index found the United States' overall power advantage over China in Asia has narrowed to its smallest margin since the index began tracking last year.

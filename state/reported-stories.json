@@ -2,64 +2,6 @@
   "version": 1,
   "stories": [
     {
-      "event_id": "x-humanoid-tiengong-omni-rl-gait-race",
-      "reported_date": "2026-08-24",
-      "event_date": "2026-08-23",
-      "category": "AI",
-      "entities": [
-        "X-Humanoid",
-        "Tien Kung Omni"
-      ],
-      "event_type": "robotics_capability",
-      "canonical_summary": "At the 2nd World Humanoid Robot Games in Beijing, X-Humanoid's Tien Kung Omni robot won its 400-meter race final using an unconventional reinforcement-learning-optimized gait (forward-pitched torso, arms held near its face) that engineers said reduces shoulder-joint strain and preserves leg power versus a human-style arm swing.",
-      "source_url": "https://www.globaltimes.cn/page/202608/1368875.shtml",
-      "material_update_of": null
-    },
-    {
-      "event_id": "czech-lepsi-penzijko-pension-reform-proposal",
-      "reported_date": "2026-08-24",
-      "event_date": "2026-08-24",
-      "category": "Czech Republic and Slovakia",
-      "entities": [
-        "Czech government",
-        "Ministry of Finance",
-        "Czech pension companies"
-      ],
-      "event_type": "legislative_proposal",
-      "canonical_summary": "The Czech cabinet placed on today's agenda a supplementary pension savings reform ('Lepsi penzijko') that would double state contributions to 40% of deposits for savers under 29, allow savers under 36 to withdraw a third of funds early without penalty, cap annual management fees at 0.5%, and require legacy 'transformed' pension funds to wind down by end-2036, at an estimated added state cost of CZK 1.1-1.6 billion per year.",
-      "source_url": "https://www.ceskenoviny.cz/zpravy/vlada-projedna-zmenu-penzijniho-sporeni-ma-prilakat-mladsi-klienty/2864995",
-      "material_update_of": null
-    },
-    {
-      "event_id": "czech-minimum-wage-2027-2028-tripartite-talks",
-      "reported_date": "2026-08-24",
-      "event_date": "2026-08-24",
-      "category": "Czech Republic and Slovakia",
-      "entities": [
-        "Czech Ministry of Labour",
-        "trade unions",
-        "employers' associations"
-      ],
-      "event_type": "policy_negotiation",
-      "canonical_summary": "The Czech government held extraordinary tripartite talks with unions and employers on raising the minimum wage from CZK 22,400 to CZK 24,900 in 2027 and to CZK 26,900 in 2028 (moving it toward 47% of the average wage by 2029), with a parallel session opening negotiations on 2027 public-sector pay growth of roughly 6.2%.",
-      "source_url": "https://www.ceskenoviny.cz/zpravy/tripartita-projedna-navyseni-minimalni-mzdy-pote-zacne-jednani-o-rustu-platu/2865147",
-      "material_update_of": null
-    },
-    {
-      "event_id": "china-triple-typhoon-level4-emergency",
-      "reported_date": "2026-08-24",
-      "event_date": "2026-08-24",
-      "category": "China",
-      "entities": [
-        "China National Flood Control and Drought Relief Headquarters",
-        "Ministry of Emergency Management"
-      ],
-      "event_type": "natural_disaster",
-      "canonical_summary": "China activated a Level IV emergency response across seven provinces (including Hainan, Guangdong, Zhejiang) as three typhoons were simultaneously active in the region; as of Aug 23-24, Typhoon Saudel was forecast to strengthen into a super typhoon near Japan while Typhoon Narra tracked toward landfall near the Guangxi-Vietnam border around Aug 26, in a season that has already produced 20 named typhoons versus a historical Jan-Aug average of 13.4.",
-      "source_url": "https://www.globaltimes.cn/page/202608/1368757.shtml",
-      "material_update_of": null
-    },
-    {
       "event_id": "nvidia-poolside-model-license-investment",
       "reported_date": "2026-08-25",
       "event_date": "2026-08-24",
@@ -13177,6 +13119,135 @@
       "event_type": "economic_survey",
       "canonical_summary": "A new CSOB bank survey of Slovak families with children found sharply rising frugality amid cost-of-living pressure: 91% now shop mainly by promotions or discounts, 88% cook at home or bring lunch to work (up from 68%), 74% stockpile durable goods (up from 54%), 82% actively cut energy use (up from 63%), and more than 62% now commute by public transport, bike or on foot (up from 48%); 9% paused savings or insurance and 13% began relying on overdrafts or credit cards.",
       "source_url": "https://www.pravda.sk/spravy/ekonomika/clanok/2083003-slovenske-rodiny-menia-navyky-setria-uz-takmer-na-vsetkom-novy-prieskum-ukazal-co-sa-deje-s-ich-peniazmi",
+      "material_update_of": null
+    },
+    {
+      "event_id": "openai-pachocki-perplexity-pacing-framework",
+      "reported_date": "2026-11-23",
+      "event_date": "2026-11-22",
+      "category": "AI",
+      "entities": [
+        "OpenAI"
+      ],
+      "event_type": "policy_proposal",
+      "canonical_summary": "OpenAI chief scientist Jakub Pachocki published 'Perplexity and Intelligence,' proposing perplexity/cross-entropy loss become a shared industry metric, with labs committing to capability limits they will not cross until matching safety and monitoring milestones are met.",
+      "source_url": "https://openai.com/index/perplexity-and-intelligence/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-stocks-futures-rebound-asia-selloff-nov23",
+      "reported_date": "2026-11-23",
+      "event_date": "2026-11-23",
+      "category": "US Stock Market",
+      "entities": [
+        "S&P 500",
+        "Nasdaq",
+        "Dow Jones",
+        "Kospi"
+      ],
+      "event_type": "market_move",
+      "canonical_summary": "US stock futures rebounded sharply Monday premarket after the Nasdaq's worst weekly decline in over six years; Asian markets fell overnight on AI-spending jitters, with South Korea's Kospi dropping 4% to a 10-month low.",
+      "source_url": "https://www.marketscreener.com/news/us-futures-bounce-as-ai-rout-rattles-asian-stocks-ce785ed3d180f626",
+      "material_update_of": null
+    },
+    {
+      "event_id": "bessent-fed-overtightening-december-caution",
+      "reported_date": "2026-11-23",
+      "event_date": "2026-11-22",
+      "category": "US Stock Market",
+      "entities": [
+        "Scott Bessent",
+        "Federal Reserve"
+      ],
+      "event_type": "policy_commentary",
+      "canonical_summary": "Treasury Secretary Scott Bessent pushed back against Fed officials floating a jumbo half-point December rate hike, cautioning against overtightening, ahead of GDP revision, PCE inflation data and the Fed's Beige Book due this week.",
+      "source_url": "https://www.fxleaders.com/news/2026/11/22/nasdaq-and-dow-jones-futures-climb-higher-after-bessent-comments-pre-gdp-and-pce-data/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-labor-market-frozen-ai-layoffs",
+      "reported_date": "2026-11-23",
+      "event_date": "2026-11-23",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Republic",
+        "Czech Chamber of Commerce"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "Czech Chamber of Commerce vice-president Jaroslava Rezlerova said the Czech labor market is frozen, with about 370,000 unemployed against only 106,000 open vacancies; large tech firms and banks have cut thousands of jobs this year, partly replacing customer-service staff with AI chatbots.",
+      "source_url": "https://www.novinky.cz/clanek/ekonomika-trh-zamrzl-a-dojizdet-za-praci-se-casto-nevyplaci-varuje-viceprezidentka-hospodarske-komory-40609713",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-industrial-electricity-price-cap-proposal",
+      "reported_date": "2026-11-23",
+      "event_date": "2026-11-23",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech government"
+      ],
+      "event_type": "policy_proposal",
+      "canonical_summary": "The Czech government is examining a German-style industrial electricity price cap for energy-intensive firms such as steelmaker Trinecke zelezarny, tied to required decarbonization investment.",
+      "source_url": "https://archiv.hn.cz/c1-67962230-zlevnime-vam-elektrinu-ale-investujte-do-dekarbonizace-cesko-zvazuje-nastroj-ktery-zavedlo-nemecko",
+      "material_update_of": null
+    },
+    {
+      "event_id": "ct-cro-fee-phaseout-funding-okamura",
+      "reported_date": "2026-11-23",
+      "event_date": "2026-11-22",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Television",
+        "Czech Radio",
+        "Tomio Okamura"
+      ],
+      "event_type": "legislative_update",
+      "canonical_summary": "Chamber of Deputies Speaker Tomio Okamura said TV and radio license fees will end no later than summer 2027, with Czech Television and Czech Radio getting less state funding than their current fee income, while rejecting a proposed constitutional safeguard for public-broadcaster independence.",
+      "source_url": "https://zpravy.aktualne.cz/ekonomika/poplatky-zrusime-do-leta-rika-okamura-ustavni-pojistku-mediim-odmita/r~aaa296732f95a41115b7eeff4ac75ab7/",
+      "material_update_of": "ct-cro-2027-budget-figures-confirmed"
+    },
+    {
+      "event_id": "slovakia-fuel-prices-multiyear-low-nov2026",
+      "reported_date": "2026-11-23",
+      "event_date": "2026-11-22",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Slovakia"
+      ],
+      "event_type": "economic_data",
+      "canonical_summary": "Slovak pump prices hit multi-month lows in the week to November 15 (petrol lowest since March, diesel lowest since August) as oil prices fell about 20% in three weeks; analysts expect prices to fall further before Christmas.",
+      "source_url": "https://www.pravda.sk/spravy/ekonomika/clanok/2082601-vodici-sa-dockali-skvelych-sprav-tankuju-najlacnejsie-za-dlhe-mesiace-toto-ich-caka-pred-vianocami",
+      "material_update_of": null
+    },
+    {
+      "event_id": "fcc-china-telecom-phone-number-ban-beijing-protest",
+      "reported_date": "2026-11-23",
+      "event_date": "2026-11-22",
+      "category": "China",
+      "entities": [
+        "FCC",
+        "China Mobile",
+        "China Telecom",
+        "China Unicom"
+      ],
+      "event_type": "regulatory_action",
+      "canonical_summary": "Beijing formally protested the FCC's vote barring China Mobile, China Telecom, China Unicom and other Chinese providers from direct access to US phone numbers, with China's commerce and foreign ministries accusing Washington of maliciously suppressing Chinese firms.",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3375128/fcc-votes-ban-chinese-telecoms-direct-access-us-phone-numbers",
+      "material_update_of": null
+    },
+    {
+      "event_id": "lowy-institute-2026-asia-power-index",
+      "reported_date": "2026-11-23",
+      "event_date": "2026-11-22",
+      "category": "China",
+      "entities": [
+        "Lowy Institute",
+        "China",
+        "United States"
+      ],
+      "event_type": "report_release",
+      "canonical_summary": "The Lowy Institute's 2026 Asia Power Index found the US's comprehensive power lead over China has narrowed to its smallest margin since the index began tracking in 2025.",
+      "source_url": "https://www.lowyinstitute.org/newsroom/asia-power-index-united-states-weakens-china-india-rise-amid-shifting-regional-dynamics",
       "material_update_of": null
     }
   ]
