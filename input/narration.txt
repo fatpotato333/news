@@ -1,17 +1,27 @@
-Daily News for Monday, November 23, 2026.
+Daily News for Tuesday, November 24, 2026.
 
 Artificial intelligence.
 
-OpenAI's chief scientist, Jakub Pachocki, proposed that AI labs adopt a shared industry metric based on perplexity, a measure of how well a model predicts text, and commit to capability limits they won't cross until matching safety and monitoring standards are in place.
+OpenAI and Cisco released Shirudo, an open source tool that uses signed, verified software shields to block attacks on a known vulnerability in live production systems without needing a restart, while a permanent patch is tested.
 
 United States stock market.
 
-US stock futures rebounded sharply Monday morning after Wall Street's worst weekly selloff in more than six years, even as Asian markets fell overnight on AI spending worries, with South Korea's Kospi index dropping four percent to a ten-month low. Treasury Secretary Scott Bessent pushed back against Federal Reserve officials weighing a half-point rate hike in December, cautioning against overtightening policy ahead of this week's GDP revision, inflation data, and Fed Beige Book.
+Nvidia's board reinstated Jensen Huang as president and chief executive, less than two weeks after he stepped back amid an investigation into an alleged relationship with a Chinese businesswoman that U.S. officials suspected had ties to Chinese intelligence. The board said it found no national security risk, but created a new national security and export control committee, and said an independent investigation into the allegations will continue. Multiple outlets reported the reinstatement came after President Trump pressed for Huang's return, saying the recent market slump had influenced his thinking. Nvidia shares jumped about thirty one percent, adding roughly nine hundred fifty billion dollars in value, the largest one day gain for any stock in history, and lifted the broader market out of last week's correction, with the S&P 500 up almost five percent and the Nasdaq up more than six percent.
+
+Micron Technology shares rose nineteen percent after the company secured more multi year memory supply deals with customers, as tight supply of D-RAM and high bandwidth memory chips continues to support pricing.
 
 Czech Republic and Slovakia.
 
-The Czech Chamber of Commerce warned the labor market has frozen, with about 370,000 people unemployed against only around 106,000 open vacancies; large tech firms and banks have cut thousands of jobs this year, partly replacing customer-service staff with AI chatbots. The Czech government is weighing a German-style electricity price cap for energy-intensive industry, tied to required decarbonization investment. Chamber of Deputies Speaker Tomio Okamura said television and radio license fees will end no later than next summer, with public broadcasters getting less state funding than their current fee income, while rejecting a constitutional safeguard for their editorial independence. In Slovakia, fuel prices fell to multi-month lows, with both gasoline and diesel at their cheapest since spring and summer respectively, and analysts expect prices to keep falling before Christmas.
+The Czech government extended its emergency price caps on diesel and gasoline, plus a cut to the diesel excise tax, through the end of twenty twenty six rather than letting the measure expire this month. The caps limit retailer margins and are currently holding diesel around forty four crowns per liter and gasoline around thirty nine crowns, though the extension will cost the state budget roughly one billion crowns a month in lost tax revenue.
+
+A survey of more than eight hundred Czech employers found companies plan to raise base wages by an average of four point three percent in twenty twenty seven in the private sector, compared with six point five percent in the public sector, while the Czech National Bank forecasts twenty twenty seven inflation at three point two percent.
+
+In Slovakia, the government again declined to exempt municipalities from the constitutional debt brake for twenty twenty seven, and the opposition party Progressive Slovakia warned many towns may have to adopt stopgap provisional budgets that could delay basic local services.
 
 China.
 
-Beijing formally protested a Federal Communications Commission vote barring Chinese telecom carriers from direct access to US phone numbers, accusing Washington of maliciously suppressing Chinese companies. A new Lowy Institute index found the United States' overall power advantage over China in Asia has narrowed to its smallest margin since the index began tracking last year.
+A Chinese ministry official was sentenced to death for leaking more than one hundred state secrets, with China's secrecy watchdog saying foreign operatives used money and blackmail to recruit the official as a double agent, part of Beijing's intensifying counter espionage campaign.
+
+China's anti corruption watchdog opened an investigation into Liu Min, a senior science ministry official who previously directed major national technology projects.
+
+Mexico and China agreed to form a bilateral working group to boost trade, with Mexico pressing for easier access to the Chinese market for its farm and food exports.
