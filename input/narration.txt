@@ -1,27 +1,27 @@
-Daily News for Tuesday, November 24, 2026.
+Daily News for Wednesday, November 25, 2026.
 
 Artificial intelligence.
 
-OpenAI and Cisco released Shirudo, an open source tool that uses signed, verified software shields to block attacks on a known vulnerability in live production systems without needing a restart, while a permanent patch is tested.
+Nvidia CEO Jensen Huang held an all hands meeting one day after his reinstatement, telling staff he had hurt them, admitting he violated the company's code of conduct, and saying he is in therapy. He confirmed he will testify before the Senate Banking Committee next week, along with closed door hearings before House Intelligence and Foreign Affairs committees, as the underlying investigation into his personal ties continues.
+
+A new independent benchmark called ShellBench, built from more than ten million real world agent interactions, found that leading AI agents struggle with everyday tasks. OpenAI's top model still failed nearly half the time across repeated runs, Meta's agent succeeded less than forty percent of the time, and nearly sixteen percent of all attempts violated a basic safety requirement, such as mishandling a bank authentication token.
+
+Quantum computing.
+
+Silicon spin qubit startup Diraq finalized up to thirty eight million dollars in CHIPS Act funding from the United States Department of Commerce, converting an earlier letter of intent into a definitive deal to build manufacturing and testing infrastructure for its quantum processor chips.
+
+A consortium led by Harvard and QuEra, including Nvidia, Anthropic, and three American national laboratories, won a twelve million dollar Department of Energy award to develop AI designed, application specific quantum error correction for scientific computing workloads, work meant to inform QuEra's planned fault tolerant processor.
+
+Researchers from Multiverse Computing and the University of Toronto replaced part of Alibaba's thirty billion parameter Qwen3 language model with a compact quantum circuit and tested it on IBM's hundred fifty six qubit processor. A same sized classical neural network still performed better in nearly every comparison, in an early, unreviewed result the researchers describe as a mixed outcome rather than a breakthrough.
 
 United States stock market.
 
-Nvidia's board reinstated Jensen Huang as president and chief executive, less than two weeks after he stepped back amid an investigation into an alleged relationship with a Chinese businesswoman that U.S. officials suspected had ties to Chinese intelligence. The board said it found no national security risk, but created a new national security and export control committee, and said an independent investigation into the allegations will continue. Multiple outlets reported the reinstatement came after President Trump pressed for Huang's return, saying the recent market slump had influenced his thinking. Nvidia shares jumped about thirty one percent, adding roughly nine hundred fifty billion dollars in value, the largest one day gain for any stock in history, and lifted the broader market out of last week's correction, with the S&P 500 up almost five percent and the Nasdaq up more than six percent.
-
-Micron Technology shares rose nineteen percent after the company secured more multi year memory supply deals with customers, as tight supply of D-RAM and high bandwidth memory chips continues to support pricing.
+US stocks were mixed Tuesday as Monday's Nvidia driven rally faded. The Nasdaq fell one and a half percent and the S&P 500 fell half a percent to seven thousand two hundred one, its eighth loss in nine sessions, while the Dow rose almost one percent to fifty thousand on strength outside tech. Anthropic's stock dropped below its eighty three dollar initial public offering price, a week after its debut.
 
 Czech Republic and Slovakia.
 
-The Czech government extended its emergency price caps on diesel and gasoline, plus a cut to the diesel excise tax, through the end of twenty twenty six rather than letting the measure expire this month. The caps limit retailer margins and are currently holding diesel around forty four crowns per liter and gasoline around thirty nine crowns, though the extension will cost the state budget roughly one billion crowns a month in lost tax revenue.
-
-A survey of more than eight hundred Czech employers found companies plan to raise base wages by an average of four point three percent in twenty twenty seven in the private sector, compared with six point five percent in the public sector, while the Czech National Bank forecasts twenty twenty seven inflation at three point two percent.
-
-In Slovakia, the government again declined to exempt municipalities from the constitutional debt brake for twenty twenty seven, and the opposition party Progressive Slovakia warned many towns may have to adopt stopgap provisional budgets that could delay basic local services.
+Czech Prime Minister Andrej Babiš announced the government will restore the public transport fare discount for students and seniors to seventy five percent, up from the current fifty percent, reversing the transport minister's earlier claim that the twenty twenty seven budget had no money for it. The discount takes effect in July and will be funded by reallocating money within the state budget; last year the state paid carriers more than five billion crowns to cover such discounts.
 
 China.
 
-A Chinese ministry official was sentenced to death for leaking more than one hundred state secrets, with China's secrecy watchdog saying foreign operatives used money and blackmail to recruit the official as a double agent, part of Beijing's intensifying counter espionage campaign.
-
-China's anti corruption watchdog opened an investigation into Liu Min, a senior science ministry official who previously directed major national technology projects.
-
-Mexico and China agreed to form a bilateral working group to boost trade, with Mexico pressing for easier access to the Chinese market for its farm and food exports.
+China's anti corruption watchdog opened an investigation into Chen Jining, the Communist Party secretary of Shanghai and a sitting Politburo member, making him the fourth senior Politburo linked official purged in Xi Jinping's recent anti corruption drive. The Shanghai post has historically been a stepping stone to China's top leadership.
