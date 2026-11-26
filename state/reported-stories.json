@@ -2,164 +2,6 @@
   "version": 1,
   "stories": [
     {
-      "event_id": "aws-nvidia-2-million-gpu-deal",
-      "reported_date": "2026-08-27",
-      "event_date": "2026-08-26",
-      "category": "AI",
-      "entities": [
-        "Amazon Web Services",
-        "NVIDIA"
-      ],
-      "event_type": "infrastructure_deal",
-      "canonical_summary": "AWS and NVIDIA announced AWS will deploy 2 million additional NVIDIA GPUs (Blackwell Ultra, Rubin, Rubin Ultra) across its infrastructure in 2027-2028, on top of an earlier 1M+ GPU commitment from GTC 2026, including a planned 100,000-GPU secure AI factory for US government IL6+ workloads and expanded work on NVIDIA Vera CPUs and networking.",
-      "source_url": "https://nvidianews.nvidia.com/news/aws-and-nvidia-to-deliver-2-million-additional-gpus-and-next-generation-infrastructure-for-agentic-and-physical-ai",
-      "material_update_of": null
-    },
-    {
-      "event_id": "openai-jalapeno-inference-chip",
-      "reported_date": "2026-08-27",
-      "event_date": "2026-08-26",
-      "category": "AI",
-      "entities": [
-        "OpenAI",
-        "Broadcom",
-        "Celestica"
-      ],
-      "event_type": "chip_announcement",
-      "canonical_summary": "OpenAI unveiled Jalapeno, its first custom inference-only accelerator chip built with Broadcom (silicon/networking) and Celestica (systems), claiming 1.5-1.9x greater inference throughput-per-watt and 1.7-4.1x lower latency than NVIDIA Blackwell in company-reported benchmarks; limited 2026 deployment with volume production planned for 2027. Figures are company-reported, not independently verified.",
-      "source_url": "https://247wallst.com/investing/2026/08/26/openai-says-its-new-chip-outperforms-nvidias-blackwell-as-nvidia-prepares-earnings-release/",
-      "material_update_of": null
-    },
-    {
-      "event_id": "alibaba-qwen3-8-flash-next-release",
-      "reported_date": "2026-08-27",
-      "event_date": "2026-08-26",
-      "category": "AI",
-      "entities": [
-        "Alibaba"
-      ],
-      "event_type": "model_release",
-      "canonical_summary": "Alibaba open-weighted Qwen3.8-Flash-Next, a 125-billion-parameter Mixture-of-Experts model (about 6B active parameters per token plus a 51B-parameter N-gram embedding layer) framed as a preview of Qwen4 architecture, claiming performance matching Qwen3.7-Plus at roughly one-ninth the training cost with strongest gains in coding and office tasks. Benchmark claims are company-reported.",
-      "source_url": "https://the-decoder.com/alibaba-releases-qwen3-8-flash-next-targeting-ultimate-cost-efficiency/",
-      "material_update_of": null
-    },
-    {
-      "event_id": "moonshot-ai-cloud-revenue-share-talks",
-      "reported_date": "2026-08-27",
-      "event_date": "2026-08-26",
-      "category": "AI",
-      "entities": [
-        "Moonshot AI",
-        "Microsoft",
-        "Amazon",
-        "Google"
-      ],
-      "event_type": "partnership_negotiation",
-      "canonical_summary": "Moonshot AI is in early-stage talks with Microsoft Azure, AWS, and Google Cloud to host its Kimi K3 model (2.8T-parameter, open-weight) in exchange for roughly 30 percent of related service revenue; unresolved issues include revenue split, data access, and usage auditing. If concluded, would be the first major revenue-sharing deal between a Chinese AI firm and a leading US cloud provider. Reported via Reuters sources, not yet confirmed by the companies.",
-      "source_url": "https://finance.yahoo.com/technology/ai/articles/exclusive-chinas-moonshot-talks-microsoft-075340033.html",
-      "material_update_of": null
-    },
-    {
-      "event_id": "nvidia-q2-fy2027-earnings-beat",
-      "reported_date": "2026-08-27",
-      "event_date": "2026-08-26",
-      "category": "US Stock Market",
-      "entities": [
-        "NVIDIA"
-      ],
-      "event_type": "earnings",
-      "canonical_summary": "NVIDIA reported fiscal Q2 FY2027 revenue of $96.2 billion (+106% YoY, above ~$92.2B estimate) and EPS of $2.22, with data-center revenue at $89B. The company guided Q3 revenue to $108 billion (plus or minus 2%), above the ~$104.2B consensus, and announced a $25 billion share buyback; shares rose about 4.7% in after-hours trading despite guided gross-margin compression to 74% then 71-72% in Q4.",
-      "source_url": "https://www.cnbc.com/2026/08/26/nvidia-nvda-earnings-report-q2-2027-live-updates.html",
-      "material_update_of": null
-    },
-    {
-      "event_id": "meta-state-ag-child-safety-settlement",
-      "reported_date": "2026-08-27",
-      "event_date": "2026-08-26",
-      "category": "US Stock Market",
-      "entities": [
-        "Meta Platforms",
-        "State Attorneys General (47 states)"
-      ],
-      "event_type": "legal_settlement",
-      "canonical_summary": "Meta agreed to pay up to $17 billion in penalties over 10 years to settle 51 consolidated state lawsuits alleging Facebook and Instagram were designed to be addictive to minors while concealing risks. The settlement mandates default 2-hour daily time limits and a midnight-6am usage block for under-18 users, removal of 'likes' visibility and cosmetic-surgery filters for minors, and independent audits; described as the largest state consumer-protection settlement outside the 1990s tobacco cases.",
-      "source_url": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-secures-transformative-17-billion-settlement-meta",
-      "material_update_of": null
-    },
-    {
-      "event_id": "us-stocks-july-pce-inflation-gain",
-      "reported_date": "2026-08-27",
-      "event_date": "2026-08-26",
-      "category": "US Stock Market",
-      "entities": [
-        "S&P 500",
-        "Nasdaq Composite",
-        "Dow Jones Industrial Average",
-        "Bureau of Economic Analysis"
-      ],
-      "event_type": "market_move_economic_data",
-      "canonical_summary": "The S&P 500 closed up about 0.3% to 7,677.24, the Nasdaq gained about 0.7% to 26,151.30, and the Dow rose about 0.3% to 53,577.40, a third straight day of gains, after July's PCE inflation index (the Fed's preferred gauge) held at 3.7% YoY (vs 3.6% expected) with core PCE at 3.3% YoY, reinforcing expectations the Fed holds rates steady in September.",
-      "source_url": "https://www.cbsnews.com/news/july-pce-inflation-index-federal-reserve/",
-      "material_update_of": null
-    },
-    {
-      "event_id": "abercrombie-fitch-tariff-refund-earnings-surge",
-      "reported_date": "2026-08-27",
-      "event_date": "2026-08-26",
-      "category": "US Stock Market",
-      "entities": [
-        "Abercrombie & Fitch"
-      ],
-      "event_type": "earnings_surprise",
-      "canonical_summary": "Abercrombie & Fitch stock jumped roughly 36% after adjusted EPS of $4.17 beat the $1.98 consensus, boosted by an estimated $1.75/share from about $100 million in IEEPA tariff refunds; net sales rose 5% to about $1.3B. The company raised full-year sales growth guidance to 5% (from 3-5%) and operating margin guidance to 14.5-15% (from 12-12.5%), and committed to at least $500M in fiscal 2026 buybacks.",
-      "source_url": "https://www.fool.com/investing/2026/08/26/why-abercrombie-fitch-stock-surged-35-today/",
-      "material_update_of": null
-    },
-    {
-      "event_id": "slovakia-2027-minimum-wage-972-euros",
-      "reported_date": "2026-08-27",
-      "event_date": "2026-08-24",
-      "category": "Czech Republic and Slovakia",
-      "entities": [
-        "Slovak Ministry of Labour",
-        "Slovak employer associations",
-        "Slovak trade unions"
-      ],
-      "event_type": "wage_policy",
-      "canonical_summary": "Slovak employers and unions missed the deadline to negotiate the 2027 minimum wage, triggering the statutory automatic formula (60% of average wage two years prior): the minimum wage rises from EUR 915 (2026) to EUR 972 (2027), a 6.2% increase affecting roughly 182,000 workers on the base minimum wage and higher complexity tiers.",
-      "source_url": "https://www.ta3.com/clanok/1067633/minimalna-mzda-stupne-aj-bez-dohody-automat-ju-vytlaci-na-972-eur-zrusit-by-sa-mohli-stupne-narocnosti",
-      "material_update_of": null
-    },
-    {
-      "event_id": "slovakia-social-media-under-16-ban",
-      "reported_date": "2026-08-27",
-      "event_date": "2026-08-26",
-      "category": "Czech Republic and Slovakia",
-      "entities": [
-        "Slovak government",
-        "Slovak Ministry of Education"
-      ],
-      "event_type": "regulation_approved",
-      "canonical_summary": "The Slovak government approved a bill banning children under 16 from creating or using social media accounts, with age-only verification, as part of a broader anti-radicalization law establishing national and regional coordinators; the ban is planned to take effect in 2027.",
-      "source_url": "https://www.sme.sk/domov/c/vlada-schvalila-regulaciu-socialnych-sieti-pre-deti-mladsie-ako-16-rokov",
-      "material_update_of": null
-    },
-    {
-      "event_id": "china-typhoon-saudel-landfall",
-      "reported_date": "2026-08-27",
-      "event_date": "2026-08-26",
-      "category": "China",
-      "entities": [
-        "China Meteorological Administration",
-        "Zhejiang provincial government",
-        "Fujian provincial government"
-      ],
-      "event_type": "natural_disaster",
-      "canonical_summary": "Typhoon Saudel, the season's 18th named storm, approached China's southeastern coast for landfall between Xiangshan (Zhejiang) and Fuqing (Fujian) overnight; Zhejiang raised its emergency response to Level 3, evacuated over 4,100 tourists and closed coastal scenic areas, while Fujian sheltered about 11,000 vessels and suspended 22 ferry routes and 41 offshore construction projects, with forecast rainfall of 200-400mm (locally 500mm+).",
-      "source_url": "https://english.news.cn/20260826/0dba517c3ea047b9bfb053090e604194/c.html",
-      "material_update_of": null
-    },
-    {
       "event_id": "anthropic-model-hardware-standard-preview",
       "reported_date": "2026-08-28",
       "event_date": "2026-08-27",
@@ -13114,6 +12956,204 @@
       "canonical_summary": "China's anti-corruption watchdog opened an investigation into Chen Jining, the Communist Party secretary of Shanghai and a sitting Politburo member, for 'serious violations of discipline and law,' making him the fourth sitting/recent Politburo member purged under Xi Jinping's campaign.",
       "source_url": "https://www.aljazeera.com/news/2026/11/24/xis-anti-corruption-campaign-targets-shanghai-party-chief-chen-jining",
       "material_update_of": null
+    },
+    {
+      "event_id": "nvidia-partner-network-export-circumvention",
+      "reported_date": "2026-11-26",
+      "event_date": "2026-11-25",
+      "category": "AI",
+      "entities": [
+        "Nvidia",
+        "RiCloud AI",
+        "Yuxing InfoTech",
+        "Alibaba",
+        "ByteDance"
+      ],
+      "event_type": "regulatory_circumvention_report",
+      "canonical_summary": "CBS News investigation found Nvidia granted preferred/elite partner status to US-registered firms controlled by Chinese parent companies, including RiCloud AI (linked to Shenzhen-based Yuxing), which signed a $120M deal to lease 300 B300 servers; a cited NYT analysis found one partner exported $5.6B in advanced tech to Southeast Asia since 2024, with about $3B tied to Blackwell chips allegedly reaching Alibaba and ByteDance via Malaysian intermediaries.",
+      "source_url": "https://www.cbsnews.com/news/nvidia-china-ai-chips-computing-sales/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "nvidia-blackwell-shenzhen-grey-market-pricing",
+      "reported_date": "2026-11-26",
+      "event_date": "2026-11-25",
+      "category": "AI",
+      "entities": [
+        "Nvidia"
+      ],
+      "event_type": "export_control_enforcement_gap",
+      "canonical_summary": "Washington Post reporting found banned Nvidia Blackwell B300 servers still openly for sale in Shenzhen, with quoted prices over $3M per unit, up from roughly $2M two months earlier, despite the US export ban.",
+      "source_url": "https://www.washingtonpost.com/world/2026/11/25/top-nvidia-chips-are-still-offer-china-despite-us-ban/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "amazon-meta-muse-checkout-access-talks",
+      "reported_date": "2026-11-26",
+      "event_date": "2026-11-25",
+      "category": "AI",
+      "entities": [
+        "Amazon",
+        "Meta"
+      ],
+      "event_type": "partnership_negotiation",
+      "canonical_summary": "Amazon and Meta are reportedly in talks to lift a roughly two-month-old block on Meta's AI shopping agent Muse completing purchases on Amazon; sticking points are display of search results and advertising/revenue control, with any deal needing both CEOs' sign-off.",
+      "source_url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse",
+      "material_update_of": null
+    },
+    {
+      "event_id": "iqm-radiance-south-korea-qai-deployment",
+      "reported_date": "2026-11-26",
+      "event_date": "2026-11-25",
+      "category": "Quantum Computing",
+      "entities": [
+        "IQM Quantum Computers",
+        "QAI Co., Ltd."
+      ],
+      "event_type": "commercial_deployment",
+      "canonical_summary": "South Korea's QAI ordered an IQM Radiance R3 system (54 qubits, square-lattice architecture with tunable couplers, natively supports surface-code error correction) for its new Quantum-AI data center in Seoul, IQM's first system in a private Asian data center; delivery/installation expected by end of 2027, intended for drug discovery, materials/battery research, portfolio optimization and logistics.",
+      "source_url": "https://thequantuminsider.com/2026/11/25/iqm-deploy-54-qubit-quantum-computer-south-korea-data-centre/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "arque-julich-200-qubit-funding-roadmap",
+      "reported_date": "2026-11-26",
+      "event_date": "2026-11-25",
+      "category": "Quantum Computing",
+      "entities": [
+        "ARQUE Systems",
+        "Forschungszentrum Julich",
+        "RWTH Aachen"
+      ],
+      "event_type": "investment",
+      "canonical_summary": "New Q-STAR.NRW project (about EUR 35M funding, 90% federal/10% NRW state) will scale ARQUE's electron-spin-qubit/shuttling architecture (silicon/SiGe) from its existing 5-qubit JUNIQ system to up to 200 qubits, integrated with Julich's HPC infrastructure, running through end of 2029.",
+      "source_url": "https://thequantuminsider.com/2026/11/25/arque-systems-forschungszentrum-julich-200-qubit-quantum-computer/",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-stocks-pce-inflation-selloff-rebound-nov25",
+      "reported_date": "2026-11-26",
+      "event_date": "2026-11-25",
+      "category": "US Stock Market",
+      "entities": [
+        "Dow Jones Industrial Average",
+        "S&P 500",
+        "Nasdaq Composite",
+        "Federal Reserve"
+      ],
+      "event_type": "market_move_economic_data",
+      "canonical_summary": "US stocks swung wildly on Nov 25: Dow fell over 1,100 pts intraday then closed up 164.25 pts (+0.33%) at 50,182.95; S&P 500 closed down 0.25% at 7,182.78; Nasdaq closed down 0.62% at 23,585.80; VIX spiked above 30. Driver was hotter-than-expected October PCE inflation (headline +3.8% y/y, core +3.3% y/y), pushing December Fed rate-hike odds to ~98%. Q3 GDP was separately revised up to a 4.3% annualized rate and the 30-year mortgage rate eased to 7.21%.",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "ambarella-earnings-guidance-plunge-nov25",
+      "reported_date": "2026-11-26",
+      "event_date": "2026-11-25",
+      "category": "US Stock Market",
+      "entities": [
+        "Ambarella"
+      ],
+      "event_type": "earnings",
+      "canonical_summary": "Ambarella shares plunged more than 19% after a weak quarterly sales forecast and a Q3 (fiscal) miss.",
+      "source_url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "john-deere-earnings-guidance-whipsaw-nov25",
+      "reported_date": "2026-11-26",
+      "event_date": "2026-11-25",
+      "category": "US Stock Market",
+      "entities": [
+        "Deere & Co"
+      ],
+      "event_type": "earnings",
+      "canonical_summary": "Deere reported fiscal Q4/full-year 2026 results before the open Nov 25; stock fell nearly 5% premarket on a weak full-year forecast, then recovered to trade up about 3% by midday as investors reassessed guidance.",
+      "source_url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-groundwater-fee-hike-chamber-approval",
+      "reported_date": "2026-11-26",
+      "event_date": "2026-11-25",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Chamber of Deputies"
+      ],
+      "event_type": "parliamentary_approval",
+      "canonical_summary": "Czech Chamber of Deputies approved (117 votes) raising the groundwater abstraction fee from 2 to 7 CZK/m3 for drinking-water use and from 3 to 7 CZK/m3 for other use, the first rise since 2001; regions lose their current 50% revenue share to the Ministry of Agriculture/State Environmental Fund (partial return only from 2028). Mainly affects water-intensive industries (breweries, food processors) and utilities extracting over 6,000 m3/year; expected to raise about 2 billion CZK/year, effective April 2027.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/snemovna-schvalila-rust-poplatku-za-podzemni-vodu-ze-dvou-na-sedm-kc-za-m3/2906446",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-district-heating-price-hike-2027",
+      "reported_date": "2026-11-26",
+      "event_date": "2026-11-25",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Teplarenske sdruzeni CR"
+      ],
+      "event_type": "price_regulation_energy",
+      "canonical_summary": "Czech Heating Association reported most district-heating plants will raise prices in 2027: gas-based heat up ~15-20% (largest jump), wood-chip heat up >10%, coal-based heat roughly inflation-level. Driven by gas commodity costs up 160% since start of 2026 and a Supreme Administrative Court ruling narrowing the energy-tax exemption for CHP fuel to heat delivered directly to households. Affects roughly 1.6 million households on district heating plus schools/hospitals.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/vetsina-teplaren-pristi-rok-zvysi-ceny-nejvice-zdrazi-teplo-z-plynu/2906358",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-cnb-mortgage-rules-unchanged-nov25",
+      "reported_date": "2026-11-26",
+      "event_date": "2026-11-25",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech National Bank"
+      ],
+      "event_type": "regulatory_decision",
+      "canonical_summary": "Czech National Bank Bank Board left mortgage lending limits unchanged (LTV cap 80%, 90% for under-36 applicants) and kept the countercyclical capital buffer at 1.25% (confirmed planned rise to 1.5% from July 2027); recommends banks keep stricter treatment for investment-property mortgages.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/cnb-nezmenila-pravidla-pro-hypoteky-ani-rezervu-na-ochranu-uveroveho-trhu/2905835",
+      "material_update_of": null
+    },
+    {
+      "event_id": "us-overcapacity-tariffs-china-eu-proposal",
+      "reported_date": "2026-11-26",
+      "event_date": "2026-11-25",
+      "category": "China",
+      "entities": [
+        "White House/USTR",
+        "China",
+        "European Union"
+      ],
+      "event_type": "trade_policy",
+      "canonical_summary": "Trump administration proposed a 20% tariff on many Chinese goods (officials say a Section 301 'structural excess capacity' probe found 40% warranted, with a lower rate set pending talks) plus a 15% EU rate and tariffs on 12 other economies (Vietnam, India, Japan, South Korea, Taiwan, Switzerland, Bangladesh, Cambodia, Indonesia, Malaysia, Singapore, Thailand); stacks on existing duties, exempting semiconductors, autos, steel/aluminum, energy and food, effective no earlier than January 2027, near the Jan 10 US-China trade truce expiry. China's foreign ministry called the overcapacity premise 'a false proposition.'",
+      "source_url": "https://finance.yahoo.com/markets/article/us-announces-new-tariffs-of-up-to-20-on-china-the-eu-and-12-other-nations-131802359.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "eu-quantum-act-china-exclusion",
+      "reported_date": "2026-11-26",
+      "event_date": "2026-11-25",
+      "category": "China",
+      "entities": [
+        "European Commission",
+        "China"
+      ],
+      "event_type": "policy_geopolitical",
+      "canonical_summary": "European Commission formally proposed the Quantum Act, a framework to coordinate EU quantum R&D, infrastructure, supply-chain security and post-quantum cryptography adoption, including a new Sovereign Tech Equity Fund and a Quantum Strategy Board/European Quantum Alliance governance structure; reporting indicates the push is structured to exclude Chinese firms from funding/supply chains while opening doors to American quantum companies.",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3375733/eus-quantum-sovereignty-push-shuts-out-china-welcomes-us-firms",
+      "material_update_of": null
+    },
+    {
+      "event_id": "china-netherlands-nexperia-supply-chain-pressure",
+      "reported_date": "2026-11-26",
+      "event_date": "2026-11-25",
+      "category": "China",
+      "entities": [
+        "China Ministry of Foreign Affairs",
+        "Netherlands",
+        "Nexperia"
+      ],
+      "event_type": "diplomatic_pressure",
+      "canonical_summary": "During a visit by Dutch Foreign Minister Tom Berendsen, China's foreign ministry called on the Netherlands to help safeguard industrial and supply chains, referencing the Nexperia/Wingtech seizure dispute that disrupted European automotive supply chains, as both sides continue efforts to repair ties after the chip standoff.",
+      "source_url": "https://www.scmp.com/news/china/diplomacy/article/3375796/china-calls-netherlands-help-safeguard-industrial-and-supply-chains",
+      "material_update_of": "nexperia-wingtech-amsterdam-lawsuit-escalation"
     }
   ]
 }

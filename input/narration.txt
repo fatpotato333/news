@@ -1,27 +1,39 @@
-Daily News for Wednesday, November 25, 2026.
+Daily News for Thursday, November 26, 2026.
 
 Artificial intelligence.
 
-Nvidia CEO Jensen Huang held an all hands meeting one day after his reinstatement, telling staff he had hurt them, admitting he violated the company's code of conduct, and saying he is in therapy. He confirmed he will testify before the Senate Banking Committee next week, along with closed door hearings before House Intelligence and Foreign Affairs committees, as the underlying investigation into his personal ties continues.
+A CBS News investigation found Nvidia granted preferred partner status to U.S. registered companies controlled by Chinese parent firms, including one that signed a 120 million dollar deal to lease advanced servers; a related analysis found roughly 5.6 billion dollars in advanced chip technology reaching Southeast Asia since 2024, with about 3 billion dollars of that tied to Blackwell chips allegedly reaching Chinese firms Alibaba and ByteDance through Malaysian intermediaries.
 
-A new independent benchmark called ShellBench, built from more than ten million real world agent interactions, found that leading AI agents struggle with everyday tasks. OpenAI's top model still failed nearly half the time across repeated runs, Meta's agent succeeded less than forty percent of the time, and nearly sixteen percent of all attempts violated a basic safety requirement, such as mishandling a bank authentication token.
+Separately, the Washington Post reported that banned Nvidia Blackwell servers are still being openly sold in Shenzhen, with quoted prices topping 3 million dollars per unit, up from about 2 million dollars just two months ago, despite the US export ban.
+
+Amazon and Meta are reportedly negotiating to lift a two month block on Meta's AI shopping agent Muse from completing purchases on Amazon, with the remaining disagreements centered on how search results are displayed and who controls advertising revenue.
 
 Quantum computing.
 
-Silicon spin qubit startup Diraq finalized up to thirty eight million dollars in CHIPS Act funding from the United States Department of Commerce, converting an earlier letter of intent into a definitive deal to build manufacturing and testing infrastructure for its quantum processor chips.
+Finnish company IQM will deploy a 54 qubit Radiance quantum computer for South Korean firm QAI's new data center in Seoul, its first installation inside a private Asian data center, intended for drug discovery, materials research, and logistics work by the end of 2027.
 
-A consortium led by Harvard and QuEra, including Nvidia, Anthropic, and three American national laboratories, won a twelve million dollar Department of Energy award to develop AI designed, application specific quantum error correction for scientific computing workloads, work meant to inform QuEra's planned fault tolerant processor.
-
-Researchers from Multiverse Computing and the University of Toronto replaced part of Alibaba's thirty billion parameter Qwen3 language model with a compact quantum circuit and tested it on IBM's hundred fifty six qubit processor. A same sized classical neural network still performed better in nearly every comparison, in an early, unreviewed result the researchers describe as a mixed outcome rather than a breakthrough.
+Germany's ARQUE Systems and the Julich research center secured about 35 million euros in government funding to scale their silicon spin qubit computer from 5 qubits today to as many as 200 qubits by the end of 2029.
 
 United States stock market.
 
-US stocks were mixed Tuesday as Monday's Nvidia driven rally faded. The Nasdaq fell one and a half percent and the S&P 500 fell half a percent to seven thousand two hundred one, its eighth loss in nine sessions, while the Dow rose almost one percent to fifty thousand on strength outside tech. Anthropic's stock dropped below its eighty three dollar initial public offering price, a week after its debut.
+US stocks swung wildly on Wednesday. The Dow fell more than eleven hundred points intraday before closing slightly higher, while the S&P 500 and Nasdaq both ended lower, after October inflation data came in hotter than expected, with consumer prices up 3.8% from a year earlier, pushing the odds of a December Federal Reserve rate hike to around 98%. Third quarter economic growth was separately revised up to a strong 4.3% annual rate, and mortgage rates eased slightly to just above 7%.
+
+Chipmaker Ambarella's shares plunged more than 19% after the company issued a weak sales forecast alongside a quarterly earnings miss.
+
+Farm equipment maker Deere fell nearly 5% premarket on weak guidance for the coming year, before recovering to trade up about 3% by midday as investors reassessed the outlook.
 
 Czech Republic and Slovakia.
 
-Czech Prime Minister Andrej Babiš announced the government will restore the public transport fare discount for students and seniors to seventy five percent, up from the current fifty percent, reversing the transport minister's earlier claim that the twenty twenty seven budget had no money for it. The discount takes effect in July and will be funded by reallocating money within the state budget; last year the state paid carriers more than five billion crowns to cover such discounts.
+The Czech Chamber of Deputies approved raising the fee for pumping groundwater from 2 to 7 crowns per cubic meter, the first increase since 2001. The change mainly affects water intensive businesses such as breweries and food producers, and is expected to raise about 2 billion crowns a year starting in April 2027, with most of the new money going to the Ministry of Agriculture rather than regional budgets.
+
+Czech heating utilities warned that most district heating prices will rise sharply next year, with gas based heat up 15 to 20%, after wholesale gas costs climbed 160% this year and a top court narrowed a tax exemption that had let heat producers avoid energy taxes. The change affects roughly 1.6 million households on district heating, along with schools and hospitals.
+
+The Czech National Bank left its mortgage lending limits unchanged, keeping the loan to value cap at 80%, or 90% for buyers under 36, while confirming its capital buffer for banks will still rise next July.
 
 China.
 
-China's anti corruption watchdog opened an investigation into Chen Jining, the Communist Party secretary of Shanghai and a sitting Politburo member, making him the fourth senior Politburo linked official purged in Xi Jinping's recent anti corruption drive. The Shanghai post has historically been a stepping stone to China's top leadership.
+The Trump administration proposed new tariffs of up to 20% on China, the European Union, and 12 other trading partners, following an investigation into industrial overcapacity that officials said would have justified a 40% rate. The new duties, which exclude semiconductors, autos, and energy, would stack on existing tariffs and take effect no earlier than January, close to when the current US China trade truce expires.
+
+The European Commission proposed a new Quantum Act, including a sovereign technology investment fund and a new governance board, structured in a way that excludes Chinese firms from funding and supply chains while opening the door to American quantum companies.
+
+China's foreign ministry pressed the Dutch foreign minister, during his visit to Beijing, to help safeguard industrial supply chains, a reference to last year's seizure of chipmaker Nexperia from its Chinese parent company, as the two countries continue trying to repair ties after that dispute disrupted European auto production.
