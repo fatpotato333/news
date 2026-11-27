@@ -1,39 +1,39 @@
-Daily News for Thursday, November 26, 2026.
+Daily News for Friday, November 27, 2026.
 
 Artificial intelligence.
 
-A CBS News investigation found Nvidia granted preferred partner status to U.S. registered companies controlled by Chinese parent firms, including one that signed a 120 million dollar deal to lease advanced servers; a related analysis found roughly 5.6 billion dollars in advanced chip technology reaching Southeast Asia since 2024, with about 3 billion dollars of that tied to Blackwell chips allegedly reaching Chinese firms Alibaba and ByteDance through Malaysian intermediaries.
+Nvidia reportedly stopped shipping AI chip servers to Southeast Asian markets, including Singapore, Malaysia, Thailand and Indonesia, as new US export rules require licenses there to prevent advanced chips being diverted on to China.
 
-Separately, the Washington Post reported that banned Nvidia Blackwell servers are still being openly sold in Shenzhen, with quoted prices topping 3 million dollars per unit, up from about 2 million dollars just two months ago, despite the US export ban.
+Microsoft says state-backed hacking groups, including China's Salt Typhoon and Crystal Typhoon networks along with North Korean groups, are using an AI-powered attack platform called Artex to automate reconnaissance, credential theft and web application exploits within minutes.
 
-Amazon and Meta are reportedly negotiating to lift a two month block on Meta's AI shopping agent Muse from completing purchases on Amazon, with the remaining disagreements centered on how search results are displayed and who controls advertising revenue.
+Microsoft AI CEO Mustafa Suleyman said the industry is crossing a safety threshold, after an unreleased version of Anthropic's Claude helped produce a formally verified advance on a decades old math problem, intensifying debate over whether some unreleased AI models are safe to release.
+
+OpenAI posted an unreviewed preprint claiming a proof that pins the computational complexity exponent for matrix multiplication at exactly nine fourths. Independent mathematicians have not yet reviewed or confirmed the lower bound argument behind it.
 
 Quantum computing.
 
-Finnish company IQM will deploy a 54 qubit Radiance quantum computer for South Korean firm QAI's new data center in Seoul, its first installation inside a private Asian data center, intended for drug discovery, materials research, and logistics work by the end of 2027.
-
-Germany's ARQUE Systems and the Julich research center secured about 35 million euros in government funding to scale their silicon spin qubit computer from 5 qubits today to as many as 200 qubits by the end of 2029.
+SAP and German neutral atom quantum computing startup planqc demonstrated sending a logistics optimization task from an SAP system to a quantum simulator and back. Real quantum hardware testing on business problems is planned to begin in 2027.
 
 United States stock market.
 
-US stocks swung wildly on Wednesday. The Dow fell more than eleven hundred points intraday before closing slightly higher, while the S&P 500 and Nasdaq both ended lower, after October inflation data came in hotter than expected, with consumer prices up 3.8% from a year earlier, pushing the odds of a December Federal Reserve rate hike to around 98%. Third quarter economic growth was separately revised up to a strong 4.3% annual rate, and mortgage rates eased slightly to just above 7%.
+Dell beat Wall Street's third quarter earnings estimates and authorized a 25 billion dollar stock buyback, but shares kept falling anyway, extending a month of declines as investors question whether heavy AI server spending is paying off.
 
-Chipmaker Ambarella's shares plunged more than 19% after the company issued a weak sales forecast alongside a quarterly earnings miss.
+Dick's Sporting Goods shares jumped about 15 percent on Wednesday after the retailer raised its full year earnings guidance.
 
-Farm equipment maker Deere fell nearly 5% premarket on weak guidance for the coming year, before recovering to trade up about 3% by midday as investors reassessed the outlook.
+The Conference Board's consumer confidence index jumped sharply in November, to 103.3 from 91.9 in October, its highest reading since January 2025, driven by improved perceptions of the job market.
 
 Czech Republic and Slovakia.
 
-The Czech Chamber of Deputies approved raising the fee for pumping groundwater from 2 to 7 crowns per cubic meter, the first increase since 2001. The change mainly affects water intensive businesses such as breweries and food producers, and is expected to raise about 2 billion crowns a year starting in April 2027, with most of the new money going to the Ministry of Agriculture rather than regional budgets.
+Czech lawmakers debated unemployment benefit cuts past midnight into Friday. A coalition amendment would soften the later stage benefit cut to 40 percent of average wage instead of 45, and ease rules for workers over 52 and people returning from parental leave.
 
-Czech heating utilities warned that most district heating prices will rise sharply next year, with gas based heat up 15 to 20%, after wholesale gas costs climbed 160% this year and a top court narrowed a tax exemption that had let heat producers avoid energy taxes. The change affects roughly 1.6 million households on district heating, along with schools and hospitals.
+The Czech Senate approved raising state payments into health insurance for pensioners, children, students and the unemployed, lifting the monthly per person state contribution to about 2,368 crowns next year, up from 2,188 crowns now.
 
-The Czech National Bank left its mortgage lending limits unchanged, keeping the loan to value cap at 80%, or 90% for buyers under 36, while confirming its capital buffer for banks will still rise next July.
+Slovakia's social insurance agency confirmed the statutory retirement age will not change in 2027, while clarifying exact retirement ages for people born between 1963 and 1965, which vary depending on how many children they have raised.
+
+Slovak lawmakers are considering tripling the maximum state housing fund loan for technical infrastructure, to 30,000 euros per unit, citing rising construction costs, while limiting eligibility to one property per applicant and adding a residency requirement.
 
 China.
 
-The Trump administration proposed new tariffs of up to 20% on China, the European Union, and 12 other trading partners, following an investigation into industrial overcapacity that officials said would have justified a 40% rate. The new duties, which exclude semiconductors, autos, and energy, would stack on existing tariffs and take effect no earlier than January, close to when the current US China trade truce expires.
+China extended its suspension of near total export bans on gallium, germanium, antimony and graphite to the United States by two more months, to January 27, keeping licensing requirements in place ahead of a planned visit by President Xi Jinping to Washington.
 
-The European Commission proposed a new Quantum Act, including a sovereign technology investment fund and a new governance board, structured in a way that excludes Chinese firms from funding and supply chains while opening the door to American quantum companies.
-
-China's foreign ministry pressed the Dutch foreign minister, during his visit to Beijing, to help safeguard industrial supply chains, a reference to last year's seizure of chipmaker Nexperia from its Chinese parent company, as the two countries continue trying to repair ties after that dispute disrupted European auto production.
+ASML's chief executive said fully cutting China off from lithography tools would backfire, arguing it is better to keep China a generation behind with older tools. The Dutch government is reportedly resisting a proposed US law that would further restrict ASML's China sales.
