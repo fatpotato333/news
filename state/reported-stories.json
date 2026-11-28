@@ -2,184 +2,6 @@
   "version": 1,
   "stories": [
     {
-      "event_id": "anthropic-pentagon-blacklist-ruling",
-      "reported_date": "2026-08-29",
-      "event_date": "2026-08-27",
-      "category": "AI",
-      "entities": [
-        "Anthropic",
-        "US Department of Defense"
-      ],
-      "event_type": "legal_ruling",
-      "canonical_summary": "A federal judge ruled the Trump administration's designation of Anthropic as a national-security supply-chain risk was illegal retaliation after Anthropic barred Claude from autonomous-weapons use.",
-      "source_url": "https://www.aljazeera.com/news/2026/8/28/us-judge-blocks-pentagon-blacklisting-of-ai-firm-anthropic",
-      "material_update_of": null
-    },
-    {
-      "event_id": "nvidia-cloud-revenue-share-pause",
-      "reported_date": "2026-08-29",
-      "event_date": "2026-08-27",
-      "category": "AI",
-      "entities": [
-        "NVIDIA"
-      ],
-      "event_type": "business_strategy",
-      "canonical_summary": "NVIDIA paused its AI Compute Partnership revenue-sharing and financing program for cloud providers amid internal antitrust concerns and partner pushback.",
-      "source_url": "https://finance.yahoo.com/news/nvidia-pauses-revenue-sharing-deals-223140237.html",
-      "material_update_of": null
-    },
-    {
-      "event_id": "tencent-hunyuan-hy4-model-release",
-      "reported_date": "2026-08-29",
-      "event_date": "2026-08-28",
-      "category": "AI",
-      "entities": [
-        "Tencent"
-      ],
-      "event_type": "model_release",
-      "canonical_summary": "Tencent released and open-sourced its new flagship Hunyuan Hy4 preview model (770B parameters), claiming benchmark parity with or wins over rival Chinese models.",
-      "source_url": "https://finance.biggo.com/news/439ad16c-57ce-4efc-bfd0-83f079cfdc9c",
-      "material_update_of": null
-    },
-    {
-      "event_id": "alibaba-cloud-brazil-region-launch",
-      "reported_date": "2026-08-29",
-      "event_date": "2026-08-28",
-      "category": "AI",
-      "entities": [
-        "Alibaba"
-      ],
-      "event_type": "infrastructure",
-      "canonical_summary": "Alibaba Cloud opened its first South American region, two data centers in Sao Paulo, as part of its global AI infrastructure expansion.",
-      "source_url": "https://www.bnamericas.com/en/news/chinas-alibaba-launches-brazil-cloud-region-with-two-data-centers",
-      "material_update_of": null
-    },
-    {
-      "event_id": "a16z-machine-age-infrastructure-fund",
-      "reported_date": "2026-08-29",
-      "event_date": "2026-08-28",
-      "category": "AI",
-      "entities": [
-        "Andreessen Horowitz"
-      ],
-      "event_type": "investment",
-      "canonical_summary": "Andreessen Horowitz raised a 1.1 billion dollar fund dedicated to AI physical infrastructure including chips, data centers and robotics.",
-      "source_url": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/",
-      "material_update_of": null
-    },
-    {
-      "event_id": "xanadu-canada-quantum-manufacturing-funding",
-      "reported_date": "2026-08-29",
-      "event_date": "2026-08-28",
-      "category": "Quantum Computing",
-      "entities": [
-        "Xanadu",
-        "Government of Canada"
-      ],
-      "event_type": "investment",
-      "canonical_summary": "Canada's federal government committed CAD 195 million to Xanadu to build a photonic quantum chip manufacturing facility in Toronto, its largest quantum manufacturing investment to date.",
-      "source_url": "https://thequantuminsider.com/2026/08/28/canada-195-million-xanadu-quantum-manufacturing/",
-      "material_update_of": null
-    },
-    {
-      "event_id": "pasqal-spac-nasdaq-listing",
-      "reported_date": "2026-08-29",
-      "event_date": "2026-08-28",
-      "category": "Quantum Computing",
-      "entities": [
-        "Pasqal"
-      ],
-      "event_type": "public_listing",
-      "canonical_summary": "Pasqal completed its SPAC merger and began trading on Nasdaq with about 360 million dollars in cash to commercialize its neutral-atom quantum computers.",
-      "source_url": "https://thequantuminsider.com/2026/08/28/pasqal-completes-spac-merger-with-360-million-in-cash/",
-      "material_update_of": null
-    },
-    {
-      "event_id": "fed-warsh-jackson-hole-hawkish-speech",
-      "reported_date": "2026-08-29",
-      "event_date": "2026-08-28",
-      "category": "US Stock Market",
-      "entities": [
-        "Federal Reserve",
-        "Kevin Warsh"
-      ],
-      "event_type": "fed_policy",
-      "canonical_summary": "Fed Chair Kevin Warsh's first Jackson Hole speech struck a hawkish tone on inflation, pushing September rate-hike odds and Treasury yields higher and pulling stocks lower Friday.",
-      "source_url": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-fed-inflation-rate-hike.html",
-      "material_update_of": null
-    },
-    {
-      "event_id": "marvell-earnings-beat-guidance-selloff",
-      "reported_date": "2026-08-29",
-      "event_date": "2026-08-28",
-      "category": "US Stock Market",
-      "entities": [
-        "Marvell Technology"
-      ],
-      "event_type": "earnings",
-      "canonical_summary": "Marvell shares fell sharply despite beating earnings estimates and raising revenue guidance, on investor concern over margin guidance and limited detail on its Google AI chip partnership.",
-      "source_url": "https://www.cnbc.com/2026/08/28/marvell-shares-are-down-after-earnings-morgan-stanley-says-buy-them.html",
-      "material_update_of": null
-    },
-    {
-      "event_id": "czech-unemployment-benefit-cuts-proposal",
-      "reported_date": "2026-08-29",
-      "event_date": "2026-08-28",
-      "category": "Czech Republic and Slovakia",
-      "entities": [
-        "Czech Ministry of Labour and Social Affairs"
-      ],
-      "event_type": "policy_proposal",
-      "canonical_summary": "The Czech Labour Ministry proposed cutting unemployment benefit rates starting January 2027 to save 4.5 billion crowns, lowering the initial payout rate and the maximum monthly cap.",
-      "source_url": "https://www.irozhlas.cz/zpravy-domov/vrati-se-stare-nastaveni-podpor-v-nezamestnanosti-ministerstvo-prace-zvazuje_2608281436_kma",
-      "material_update_of": null
-    },
-    {
-      "event_id": "slovalco-aluminum-plant-restart",
-      "reported_date": "2026-08-29",
-      "event_date": "2026-08-28",
-      "category": "Czech Republic and Slovakia",
-      "entities": [
-        "Slovalco",
-        "Norsk Hydro",
-        "Penta Investments"
-      ],
-      "event_type": "industrial_restart",
-      "canonical_summary": "Slovalco restarted primary aluminum production in Ziar nad Hronom after a three-year shutdown, backed by over 100 million euros in investment and a government energy-cost support package.",
-      "source_url": "https://www.ta3.com/clanok/1068529/slovalco-po-troch-rokoch-obnovuje-vyrobu-hlinika-do-restartu-fabriky-investuje-najmenej-100-milionov-eur",
-      "material_update_of": null
-    },
-    {
-      "event_id": "china-pla-zhang-youxia-liu-zhenli-removal",
-      "reported_date": "2026-08-29",
-      "event_date": "2026-08-28",
-      "category": "China",
-      "entities": [
-        "Zhang Youxia",
-        "Liu Zhenli",
-        "Central Military Commission"
-      ],
-      "event_type": "political_purge",
-      "canonical_summary": "China's NPC Standing Committee formally stripped Zhang Youxia and Liu Zhenli of their top Central Military Commission posts, concluding a corruption probe and reshaping the PLA's senior leadership.",
-      "source_url": "https://www.caixinglobal.com/2026-08-29/china-removes-zhang-youxia-and-liu-zhenli-from-top-military-posts-102479503.html",
-      "material_update_of": null
-    },
-    {
-      "event_id": "china-property-presale-mortgage-overhaul",
-      "reported_date": "2026-08-29",
-      "event_date": "2026-08-28",
-      "category": "China",
-      "entities": [
-        "People's Bank of China",
-        "National Financial Regulatory Administration",
-        "China Securities Regulatory Commission"
-      ],
-      "event_type": "regulatory_reform",
-      "canonical_summary": "China's central bank and financial regulators unveiled a housing-market overhaul moving away from presale financing, requiring mortgages only after project completion, alongside new developer bond and equity financing support.",
-      "source_url": "https://www.bloomberg.com/news/articles/2026-08-28/china-pushes-forward-home-sale-overhaul-as-crisis-drags-on",
-      "material_update_of": null
-    },
-    {
       "event_id": "sony-warner-anthropic-lyrics-lawsuit",
       "reported_date": "2026-08-30",
       "event_date": "2026-08-28",
@@ -13190,6 +13012,160 @@
       "event_type": "chip_export_policy",
       "canonical_summary": "ASML CEO Christophe Fouquet argued fully cutting China off from lithography tools would backfire, favoring keeping China a generation behind via continued older-tool sales; separately the Dutch government was reported to be resisting the proposed US 'Match Act' that would further restrict ASML's China sales.",
       "source_url": "https://www.semafor.com/article/11/25/2026/asml-makes-the-case-for-selling-chips-to-china",
+      "material_update_of": null
+    },
+    {
+      "event_id": "nvidia-huang-china-chip-network-report",
+      "reported_date": "2026-11-28",
+      "event_date": "2026-11-27",
+      "category": "AI",
+      "entities": [
+        "Nvidia",
+        "Jensen Huang"
+      ],
+      "event_type": "investigative_report",
+      "canonical_summary": "Bloomberg and The Information reported Nvidia CEO Jensen Huang's personal ties to a Shanghai contact helped enable a network of firms behind over $7.5B in Nvidia chip sales into China, with restricted Blackwell chips traced to a Shanghai data center linked to the same contact.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang",
+      "material_update_of": null
+    },
+    {
+      "event_id": "openai-apple-countersuit-trade-secrets",
+      "reported_date": "2026-11-28",
+      "event_date": "2026-11-27",
+      "category": "AI",
+      "entities": [
+        "OpenAI",
+        "Apple"
+      ],
+      "event_type": "legal_filing",
+      "canonical_summary": "OpenAI filed counterclaims against Apple in their trade-secrets lawsuit, alleging Apple pressured suppliers to shun OpenAI's hardware devices and used restrictive employment agreements to block talent moves.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-11-27/openai-says-apple-pressured-suppliers-to-shun-its-devices",
+      "material_update_of": null
+    },
+    {
+      "event_id": "diraq-chips-rd-award-finalized",
+      "reported_date": "2026-11-28",
+      "event_date": "2026-11-27",
+      "category": "Quantum Computing",
+      "entities": [
+        "Diraq",
+        "US Department of Commerce"
+      ],
+      "event_type": "investment",
+      "canonical_summary": "The US Commerce Department/NIST finalized a $38 million CHIPS R&D award for Diraq to build US fabrication and testing infrastructure for its silicon spin-qubit CMOS-compatible quantum processors.",
+      "source_url": "https://www.nist.gov/news-events/news/2026/11/department-commerce-announces-finalization-chips-rd-award-diraq",
+      "material_update_of": null
+    },
+    {
+      "event_id": "algorithmiq-ibm-quantum-protein-network-demo",
+      "reported_date": "2026-11-28",
+      "event_date": "2026-11-27",
+      "category": "Quantum Computing",
+      "entities": [
+        "Algorithmiq",
+        "IBM Quantum"
+      ],
+      "event_type": "algorithm_demo",
+      "canonical_summary": "Algorithmiq and IBM Quantum ran a 40-qubit discrete-time quantum-walk algorithm on real protein-protein interaction network data using IBM Heron hardware, cutting two-qubit circuit depth about 100x and demonstrating an early, noise-sensitive gene-prioritization proof of concept, published in npj Quantum Information.",
+      "source_url": "https://www.nature.com/articles/s41534-026-01332-w",
+      "material_update_of": null
+    },
+    {
+      "event_id": "wall-street-black-friday-rally-best-week",
+      "reported_date": "2026-11-28",
+      "event_date": "2026-11-27",
+      "category": "US Stock Market",
+      "entities": [
+        "S&P 500",
+        "Nasdaq",
+        "Dow Jones Industrial Average"
+      ],
+      "event_type": "index_move",
+      "canonical_summary": "US stocks rallied in Friday's shortened Black Friday session (Dow +1.18%, S&P 500 +1.6%, Nasdaq +2.31%), capping the major indexes' best week in months after a stretch of AI-spending-driven selling.",
+      "source_url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "anthropic-stock-above-ipo-price",
+      "reported_date": "2026-11-28",
+      "event_date": "2026-11-27",
+      "category": "US Stock Market",
+      "entities": [
+        "Anthropic"
+      ],
+      "event_type": "stock_move",
+      "canonical_summary": "Anthropic shares jumped about 11% on Friday to close around $91.88, above its $83 IPO price for the first time since its volatile Nasdaq debut week.",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-11-27/anthropic-shares-jump-after-volatile-first-week-since-record-ipo",
+      "material_update_of": null
+    },
+    {
+      "event_id": "chip-stock-sector-rebound-global",
+      "reported_date": "2026-11-28",
+      "event_date": "2026-11-27",
+      "category": "US Stock Market",
+      "entities": [
+        "Micron",
+        "SK Hynix",
+        "SanDisk",
+        "Broadcom"
+      ],
+      "event_type": "sector_move",
+      "canonical_summary": "Chip and AI-infrastructure stocks rebounded sharply (SK Hynix +7.5%, Micron +7.6%, SanDisk +16%), with South Korea's Kospi and China's semiconductor index posting some of their biggest one-day gains on record.",
+      "source_url": "https://www.stocktitan.net/articles/stock-market-today-live-november-27-2026",
+      "material_update_of": null
+    },
+    {
+      "event_id": "czech-refinery-windfall-tax-final-approval",
+      "reported_date": "2026-11-28",
+      "event_date": "2026-11-27",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Czech Chamber of Deputies",
+        "Orlen Unipetrol"
+      ],
+      "event_type": "legislation",
+      "canonical_summary": "The Czech Chamber of Deputies gave final approval to a 50% windfall tax on refining-margin gains versus 2025, targeting Orlen Unipetrol's two Czech refineries and expected to raise about 5.5 billion crowns; the bill now goes to the Senate.",
+      "source_url": "https://www.ceskenoviny.cz/zpravy/snemovna-schvalila-mimoradnou-dan-pro-rafinerie-dopadne-na-orlen-unipetrol/2907656",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-toll-system-preregistration",
+      "reported_date": "2026-11-28",
+      "event_date": "2026-11-27",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Slovak Ministry of Transport"
+      ],
+      "event_type": "regulation",
+      "canonical_summary": "Slovakia's transport ministry announced vehicles outside the EU's EETS toll system must pre-register on-board units starting December 1, ahead of the country's new national electronic road-toll system taking effect January 1, 2027, affecting an estimated 100,000+ vehicles.",
+      "source_url": "https://www.teraz.sk/ekonomika/raz-pred-prechodom-na-nove-myto-sa/1011075-clanok.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "slovakia-second-pillar-pension-rate-2027",
+      "reported_date": "2026-11-28",
+      "event_date": "2026-11-27",
+      "category": "Czech Republic and Slovakia",
+      "entities": [
+        "Socialna poistovna"
+      ],
+      "event_type": "regulation",
+      "canonical_summary": "Slovakia's Social Insurance Agency confirmed the mandatory employer contribution rate to the second pension pillar stays at 4% of gross wage in 2027, unchanged since 2024, affecting roughly 2.15 million savers.",
+      "source_url": "https://www.teraz.sk/ekonomika/sadzba-prispevkov-do-ii-piliera-zostan/1011059-clanok.html",
+      "material_update_of": null
+    },
+    {
+      "event_id": "european-firms-china-supply-chain-diversification-pushback",
+      "reported_date": "2026-11-28",
+      "event_date": "2026-11-27",
+      "category": "China",
+      "entities": [
+        "European Chamber of Commerce in China",
+        "European Commission"
+      ],
+      "event_type": "trade_report",
+      "canonical_summary": "A new report found European companies operating in China prefer diversifying supply chains across multiple countries rather than complying with the EU's proposed 'Made in Europe' local-content rules, pushing back against Brussels' reshoring agenda.",
+      "source_url": "https://www.scmp.com/economy/china-economy/article/3376054/european-ceos-prefer-supply-chain-diversity-made-europe-restrictions-report",
       "material_update_of": null
     }
   ]
